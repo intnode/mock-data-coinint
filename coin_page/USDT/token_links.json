@@ -1,0 +1,29 @@
+{
+  "website": "https://tether.to/",
+  "explorer": [
+    "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "https://www.omniexplorer.info/asset/31",
+    "https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955",
+    "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+    "https://algoexplorer.io/asset/312769"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/tether_to",
+    "discord": null,
+    "reddit": null
+  },
+  "audit": [
+    "https://www.certik.com",
+    "https://fairyproof.com"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "link": "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7"
+    }
+  ]
+}

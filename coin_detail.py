@@ -109,6 +109,12 @@ def generate_coin_details(asset_list):
     news_df.time_published = pd.to_datetime(news_df.time_published)
     news_df.to_json(f"coin_page/{asset}/news_feed.json",orient="records")
 
+  market_data = pd.read_json(f"coin_page/{asset}/market_data.json")
+  if os.path.exists(f"coin_page/{asset}/token_distribution.json"):
+    token_dist = pd.read_json(f"coin_page/{asset}/token_distribution.json")
+    token_dist['value'] = market_data['market_cap'].values*token_dist['percent']
+    token_dist.to_json(f"coin_page/{asset}/token_distribution.json",orient="records")
+    
 if __name__ == "__main__":
   asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
   generate_coin_details(asset_list)

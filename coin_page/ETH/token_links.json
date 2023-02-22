@@ -1,0 +1,26 @@
+{
+  "website": "https://www.ethereum.org/",
+  "explorer": [
+    "https://etherscan.io/",
+    "https://ethplorer.io/",
+    "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/ethereum",
+    "discord": null,
+    "reddit": "https://reddit.com/r/ethereum"
+  },
+  "audit": [
+    "https://fairyproof.com"
+  ],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "link": "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+    }
+  ]
+}

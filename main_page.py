@@ -106,7 +106,6 @@ def generate_main_page(asset_list):
     price_df = price_df[["time","close"]]
     price_df.iloc[-(24*7):].to_json(f"main_page/Price7d/{symbol}.json",orient="records")
 
-  asset_list = ["BTC","ETH", "UNI", "AAVE", "USDT"]
   for asset in tqdm(asset_list):
     if not os.path.exists(f"coin_page/{asset}"):
       os.mkdir(f"coin_page/{asset}")
