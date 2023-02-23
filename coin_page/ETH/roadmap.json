@@ -1,1 +1,26 @@
-{}
+[
+  {
+    "id": 1,
+    "header": "Public Crowdsale",
+    "time": "2013",
+    "body": "Ethereum is proposed by Vitalik Buterin and crowdfunded through a public crowdsale."
+  },
+  {
+    "id": 2,
+    "header": "Initial Coin Offerings (ICOs)",
+    "time": "2017",
+    "body": "The Ethereum network experiences a surge in usage due to the popularity of initial coin offerings (ICOs), leading to congestion on the network and high transaction fees."
+  },
+  {
+    "id": 3,
+    "header": "To a Proof of Stake",
+    "time": "2019",
+    "body": "The Ethereum Foundation announces its plans to transition the network from a Proof of Work (PoW) to a Proof of Stake (PoS) consensus mechanism, which is more energy-efficient."
+  },
+  {
+    "id": 4,
+    "header": "Implements EIP-1559",
+    "time": "2021",
+    "body": "The Ethereum network continues to experience high usage and congestion, leading to record-high transaction fees. The Ethereum community implements EIP-1559 to improve the predictability of transaction fees."
+  }
+]
