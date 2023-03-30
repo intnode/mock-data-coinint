@@ -27,12 +27,14 @@ OHLCV_AGG = OrderedDict((
             ('Volume', 'sum'),
           ))
 
+slug_to_symbol = {"bitcoin":"BTC", "ethereum":"ETH", "uniswap":"UNI", "aave":"AAVE", "tether":"USDT"}
+
 def generate_coin_details(asset_list):
   for asset in tqdm(asset_list):
     if not os.path.exists(f"coin_page/{asset}"):
       os.mkdir(f"coin_page/{asset}")
     url = f"https://api.glassnode.com/v1/metrics/market/marketcap_usd"
-    params = {'a': asset, 'i': "1h", 'api_key': Glassnode_API, 'f':'JSON'}
+    params = {'a': slug_to_symbol[asset], 'i': "1h", 'api_key': Glassnode_API, 'f':'JSON'}
     req = requests.get(url, params=params)
     read_m = pd.read_json(req.text, convert_dates=['t']).set_index('t')
     read_m.columns = ['marketcap']
@@ -58,7 +60,7 @@ def generate_coin_details(asset_list):
     trend_analysis = {}
     for resolution in ["1H","4H","1D","1W-MON"]:
       gauge_str, gauge_val, signal_dict = weighted_asset_gauge(ohlcv.resample(resolution).agg(OHLCV_AGG).iloc[-1000:], indicator_dict, moving_average_oscillator_weight)
-      trend_analysis[resolution.split("-")[0]] = {
+      trend_analysis[resolution.split("-")[0].casefold()] = {
                                                   "value": gauge_val,
                                                   "analysis": gauge_str
                                                   }
@@ -68,7 +70,7 @@ def generate_coin_details(asset_list):
 
     ohlcv.to_json(f"coin_page/{asset}/OHLCV.json",orient="records")
 
-    params = {'a': asset, 'i': "24h", 'api_key': Glassnode_API, 'f':'JSON'}
+    params = {'a': slug_to_symbol[asset], 'i': "24h", 'api_key': Glassnode_API, 'f':'JSON'}
     metric_dict = {"price":"https://api.glassnode.com/v1/metrics/market/price_usd_close",
                   "volume": "https://api.glassnode.com/v1/metrics/transactions/transfers_volume_sum",
                   "marketcap": "https://api.glassnode.com/v1/metrics/market/marketcap_usd",
@@ -103,7 +105,7 @@ def generate_coin_details(asset_list):
     key_metric_df.iloc[-30:].to_json(f"coin_page/{asset}/key_metric_1m.json",orient="records")
     key_metric_df.iloc[-7:].to_json(f"coin_page/{asset}/key_metric_7d.json",orient="records")
 
-    news_url = f"https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=CRYPTO:{asset}&apikey={AV_API}"
+    news_url = f"https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=CRYPTO:{slug_to_symbol[asset]}&apikey={AV_API}"
     req = requests.get(news_url)
     news_df = pd.DataFrame(req.json().get("feed"))
     news_df.time_published = pd.to_datetime(news_df.time_published)
@@ -116,5 +118,5 @@ def generate_coin_details(asset_list):
     token_dist.to_json(f"coin_page/{asset}/token_distribution.json",orient="records")
     
 if __name__ == "__main__":
-  asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
+  asset_list = ["bitcoin", "ethereum", "uniswap", "aave", "tether"]
   generate_coin_details(asset_list)

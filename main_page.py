@@ -78,7 +78,6 @@ def generate_main_page(asset_list):
     os.mkdir("OHLCV_1h")
 
   top25cc = resdf.iloc[:25].copy()
-  resdf.to_json("main_page/top_coin_ranking_table.json",orient="records")
 
   if os.path.exists(f"main_page/available_OHLCV.json"):
     available_OHLCV = list(pd.read_json(f"main_page/available_OHLCV.json").to_numpy().flatten())
@@ -152,5 +151,5 @@ def generate_main_page(asset_list):
     resdf.query("symbol==@asset").to_json(f"coin_page/{asset}/market_data.json",orient="records")
 
 if __name__ == "__main__":
-  asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
+  asset_list = ["bitcoin", "ethereum", "uniswap", "aave", "tether"]
   generate_main_page(asset_list)
