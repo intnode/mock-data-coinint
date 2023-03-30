@@ -30,7 +30,7 @@ def generate_main_page(asset_list):
 
   num_trending_coins = 30
 
-  for top in [100,500]:
+  for top in [25,50,100,500]:
     for timeframe in ["1h","24h","7d","30d"]:
       losers = resdf.iloc[:top].sort_values(f"percent_change_{timeframe}",ascending=True).iloc[:num_trending_coins].to_json(orient="records")
       gainers = resdf.iloc[:top].sort_values(f"percent_change_{timeframe}",ascending=False).iloc[:num_trending_coins].to_json(orient="records")
@@ -72,10 +72,19 @@ def generate_main_page(asset_list):
   with open(f"main_page/market_overview.json", "w") as f:
     json.dump(market_metric,f)
 
-  top100cc = resdf.iloc[:100].copy()
-  top100cc.to_json("main_page/top100_coin_ranking_table.json",orient="records")
+  if not os.path.exists("OHLCV_1d"):
+    os.mkdir("OHLCV_1d")
+  if not os.path.exists("OHLCV_1h"):
+    os.mkdir("OHLCV_1h")
 
-  for symbol in tqdm(top100cc.symbol.to_list()):
+  top25cc = resdf.iloc[:25].copy()
+  resdf.to_json("main_page/top_coin_ranking_table.json",orient="records")
+
+  if os.path.exists(f"main_page/available_OHLCV.json"):
+    available_OHLCV = list(pd.read_json(f"main_page/available_OHLCV.json").to_numpy().flatten())
+  else:
+    available_OHLCV = []
+  for symbol in tqdm(top25cc.symbol.to_list()):
     if not os.path.exists(f"OHLCV_1d/{symbol}_1d.json"):
       url = f"https://min-api.cryptocompare.com/data/v2/histoday?fsym={symbol}&tsym=USD&allData=true&api_key={CC_API}"
       res = requests.get(url)
@@ -83,13 +92,29 @@ def generate_main_page(asset_list):
         price_df = pd.DataFrame(res.json().get("Data").get("Data"))[["time","open","high","close","low","volumeto"]]
         price_df.rename(columns={"volumeto":"volume"},inplace=True)
         price_df = price_df.query("(close > 0) and (open > 0) and (high > 0) and (low > 0)")
+        available_OHLCV.append(symbol)
       except:
         print(f"missing ohlcv of {symbol}")
         price_df = pd.DataFrame([[np.nan]*6],columns=["time","open","high","close","low","volume"])
       price_df.to_json(f"OHLCV_1d/{symbol}_1d.json",orient="records")
+    else:
+      old_price_df = pd.read_json(f"OHLCV_1d/{symbol}_1d.json")
+      url = f"https://min-api.cryptocompare.com/data/v2/histoday?fsym={symbol}&tsym=USD&allData=true&api_key={CC_API}"
+      res = requests.get(url)
+      try:
+        price_df = pd.DataFrame(res.json().get("Data").get("Data"))[["time","open","high","close","low","volumeto"]]
+        price_df.rename(columns={"volumeto":"volume"},inplace=True)
+        price_df = price_df.query("(close > 0) and (open > 0) and (high > 0) and (low > 0)")
+        available_OHLCV.append(symbol)
+      except:
+        print(f"missing ohlcv of {symbol}")
+        price_df = pd.DataFrame([[np.nan]*6],columns=["time","open","high","close","low","volume"])
+      pd.concat([old_price_df,price_df]).drop_duplicates().to_json(f"OHLCV_1d/{symbol}_1d.json",orient="records")
+  with open(f"main_page/available_OHLCV.json", "w") as f:
+    json.dump(list(set(available_OHLCV)),f)
 
-  for symbol in tqdm(top100cc.symbol.to_list()):
-    if not os.path.exists(f"OHLCV_1h/{symbol}_1d.json"):
+  for symbol in tqdm(top25cc.symbol.to_list()):
+    if not os.path.exists(f"OHLCV_1h/{symbol}_1h.json"):
       url = f"https://min-api.cryptocompare.com/data/v2/histohour?fsym={symbol}&tsym=USD&limit=2000&api_key={CC_API}"
       res = requests.get(url)
       try:
@@ -100,8 +125,23 @@ def generate_main_page(asset_list):
         print(f"missing ohlcv of {symbol}")
         price_df = pd.DataFrame([[np.nan]*6],columns=["time","open","high","close","low","volume"])
       price_df.to_json(f"OHLCV_1h/{symbol}_1h.json",orient="records")
+    else:
+      old_price_df = pd.read_json(f"OHLCV_1h/{symbol}_1h.json")
+      url = f"https://min-api.cryptocompare.com/data/v2/histohour?fsym={symbol}&tsym=USD&limit=2000&api_key={CC_API}"
+      res = requests.get(url)
+      try:
+        price_df = pd.DataFrame(res.json().get("Data").get("Data"))[["time","open","high","close","low","volumeto"]]
+        price_df.rename(columns={"volumeto":"volume"},inplace=True)
+        price_df = price_df.query("(close > 0) and (open > 0) and (high > 0) and (low > 0)")
+      except:
+        print(f"missing ohlcv of {symbol}")
+        price_df = pd.DataFrame([[np.nan]*6],columns=["time","open","high","close","low","volume"])
+      pd.concat([old_price_df,price_df]).drop_duplicates().to_json(f"OHLCV_1h/{symbol}_1h.json",orient="records")
 
-  for symbol in tqdm(top100cc.symbol.to_list()):
+  if not os.path.exists(f"main_page/Price7d"):
+    os.mkdir(f"main_page/Price7d")
+  
+  for symbol in tqdm(top25cc.symbol.to_list()):
     price_df = pd.read_json(f"OHLCV_1h/{symbol}_1h.json")
     price_df = price_df[["time","close"]]
     price_df.iloc[-(24*7):].to_json(f"main_page/Price7d/{symbol}.json",orient="records")
