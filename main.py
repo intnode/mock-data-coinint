@@ -37,7 +37,7 @@ if __name__ == "__main__":
     parser.add_argument('--port', type=int, help='port, [default=6600]', default=6600)
     parser.add_argument('--workers', type=int, help='number of workers, [default=1]', default=1)
     parser.add_argument('--debug', type=bool, help='debug mode, [default=False]', default=False)
-    parser.add_argument('--updater', type=bool, help='run db updating service in background, [default=False]', default=False)
+    parser.add_argument('--updater', type=bool, help='run db updating service in background, [default=True]', default=True)
     args = parser.parse_args() 
 
     if args.debug:
