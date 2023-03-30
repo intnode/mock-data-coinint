@@ -3,7 +3,7 @@ from main_page import generate_main_page
 import os, schedule, uvicorn, threading, time, datetime, argparse
 from datetime import datetime as dt
 
-asset_list = ["bitcoin", "ethereum", "uniswap", "aave", "tether"]
+asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
 
 def get_time():
     """

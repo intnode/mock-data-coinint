@@ -131,17 +131,17 @@ def get_highlight_trending(resolution : str = "24h", limit : int = 30):
         trending = json.load(f)
     return trending
 
-@app.get("/cryptocurrencies/{slug}", 
-    responses = {200:{"description": "Data and route for coindetail page for selected slug"},
+@app.get("/cryptocurrencies/{symbol}", 
+    responses = {200:{"description": "Data and route for coindetail page for selected symbol"},
                  400:{"model":ErrorDetail}}
 )
-def get_cryptocurrencies(slug):
+def get_cryptocurrencies(symbol):
     """
-    Get Data and route for coindetail page for selected slug \n
+    Get Data and route for coindetail page for selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
-    with open(f"coin_page/{slug}/metadata.json") as f:
+    with open(f"coin_page/{symbol}/metadata.json") as f:
         metadata = json.load(f)
     if "Stablecoin" in metadata["categories"]:
         cryptotype = "stablecoin"
@@ -152,15 +152,15 @@ def get_cryptocurrencies(slug):
     else:
         raise HTTPException(status_code=400, detail=f"Unknown type of cryptocurrencies")
     if cryptotype in ["coin","token"]:
-        with open(f"coin_page/{slug}/token_links.json") as f:
+        with open(f"coin_page/{symbol}/token_links.json") as f:
             token_links = json.load(f)
-        with open(f"coin_page/{slug}/what_is.json") as f:
+        with open(f"coin_page/{symbol}/what_is.json") as f:
             what_is = json.load(f)
-        with open(f"coin_page/{slug}/team.json") as f:
+        with open(f"coin_page/{symbol}/team.json") as f:
             team = json.load(f)
-        with open(f"coin_page/{slug}/investor.json") as f:
+        with open(f"coin_page/{symbol}/investor.json") as f:
             investor = json.load(f)
-        with open(f"coin_page/{slug}/token_distribution.json") as f:
+        with open(f"coin_page/{symbol}/token_distribution.json") as f:
             token_distribution = json.load(f)
         overview = {}
         overview["data"] = {}
@@ -170,28 +170,28 @@ def get_cryptocurrencies(slug):
         overview["data"]["investor"] = investor
         overview["data"]["team"] = team
         overview["data"]["token_distribution"] = token_distribution
-        overview["data"]["market_data"] = get_market_data(slug)
-        overview["data"]["price_chart"] = get_price_chart(slug)
-        overview["data"]["technical_analysis"] = get_technical_analysis(slug)
-        overview["data"]["key_metric"] = get_key_metric(slug)
-        overview["data"]["news_feed"] = get_key_metric(slug)
+        overview["data"]["market_data"] = get_market_data(symbol)
+        overview["data"]["price_chart"] = get_price_chart(symbol)
+        overview["data"]["technical_analysis"] = get_technical_analysis(symbol)
+        overview["data"]["key_metric"] = get_key_metric(symbol)
+        overview["data"]["news_feed"] = get_key_metric(symbol)
 
         overview["route"] = {}
-        overview["route"]["market_data"] = f"/cryptocurrencies/{slug}/market_data"
-        overview["route"]["price_chart"] = f"/cryptocurrencies/{slug}/price_chart"
-        overview["route"]["technical_analysis"] = f"/cryptocurrencies/{slug}/technical_analysis"
-        overview["route"]["key_metric"] = f"/cryptocurrencies/{slug}/key_metric"
-        overview["route"]["news_feed"] = f"/cryptocurrencies/{slug}/news_feed"
+        overview["route"]["market_data"] = f"/cryptocurrencies/{symbol}/market_data"
+        overview["route"]["price_chart"] = f"/cryptocurrencies/{symbol}/price_chart"
+        overview["route"]["technical_analysis"] = f"/cryptocurrencies/{symbol}/technical_analysis"
+        overview["route"]["key_metric"] = f"/cryptocurrencies/{symbol}/key_metric"
+        overview["route"]["news_feed"] = f"/cryptocurrencies/{symbol}/news_feed"
     elif cryptotype in ["stablecoin"]:
-        with open(f"coin_page/{slug}/token_links.json") as f:
+        with open(f"coin_page/{symbol}/token_links.json") as f:
             token_links = json.load(f)
-        with open(f"coin_page/{slug}/what_is.json") as f:
+        with open(f"coin_page/{symbol}/what_is.json") as f:
             what_is = json.load(f)
-        with open(f"coin_page/{slug}/team.json") as f:
+        with open(f"coin_page/{symbol}/team.json") as f:
             team = json.load(f)
-        with open(f"coin_page/{slug}/investor.json") as f:
+        with open(f"coin_page/{symbol}/investor.json") as f:
             investor = json.load(f)
-        with open(f"coin_page/{slug}/token_distribution.json") as f:
+        with open(f"coin_page/{symbol}/token_distribution.json") as f:
             token_distribution = json.load(f)
         overview = {}
         overview["data"] = {}
@@ -201,102 +201,102 @@ def get_cryptocurrencies(slug):
         overview["data"]["investor"] = investor
         overview["data"]["team"] = team
         overview["data"]["token_distribution"] = token_distribution
-        overview["data"]["market_data"] = get_market_data(slug)
-        overview["data"]["price_chart"] = get_price_chart(slug)
-        overview["data"]["key_metric"] = get_key_metric(slug)
-        overview["data"]["news_feed"] = get_key_metric(slug)
+        overview["data"]["market_data"] = get_market_data(symbol)
+        overview["data"]["price_chart"] = get_price_chart(symbol)
+        overview["data"]["key_metric"] = get_key_metric(symbol)
+        overview["data"]["news_feed"] = get_key_metric(symbol)
 
         overview["route"] = {}
-        overview["route"]["market_data"] = f"/cryptocurrencies/{slug}/market_data"
-        overview["route"]["price_chart"] = f"/cryptocurrencies/{slug}/price_chart"
-        overview["route"]["key_metric"] = f"/cryptocurrencies/{slug}/key_metric"
-        overview["route"]["news_feed"] = f"/cryptocurrencies/{slug}/news_feed"
+        overview["route"]["market_data"] = f"/cryptocurrencies/{symbol}/market_data"
+        overview["route"]["price_chart"] = f"/cryptocurrencies/{symbol}/price_chart"
+        overview["route"]["key_metric"] = f"/cryptocurrencies/{symbol}/key_metric"
+        overview["route"]["news_feed"] = f"/cryptocurrencies/{symbol}/news_feed"
     return overview
 
-@app.get("/cryptocurrencies/{slug}/market_data", 
-    responses = {200:{"description": "market data for coin detail page of selected slug "},
+@app.get("/cryptocurrencies/{symbol}/market_data", 
+    responses = {200:{"description": "market data for coin detail page of selected symbol "},
                  400:{"model":ErrorDetail}}
 )
-def get_market_data(slug):
+def get_market_data(symbol):
     """
-    Get dynamic market data for coin detail page of selected slug \n
+    Get dynamic market data for coin detail page of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
-    with open(f"coin_page/{slug}/market_data.json") as f:
+    with open(f"coin_page/{symbol}/market_data.json") as f:
         market_data = json.load(f)[0]
     return market_data
 
-@app.get("/cryptocurrencies/{slug}/price_chart", 
-    responses = {200:{"description": "price chart for coin detail page of selected slug"},
+@app.get("/cryptocurrencies/{symbol}/price_chart", 
+    responses = {200:{"description": "price chart for coin detail page of selected symbol"},
                  400:{"model":ErrorDetail}}
 )
-def get_price_chart(slug, resolution: str = "7d"):
+def get_price_chart(symbol, resolution: str = "7d"):
     """
-    Get dynamic price chart for coin detail page of selected slug \n
+    Get dynamic price chart for coin detail page of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
     if resolution not in ['7d','1m','3m','1y','all']:
         raise HTTPException(status_code=400, detail=f"Only supported resolution is '7d','1m','3m','1y','all'")
-    with open(f"coin_page/{slug}/price_chart_{resolution.casefold()}.json") as f:
+    with open(f"coin_page/{symbol}/price_chart_{resolution.casefold()}.json") as f:
         price_chart = json.load(f)
     return price_chart
 
-@app.get("/cryptocurrencies/{slug}/key_metric", 
-    responses = {200:{"description": "key metric for coin detail page of selected slug "},
+@app.get("/cryptocurrencies/{symbol}/key_metric", 
+    responses = {200:{"description": "key metric for coin detail page of selected symbol "},
                  400:{"model":ErrorDetail}}
 )
-def get_key_metric(slug, resolution: str = "7d"):
+def get_key_metric(symbol, resolution: str = "7d"):
     """
-    Get dynamic key metric for coin detail page of selected slug \n
+    Get dynamic key metric for coin detail page of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
     if resolution not in ['7d','1m','3m','1y','all']:
         raise HTTPException(status_code=400, detail=f"Only supported resolution is '7d','1m','3m','1y','all'")
-    with open(f"coin_page/{slug}/key_metric_{resolution.casefold()}.json") as f:
+    with open(f"coin_page/{symbol}/key_metric_{resolution.casefold()}.json") as f:
         key_metric = json.load(f)
     return key_metric
 
-@app.get("/cryptocurrencies/{slug}/technical_analysis", 
-    responses = {200:{"description": "technical analysis of selected slug"},
+@app.get("/cryptocurrencies/{symbol}/technical_analysis", 
+    responses = {200:{"description": "technical analysis of selected symbol"},
                  400:{"model":ErrorDetail}}
 )
-def get_technical_analysis(slug):
+def get_technical_analysis(symbol):
     """
-    Get dynamic technical analysis of selected slug \n
+    Get dynamic technical analysis of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
-    with open(f"coin_page/{slug}/technical_analysis.json") as f:
+    with open(f"coin_page/{symbol}/technical_analysis.json") as f:
         price_chart = json.load(f)
     return price_chart
 
-@app.get("/cryptocurrencies/{slug}/news_feed", 
-    responses = {200:{"description": "news feed of selected slug"},
+@app.get("/cryptocurrencies/{symbol}/news_feed", 
+    responses = {200:{"description": "news feed of selected symbol"},
                  400:{"model":ErrorDetail}}
 )
-def get_news_feed(slug):
+def get_news_feed(symbol):
     """
-    Get dynamic news feed of selected slug \n
+    Get dynamic news feed of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
-    with open(f"coin_page/{slug}/news_feed.json") as f:
+    with open(f"coin_page/{symbol}/news_feed.json") as f:
         news_feed = json.load(f)
     return news_feed
 
-@app.get("/cryptocurrencies/{slug}/OHLCV", 
-    responses = {200:{"description": "OHLCV of selected slug"},
+@app.get("/cryptocurrencies/{symbol}/OHLCV", 
+    responses = {200:{"description": "OHLCV of selected symbol"},
                  400:{"model":ErrorDetail}}
 )
-def get_OHLCV(slug):
+def get_OHLCV(symbol):
     """
-    Get dynamic OHLCV of selected slug \n
+    Get dynamic OHLCV of selected symbol \n
     Parameter: \n
-        slug : seleceted asset slug name.
+        symbol : seleceted asset symbol name.
     """
-    with open(f"coin_page/{slug}/OHLCV.json") as f:
+    with open(f"coin_page/{symbol}/OHLCV.json") as f:
         OHLCV = json.load(f)
     return OHLCV

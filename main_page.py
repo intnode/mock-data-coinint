@@ -151,5 +151,5 @@ def generate_main_page(asset_list):
     resdf.query("symbol==@asset").to_json(f"coin_page/{asset}/market_data.json",orient="records")
 
 if __name__ == "__main__":
-  asset_list = ["bitcoin", "ethereum", "uniswap", "aave", "tether"]
+  asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
   generate_main_page(asset_list)
