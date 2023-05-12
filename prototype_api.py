@@ -4,9 +4,17 @@ from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from datetime import timedelta, tzinfo, datetime as dt
+from collections import OrderedDict
 import pandas as pd
-import json
+import json, os, time
 
+OHLCV_AGG = OrderedDict((
+    ('Open', 'first'),
+    ('High', 'max'),
+    ('Low', 'min'),
+    ('Close', 'last'),
+    ('Volume', 'sum'),
+))
 
 description = '''
     Prototype API for coinint
@@ -46,22 +54,6 @@ def get_all_cryptocurrencies():
                          "symbol":v})
     return all_coin
 
-
-@app.get("/marketdata/heatmap", 
-    responses = {200:{"description": "market data for displaying heatmap"},
-                 400:{"model":ErrorDetail}}
-)
-def get_marketdata_heatmap(limit : int = 25):
-    """
-    Get market data for displaying heatmap \n
-    Parameter: \n
-        limit : number of currencies to be shown, default is 25.
-    """
-    heatmap = pd.read_json("main_page/coin_ranking_table.json")
-    if limit > heatmap.shape[0]:
-        raise HTTPException(status_code=400, detail=f"Only supported limit is less than {heatmap.shape[0]}")
-    return json.loads(heatmap.iloc[:limit].to_json(orient="records"))
-
 @app.get("/marketdata/overview",
     responses = {200:{"description": "market data for overview section"},
                  400:{"model":ErrorDetail}}
@@ -74,6 +66,21 @@ def get_marketdata_overview():
         market_overview = json.load(f)
     return market_overview
 
+@app.get("/marketdata/heatmap", 
+    responses = {200:{"description": "market data for displaying heatmap"},
+                 400:{"model":ErrorDetail}}
+)
+def get_marketdata_heatmap(limit : int = 25):
+    """
+    Get market data for displaying heatmap \n
+    Parameter: \n
+        limit : number of currencies to be shown, default is 25. [fully support <=25 for prototype version.]
+    """
+    heatmap = pd.read_json("main_page/coin_ranking_table.json")
+    if limit > heatmap.shape[0]:
+        raise HTTPException(status_code=400, detail=f"Only supported limit is less than {heatmap.shape[0]}")
+    return json.loads(heatmap.iloc[:limit].to_json(orient="records"))
+
 @app.get("/marketdata/cointable", 
     responses = {200:{"description": "market data for displaying cointable"},
                  400:{"model":ErrorDetail}}
@@ -82,7 +89,7 @@ def get_marketdata_cointable(limit : int = 25):
     """
     Get market data for displaying cointable \n
     Parameter: \n
-        limit : number of currencies to be shown, default is 25.
+        limit : number of currencies to be shown, default is 25. [only support <=25 for prototype version]
     """
     cointable = pd.read_json("main_page/coin_ranking_table.json")
     if limit > cointable.shape[0]:
@@ -133,7 +140,8 @@ def get_highlight_trending(resolution : str = "24h", limit : int = 30):
 
 @app.get("/cryptocurrencies/{symbol}", 
     responses = {200:{"description": "Data and route for coindetail page for selected symbol"},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
 def get_cryptocurrencies(symbol):
     """
@@ -141,6 +149,8 @@ def get_cryptocurrencies(symbol):
     Parameter: \n
         symbol : seleceted asset symbol name.
     """
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
     with open(f"coin_page/{symbol}/metadata.json") as f:
         metadata = json.load(f)
     if "Stablecoin" in metadata["categories"]:
@@ -215,7 +225,8 @@ def get_cryptocurrencies(symbol):
 
 @app.get("/cryptocurrencies/{symbol}/market_data", 
     responses = {200:{"description": "market data for coin detail page of selected symbol "},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
 def get_market_data(symbol):
     """
@@ -223,45 +234,56 @@ def get_market_data(symbol):
     Parameter: \n
         symbol : seleceted asset symbol name.
     """
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
     with open(f"coin_page/{symbol}/market_data.json") as f:
         market_data = json.load(f)[0]
     return market_data
 
 @app.get("/cryptocurrencies/{symbol}/price_chart", 
     responses = {200:{"description": "price chart for coin detail page of selected symbol"},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
-def get_price_chart(symbol, resolution: str = "7d"):
+def get_price_chart(symbol, data_range: str = "7d"):
     """
     Get dynamic price chart for coin detail page of selected symbol \n
     Parameter: \n
-        symbol : seleceted asset symbol name.
+        symbol : seleceted asset symbol name. \n
+        data_range : data range ['7d','1m','3m','1y','all']
     """
-    if resolution not in ['7d','1m','3m','1y','all']:
-        raise HTTPException(status_code=400, detail=f"Only supported resolution is '7d','1m','3m','1y','all'")
-    with open(f"coin_page/{symbol}/price_chart_{resolution.casefold()}.json") as f:
+    if data_range not in ['7d','1m','3m','1y','all']:
+        raise HTTPException(status_code=400, detail=f"Only supported data range is '7d','1m','3m','1y','all'")
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
+    with open(f"coin_page/{symbol}/price_chart_{data_range.casefold()}.json") as f:
         price_chart = json.load(f)
     return price_chart
 
 @app.get("/cryptocurrencies/{symbol}/key_metric", 
     responses = {200:{"description": "key metric for coin detail page of selected symbol "},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
-def get_key_metric(symbol, resolution: str = "7d"):
+def get_key_metric(symbol, data_range: str = "7d"):
     """
     Get dynamic key metric for coin detail page of selected symbol \n
     Parameter: \n
-        symbol : seleceted asset symbol name.
+        symbol : seleceted asset symbol name. \n
+        data_range : data range ['7d','1m','3m','1y','all']
     """
-    if resolution not in ['7d','1m','3m','1y','all']:
-        raise HTTPException(status_code=400, detail=f"Only supported resolution is '7d','1m','3m','1y','all'")
-    with open(f"coin_page/{symbol}/key_metric_{resolution.casefold()}.json") as f:
+    if data_range not in ['7d','1m','3m','1y','all']:
+        raise HTTPException(status_code=400, detail=f"Only supported data range is '7d','1m','3m','1y','all'")
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
+    with open(f"coin_page/{symbol}/key_metric_{data_range.casefold()}.json") as f:
         key_metric = json.load(f)
     return key_metric
 
 @app.get("/cryptocurrencies/{symbol}/technical_analysis", 
     responses = {200:{"description": "technical analysis of selected symbol"},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
 def get_technical_analysis(symbol):
     """
@@ -269,13 +291,16 @@ def get_technical_analysis(symbol):
     Parameter: \n
         symbol : seleceted asset symbol name.
     """
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
     with open(f"coin_page/{symbol}/technical_analysis.json") as f:
         price_chart = json.load(f)
     return price_chart
 
 @app.get("/cryptocurrencies/{symbol}/news_feed", 
     responses = {200:{"description": "news feed of selected symbol"},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
 def get_news_feed(symbol):
     """
@@ -283,20 +308,57 @@ def get_news_feed(symbol):
     Parameter: \n
         symbol : seleceted asset symbol name.
     """
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
     with open(f"coin_page/{symbol}/news_feed.json") as f:
         news_feed = json.load(f)
     return news_feed
 
 @app.get("/cryptocurrencies/{symbol}/OHLCV", 
     responses = {200:{"description": "OHLCV of selected symbol"},
-                 400:{"model":ErrorDetail}}
+                 400:{"model":ErrorDetail},
+                 404:{"model":ErrorDetail}}
 )
-def get_OHLCV(symbol):
+def get_OHLCV(symbol, resolution: str = "24h", countback : int = 0, start : int = 0, end : int = 0):
     """
     Get dynamic OHLCV of selected symbol \n
     Parameter: \n
-        symbol : seleceted asset symbol name.
+        symbol : seleceted asset symbol name. \n
+        resolution : resolution str of requested asset for example ['1h','2h','3h','4h','1d','2d,'3d,'4d','1w','1m'] \n
+        countback : query specific number of candle of requested asset until now, if countback != 0, start will be ignored \n
+        start : start unix timestamp in ms for query request asset, default is 0. \n
+        end : end unix timestamp in ms for query request asset, default is now.
     """
+    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+        raise HTTPException(status_code=404, detail=f"{symbol} not found")
+    # with open(f"coin_page/{symbol}/OHLCV.json") as f:
+    #     OHLCV = json.load(f)
+
+    if end == 0:
+        end = int(time.mktime(dt.now().timetuple())*1e3)
+
+    if "w" in resolution.casefold():
+        resample_phase = f"{resolution.upper()}-MON"
+    elif "m" in resolution.casefold():
+        resample_phase = f"{resolution.upper()}S"
+    else:
+        resample_phase = f"{resolution}"
+        
     with open(f"coin_page/{symbol}/OHLCV.json") as f:
-        OHLCV = json.load(f)
-    return OHLCV
+        OHLCV_df = pd.DataFrame(json.load(f))
+    print(OHLCV_df)
+
+    if countback != 0:
+        OHLCV_df = OHLCV_df.query(f"time<={end}")
+        OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
+        OHLCV_df.drop("time",axis=1,inplace=True)
+        print(OHLCV_df)
+        OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna().iloc[-countback:,:]
+    else:
+        OHLCV_df = OHLCV_df.query(f"time<={end} and time >={start}")
+        OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
+        OHLCV_df.drop("time",axis=1,inplace=True)
+        print(OHLCV_df)
+        OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna()
+    OHLCV_df["time"] = OHLCV_df.index
+    return json.loads(OHLCV_df.to_json(orient="records"))

@@ -5,6 +5,16 @@ from datetime import datetime as dt
 
 asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
 
+def str2bool(v):
+    if isinstance(v, bool):
+        return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 def get_time():
     """
     get current time for checking that updating thread is still alive.
@@ -36,8 +46,8 @@ if __name__ == "__main__":
     parser.add_argument('--host', type=str, help='host, [default=127.0.0.1]', default="127.0.0.1")
     parser.add_argument('--port', type=int, help='port, [default=6600]', default=6600)
     parser.add_argument('--workers', type=int, help='number of workers, [default=1]', default=1)
-    parser.add_argument('--debug', type=bool, help='debug mode, [default=False]', default=False)
-    parser.add_argument('--updater', type=bool, help='run db updating service in background, [default=True]', default=True)
+    parser.add_argument('--debug', type=str2bool, nargs='?', const=True, help='debug mode, [default=False]', default=False)
+    parser.add_argument('--updater' ,type=str2bool, nargs='?', const=True, help='run db updating service in background, [default=True]', default=True)
     args = parser.parse_args() 
 
     if args.debug:
