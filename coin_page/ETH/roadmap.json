@@ -1,26 +1,38 @@
 [
   {
     "id": 1,
-    "header": "Public Crowdsale",
-    "time": "2013",
-    "body": "Ethereum is proposed by Vitalik Buterin and crowdfunded through a public crowdsale."
+    "header": "The Merge",
+    "time": "",
+    "body": "การอัปเกรดที่จะเปลี่ยนจาก Proof-of-work เป็น Proof-of-stake"
   },
   {
     "id": 2,
-    "header": "Initial Coin Offerings (ICOs)",
-    "time": "2017",
-    "body": "The Ethereum network experiences a surge in usage due to the popularity of initial coin offerings (ICOs), leading to congestion on the network and high transaction fees."
+    "header": "The Surge",
+    "time": "",
+    "body": "การอัปเกรดที่เกี่ยวข้องกับการปรับขนาด (scalability)"
   },
   {
     "id": 3,
-    "header": "To a Proof of Stake",
-    "time": "2019",
-    "body": "The Ethereum Foundation announces its plans to transition the network from a Proof of Work (PoW) to a Proof of Stake (PoS) consensus mechanism, which is more energy-efficient."
+    "header": "The Scourge",
+    "time": "",
+    "body": "การอัปเกรดที่เกี่ยวข้องกับการต่อต้านการเซ็นเซอร์ (censorship resistance) การกระจายอำนาจ (decentralization ) และความเสี่ยงของโปรโตคอลจาก MEV"
   },
   {
     "id": 4,
-    "header": "Implements EIP-1559",
-    "time": "2021",
-    "body": "The Ethereum network continues to experience high usage and congestion, leading to record-high transaction fees. The Ethereum community implements EIP-1559 to improve the predictability of transaction fees."
+    "header": "The Verge",
+    "time": "",
+    "body": "อัปเกรดที่เกี่ยวข้องกับการตรวจสอบบล็อกได้ง่ายขึ้น"
+  },
+  {
+    "id": 5,
+    "header": "The Purge",
+    "time": "",
+    "body": "การอัปเกรดที่เกี่ยวข้องกับการลดต้นทุนการคำนวณของการรันโหนด และทำให้โปรโตคอลง่ายใช้งานง่ายขึ้น"
+  },
+  {
+    "id": 6,
+    "header": "The Splurge",
+    "time": "",
+    "body": "การอัพเกรดอื่น ๆ ที่ไม่สอดคล้องกับหมวดหมู่ก่อนหน้านี้มากนัก"
   }
 ]

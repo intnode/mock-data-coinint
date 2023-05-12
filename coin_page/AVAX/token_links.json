@@ -1,0 +1,26 @@
+{
+  "website": "https://avax.network/",
+  "explorer": [
+    "https://snowtrace.io/",
+    "https://avascan.info/blockchain/x/asset/FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+    "https://explorer.avax.network/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Avax",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Avax"
+  },
+  "audit": [
+    "https://hacken.io/"
+  ],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain",
+      "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+      "link": "https://bscscan.com/token/0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+    }
+  ]
+}

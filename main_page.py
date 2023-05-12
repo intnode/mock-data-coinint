@@ -161,6 +161,7 @@ def generate_main_page(asset_list):
   except Exception as e:
     print("Fail to update main page data")
     print(e)
+  print("Update main page complete")
 
 if __name__ == "__main__":
   asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]

@@ -1,18 +1,26 @@
 {
   "what_is": [
-    "Ethereum is a decentralized network created by Vitalik Buterin . Its network consists of an open-source, globally decentralized computing infrastructure, which executes programs called smart contracts. This network is fueled by a cryptocurrency named ether (ETH)."
+    "เหรียญ Ether (ETH) เป็นสกุลเงินดิจิทัลที่ใช้ประโยชน์สำหรับหลาย ๆ อย่างบนเครือข่ายของ Ethereum โดยพื้นฐานแล้ว มันเป็นรูปแบบการชำระเงินเดียวที่ชำระเงินสำหรับค่าธรรมเนียมการทำธุรกรรม และหลังจาก The Merge (Paris) แล้ว Ether จำเป็นต้องใช้ในการตรวจสอบความถูกต้อง (validate) และเสนอบล็อคบน Mainnet Ether ยังใช้เป็นหลักประกันใน DeFi lending market เป็นการชำระเงินที่ได้รับจากการให้บริการหรือการขายสินค้าในโลกแห่งความเป็นจริง และอื่นๆ"
   ],
-  "key_features": [
-    "Smart Contracts: Self-executing programs that enable the creation of decentralized applications.",
-    "Decentralized Applications (dapps): Applications that run on a blockchain and are not controlled by a single entity.",
-    "Ether (ETH): The cryptocurrency that powers the Ethereum network.",
-    "Ethereum Virtual Machine (EVM): A virtual machine that runs smart contracts.",
-    "Proof of Stake (PoS): A consensus mechanism that is more energy-efficient and designed to reduce centralization.",
-    "Interoperability: Designed to be interoperable with other blockchains and networks."
+  "product_overview": [
+    "Ethereum เป็นเครือข่ายบล็อกเชนแบบโอเพ่นซอร์สหนึ่งที่เปิดเส้นทางสู่การปฏิวัติทางด้านการเงินที่เรียกว่า (DeFi) โดย Etherum เป็น Programable blockchain หรือบล็อกเชนที่สามารถให้ผู้ใช้งานเขียนโค้ดเป็น สัญญาอัจฉริยะ (smart contracts) เข้าไปรันในบล็อกเชนได้ มันถือว่าเป็นหนึ่งในบล็อกเชนที่มีความนิยมและมูลค่าตามราคาตลาด อันดับสองหลังจากรองมาจาก Bitcoin โดยผู้ก่อตั้งอีเธอร์เรียมมุ่งหวังที่จะสร้างแพลตฟอร์มการคำนวณแบบกระจายอำนาจทั่วโลกในรูปแบบใหม่ ซึ่งแตกต่างจากบิทคอยน์ที่จุดประสงค์สร้างเพื่อเป็นเงินดิจิทัล",
+    "Ethereum มีหลายผลิตภัณฑ์ หรือโปรดักส์ที่น่าสนใจ ได้แก่",
+    "1) สัญญาอัจฉริยะ (Smart Contracts) - กระบวนการทางดิจิทัล หรือสัญญาที่ถูกเขียนด้วยโค้ดคอมพิวเตอร์ ซึ่งทำให้หน้าที่กำหนดขั้นตอนการทำธุรกรรมโดยอัตโนมัติไว้ล่วงหน้า โดยไม่ต้องอาศัยตัวกลาง โดยสามารถดำเนินการโดยอัตโนมัติ (automate) เมื่อเงื่อนไขที่กำหนดไว้เป็นความจริง นำไปสู่การปฏิบัติตามสัญญาที่เชื่อถือได้และควบคุมได้",
+    "2) แอปพลิเคชันที่ถูกก่อตั้งขึ้นบน Ethereum (Decentralized Applications หรือ dApps) - แอปพลิเคชันที่สามารถทำงานบน Ethereum โดยไม่ต้องพึ่งพาตัวกลาง หรือบริษัทเดียว อาทิ เกม, DeFi, และแพลฟอร์มซื้อขาย NFT",
+    "3) ERC-20 และ ERC-721 โทเคน - มาตรฐานของโทเคนที่ให้ผู้สร้างสามารถสร้างโทเคนของตัวเองได้บน Ethereum โดย ERC-721 ต่างจาก ERC-20 ตรงที่ ERC-721 คือมาตรฐานที่ทำให้ข้อมูลที่อยู่ในบล็อกเชนนั้นมีความเฉพาะตัว (Non-Fungible) โดยส่วนมากแล้วมักจะถูกใช้กับของสะสมต่าง ๆ ที่อยู่ในรูปแบบดิจิทัล ที่ต้องการให้เป็นแรร์ไอเท็ม หรือต้องการไม่ให้เหมือนใคร และไม่อยากให้ใครสามารถทำซ้ำกันได้ เพราะว่ามันมีโค้ดที่สามารถระบุได้ว่าใครเป็นเจ้าของอย่างชัดเจน ในทางกลับกัน ERC-20 นั้นเป็นมาตรฐานที่จะทำให้ทุก ๆ โทเคนที่ถูกสร้างขึ้นมาภายใต้มาตรฐานดังกล่าวมีความเหมือนกัน"
   ],
   "utilities": [
-    "Ethereum has utility as a decentralized platform for the creation and execution of smart contracts and decentralized applications (dapps). Smart contracts can be used to create a wide range of decentralized applications, including decentralized finance (DeFi) applications, supply chain management systems, voting systems, and more.",
-    "Ethereum also has utility as a cryptocurrency, with Ether (ETH) used as the native currency of the Ethereum network. Ether is used to pay for transaction fees on the network, and it can also be used as a store of value and a means of exchange.",
-    "In addition, Ethereum is designed to be interoperable with other blockchains and networks, which increases its utility by allowing for the exchange of assets and data between different networks."
+    "ก๊าซ (Gas) จะจ่ายเป็น ETH โดยจะถูกใช้เป็นค่าใช้จ่ายสำหรับการดำเนินการและประมวลผลธุรกรรมบน Ethereum โดยราคาก๊าซจะเป็นแสดงเป็น Gwei โดย 1 wei เท่ากับ 10^-18 ETH ซึ่ง Gwei ก็จะเท่ากับ 10^-9 ETH"
+  ],
+  "mechanism": [
+    "การทำงานของ Ethereum - ในปัจจุบัน Ethereum ใช้กระบวนการ Consensus แบบ Proof-of-Stake หลังจากที่ The merge ได้เปลี่ยน Proof-of-Work มาเป็น Proof-of-Stake ที่จะช่วยให้ Ethereum สามารถแก้ปัญหาในหลาย ๆ เรื่อง เช่น การใช้พลังงานที่น้อยกว่า ,จำนวนธุรกรรมที่สามารถประมวลผลได้ และความปลอดภัย"
+  ],
+  "holder_benefits": [
+    "Stake ETH - การ Staking เหรียญ ETH ไม่ได้เพื่อรับรางวัลอย่างเดียว แต่ถ้าอยากเป็น Validator ให้กับเครือข่าย Ethereum คุณต้อง Staking เหรียญ ETH อย่างน้อย 32 เหรียญเพื่อเปิดใช้งานตัวซอฟแวร์ Validator"
+  ],
+  "real_world_use_cases": [
+    "1) DeFi (Decentralized Finance) - การให้กู้ยืม, การสานภาพ, การค้าเงินคริปโต และการประกันที่เปิดเส้นทางสู่การ",
+    "2) The world’s computer - สามารถเรียกใช้โปรแกรมและแอพโดยที่ใช้ประโยชน์จากคอมพิวเตอร์หลายพันเครื่องทั่วโลก ที่เป็น Validator ให้กับ Ethereum",
+    "3) dApps - เป็นแอปพลิเคชันหรือโปรแกรมดิจิทัลที่ทำงานบนเครือข่ายบล็อกเชนและทำงานแบบ P2P เช่น ตลาด (NFT) , เกม (gameFi) และอื่นๆ"
   ]
 }

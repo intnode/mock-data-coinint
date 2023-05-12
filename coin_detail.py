@@ -130,7 +130,8 @@ def generate_coin_details(asset_list):
   except Exception as e:
     print("Fail to update coin detail page data")
     print(e)
+  print("Update coin detail page complete")
     
 if __name__ == "__main__":
-  asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
+  asset_list = ["AVAX"]
   generate_coin_details(asset_list)

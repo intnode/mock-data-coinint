@@ -1,21 +1,18 @@
 {
   "what_is": [
-    "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+    "เหรียญ USDT เป็นเหรียญ Stablecoin ที่สร้างขึ้นโดย Tether ในปี 2014 และมีการตรึงมูลค่ากับสกุลเงินดอลลาร์สหรัฐฯ 100% เพื่อที่จะอำนวยความสะดวกในการใช้เงิน fiat ในลักษณะดิจิทัล กล่าวคือ 1 USDT มีมูลค่าเท่ากับ 1 USD ซึ่งได้รับการสำรองอย่างเต็มจำนวนจากเงินสำรองของ Tether",
+    "นอกจาก USDT ที่ตรึงมูลค่ากับสกุลเงินดอลลาร์สหรัฐฯ แล้ว Tether ยังได้ออก Stablecoin ที่ตรึงมูลค่ากับสกุลเงินอื่น ๆ อีกด้วย ได้แก่ EURT ตรึงมูลค่ากับเงินยูโร, CNHT ตรึงมูลค่ากับเงินหยวน และ MXNT ตรึงมูลค่ากับเงินเปโซของเม็กซิโก"
   ],
-  "founders": [
-    "USDT — or as it was known at the time, Realcoin — was launched in 2014 by Brock Pierce, Reeve Collins and Craig Sellars.",
-    "Brock Pierce is a well-known entrepreneur who has co-founded a number of high-profile projects in the crypto and entertainment industries. In 2013, he co-founded a venture capital firm Blockchain Capital, which by 2017 had raised over $80 million in funding. In 2014, Pierce became the director of the Bitcoin Foundation, a nonprofit established to help improve and promote Bitcoin. Pierce has also co-founded Block.one, the company behind EOS, one of the largest cryptocurrencies on the market.",
-    "Reeve Collins was the CEO of Tether for the first two years of its existence. Prior to that, he had co-founded several successful companies, such as the online ad network Traffic Marketplace, entertainment studio RedLever and gambling website Pala Interactive. As of 2020, Collins is heading SmarMedia Technologies, a marketing and advertising tech company.",
-    "Other than working on Tether, Craig Sellars has been a member of the Omni Foundation for over six years. Its Omni Protocol allows users to create and trade smart-contract based properties and currencies on top of Bitcoin’s blockchain. Sellars has also worked in several other cryptocurrency companies and organizations, such as Bitfinex, Factom, Synereo and the MaidSafe Foundation."
+  "product_overview": [],
+  "utilities": [
+    "เหรียญ USDT ถูกออกแบบมาเพื่อให้มีความยืดหยุ่นสามารถเพิ่มหรือลดได้ตามความต้องการของตลาด โดยปริมาณของเหรียญถูกควบคุมโดย Tether ซึ่งเป็นบริษัทที่ออก และจัดควบคุม stablecoin ตัวนี้  โดย Tether ได้ให้คำมั่นไว้ว่าแต่ละเหรียญจะถูกตรึงด้วยมูลค่าของเงินดอลลาร์สหรัฐ ฯ ในอัตรา 1:1",
+    "วัตถุประสงค์หลักของ USDT คือ เหรียญที่มีเสถียรภาพและออกแบบมาเพื่อรักษามูลค่าที่มั่นคงที่ $1 ต่อเหรียญ อาจใช้เป็นวิธีการแลกเปลี่ยนเงินดิจิทัลสกุลอื่นๆ หรือใช้เป็นที่เก็บมูลค่าได้โดยไม่มีความผันผวนของราคาที่เกี่ยวข้องกับคริปโตตัวอื่นๆ"
   ],
-  "unique": [
-    "USDT’s unique feature is the fact that its value is guaranteed by Tether to remain pegged to the U.S. dollar. According to Tether, whenever it issues new USDT tokens, it allocates the same amount of USD to its reserves, thus ensuring that USDT is fully backed by cash and cash equivalents.",
-    "The famously high volatility of the crypto markets means that cryptocurrencies can rise or fall by 10-20% within a single day, making them unreliable as a store of value. USDT, on the other hand, is protected from these fluctuations.",
-    "This property makes USDT a safe haven for crypto investors: during periods of high volatility, they can park their portfolios in Tether without having to completely cash out into USD. In addition, USDT provides a simple way to transact a U.S. dollar equivalent between regions, countries and even continents via blockchain — without having to rely on a slow and expensive intermediary, like a bank or a financial services provider.",
-    "However, over the years, there have been a number of controversies regarding the validity of Tether’s claims about their USD reserves, at times disrupting USDT’s price, which went down as low as $0.88 at one point in its history. Many have raised concerns about the fact that Tether’s reserves have never been fully audited by an independent third party."
+  "mechanism": [
+    "กลไกลของ USDT คือ เมื่อผู้ใช้ซื้อ USDT Tether จะออก (mint) เหรียญ USDT จำนวนที่เท่ากับมูลค่าที่ผู้ใช้ซื้อและถือเงินดอลลาร์ไว้เป็นเงินทุนสำรอง เงินดอลลาร์สหรัฐฯ ที่อยู่ในเงินสำรองจะจัดหาสภาพคล่องเพื่อรองรับมูลค่าที่มั่นคงของเงินดอลลาร์สหรัฐฯ ต่อดอลลาร์สหรัฐ ฯ",
+    "เมื่อผู้ใช้แลกเปลี่ยน USDT เป็น USD Tether จะทำลาย (Burn) เหรียญ USDT ในปริมาณที่เท่ากับมูลค่าที่ผู้ใช้ขายและปล่อย USD ในปริมาณที่เท่ากันจากเงินสำรอง กลไกการถอนนี้มีจุดมุ่งหมายเพื่อรักษามูลค่าที่มั่นคงของ USDT โดยตรวจสอบให้แน่ใจว่ามีเงินดอลลาร์ที่สอดคล้องกันเป็นทุนสำรองอยู่เสมอเพื่อคงมูลค่าเหรียญ USDT ที่หมุนเวียนอยู่",
+    "กลไกของ USDT ยังได้รับการออกแบบมาเพื่อให้มีความยืดหยุ่นในการฝากและถอนเหรียญ USDT เพิ่มขึ้นหรือลดลงตามความต้องการของตลาด โดยความยืดหยุ่นนี้ออกแบบมาเพื่อช่วยรักษามูลค่าของ USDT เพื่อรับมือกับการเปลี่ยนแปลงของตลาด cryptocurrency"
   ],
-  "fud": [
-    "Tether has been the target of a lot of FUD due to its murky balance sheet and lack of a public audit. The company has repeatedly been fined for misleading statements around the state of its books. After Tether released a first breakdown of its balances, it came under even more scrutiny from regulators over its claims that all issued stablecoins are fully backed by dollar reserves.",
-    "Even though a report supposedly cleared Tether from any allegations of wrongdoing, doubts remain. The company has been in repeated spats over its business practices, but most in crypto accept that Tether is, in a way, \"too big too fail.\""
-  ]
+  "holder_benefits": [],
+  "real_world_use_cases": []
 }

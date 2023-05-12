@@ -61,7 +61,7 @@ if __name__ == "__main__":
             schedule.every().hour.at("00:00").do(generate_main_page,asset_list)
             schedule.every().hour.at("00:00").do(generate_coin_details,asset_list)
             schedule.every().minute.at(":00").do(get_time)
-            schedule.run_all()
+            # schedule.run_all()   
             print(f"Updating is completed, start to running the API")
             run_background_schedule = run_continuously() # Make all schedules updating run in a background
             uvicorn.run("prototype_api:app", host=args.host, port=args.port, workers=args.workers)
