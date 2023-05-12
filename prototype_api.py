@@ -346,19 +346,16 @@ def get_OHLCV(symbol, resolution: str = "24h", countback : int = 0, start : int 
         
     with open(f"coin_page/{symbol}/OHLCV.json") as f:
         OHLCV_df = pd.DataFrame(json.load(f))
-    print(OHLCV_df)
 
     if countback != 0:
         OHLCV_df = OHLCV_df.query(f"time<={end}")
         OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
         OHLCV_df.drop("time",axis=1,inplace=True)
-        print(OHLCV_df)
         OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna().iloc[-countback:,:]
     else:
         OHLCV_df = OHLCV_df.query(f"time<={end} and time >={start}")
         OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
         OHLCV_df.drop("time",axis=1,inplace=True)
-        print(OHLCV_df)
         OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna()
     OHLCV_df["time"] = OHLCV_df.index
     return json.loads(OHLCV_df.to_json(orient="records"))
