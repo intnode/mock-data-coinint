@@ -176,7 +176,7 @@ def get_cryptocurrencies(symbol):
         overview["data"] = {}
         overview["data"]["metadata"] = metadata
         overview["data"]["token_links"] = token_links
-        overview["data"]["what_is"] = what_is
+        overview["data"]["static"] = what_is
         overview["data"]["investor"] = investor
         overview["data"]["team"] = team
         overview["data"]["token_distribution"] = token_distribution
@@ -207,7 +207,7 @@ def get_cryptocurrencies(symbol):
         overview["data"] = {}
         overview["data"]["metadata"] = metadata
         overview["data"]["token_links"] = token_links
-        overview["data"]["what_is"] = what_is
+        overview["data"]["static"] = what_is
         overview["data"]["investor"] = investor
         overview["data"]["team"] = team
         overview["data"]["token_distribution"] = token_distribution
