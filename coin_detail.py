@@ -133,5 +133,5 @@ def generate_coin_details(asset_list):
   print("Update coin detail page complete")
     
 if __name__ == "__main__":
-  asset_list = ["AVAX"]
+  asset_list = ["BTC", "ETH", "UNI", "AAVE", "USDT"]
   generate_coin_details(asset_list)

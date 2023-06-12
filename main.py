@@ -20,6 +20,10 @@ def get_time():
     get current time for checking that updating thread is still alive.
     """
     print(dt.now())
+
+def update_data(asset_list):
+    generate_main_page(asset_list)
+    generate_coin_details(asset_list)
     
 def run_continuously(interval=1):
     """
@@ -59,8 +63,7 @@ if __name__ == "__main__":
             print(f"Updating database before starting API")
             generate_main_page(asset_list)
             generate_coin_details(asset_list)
-            schedule.every().hour.at("00:00").do(generate_main_page,asset_list)
-            schedule.every().hour.at("00:00").do(generate_coin_details,asset_list)
+            schedule.every().hour.at("00:00").do(update_data,asset_list)
             schedule.every().minute.at(":00").do(get_time)
             # schedule.run_all()   
             print(f"Updating is completed, start to running the API")
