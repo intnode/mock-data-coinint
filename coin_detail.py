@@ -7,7 +7,7 @@ from collections import OrderedDict
 from tradingnode.simple_gauge import simple_asset_gauge, weighted_asset_gauge, indicator_dict, moving_average_oscillator_weight
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-
+from datetime import timedelta
 
 load_dotenv()
 CMC_API = os.environ.get('CMC_API')
@@ -15,12 +15,12 @@ CC_API = os.environ.get('CC_API')
 Glassnode_API = os.environ.get('Glassnode_API')
 AV_API = os.environ.get('AV_API')
 
-PVM_AGG = OrderedDict((
-           ("price","last"),
-           ("volume","sum"),
-           ("marketcap","last"),
-           ("time","last"),
-          ))
+PVM_coingecko_AGG = OrderedDict((
+                    ("price","last"),
+                    ("volume","last"),
+                    ("marketcap","last"),
+                    ("time","last"),
+                    ))
 
 OHLCV_AGG = OrderedDict((
             ('Open', 'first'),
@@ -30,7 +30,19 @@ OHLCV_AGG = OrderedDict((
             ('Volume', 'sum'),
           ))
 
-slug_to_symbol = {"bitcoin":"BTC", "ethereum":"ETH", "uniswap":"UNI", "aave":"AAVE", "tether":"USDT"}
+if os.path.exists("utils/gecko_coinlist.json"):
+  gecko_coinlist = pd.read_json("utils/gecko_coinlist.json")
+  pass
+else:
+  url = "https://api.coingecko.com/api/v3/coins/list"
+  req = requests.get(url)
+  gecko_coinlist = pd.DataFrame(req.json())
+  gecko_coinlist.to_json("utils/gecko_coinlist.json",indent=2,orient="records")
+
+def hour_rounder(t):
+    # Rounds to nearest hour by adding a timedelta hour if minute >= 30
+    return (t.replace(second=0, microsecond=0, minute=0, hour=t.hour)
+               +timedelta(hours=t.minute//30))
 
 def generate_coin_details(asset_list):
   try:
@@ -40,7 +52,37 @@ def generate_coin_details(asset_list):
                     status_forcelist=[429, 500, 502, 503, 504])
 
     ses.mount('http://', HTTPAdapter(max_retries=retries))
-
+    
+    with open("utils/available_assets.json","r") as f:
+      existed_asset = json.load(f)
+    for asset in tqdm(existed_asset):
+      gecko_id = gecko_coinlist[gecko_coinlist.symbol==asset.casefold()].id.values[0]
+      
+      ## Coin gecko market chart have 3 values, price, market_cap and 24hr volume ##
+      
+      # Get Hourly data
+      url = f"https://api.coingecko.com/api/v3/coins/{gecko_id}/market_chart?vs_currency=usd&days=90"
+      req = ses.get(url)
+      price1h = pd.DataFrame(req.json().get("prices"),columns=["time","price"]).set_index('time')
+      marketcap1h = pd.DataFrame(req.json().get("total_volumes"),columns=["time","volume"]).set_index('time')
+      volumnes1h = pd.DataFrame(req.json().get("market_caps"),columns=["time","marketcap"]).set_index('time')
+      pvm1h = pd.concat([price1h,volumnes1h,marketcap1h],axis=1)
+      pvm1h.index = pd.Series(pd.to_datetime(pvm1h.index, unit="ms")).apply(lambda x: hour_rounder(x))
+      pvm1h["time"] = pvm1h.index
+      pvm1h.iloc[-24*7:].to_json(f"coin_page/{asset}/price_chart_7d.json",orient="records",indent=2)
+      pvm1h.iloc[-24*30:].to_json(f"coin_page/{asset}/price_chart_1m.json",orient="records",indent=2)
+      pvm1h.resample("3h",closed="left",label="left").agg(PVM_coingecko_AGG).to_json(f"coin_page/{asset}/price_chart_3m.json",orient="records",indent=2)
+      
+      # Get Daily data
+      url = f"https://api.coingecko.com/api/v3/coins/{gecko_id}/market_chart?vs_currency=usd&days=max"
+      req = ses.get(url)
+      price1d = pd.DataFrame(req.json().get("prices"),columns=["time","price"]).set_index('time')
+      marketcap1d = pd.DataFrame(req.json().get("total_volumes"),columns=["time","volume"]).set_index('time')
+      volumnes1d = pd.DataFrame(req.json().get("market_caps"),columns=["time","marketcap"]).set_index('time')
+      pvm1d = pd.concat([price1d,volumnes1d,marketcap1d],axis=1)
+      pvm1d.index = pd.Series(pd.to_datetime(pvm1d.index, unit="ms"))
+      pvm1d["time"] = pvm1d.index
+      pvm1d.iloc[-365:].to_json(f"coin_page/{asset}/price_chart_1y.json",orient="records")
     for asset in tqdm(asset_list):
       if not os.path.exists(f"coin_page/{asset}"):
         os.mkdir(f"coin_page/{asset}")

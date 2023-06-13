@@ -1,1 +1,46 @@
-{"global_metric": [{"active_cryptocurrencies": 10410, "total_cryptocurrencies": 25646, "active_market_pairs": 64427, "active_exchanges": 641, "total_exchanges": 5969, "eth_dominance": 19.9432361686, "btc_dominance": 47.7993142174, "eth_dominance_yesterday": 20.0468693, "btc_dominance_yesterday": 47.54073423, "eth_dominance_24h_percentage_change": -0.1036331314, "btc_dominance_24h_percentage_change": 0.2585799874, "defi_volume_24h": 1906546943.113745, "defi_volume_24h_reported": 10937139903.456877, "defi_market_cap": 37778121947.349365, "defi_24h_percentage_change": -52.4890207244, "stablecoin_volume_24h": 24940702832.778156, "stablecoin_volume_24h_reported": 137731638175.8287, "stablecoin_market_cap": 125876645655.18846, "stablecoin_24h_percentage_change": -47.646713337, "derivatives_volume_24h": 156515892266.1239, "derivatives_volume_24h_reported": 156515892266.1239, "derivatives_24h_percentage_change": -43.0810776604, "last_updated": 1686543779999, "convert_symbol": "USD", "total_market_cap": 1047793369576.6781, "total_volume_24h": 26703535302.64, "total_volume_24h_reported": 143308449175.64, "altcoin_volume_24h": 15176404628.566988, "altcoin_volume_24h_reported": 88343907876.62572, "altcoin_market_cap": 546955324504.03064, "total_market_cap_yesterday": 1047552144366.4133, "total_volume_24h_yesterday": 50809889663.3, "total_market_cap_yesterday_percentage_change": 0.0230275134, "total_volume_24h_yesterday_percentage_change": -47.444217101}], "market_overview": {"market_cryptocurrencies": 1000, "rise": 322, "stable": 82, "fall": 596}}
+{
+  "global_metric": [
+    {
+      "active_cryptocurrencies": 10439,
+      "total_cryptocurrencies": 25695,
+      "active_market_pairs": 64880,
+      "active_exchanges": 642,
+      "total_exchanges": 5972,
+      "eth_dominance": 19.8468106194,
+      "btc_dominance": 47.7469562272,
+      "eth_dominance_yesterday": 19.94557583,
+      "btc_dominance_yesterday": 47.7652195,
+      "eth_dominance_24h_percentage_change": -0.0987652106,
+      "btc_dominance_24h_percentage_change": -0.0182632728,
+      "defi_volume_24h": 2035842180.336568,
+      "defi_volume_24h_reported": 12407494732.379684,
+      "defi_market_cap": 38653678498.0566,
+      "defi_24h_percentage_change": 8.1876327189,
+      "stablecoin_volume_24h": 28061756381.11762,
+      "stablecoin_volume_24h_reported": 146992584279.6881,
+      "stablecoin_market_cap": 125584892231.56134,
+      "stablecoin_24h_percentage_change": 12.9166618902,
+      "derivatives_volume_24h": 166275834132.84772,
+      "derivatives_volume_24h_reported": 166275834132.84772,
+      "derivatives_24h_percentage_change": 7.1897840701,
+      "last_updated": 1686633419999,
+      "convert_symbol": "USD",
+      "total_market_cap": 1060376772663.4816,
+      "total_volume_24h": 29149106607.03,
+      "total_volume_24h_reported": 152166206442.53,
+      "altcoin_volume_24h": 17543381530.3255,
+      "altcoin_volume_24h_reported": 95179238471.25218,
+      "altcoin_market_cap": 554079139176.702,
+      "total_market_cap_yesterday": 1048384401167.6677,
+      "total_volume_24h_yesterday": 26612728102.36,
+      "total_market_cap_yesterday_percentage_change": 1.1438906838,
+      "total_volume_24h_yesterday_percentage_change": 9.5306970969
+    }
+  ],
+  "market_overview": {
+    "market_cryptocurrencies": 1000,
+    "rise": 648,
+    "stable": 76,
+    "fall": 276
+  }
+}
