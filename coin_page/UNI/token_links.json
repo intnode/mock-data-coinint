@@ -1,36 +1,86 @@
 {
-    "website": "https://uniswap.org/",
-    "explorer": [
-      "https://blockscout.com/xdai/mainnet/tokens/0x4537e328bf7e4efa29d05caea260d7fe26af9d74/token-transfers",
-      "https://hecoinfo.com/token/0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
-      "https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-      "https://nearblocks.io/token/1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near",
-      "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
-    ],
-    "wallets": [
-      "metamask"
-    ],
-    "community": {
-      "twitter": "https://twitter.com/Uniswap",
-      "discord": null,
-      "reddit": "https://reddit.com/r/Uniswap"
+  "website": [
+    "https://uniswap.org/blog/uni/",
+    "https://uniswap.org/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "https://nearblocks.io/token/1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near",
+    "https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+    "https://hecoinfo.com/token/0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+    "https://blockscout.com/xdai/mainnet/tokens/0x4537e328bf7e4efa29d05caea260d7fe26af9d74/token-transfers"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Uniswap",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Uniswap",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "link": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
     },
-    "audit": [],
-    "contracts": [
-      {
-        "chain": "Ethereum",
-        "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-        "link": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
-      },
-      {
-        "chain": "BNB Smart Chain",
-        "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-        "link": "https://blockchain.coinmarketcap.com/token/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
-      },
-      {
-        "chain": "Polygon",
-        "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-        "link": "https://polygonscan.com/token/0xb33eaad8d922b1083446dc23f610c2567fb5180f"
-      }
-    ]
-  }
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "link": "https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+    },
+    {
+      "chain": "HECO",
+      "address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+      "link": "https://www.hecoinfo.com/token/0x22c54ce8321a4015740ee1109d9cbc25815c46e6"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+      "link": "https://gnosisscan.io/token/0x4537e328bf7e4efa29d05caea260d7fe26af9d74"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+      "link": "https://polygonscan.com/token/0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x009be848df92a400da2f217256c88d1a9b1a0304f9b3e90991a67418e1d3b08c",
+      "link": null
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+      "link": "https://snowtrace.io/token/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580"
+    },
+    {
+      "chain": "Solana",
+      "address": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
+      "link": null
+    },
+    {
+      "chain": "Terra Classic",
+      "address": "terra1wyxkuy5jq545fn7xfn3enpvs5zg9f9dghf6gxf",
+      "link": null
+    },
+    {
+      "chain": "Hoo Smart Chain",
+      "address": "0x1fc14e78612edc54e36506c4a11a1a3be4fe48af",
+      "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+      "link": "https://arbiscan.io/token/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0"
+    },
+    {
+      "chain": "Near",
+      "address": "1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near",
+      "link": "https://nearblocks.io/token/1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near"
+    }
+  ]
+}

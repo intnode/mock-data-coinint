@@ -1,0 +1,55 @@
+{
+  "website": [
+    "https://cosmos.network/"
+  ],
+  "explorer": [
+    "https://www.mintscan.io/",
+    "https://atomscan.com",
+    "https://atom.tokenview.com/en",
+    "https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335",
+    "https://etherscan.io/address/0x8D983cb9388EaC77af0474fA441C4815500Cb7BB"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/cosmos",
+    "discord": null,
+    "reddit": "https://reddit.com/r/cosmosnetwork",
+    "facebook": null
+  },
+  "source_code": "https://github.com/cosmos",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "link": "https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335"
+    },
+    {
+      "chain": "Osmosis",
+      "address": "IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+      "link": null
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+      "link": "https://etherscan.io/token/0x8D983cb9388EaC77af0474fA441C4815500Cb7BB"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+      "link": "https://polygonscan.com/token/0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b"
+    },
+    {
+      "chain": "Cronos",
+      "address": "0xb888d8dd1733d72681b30c00ee76bde93ae7aa93",
+      "link": "https://cronoscan.com/token/0xb888d8dd1733d72681b30c00ee76bde93ae7aa93"
+    },
+    {
+      "chain": "Canto",
+      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+      "link": null
+    }
+  ]
+}

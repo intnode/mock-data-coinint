@@ -1,0 +1,59 @@
+{
+  "website": [
+    "https://1inch.io/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
+    "https://nearblocks.io/token/111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near",
+    "https://blockscout.com/xdai/mainnet/tokens/0x7f7440C5098462f833E123B44B8A03E1d9785BAb/token-transfers",
+    "https://bscscan.com/token/0x111111111117dc0aa78b770fa6a738034120c302",
+    "https://avascan.info/blockchain/c/token/0xd501281565bf7789224523144Fe5D98e8B28f267"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/1inch",
+    "discord": null,
+    "reddit": "https://reddit.com/r/1inch",
+    "facebook": "https://www.facebook.com/1inchNetwork"
+  },
+  "source_code": "https://github.com/1inch",
+  "audit": [
+    "SlowMist",
+    "Chainsulting",
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "link": "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "link": "https://bscscan.com/token/0x111111111117dc0aa78b770fa6a738034120c302"
+    },
+    {
+      "chain": "Solana",
+      "address": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
+      "link": null
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
+      "link": "https://gnosisscan.io/token/0x7f7440C5098462f833E123B44B8A03E1d9785BAb"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+      "link": "https://snowtrace.io/token/0xd501281565bf7789224523144Fe5D98e8B28f267"
+    },
+    {
+      "chain": "Near",
+      "address": "111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near",
+      "link": "https://nearblocks.io/token/111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near"
+    }
+  ]
+}

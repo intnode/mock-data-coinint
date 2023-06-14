@@ -1,5 +1,8 @@
 {
-  "website": "https://avax.network/",
+  "website": [
+    "https://avax.network/",
+    "https://www.avalabs.org/"
+  ],
   "explorer": [
     "https://snowtrace.io/",
     "https://avascan.info/blockchain/x/asset/FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
@@ -11,16 +14,38 @@
   "community": {
     "twitter": "https://twitter.com/Avax",
     "discord": null,
-    "reddit": "https://reddit.com/r/Avax"
+    "reddit": "https://reddit.com/r/Avax",
+    "facebook": "https://www.facebook.com/avalancheavax"
   },
+  "source_code": "https://github.com/ava-labs/avalanchego",
   "audit": [
-    "https://hacken.io/"
+    "Hacken"
   ],
   "contracts": [
     {
-      "chain": "BNB Smart Chain",
+      "chain": "Avalanche X-Chain",
+      "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "link": null
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
       "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
       "link": "https://bscscan.com/token/0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+    },
+    {
+      "chain": "Moonbeam",
+      "address": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+      "link": "https://moonbeam.moonscan.io/token/0x4792c1ecb969b036eb51330c63bd27899a13d84e"
+    },
+    {
+      "chain": "Klaytn",
+      "address": "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
+      "link": "https://scope.klaytn.com/token/0xcd8fe44a29db9159db36f96570d7a4d91986f528"
+    },
+    {
+      "chain": "zkSync Era",
+      "address": "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6",
+      "link": null
     }
   ]
 }

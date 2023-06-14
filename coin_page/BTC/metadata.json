@@ -3,11 +3,23 @@
   "slug": "bitcoin",
   "fullname": "Bitcoin",
   "symbol": "BTC",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/btc.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/bitcoin",
   "categories": [
+    "coin",
+    "mineable",
+    "pow",
+    "sha-256",
+    "store-of-value",
+    "state-channel",
+    "bitcoin-ecosystem"
+  ],
+  "categories_name": [
     "Coin",
     "Mineable",
     "PoW",
-    "SHA-256"
+    "SHA-256",
+    "Store Of Value",
+    "State Channel",
+    "Bitcoin Ecosystem"
   ]
 }

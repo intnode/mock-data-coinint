@@ -1,0 +1,50 @@
+{
+  "website": [
+    "https://abbccoin.com/"
+  ],
+  "explorer": [
+    "https://e.abbcnet.io/",
+    "https://bscscan.com/token/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
+    "https://ftmscan.com/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+    "https://polygonscan.com/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+    "https://snowtrace.io/token/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/abbcfoundation",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+      "link": "https://etherscan.io/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
+      "link": "https://bscscan.com/token/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+      "link": "https://ftmscan.com/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+      "link": "https://polygonscan.com/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+      "link": "https://snowtrace.io/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d"
+    }
+  ]
+}

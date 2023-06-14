@@ -3,11 +3,33 @@
   "slug": "tether",
   "fullname": "Tether",
   "symbol": "USDT",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/usdt.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/tether",
   "categories": [
+    "token",
+    "payments",
+    "stablecoin",
+    "asset-backed-stablecoin",
+    "avalanche-ecosystem",
+    "solana-ecosystem",
+    "arbitrum-ecosytem",
+    "moonriver-ecosystem",
+    "injective-ecosystem",
+    "bnb-chain",
+    "usd-stablecoin",
+    "optimism-ecosystem"
+  ],
+  "categories_name": [
     "Token",
     "Payments",
     "Stablecoin",
-    "Asset-Backed Stablecoin"
+    "Asset-Backed Stablecoin",
+    "Avalanche Ecosystem",
+    "Solana Ecosystem",
+    "Arbitrum Ecosystem",
+    "Moonriver Ecosystem",
+    "Injective Ecosystem",
+    "BNB Chain",
+    "USD Stablecoin",
+    "Optimism Ecosystem"
   ]
 }

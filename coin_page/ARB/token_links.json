@@ -1,0 +1,34 @@
+{
+  "website": [
+    "https://arbitrum.foundation",
+    "https://arbitrum.io/"
+  ],
+  "explorer": [
+    "https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "https://etherscan.io/token/0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+    "https://nova-explorer.arbitrum.io/token/0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD/token-transfers"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/arbitrum",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Arbitrum",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "link": "https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548"
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+      "link": "https://etherscan.io/token/0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"
+    }
+  ]
+}

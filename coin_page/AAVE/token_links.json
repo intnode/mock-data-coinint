@@ -1,36 +1,76 @@
 {
-    "website": "https://aave.com/",
-    "explorer": [
-      "https://blockscout.com/xdai/mainnet/tokens/0xDF613aF6B44a31299E48131e9347F034347E2F00/token-transfers",
-      "https://ftmscan.com/token/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
-      "https://scan.hecochain.com/address/0x202b4936fe1a82a4965220860ae46d7d3939bb25",
-      "https://explorer-mainnet.maticvigil.com/tokens/0xd6df932a45c0f255f85145f286ea0b292b21c90b/token-transfers",
-      "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
-    ],
-    "wallets": [
-      "metamask"
-    ],
-    "community": {
-      "twitter": "https://twitter.com/AaveAave",
-      "discord": null,
-      "reddit": "https://reddit.com/r/Aave_Official"
+  "website": [
+    "https://aave.com/",
+    "https://ethlend.io"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "https://explorer-mainnet.maticvigil.com/tokens/0xd6df932a45c0f255f85145f286ea0b292b21c90b/token-transfers",
+    "https://scan.hecochain.com/address/0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+    "https://ftmscan.com/token/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+    "https://blockscout.com/xdai/mainnet/tokens/0xDF613aF6B44a31299E48131e9347F034347E2F00/token-transfers"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/AaveAave",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Aave_Official",
+    "facebook": null
+  },
+  "source_code": "https://github.com/aave",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "link": "https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
     },
-    "audit": ["https://www.certik.com"],
-    "contracts": [
-      {
-        "chain": "Ethereum",
-        "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-        "link": "https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
-      },
-      {
-        "chain": "BNB Smart Chain",
-        "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
-        "link": "https://blockchain.coinmarketcap.com/token/bsc/0xfb6115445bff7b52feb98650c87f44907e58f802"
-      },
-      {
-        "chain": "Polygon",
-        "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-        "link": "https://polygonscan.com/token/0xd6df932a45c0f255f85145f286ea0b292b21c90b"
-      }
-    ]
-  }
+    {
+      "chain": "HECO",
+      "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+      "link": "https://www.hecoinfo.com/token/0x202b4936fe1a82a4965220860ae46d7d3939bb25"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+      "link": "https://gnosisscan.io/token/0xDF613aF6B44a31299E48131e9347F034347E2F00"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+      "link": "https://ftmscan.com/token/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
+      "link": "https://snowtrace.io/token/0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "link": "https://polygonscan.com/token/0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+      "link": "https://bscscan.com/token/0xfb6115445bff7b52feb98650c87f44907e58f802"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36",
+      "link": null
+    },
+    {
+      "chain": "Solana",
+      "address": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
+      "link": null
+    },
+    {
+      "chain": "Near",
+      "address": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
+      "link": "https://nearblocks.io/token/7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near"
+    }
+  ]
+}
