@@ -37,8 +37,10 @@ def generate_main_page():
     resdf.to_json(f"main_page/coin_ranking_table.json",orient="records",indent=2)
     
     sym2slug = {resdf.symbol.iloc[i]:resdf.slug.iloc[i] for i in range(len(resdf))}
+    sym2name = {resdf.symbol.iloc[i]:resdf.coin_name.iloc[i] for i in range(len(resdf))}
     sym2id = {resdf.symbol.iloc[i]:int(resdf.coin_id.iloc[i]) for i in range(len(resdf))}
     slug2id = {resdf.slug.iloc[i]:int(resdf.coin_id.iloc[i]) for i in range(len(resdf))}
+
     
     if os.path.exists("utils/sym2slug.json"):
       with open("utils/sym2slug.json", "r") as f:
@@ -55,10 +57,16 @@ def generate_main_page():
         existed_slug2id = json.load(f)
     else:
       existed_slug2id = {}
+    if os.path.exists("utils/sym2name.json"):
+      with open("utils/sym2name.json", "r") as f:
+        existed_sym2name = json.load(f)
+    else:
+      existed_sym2name = {}
     
     sym2slug.update(existed_sym2slug)
     sym2id.update(existed_sym2id)
     slug2id.update(existed_slug2id)
+    sym2name.update(existed_sym2name)
     
     with open("utils/sym2slug.json", "w") as f:
       json.dump(sym2slug, f, indent=2)
@@ -66,6 +74,8 @@ def generate_main_page():
       json.dump(sym2id, f, indent=2)
     with open("utils/slug2id.json", "w") as f:
       json.dump(slug2id, f, indent=2)
+    with open("utils/sym2name.json", "w") as f:
+      json.dump(sym2name, f, indent=2)
 
     num_coins = 150
 
