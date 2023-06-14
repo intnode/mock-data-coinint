@@ -1,0 +1,35 @@
+{
+  "website": [
+    "http://bch.info"
+  ],
+  "explorer": [
+    "https://explorer.bitcoin.com/bch",
+    "https://blockchair.com/bitcoin-cash",
+    "https://bch.tokenview.com/en",
+    "https://www.oklink.com/bch",
+    "https://bscscan.com/token/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": null,
+    "discord": null,
+    "reddit": "https://reddit.com/r/Bitcoincash",
+    "facebook": null
+  },
+  "source_code": "https://gitlab.com/bitcoin-cash-node/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "HECO",
+      "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+      "link": "https://www.hecoinfo.com/token/0xef3cebd77e0c52cb6f60875d9306397b5caca375"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "link": "https://bscscan.com/token/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf"
+    }
+  ]
+}

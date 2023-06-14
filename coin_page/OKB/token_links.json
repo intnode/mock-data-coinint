@@ -1,0 +1,37 @@
+{
+  "website": [
+    "https://www.okx.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "https://blockchair.com/ethereum/erc-20/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "https://eth.tokenview.com/en/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "https://www.oklink.com/eth/token/0x75231f58b43240c9718dd58b4967c5114342a86c"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/okx",
+    "discord": null,
+    "reddit": "https://reddit.com/r/okx",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "Hacken"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "link": "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c"
+    },
+    {
+      "chain": "OKExChain",
+      "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+      "link": "https://www.oklink.com/oktc/token/0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2"
+    }
+  ]
+}

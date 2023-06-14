@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://xrpl.org/"
+  ],
+  "explorer": [
+    "https://xrpcharts.ripple.com/#/graph/",
+    "https://bithomp.com/explorer/",
+    "https://xrpscan.com/",
+    "https://blockchair.com/ripple",
+    "https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Ripple",
+    "discord": null,
+    "reddit": "https://reddit.com/r/ripple",
+    "facebook": null
+  },
+  "source_code": "https://github.com/ripple/rippled",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "link": "https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+    },
+    {
+      "chain": "Klaytn",
+      "address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
+      "link": "https://scope.klaytn.com/token/0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f"
+    }
+  ]
+}

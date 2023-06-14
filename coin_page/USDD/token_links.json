@@ -1,0 +1,47 @@
+{
+  "website": [
+    "https://usdd.io/",
+    "https://usdd.network/"
+  ],
+  "explorer": [
+    "https://tronscan.org/#/token20/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+    "https://bscscan.com/token/0xd17479997f34dd9156deef8f95a52d81d265be9c",
+    "https://etherscan.io/token/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/usddio",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://tronscan.org/#/contract/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn/code",
+  "audit": [
+    "SlowMist",
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+      "link": "https://etherscan.io/token/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+      "link": "https://bscscan.com/token/0xd17479997f34dd9156deef8f95a52d81d265be9c"
+    },
+    {
+      "chain": "Tron20",
+      "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+      "link": null
+    },
+    {
+      "chain": "Near",
+      "address": "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near",
+      "link": "https://nearblocks.io/token/0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near"
+    }
+  ]
+}

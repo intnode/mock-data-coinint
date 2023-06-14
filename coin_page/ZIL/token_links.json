@@ -1,0 +1,32 @@
+{
+  "website": [
+    "https://www.zilliqa.com/"
+  ],
+  "explorer": [
+    "https://viewblock.io/zilliqa",
+    "https://bscscan.com/token/0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/zilliqa",
+    "discord": null,
+    "reddit": "https://reddit.com/r/zilliqa",
+    "facebook": null
+  },
+  "source_code": "https://github.com/Zilliqa/Zilliqa",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+      "link": "https://bscscan.com/token/0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+    },
+    {
+      "chain": "Zilliqa",
+      "address": "zil1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq9yf6pz",
+      "link": null
+    }
+  ]
+}

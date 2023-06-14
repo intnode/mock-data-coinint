@@ -1,0 +1,29 @@
+{
+  "website": [
+    "http://dogecoin.com/"
+  ],
+  "explorer": [
+    "https://blockchair.com/dogecoin",
+    "http://dogechain.info/chain/Dogecoin",
+    "https://explorer.viabtc.com/doge",
+    "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/dogecoin",
+    "discord": null,
+    "reddit": "https://reddit.com/r/dogecoin",
+    "facebook": null
+  },
+  "source_code": "https://github.com/dogecoin/dogecoin",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "link": "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43"
+    }
+  ]
+}

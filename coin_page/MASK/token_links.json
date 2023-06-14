@@ -1,0 +1,40 @@
+{
+  "website": [
+    "https://www.mask.io"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+    "https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+    "https://polygonscan.com/token/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/realmasknetwork",
+    "discord": null,
+    "reddit": "https://reddit.com/r/MaskNetwork",
+    "facebook": null
+  },
+  "source_code": "https://github.com/DimensionDev/Maskbook",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "link": "https://etherscan.io/token/0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "link": "https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+      "link": "https://polygonscan.com/token/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7"
+    }
+  ]
+}

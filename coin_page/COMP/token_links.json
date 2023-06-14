@@ -1,0 +1,62 @@
+{
+  "website": [
+    "https://compound.finance/governance/comp"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "https://ethplorer.io/address/0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "https://nearblocks.io/token/c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near",
+    "https://blockscout.com/xdai/mainnet/tokens/0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD/token-transfers",
+    "https://bscscan.com/token/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/compound-finance/compound-protocol",
+  "audit": [
+    "Quantstamp"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "link": "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD",
+      "link": "https://gnosisscan.io/token/0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "link": "https://bscscan.com/token/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x00dbd45af9f2ea406746f9025110297469e9d29efc60df8d88efb9b0179d6c2c",
+      "link": null
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+      "link": "https://snowtrace.io/token/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437"
+    },
+    {
+      "chain": "Solana",
+      "address": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
+      "link": null
+    },
+    {
+      "chain": "Near",
+      "address": "c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near",
+      "link": "https://nearblocks.io/token/c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "website": [
+    "https://tomochain.com/"
+  ],
+  "explorer": [
+    "https://tomoscan.io/",
+    "https://explorer.binance.org/asset/TOMOB-4BC",
+    "https://etherscan.io/token/0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+    "https://scan.tomochain.com/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/TomoChainANN",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Tomochain",
+    "facebook": null
+  },
+  "source_code": "https://github.com/tomochain/",
+  "audit": [
+    "Verichains"
+  ],
+  "contracts": [
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "TOMOB-4BC",
+      "link": null
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+      "link": "https://etherscan.io/token/0x05d3606d5c81eb9b7b18530995ec9b29da05faba"
+    }
+  ]
+}

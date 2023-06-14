@@ -1,0 +1,50 @@
+{
+  "website": [
+    "https://fantom.foundation/"
+  ],
+  "explorer": [
+    "https://ftmscan.com/",
+    "https://explorer.fantom.network/",
+    "https://explorer.binance.org/asset/FTM-A64",
+    "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "https://solscan.io/token/8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/FantomFDN",
+    "discord": null,
+    "reddit": "https://reddit.com/r/FantomFoundation",
+    "facebook": null
+  },
+  "source_code": "https://github.com/Fantom-Foundation",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "link": "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "link": "https://bscscan.com/token/0xad29abb318791d579433d831ed122afeaf29dcfe"
+    },
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "FTM-A64",
+      "link": null
+    },
+    {
+      "chain": "Solana",
+      "address": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
+      "link": null
+    },
+    {
+      "chain": "Celo",
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "link": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "website": [
+    "https://ssv.network/"
+  ],
+  "explorer": [
+    "https://explorer.ssv.network/",
+    "https://etherscan.io/token/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/ssv_network",
+    "discord": null,
+    "reddit": "https://reddit.com/r/SSVnetwork/",
+    "facebook": null
+  },
+  "source_code": "https://github.com/bloxapp/ssv-web",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54",
+      "link": "https://etherscan.io/token/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54"
+    }
+  ]
+}

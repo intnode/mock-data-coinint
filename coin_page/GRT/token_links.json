@@ -1,0 +1,55 @@
+{
+  "website": [
+    "https://thegraph.com"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "https://thegraph.com/explorer/",
+    "https://avascan.info/blockchain/c/token/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+    "https://solscan.io/token/HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+    "https://arbiscan.io/token/0x23a941036ae778ac51ab04cea08ed6e2fe103614"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/graphprotocol",
+    "discord": null,
+    "reddit": "https://reddit.com/r/thegraph",
+    "facebook": null
+  },
+  "source_code": "https://github.com/graphprotocol",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "link": "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355",
+      "link": null
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+      "link": "https://snowtrace.io/token/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9"
+    },
+    {
+      "chain": "Solana",
+      "address": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+      "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+      "link": "https://arbiscan.io/token/0x23a941036ae778ac51ab04cea08ed6e2fe103614"
+    },
+    {
+      "chain": "Near",
+      "address": "c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near",
+      "link": "https://nearblocks.io/token/c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near"
+    }
+  ]
+}

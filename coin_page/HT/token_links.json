@@ -1,0 +1,37 @@
+{
+  "website": [
+    "https://www.huobiwallet.com",
+    "https://www.hbg.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "http://ethplorer.io/address/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "https://eth.tokenview.com/en/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "https://nearblocks.io/token/6f259637dcd74c767781e37bc6133cd6a68aa161.factory.bridge.near"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/HuobiGlobal",
+    "discord": null,
+    "reddit": "https://reddit.com/r/HuobiGlobal",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "Hacken"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "link": "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+    },
+    {
+      "chain": "Near",
+      "address": "6f259637dcd74c767781e37bc6133cd6a68aa161.factory.bridge.near",
+      "link": "https://nearblocks.io/token/6f259637dcd74c767781e37bc6133cd6a68aa161.factory.bridge.near"
+    }
+  ]
+}

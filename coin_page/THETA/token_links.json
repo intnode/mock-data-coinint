@@ -1,0 +1,28 @@
+{
+  "website": [
+    "https://www.thetatoken.org/"
+  ],
+  "explorer": [
+    "https://explorer.thetatoken.org/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "discord": null,
+    "reddit": "https://reddit.com/r/theta_network",
+    "facebook": null
+  },
+  "source_code": "https://github.com/thetatoken",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+      "link": "https://etherscan.io/token/0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
+    }
+  ]
+}

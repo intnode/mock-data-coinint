@@ -1,0 +1,28 @@
+{
+  "website": [
+    "https://z.cash/"
+  ],
+  "explorer": [
+    "https://explorer.zcha.in/",
+    "https://blockchair.com/zcash",
+    "https://bscscan.com/token/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/electriccoinco",
+    "discord": null,
+    "reddit": "https://reddit.com/r/zec",
+    "facebook": null
+  },
+  "source_code": "https://github.com/zcash/zcash",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "link": "https://bscscan.com/token/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
+    }
+  ]
+}

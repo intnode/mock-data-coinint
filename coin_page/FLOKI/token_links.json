@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://floki.com/"
+  ],
+  "explorer": [
+    "https://bscscan.com/token/0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+    "https://etherscan.io/token/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "https://ethplorer.io/address/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/RealFlokiInu",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Floki",
+    "facebook": "https://www.facebook.com/theflokiinu/"
+  },
+  "source_code": "https://github.com/floki-inu",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+      "link": "https://etherscan.io/token/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+      "link": "https://bscscan.com/token/0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+    }
+  ]
+}

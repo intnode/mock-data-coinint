@@ -1,0 +1,155 @@
+{
+  "website": [
+    "http://www.makerdao.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+    "https://polygonscan.com/token/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "https://blockscout.com/xdai/mainnet/tokens/0x44fA8E6f47987339850636F88629646662444217/token-transfers",
+    "https://ftmscan.com/token/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": null,
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "link": "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "link": "https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x44fA8E6f47987339850636F88629646662444217",
+      "link": "https://gnosisscan.io/token/0x44fA8E6f47987339850636F88629646662444217"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "link": "https://ftmscan.com/token/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "link": "https://polygonscan.com/token/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "link": "https://snowtrace.io/token/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+    },
+    {
+      "chain": "Optimism",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "link": "https://optimistic.etherscan.io/token/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x0200060000000000000000000000000000000000000000000000000000000000",
+      "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "link": "https://arbiscan.io/token/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    {
+      "chain": "Harmony",
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "link": null
+    },
+    {
+      "chain": "Moonriver",
+      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+      "link": "https://moonriver.moonscan.io/token/0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844"
+    },
+    {
+      "chain": "Boba Network",
+      "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
+      "link": "https://bobascan.com/token/0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35"
+    },
+    {
+      "chain": "Solana",
+      "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+      "link": null
+    },
+    {
+      "chain": "Terra Classic",
+      "address": "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+      "link": null
+    },
+    {
+      "chain": "Moonbeam",
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "link": "https://moonbeam.moonscan.io/token/0x765277eebeca2e31912c9946eae1021199b39c61"
+    },
+    {
+      "chain": "Aurora",
+      "address": "0xe3520349f477a5f6eb06107066048508498a291b",
+      "link": "https://explorer.aurora.dev/token/0xe3520349f477a5f6eb06107066048508498a291b"
+    },
+    {
+      "chain": "Klaytn",
+      "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+      "link": "https://scope.klaytn.com/token/0x5c74070fdea071359b86082bd9f9b3deaafbe32b"
+    },
+    {
+      "chain": "Metis Andromeda",
+      "address": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a",
+      "link": "https://andromeda-explorer.metis.io/token/0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a"
+    },
+    {
+      "chain": "Cronos",
+      "address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+      "link": "https://cronoscan.com/token/0xf2001b145b43032aaf5ee2884e456ccd805f677d"
+    },
+    {
+      "chain": "Near",
+      "address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near",
+      "link": "https://nearblocks.io/token/6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near"
+    },
+    {
+      "chain": "Everscale",
+      "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+      "link": null
+    },
+    {
+      "chain": "Bitgert",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "link": "https://brisescan.com/token/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f"
+    },
+    {
+      "chain": "Energi",
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "link": null
+    },
+    {
+      "chain": "Cosmos",
+      "address": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
+      "link": null
+    },
+    {
+      "chain": "TON",
+      "address": "EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B",
+      "link": null
+    },
+    {
+      "chain": "PulseChain",
+      "address": "0xefd766ccb38eaf1dfd701853bfce31359239f305",
+      "link": "https://scan.pulsechain.com/token/0xefd766ccb38eaf1dfd701853bfce31359239f305"
+    }
+  ]
+}

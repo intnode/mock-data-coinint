@@ -1,0 +1,72 @@
+{
+  "website": [
+    "https://www.synthetix.io/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "https://bscscan.com/token/0x9ac983826058b8a9c7aa1c9171441191232e8404",
+    "https://solscan.io/token/8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+    "https://hecoinfo.com/token/0x777850281719d5a96c29812ab72f822e0e09f3da",
+    "https://ftmscan.com/token/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "discord": null,
+    "reddit": "https://reddit.com/r/synthetix_io",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "SlowMist"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "link": "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "link": "https://bscscan.com/token/0x9ac983826058b8a9c7aa1c9171441191232e8404"
+    },
+    {
+      "chain": "HECO",
+      "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
+      "link": "https://www.hecoinfo.com/token/0x777850281719d5a96c29812ab72f822e0e09f3da"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+      "link": "https://ftmscan.com/token/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
+    },
+    {
+      "chain": "Optimism",
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "link": "https://optimistic.etherscan.io/token/0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "link": "https://polygonscan.com/token/0x50b728d8d964fd00c2d0aad81718b71311fef68a"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+      "link": "https://snowtrace.io/token/0xBeC243C995409E6520D7C41E404da5dEba4b209B"
+    },
+    {
+      "chain": "Solana",
+      "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+      "link": null
+    },
+    {
+      "chain": "Near",
+      "address": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
+      "link": "https://nearblocks.io/token/c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near"
+    }
+  ]
+}

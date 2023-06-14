@@ -1,0 +1,63 @@
+{
+  "website": [
+    "https://balancer.finance/",
+    "http://balancer.exchange/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
+    "https://ethplorer.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+    "https://hecoinfo.com/token/0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+    "https://blockscout.com/xdai/mainnet/tokens/0x7eF541E2a22058048904fE5744f9c7E4C57AF717/token-transfers",
+    "https://nearblocks.io/token/ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Balancer",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/balancer-labs",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "link": "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D"
+    },
+    {
+      "chain": "HECO",
+      "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+      "link": "https://www.hecoinfo.com/token/0x045de15ca76e76426e8fc7cba8392a3138078d0f"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
+      "link": "https://gnosisscan.io/token/0x7eF541E2a22058048904fE5744f9c7E4C57AF717"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+      "link": "https://polygonscan.com/token/0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3"
+    },
+    {
+      "chain": "Optimism",
+      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+      "link": "https://optimistic.etherscan.io/token/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+      "link": "https://arbiscan.io/token/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8"
+    },
+    {
+      "chain": "Near",
+      "address": "ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near",
+      "link": "https://nearblocks.io/token/ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near"
+    }
+  ]
+}

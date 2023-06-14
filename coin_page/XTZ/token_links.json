@@ -1,0 +1,36 @@
+{
+  "website": [
+    "https://www.tezos.com/"
+  ],
+  "explorer": [
+    "https://tzstats.com/",
+    "https://tezblock.io/",
+    "https://tzkt.io/",
+    "https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/tezos",
+    "discord": null,
+    "reddit": "https://reddit.com/r/tezos",
+    "facebook": null
+  },
+  "source_code": "https://gitlab.com/tezos/tezos",
+  "audit": [
+    "Quantstamp"
+  ],
+  "contracts": [
+    {
+      "chain": "Tezos",
+      "address": "Tez",
+      "link": null
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "link": "https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a"
+    }
+  ]
+}

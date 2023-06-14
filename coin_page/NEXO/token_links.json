@@ -1,0 +1,39 @@
+{
+  "website": [
+    "https://nexo.com"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "https://explorer.binance.org/asset/NEXO-A84",
+    "https://blockchair.com/ethereum/erc-20/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "https://polygonscan.com/token/0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Nexo",
+    "discord": null,
+    "reddit": "https://reddit.com/r/nexo",
+    "facebook": "https://www.facebook.com/nexofinance"
+  },
+  "source_code": "https://github.com/nexofinance/NEXO-Token/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+      "link": "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+    },
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "NEXO-A84",
+      "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+      "link": "https://polygonscan.com/token/0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+    }
+  ]
+}

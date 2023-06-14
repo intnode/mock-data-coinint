@@ -1,0 +1,43 @@
+{
+  "website": [
+    "https://fetch-ai.network/",
+    "https://docs.fetch.ai/"
+  ],
+  "explorer": [
+    "https://explore-fetchhub.fetch.ai/",
+    "https://www.mintscan.io/fetchai",
+    "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+    "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/fetch_ai",
+    "discord": null,
+    "reddit": "https://reddit.com/r/FetchAI_Community",
+    "facebook": "https://www.facebook.com/FetchAI.Official"
+  },
+  "source_code": "https://github.com/fetchai",
+  "audit": [
+    "SlowMist",
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+      "link": "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+      "link": "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f"
+    },
+    {
+      "chain": "Cosmos",
+      "address": "fetch1qxxlalvsdjd07p07y3rc5fu6ll8k4tmetpha8n",
+      "link": null
+    }
+  ]
+}

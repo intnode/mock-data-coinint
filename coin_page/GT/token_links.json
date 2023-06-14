@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://gatechain.io/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
+    "https://ethplorer.io/address/0xe66747a101bff2dba3697199dcce5b743b454759",
+    "https://solscan.io/token/ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/gatechain_io",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/gatechain",
+  "audit": [
+    "Hacken"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+      "link": "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759"
+    },
+    {
+      "chain": "Solana",
+      "address": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
+      "link": null
+    }
+  ]
+}

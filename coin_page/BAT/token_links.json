@@ -1,0 +1,55 @@
+{
+  "website": [
+    "https://basicattentiontoken.org/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "https://nearblocks.io/token/0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near",
+    "https://bscscan.com/token/0x101d82428437127bf1608f699cd651e6abf9766e",
+    "https://blockscout.com/xdai/mainnet/tokens/0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3/token-transfers",
+    "https://solscan.io/account/EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/attentiontoken",
+    "discord": null,
+    "reddit": "https://reddit.com/r/BATProject",
+    "facebook": null
+  },
+  "source_code": "https://github.com/brave-intl/bat-ledger",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "link": "https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+      "link": "https://bscscan.com/token/0x101d82428437127bf1608f699cd651e6abf9766e"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+      "link": "https://gnosisscan.io/token/0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+      "link": "https://snowtrace.io/token/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588"
+    },
+    {
+      "chain": "Solana",
+      "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+      "link": null
+    },
+    {
+      "chain": "Near",
+      "address": "0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near",
+      "link": "https://nearblocks.io/token/0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near"
+    }
+  ]
+}

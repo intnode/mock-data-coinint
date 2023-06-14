@@ -1,0 +1,31 @@
+{
+  "website": [
+    "https://multiversx.com/",
+    "https://multiversx.com/blog"
+  ],
+  "explorer": [
+    "https://explorer.multiversx.com/",
+    "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    "https://www.elrondscan.com/",
+    "https://elrondmonitor.com",
+    "https://elrond.bigdipper.live/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/MultiversX",
+    "discord": null,
+    "reddit": null,
+    "facebook": "https://www.facebook.com/MultiversX"
+  },
+  "source_code": "https://github.com/multiversx",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+      "link": "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe"
+    }
+  ]
+}

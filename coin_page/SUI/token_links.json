@@ -1,0 +1,26 @@
+{
+  "website": [
+    "https://sui.io/#"
+  ],
+  "explorer": [
+    "https://suiexplorer.com/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/mysten_labs",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/MystenLabs",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "SUI",
+      "address": "0x2::sui::SUI",
+      "link": null
+    }
+  ]
+}

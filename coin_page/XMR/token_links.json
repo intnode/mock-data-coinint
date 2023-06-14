@@ -1,0 +1,28 @@
+{
+  "website": [
+    "https://www.getmonero.org/"
+  ],
+  "explorer": [
+    "http://moneroblocks.info/",
+    "http://chainradar.com/xmr/blocks",
+    "https://blockchair.com/monero"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/monero",
+    "discord": null,
+    "reddit": "https://reddit.com/r/monero",
+    "facebook": null
+  },
+  "source_code": "https://github.com/monero-project/monero",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Secret",
+      "address": "secret19ungtd2c7srftqdwgq0dspwvrw63dhu79qxv88",
+      "link": null
+    }
+  ]
+}

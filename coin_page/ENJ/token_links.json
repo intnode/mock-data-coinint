@@ -1,0 +1,36 @@
+{
+  "website": [
+    "https://enjin.io/"
+  ],
+  "explorer": [
+    "https://enjinx.io/eth/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "https://blockchair.com/ethereum/erc-20/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/enjin",
+    "discord": null,
+    "reddit": "https://reddit.com/r/EnjinCoin",
+    "facebook": "https://www.facebook.com/enjinsocial/"
+  },
+  "source_code": "https://github.com/enjin/",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "link": "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+    },
+    {
+      "chain": "Solana",
+      "address": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
+      "link": null
+    }
+  ]
+}

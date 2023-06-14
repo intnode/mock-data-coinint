@@ -1,0 +1,39 @@
+{
+  "website": [
+    "https://litecoin.org/"
+  ],
+  "explorer": [
+    "https://blockchair.com/litecoin",
+    "https://chainz.cryptoid.info/ltc/",
+    "http://explorer.litecoin.net/chain/Litecoin",
+    "https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/litecoin",
+    "discord": null,
+    "reddit": "https://reddit.com/r/litecoin",
+    "facebook": null
+  },
+  "source_code": "https://github.com/litecoin-project/litecoin",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "HECO",
+      "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+      "link": "https://www.hecoinfo.com/token/0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "link": "https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+    },
+    {
+      "chain": "Hoo Smart Chain",
+      "address": "0x13e93721dc992b3e14333dbdb48c0e7ec55431c3",
+      "link": null
+    }
+  ]
+}

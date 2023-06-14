@@ -1,0 +1,37 @@
+{
+  "website": [
+    "https://filecoin.io/"
+  ],
+  "explorer": [
+    "https://filfox.io/en?utm_source=cmc",
+    "https://bscscan.com/token/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Filecoin",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/filecoin-project/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "HECO",
+      "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+      "link": "https://www.hecoinfo.com/token/0xae3a768f9ab104c69a7cd6041fe16ffa235d1810"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "link": "https://bscscan.com/token/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153"
+    },
+    {
+      "chain": "Hoo Smart Chain",
+      "address": "0x0bf85d3b0c9ebcc282fde0591882d12e57e700b3",
+      "link": null
+    }
+  ]
+}

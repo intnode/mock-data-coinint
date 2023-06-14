@@ -1,0 +1,43 @@
+{
+  "website": [
+    "https://www.kava.io/",
+    "https://app.kava.io/"
+  ],
+  "explorer": [
+    "https://www.mintscan.io/kava",
+    "https://kava.bigdipper.live",
+    "https://explorer.binance.org/asset/KAVA-10C",
+    "https://kavascan.com/",
+    "https://hubble.figment.network/kava/chains/kava-2"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/KAVA_CHAIN",
+    "discord": null,
+    "reddit": "https://reddit.com/r/kava_platform/",
+    "facebook": null
+  },
+  "source_code": "https://github.com/kava-labs",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x0C356B7fD36a5357E5A017EF11887ba100C9AB76",
+      "link": "https://etherscan.io/token/0x0C356B7fD36a5357E5A017EF11887ba100C9AB76"
+    },
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "KAVA-10C",
+      "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x87D32F2C0A3D6D091772890C81E321026454a125",
+      "link": "https://polygonscan.com/token/0x87D32F2C0A3D6D091772890C81E321026454a125"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "website": [
+    "https://guides.curve.fi/everything-you-need-to-know-about-crv/",
+    "https://www.curve.fi/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "https://ethplorer.io/address/0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "https://blockscout.com/xdai/mainnet/tokens/0x712b3d230f3c1c19db860d80619288b1f0bdd0bd/token-transfers",
+    "https://ftmscan.com/token/0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "https://solscan.io/token/7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/curvefinance",
+    "discord": null,
+    "reddit": "https://reddit.com/r/CurveDAO",
+    "facebook": null
+  },
+  "source_code": "https://github.com/curvefi/curve-contract",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "link": "https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+      "link": "https://gnosisscan.io/token/0x712b3d230f3c1c19db860d80619288b1f0bdd0bd"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+      "link": "https://ftmscan.com/token/0x1E4F97b9f9F913c46F1632781732927B9019C68b"
+    },
+    {
+      "chain": "Solana",
+      "address": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
+      "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+      "link": "https://arbiscan.io/token/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978"
+    }
+  ]
+}

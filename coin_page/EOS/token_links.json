@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://eosnetwork.com/"
+  ],
+  "explorer": [
+    "https://eosauthority.com",
+    "https://eosflare.io/",
+    "https://www.eosx.io/?partner=coinmarketcap",
+    "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+    "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/EosNFoundation",
+    "discord": null,
+    "reddit": "https://reddit.com/r/EOS",
+    "facebook": "https://www.facebook.com/groups/eosblockchain"
+  },
+  "source_code": "https://github.com/AntelopeIO/leap",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "link": "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+    },
+    {
+      "chain": "HECO",
+      "address": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
+      "link": "https://www.hecoinfo.com/token/0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "website": [
+    "https://www.chiliz.com/"
+  ],
+  "explorer": [
+    "https://explorer.chiliz.com/address/0xe4a461065d032c77c8bf2d708f371dd098d71a20/transactions",
+    "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "https://explorer.binance.org/asset/CHZ-ECD",
+    "https://solscan.io/account/5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/chiliz",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "link": "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+    },
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "CHZ-ECD",
+      "link": null
+    },
+    {
+      "chain": "Solana",
+      "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
+      "link": null
+    }
+  ]
+}

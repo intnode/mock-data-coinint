@@ -1,0 +1,30 @@
+{
+  "website": [
+    "http://0xprotocol.org/"
+  ],
+  "explorer": [
+    "https://explorer.0x.org/",
+    "https://etherscan.io/token/ZRX",
+    "https://0x.org/docs/introduction/0x-cheat-sheet",
+    "https://0xtracker.com",
+    "https://avascan.info/blockchain/c/token/0x596fA47043f99A4e0F122243B841E55375cdE0d2"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/0xproject",
+    "discord": null,
+    "reddit": "https://reddit.com/r/0xProject",
+    "facebook": null
+  },
+  "source_code": "https://github.com/0xProject",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "link": "https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498"
+    }
+  ]
+}
