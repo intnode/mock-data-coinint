@@ -74,7 +74,7 @@ def get_marketdata_heatmap(limit : int = 25):
     """
     Get market data for displaying heatmap \n
     Parameter: \n
-        limit : number of currencies to be shown, default is 25. [fully support <=25 for prototype version.]
+        limit : number of currencies to be shown, default is 25. [fully support <=150 for prototype version.]
     """
     heatmap = pd.read_json("main_page/coin_ranking_table.json")
     if limit > heatmap.shape[0]:
@@ -89,7 +89,7 @@ def get_marketdata_cointable(limit : int = 25):
     """
     Get market data for displaying cointable \n
     Parameter: \n
-        limit : number of currencies to be shown, default is 25. [only support <=25 for prototype version]
+        limit : number of currencies to be shown, default is 25. [only support <=150 for prototype version]
     """
     cointable = pd.read_json("main_page/coin_ranking_table.json")
     if limit > cointable.shape[0]:
@@ -105,13 +105,12 @@ def get_marketdata_cointable(limit : int = 25):
     responses = {200:{"description": "market data for gainers and losers"},
                  400:{"model":ErrorDetail}}
 )
-def get_highlight_gainer_losers(resolution : str = "24h", coin_rank_limit : int = 25, limit: int = 30):
+def get_highlight_gainer_losers(resolution : str = "24h", coin_rank_limit : int = 25):
     """
     Get market data for gainers and losers \n
     Parameter: \n
         resolution : timeframe/ period of time (1h, 24h, 7d, 30d), default = 24h. \n
-        coin_rank_limit : maximum number of coin ranks (25,50,100,500), default = 25 \n
-        limit : number of currencies to be shown only support 30 for prototype version.
+        coin_rank_limit : maximum number of coin ranks (25,50,100,500), default = 25
     """
     if resolution not in ['1h','24h','7d','30d']:
         raise HTTPException(status_code=400, detail=f"Only supported resolution is '1h','24h','7d','30d'")
@@ -125,12 +124,11 @@ def get_highlight_gainer_losers(resolution : str = "24h", coin_rank_limit : int 
     responses = {200:{"description": "market data for trending coin"},
                  400:{"model":ErrorDetail}}
 )
-def get_highlight_trending(resolution : str = "24h", limit : int = 30):
+def get_highlight_trending(resolution : str = "24h"):
     """
     Get market data for trending coin (NOTE: This is mocked data by randomly select 30 asset as trending coins) \n
     Parameter: \n
-        resolution : timeframe/ period of time (24h, 7d, 30d), default = 24h. \n
-        limit : number of currencies to be shown only support 30 for prototype version.
+        resolution : timeframe/ period of time (24h, 7d, 30d), default = 24h.
     """
     if resolution not in ['24h','7d','30d']:
         raise HTTPException(status_code=400, detail=f"Only supported resolution is '24h','7d','30d'")
@@ -314,48 +312,48 @@ def get_news_feed(symbol):
         news_feed = json.load(f)
     return news_feed
 
-@app.get("/cryptocurrencies/{symbol}/OHLCV", 
-    responses = {200:{"description": "OHLCV of selected symbol"},
-                 400:{"model":ErrorDetail},
-                 404:{"model":ErrorDetail}}
-)
-def get_OHLCV(symbol, resolution: str = "24h", countback : int = 0, start : int = 0, end : int = 0):
-    """
-    Get dynamic OHLCV of selected symbol \n
-    Parameter: \n
-        symbol : seleceted asset symbol name. \n
-        resolution : resolution str of requested asset for example ['1h','2h','3h','4h','1d','2d,'3d,'4d','1w','1m'] \n
-        countback : query specific number of candle of requested asset until now, if countback != 0, start will be ignored \n
-        start : start unix timestamp in ms for query request asset, default is 0. \n
-        end : end unix timestamp in ms for query request asset, default is now.
-    """
-    if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
-        raise HTTPException(status_code=404, detail=f"{symbol} not found")
-    # with open(f"coin_page/{symbol}/OHLCV.json") as f:
-    #     OHLCV = json.load(f)
+# @app.get("/cryptocurrencies/{symbol}/OHLCV", 
+#     responses = {200:{"description": "OHLCV of selected symbol"},
+#                  400:{"model":ErrorDetail},
+#                  404:{"model":ErrorDetail}}
+# )
+# def get_OHLCV(symbol, resolution: str = "24h", countback : int = 0, start : int = 0, end : int = 0):
+#     """
+#     Get dynamic OHLCV of selected symbol \n
+#     Parameter: \n
+#         symbol : seleceted asset symbol name. \n
+#         resolution : resolution str of requested asset for example ['1h','2h','3h','4h','1d','2d,'3d,'4d','1w','1m'] \n
+#         countback : query specific number of candle of requested asset until now, if countback != 0, start will be ignored \n
+#         start : start unix timestamp in ms for query request asset, default is 0. \n
+#         end : end unix timestamp in ms for query request asset, default is now.
+#     """
+#     if not os.path.exists(f"coin_page/{symbol}/metadata.json"):
+#         raise HTTPException(status_code=404, detail=f"{symbol} not found")
+#     # with open(f"coin_page/{symbol}/OHLCV.json") as f:
+#     #     OHLCV = json.load(f)
 
-    if end == 0:
-        end = int(time.mktime(dt.now().timetuple())*1e3)
+#     if end == 0:
+#         end = int(time.mktime(dt.now().timetuple())*1e3)
 
-    if "w" in resolution.casefold():
-        resample_phase = f"{resolution.upper()}-MON"
-    elif "m" in resolution.casefold():
-        resample_phase = f"{resolution.upper()}S"
-    else:
-        resample_phase = f"{resolution}"
+#     if "w" in resolution.casefold():
+#         resample_phase = f"{resolution.upper()}-MON"
+#     elif "m" in resolution.casefold():
+#         resample_phase = f"{resolution.upper()}S"
+#     else:
+#         resample_phase = f"{resolution}"
         
-    with open(f"coin_page/{symbol}/OHLCV.json") as f:
-        OHLCV_df = pd.DataFrame(json.load(f))
+#     with open(f"coin_page/{symbol}/OHLCV.json") as f:
+#         OHLCV_df = pd.DataFrame(json.load(f))
 
-    if countback != 0:
-        OHLCV_df = OHLCV_df.query(f"time<={end}")
-        OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
-        OHLCV_df.drop("time",axis=1,inplace=True)
-        OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna().iloc[-countback:,:]
-    else:
-        OHLCV_df = OHLCV_df.query(f"time<={end} and time >={start}")
-        OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
-        OHLCV_df.drop("time",axis=1,inplace=True)
-        OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna()
-    OHLCV_df["time"] = OHLCV_df.index
-    return json.loads(OHLCV_df.to_json(orient="records"))
+#     if countback != 0:
+#         OHLCV_df = OHLCV_df.query(f"time<={end}")
+#         OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
+#         OHLCV_df.drop("time",axis=1,inplace=True)
+#         OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna().iloc[-countback:,:]
+#     else:
+#         OHLCV_df = OHLCV_df.query(f"time<={end} and time >={start}")
+#         OHLCV_df.index = pd.to_datetime(OHLCV_df.time,unit="ms")
+#         OHLCV_df.drop("time",axis=1,inplace=True)
+#         OHLCV_df = OHLCV_df.resample(resample_phase, label='left', closed='left').agg(OHLCV_AGG).dropna()
+#     OHLCV_df["time"] = OHLCV_df.index
+#     return json.loads(OHLCV_df.to_json(orient="records"))
