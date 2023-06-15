@@ -47,11 +47,11 @@ def get_all_cryptocurrencies():
     """
     Get the array of all available cryptocurrencis for coinpage.
     """
-    slug_to_symbol = {"bitcoin":"BTC", "ethereum":"ETH", "uniswap":"UNI", "aave":"AAVE", "tether":"USDT"}
-    all_coin = []
-    for k,v in slug_to_symbol.items():
-        all_coin.append({"slug":k,
-                         "symbol":v})
+    with open(f"utils/available_assets.json") as f:
+        available_assets =json.load(f)
+    with open(f"utils/sym2slug.json") as f:
+        sym2slug =json.load(f)
+    all_coin = [{"symbol":asset, "slug":sym2slug[asset]} for asset in available_assets]
     return all_coin
 
 @app.get("/marketdata/overview",
