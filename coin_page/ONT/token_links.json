@@ -1,0 +1,45 @@
+{
+  "website": [
+    "https://ont.io/"
+  ],
+  "explorer": [
+    "https://explorer.ont.io/",
+    "https://ont.tokenview.com/",
+    "https://bscscan.com/token/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/OntologyNetwork",
+    "discord": null,
+    "reddit": "https://reddit.com/r/OntologyNetwork",
+    "facebook": null
+  },
+  "source_code": "https://github.com/ontio",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
+      "link": "https://etherscan.io/token/0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "link": "https://bscscan.com/token/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xD4814770065F634003A8d8D70B4743E0C3f334ad",
+      "link": "https://polygonscan.com/token/0xD4814770065F634003A8d8D70B4743E0C3f334ad"
+    },
+    {
+      "chain": "ONT",
+      "address": "0100000000000000000000000000000000000000",
+      "link": null
+    }
+  ]
+}

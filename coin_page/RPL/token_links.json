@@ -1,0 +1,27 @@
+{
+  "website": [
+    "https://www.rocketpool.net/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "https://solscan.io/token/HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "discord": null,
+    "reddit": "https://reddit.com/r/rocketpool",
+    "facebook": null
+  },
+  "source_code": "https://github.com/rocket-pool/rocketpool",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+      "link": "https://etherscan.io/token/0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+    }
+  ]
+}

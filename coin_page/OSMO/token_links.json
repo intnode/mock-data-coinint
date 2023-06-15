@@ -1,0 +1,38 @@
+{
+  "website": [
+    "https://osmosis.zone/"
+  ],
+  "explorer": [
+    "https://www.mintscan.io/osmosis",
+    "https://etherscan.io/token/0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2",
+    "https://polygonscan.com/token/0x8C7a56F2F2fD97DA0f5b4FAde180Fa8DC3fbEa8D"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/osmosiszone",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/osmosis-labs/osmosis",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2",
+      "link": "https://etherscan.io/token/0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x8C7a56F2F2fD97DA0f5b4FAde180Fa8DC3fbEa8D",
+      "link": "https://polygonscan.com/token/0x8C7a56F2F2fD97DA0f5b4FAde180Fa8DC3fbEa8D"
+    },
+    {
+      "chain": "Cosmos",
+      "address": "uosmo",
+      "link": null
+    }
+  ]
+}

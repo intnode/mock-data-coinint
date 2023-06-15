@@ -1,0 +1,27 @@
+{
+  "website": [
+    "https://www.kucoin.com/"
+  ],
+  "explorer": [
+    "https://explorer.kcc.io",
+    "https://scan.kcc.io"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/kucoincom",
+    "discord": null,
+    "reddit": "https://reddit.com/r/kucoin",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+      "link": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
+    }
+  ]
+}

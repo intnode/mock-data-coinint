@@ -3,12 +3,31 @@
   "slug": "uniswap",
   "fullname": "Uniswap",
   "symbol": "UNI",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/uni.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/uniswap.png",
   "categories": [
+    "token",
+    "decentralized-exchange-dex-token",
+    "defi",
+    "dao",
+    "yield-farming",
+    "amm",
+    "governance",
+    "parafi-capital",
+    "arbitrum-ecosytem",
+    "injective-ecosystem",
+    "optimism-ecosystem"
+  ],
+  "categories_name": [
     "Token",
-    "DEX",
+    "Decentralized Exchange (DEX) Token",
     "DeFi",
     "DAO",
-    "Yield Farming"
+    "Yield Farming",
+    "AMM",
+    "Governance",
+    "ParaFi Capital",
+    "Arbitrum Ecosystem",
+    "Injective Ecosystem",
+    "Optimism Ecosystem"
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "website": [
+    "https://www.crypto.com/en/chain"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "https://ethplorer.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "https://blockchair.com/ethereum/erc-20/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "https://eth.tokenview.com/en/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "https://crypto.org/explorer/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/cryptocom",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Crypto_com",
+    "facebook": null
+  },
+  "source_code": "https://github.com/crypto-org-chain/chain-main",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "link": "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+    },
+    {
+      "chain": "Solana",
+      "address": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
+      "link": null
+    },
+    {
+      "chain": "Cosmos",
+      "address": "IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
+      "link": null
+    }
+  ]
+}

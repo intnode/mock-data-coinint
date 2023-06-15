@@ -1,0 +1,40 @@
+{
+  "website": [
+    "https://www.sandbox.game/en/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "https://solscan.io/token/49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/thesandboxgame",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+      "link": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+    },
+    {
+      "chain": "Solana",
+      "address": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+      "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+      "link": "https://polygonscan.com/token/0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    }
+  ]
+}

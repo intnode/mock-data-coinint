@@ -1,0 +1,40 @@
+{
+  "website": [
+    "https://www.paxos.com/paxgold/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "https://ethplorer.io/address/0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "https://explorer.solana.com/address/C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/paxosglobal",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/paxosglobal/paxos-gold-contract",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "link": "https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "link": "https://bscscan.com/token/0x7950865a9140cb519342433146ed5b40c6f210f7"
+    },
+    {
+      "chain": "Solana",
+      "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
+      "link": null
+    }
+  ]
+}

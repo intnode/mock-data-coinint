@@ -1,0 +1,36 @@
+{
+  "website": [
+    "http://aelf.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+    "https://ethplorer.io/address/0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+    "https://bscscan.com/token/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+    "https://explorer.aelf.io/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/aelfblockchain",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/aelfProject",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+      "link": "https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+      "link": "https://bscscan.com/token/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9"
+    }
+  ]
+}

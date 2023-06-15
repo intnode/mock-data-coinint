@@ -1,0 +1,31 @@
+{
+  "website": [
+    "https://ens.domains/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/ensdomains",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/ensdomains",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+      "link": "https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
+    },
+    {
+      "chain": "Solana",
+      "address": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
+      "link": null
+    }
+  ]
+}

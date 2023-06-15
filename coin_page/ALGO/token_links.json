@@ -1,0 +1,28 @@
+{
+  "website": [
+    "http://algorand.foundation",
+    "https://www.algorand.com/"
+  ],
+  "explorer": [
+    "https://algoexplorer.io/",
+    "https://algoscan.app/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/AlgoFoundation",
+    "discord": null,
+    "reddit": "https://reddit.com/r/AlgorandOfficial",
+    "facebook": null
+  },
+  "source_code": "https://github.com/algorand/go-algorand",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Algorand",
+      "address": "0",
+      "link": null
+    }
+  ]
+}

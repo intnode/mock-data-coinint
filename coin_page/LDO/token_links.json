@@ -1,0 +1,45 @@
+{
+  "website": [
+    "https://lido.fi/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "https://ethplorer.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "https://explorer.solana.com/address/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+    "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b",
+    "https://finder.terra.money/mainnet/address/terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/lidofinance",
+    "discord": null,
+    "reddit": "https://reddit.com/r/lidofinance",
+    "facebook": null
+  },
+  "source_code": "https://github.com/lidofinance",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "link": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "link": "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b"
+    },
+    {
+      "chain": "Solana",
+      "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+      "link": null
+    },
+    {
+      "chain": "Terra Classic",
+      "address": "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+      "link": null
+    }
+  ]
+}

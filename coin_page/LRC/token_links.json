@@ -1,0 +1,33 @@
+{
+  "website": [
+    "https://loopring.org"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "https://ethplorer.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "https://explorer.solana.com/address/HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/loopringorg",
+    "discord": null,
+    "reddit": "https://reddit.com/r/loopringorg",
+    "facebook": null
+  },
+  "source_code": "https://github.com/loopring",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "link": "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+    },
+    {
+      "chain": "Solana",
+      "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+      "link": null
+    }
+  ]
+}

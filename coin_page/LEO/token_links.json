@@ -1,0 +1,32 @@
+{
+  "website": [
+    "https://www.bitfinex.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "https://ethplorer.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "https://eospark.com/account/bitfinexleo1",
+    "https://eosflare.io/account/bitfinexleo1",
+    "https://blockchair.com/ethereum/erc-20/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/bitfinex",
+    "discord": null,
+    "reddit": "https://reddit.com/r/bitfinex",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+      "link": "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+    }
+  ]
+}

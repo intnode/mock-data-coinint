@@ -1,0 +1,34 @@
+{
+  "website": [
+    "https://www.gemini.com/dollar"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+    "https://ethplorer.io/address/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+    "https://blockchair.com/ethereum/erc-20/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+    "https://nearblocks.io/token/056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Gemini",
+    "discord": null,
+    "reddit": "https://reddit.com/r/Gemini",
+    "facebook": null
+  },
+  "source_code": "https://github.com/gemini/dollar",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+      "link": "https://etherscan.io/token/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
+    },
+    {
+      "chain": "Near",
+      "address": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near",
+      "link": "https://nearblocks.io/token/056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+    }
+  ]
+}

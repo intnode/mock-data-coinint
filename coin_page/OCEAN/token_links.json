@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://oceanprotocol.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "https://ethplorer.io/address/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "https://blockchair.com/ethereum/erc-20/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/oceanprotocol",
+    "discord": null,
+    "reddit": "https://reddit.com/r/oceanprotocol",
+    "facebook": null
+  },
+  "source_code": "https://github.com/oceanprotocol",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "link": "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    },
+    {
+      "chain": "Sora",
+      "address": "0x002ca40397c794e25dba18cf807910eeb69eb8e81b3f07bb54f7c5d1d8ab76b9",
+      "link": null
+    }
+  ]
+}

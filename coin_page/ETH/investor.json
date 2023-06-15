@@ -1,58 +1,177 @@
 [
-    {
-        "name": "Alameda Research",
-        "location": "Hong Kong",
-        "foundedYear": "",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/alameda_research.jpg"
-    },
-    {
-        "name": "Electric Capital",
-        "location": "United States",
-        "foundedYear": "",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/electric_capital.jpg"
-    },
-    {
-        "name": "Pantera Capital",
-        "location": "Menlo Park, California",
-        "foundedYear": "2003",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/pantera_capital.jpg"
-    },
-    {
-        "name": "Galaxy Digital",
-        "location": "United States",
-        "foundedYear": "",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/galaxy_digital.jpg"
-    },
-    {
-        "name": "CMT Digital",
-        "location": "United States",
-        "foundedYear": "2017",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/cmt_digital.jpg"
-    },
-    {
-        "name": "Boost VC",
-        "location": "San Mateo, California",
-        "foundedYear": "",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/boost_vc.jpg"
-    },
-    {
-        "name": "Winklevoss Capital Management, LL",
-        "location": "New York",
-        "foundedYear": "2017",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/winklevoss_capital.jpg"
-    },
-    {
-        "name": "M31 Capital",
-        "location": "New York",
-        "foundedYear": "",
-        "link": "",
-        "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/coin_page/ETH/img/m31_capital.jpg"
-    }
+  {
+    "name": "Alameda Research",
+    "location": "Hong Kong",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/alameda_research.png"
+  },
+  {
+    "name": "Electric Capital",
+    "location": "United States",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/electric_capital.png"
+  },
+  {
+    "name": "Pantera Capital",
+    "location": "Menlo Park, California",
+    "foundedYear": "2003",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/pantera_capital.png"
+  },
+  {
+    "name": "Galaxy Digital",
+    "location": "United States",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/galaxy_digital.png"
+  },
+  {
+    "name": "HASHED",
+    "location": "South Korea",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/Unknown_person.jpg"
+  },
+  {
+    "name": "Kenetic Capital",
+    "location": "",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/Unknown_person.jpg"
+  },
+  {
+    "name": "KR1",
+    "location": "Isle of Man",
+    "foundedYear": "2016",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/Unknown_person.jpg"
+  },
+  {
+    "name": "CMT Digital",
+    "location": "United States",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/cmt_digital.png"
+  },
+  {
+    "name": "Boost VC",
+    "location": "San Mateo, California",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/boost_vc.png"
+  },
+  {
+    "name": "Winklevoss Capital Management, LLC",
+    "location": "New York, NY",
+    "foundedYear": "2012",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/winklevoss_capital_management,_llc.png"
+  },
+  {
+    "name": "M31 Capital",
+    "location": "New York",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/m31_capital.png"
+  },
+  {
+    "name": "a16z Crypto",
+    "location": "Menlo Park, CA",
+    "foundedYear": "2018",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/a16z_crypto.png"
+  },
+  {
+    "name": "Placeholder VC",
+    "location": "New York, NY",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/placeholder_vc.png"
+  },
+  {
+    "name": "Outlier Ventures",
+    "location": "United Kingdom",
+    "foundedYear": "2014",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/outlier_ventures.png"
+  },
+  {
+    "name": "Paradigm",
+    "location": "San Francisco, California",
+    "foundedYear": "2015",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/paradigm.png"
+  },
+  {
+    "name": "Three Arrows Capital",
+    "location": "Singapore",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/three_arrows_capital.png"
+  },
+  {
+    "name": "Maven 11 Capital",
+    "location": "Netherlands",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/Unknown_person.jpg"
+  },
+  {
+    "name": "8Decimal",
+    "location": "",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/8_decimal.png"
+  },
+  {
+    "name": "Jump Capital",
+    "location": "United States",
+    "foundedYear": "2012",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/jump_capital.png"
+  },
+  {
+    "name": "SNZ",
+    "location": "Shanghai",
+    "foundedYear": "",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/snz.png"
+  },
+  {
+    "name": "Blocktree Capital",
+    "location": "United States",
+    "foundedYear": "2018",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/blocktree_capital.png"
+  },
+  {
+    "name": "ValueNet Capital",
+    "location": "China",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/value_net_capital.png"
+  },
+  {
+    "name": "Delphi Digital",
+    "location": "New York",
+    "foundedYear": "2018",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/delphi_digital.png"
+  },
+  {
+    "name": "1Confirmation",
+    "location": "San Francisco, California",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/1_confirmation.png"
+  },
+  {
+    "name": "Astronaut Capital",
+    "location": "Singapore",
+    "foundedYear": "2017",
+    "link": "",
+    "logoImg": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/avatar/astronaut_capital.png"
+  }
 ]

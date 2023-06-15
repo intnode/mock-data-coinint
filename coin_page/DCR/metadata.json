@@ -1,0 +1,27 @@
+{
+  "id": 1168,
+  "slug": "decred",
+  "fullname": "Decred",
+  "symbol": "DCR",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/decred.png",
+  "categories": [
+    "coin",
+    "mineable",
+    "hybrid-pow-pos",
+    "blake256",
+    "medium-of-exchange",
+    "store-of-value",
+    "privacy",
+    "dao"
+  ],
+  "categories_name": [
+    "Coin",
+    "Mineable",
+    "Hybrid - PoW & PoS",
+    "BLAKE256",
+    "Medium of Exchange",
+    "Store Of Value",
+    "Privacy",
+    "DAO"
+  ]
+}

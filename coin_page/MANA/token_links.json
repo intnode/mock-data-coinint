@@ -1,0 +1,45 @@
+{
+  "website": [
+    "https://decentraland.org/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/decentraland",
+    "https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "https://explorer.solana.com/address/7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/decentraland",
+    "discord": null,
+    "reddit": "https://reddit.com/r/decentraland",
+    "facebook": null
+  },
+  "source_code": "https://github.com/decentraland/mana",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+      "link": "https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
+      "link": "https://gnosisscan.io/token/0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3"
+    },
+    {
+      "chain": "Solana",
+      "address": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
+      "link": null
+    },
+    {
+      "chain": "Fusion Network",
+      "address": "0x61be5df5459573a7c25673e74281cef4cef81e7d",
+      "link": null
+    }
+  ]
+}

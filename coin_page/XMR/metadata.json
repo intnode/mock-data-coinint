@@ -1,0 +1,23 @@
+{
+  "id": 328,
+  "slug": "monero",
+  "fullname": "Monero",
+  "symbol": "XMR",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/monero.png",
+  "categories": [
+    "coin",
+    "mineable",
+    "pow",
+    "medium-of-exchange",
+    "privacy",
+    "ringct"
+  ],
+  "categories_name": [
+    "Coin",
+    "Mineable",
+    "PoW",
+    "Medium of Exchange",
+    "Privacy",
+    "RingCT"
+  ]
+}

@@ -1,12 +1,25 @@
 {
-  "id": 1580527,
+  "id": 5805,
   "slug": "avalanche",
   "fullname": "Avalanche",
   "symbol": "AVAX",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/avax.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/avalanche.png",
   "categories": [
+    "coin",
+    "defi",
+    "smart-contracts",
+    "avalanche-ecosystem",
+    "moonriver-ecosystem",
+    "injective-ecosystem",
+    "layer-1"
+  ],
+  "categories_name": [
     "Coin",
-    "PoS",
-    "Smart Contracts"
+    "DeFi",
+    "Smart Contracts",
+    "Avalanche Ecosystem",
+    "Moonriver Ecosystem",
+    "Injective Ecosystem",
+    "Layer 1"
   ]
 }

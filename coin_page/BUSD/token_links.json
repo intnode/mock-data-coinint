@@ -1,0 +1,86 @@
+{
+  "website": [
+    "https://www.binance.com/en/busd",
+    "https://www.paxos.com/busd/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "https://explorer.binance.org/asset/BUSD-BD1",
+    "https://snowtrace.io/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "https://polygonscan.com/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/binance",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/paxosglobal/busd-contract",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Beacon Chain (BEP2)",
+      "address": "BUSD-BD1",
+      "link": null
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "link": "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "link": "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "link": "https://snowtrace.io/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+    },
+    {
+      "chain": "Velas",
+      "address": "0xc111c29a988ae0c0087d97b33c6e6766808a3bd3",
+      "link": "https://evmexplorer.velas.com/token/0xc111c29a988ae0c0087d97b33c6e6766808a3bd3"
+    },
+    {
+      "chain": "Harmony",
+      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+      "link": null
+    },
+    {
+      "chain": "Solana",
+      "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+      "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "link": "https://polygonscan.com/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+    },
+    {
+      "chain": "Bitgert",
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "link": "https://brisescan.com/token/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
+    },
+    {
+      "chain": "Fuse",
+      "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+      "link": "https://explorer.fuse.io/token/0x6a5F6A8121592BeCd6747a38d67451B310F7f156"
+    },
+    {
+      "chain": "Tron20",
+      "address": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
+      "link": null
+    },
+    {
+      "chain": "zkSync Era",
+      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "link": null
+    }
+  ]
+}

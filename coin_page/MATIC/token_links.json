@@ -1,0 +1,56 @@
+{
+  "website": [
+    "https://polygon.technology/"
+  ],
+  "explorer": [
+    "https://polygonscan.com/",
+    "https://www.oklink.com/polygon",
+    "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "https://explorer.solana.com/address/C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/0xPolygon",
+    "discord": null,
+    "reddit": "https://reddit.com/r/0xPolygon",
+    "facebook": null
+  },
+  "source_code": "https://github.com/maticnetwork/contracts",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "link": "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "link": "https://bscscan.com/token/0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+    },
+    {
+      "chain": "Solana",
+      "address": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
+      "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x0000000000000000000000000000000000001010",
+      "link": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010"
+    },
+    {
+      "chain": "Moonbeam",
+      "address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
+      "link": "https://moonbeam.moonscan.io/token/0x3405a1bd46b85c5c029483fbecf2f3e611026e45"
+    },
+    {
+      "chain": "Polygon zkEVM",
+      "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
+      "link": "https://zkevm.polygonscan.com/token/0xa2036f0538221a77a3937f1379699f44945018d0"
+    }
+  ]
+}

@@ -3,11 +3,29 @@
   "slug": "aave",
   "fullname": "Aave",
   "symbol": "AAVE",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/aave.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/aave.png",
   "categories": [
+    "token",
+    "defi",
+    "dao",
+    "yield-farming",
+    "governance",
+    "lending-borowing",
+    "parafi-capital",
+    "polygon-ecosystem",
+    "fantom-ecosystem",
+    "optimism-ecosystem"
+  ],
+  "categories_name": [
     "Token",
     "DeFi",
     "DAO",
-    "Yield Farming"
+    "Yield Farming",
+    "Governance",
+    "Lending & Borrowing",
+    "ParaFi Capital",
+    "Polygon Ecosystem",
+    "Fantom Ecosystem",
+    "Optimism Ecosystem"
   ]
 }

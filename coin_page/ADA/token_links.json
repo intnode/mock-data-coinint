@@ -1,0 +1,35 @@
+{
+  "website": [
+    "https://www.cardano.org"
+  ],
+  "explorer": [
+    "https://explorer.cardano.org",
+    "https://cardanoscan.io/",
+    "https://blockchair.com/cardano",
+    "https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "https://ada.tokenview.com/en"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/cardano",
+    "discord": null,
+    "reddit": "https://reddit.com/r/cardano",
+    "facebook": null
+  },
+  "source_code": "https://cardanoupdates.com/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "link": "https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+    },
+    {
+      "chain": "Cardano",
+      "address": "lovelace",
+      "link": null
+    }
+  ]
+}

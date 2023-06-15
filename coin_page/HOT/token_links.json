@@ -1,0 +1,33 @@
+{
+  "website": [
+    "https://holochain.org/",
+    "https://holo.host"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "https://ethplorer.io/address/0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/H_O_L_O_",
+    "discord": null,
+    "reddit": "https://reddit.com/r/holochain",
+    "facebook": null
+  },
+  "source_code": "https://github.com/holochain/holochain-rust",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+      "link": "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0x346b2968508d32f0192cd7a60ef3d9c39a3cf549",
+      "link": "https://gnosisscan.io/token/0x346b2968508d32f0192cd7a60ef3d9c39a3cf549"
+    }
+  ]
+}

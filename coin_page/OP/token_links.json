@@ -1,0 +1,26 @@
+{
+  "website": [
+    "https://www.optimism.io/"
+  ],
+  "explorer": [
+    "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/optimismFND",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/ethereum-optimism/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Optimism",
+      "address": "0x4200000000000000000000000000000000000042",
+      "link": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042"
+    }
+  ]
+}

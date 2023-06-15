@@ -1,0 +1,72 @@
+{
+  "website": [
+    "https://yearn.finance/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "https://bscscan.com/token/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+    "https://hecoinfo.com/token/0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+    "https://ftmscan.com/token/0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "https://blockscout.com/xdai/mainnet/tokens/0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd/token-transfers"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/yearnfi",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/yearn/iearn-finance",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "link": "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "link": "https://bscscan.com/token/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e"
+    },
+    {
+      "chain": "HECO",
+      "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+      "link": "https://www.hecoinfo.com/token/0xb4f019beac758abbee2f906033aaa2f0f6dacb35"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "link": "https://ftmscan.com/token/0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
+      "link": "https://gnosisscan.io/token/0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+      "link": "https://snowtrace.io/token/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc"
+    },
+    {
+      "chain": "Solana",
+      "address": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
+      "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+      "link": "https://arbiscan.io/token/0x82e3A8F066a6989666b031d916c43672085b1582"
+    },
+    {
+      "chain": "Near",
+      "address": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
+      "link": "https://nearblocks.io/token/0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near"
+    }
+  ]
+}

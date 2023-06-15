@@ -3,10 +3,21 @@
   "slug": "ethereum",
   "fullname": "Ethereum",
   "symbol": "ETH",
-  "icon": "https:\/\/raw.githubusercontent.com\/alexandrebouttier\/coinmarketcap-icons-cryptos\/main\/icons\/eth.png",
+  "icon": "https://raw.githubusercontent.com/intnode/mock-data-coinint/master/img/coin/ethereum.png",
   "categories": [
+    "coin",
+    "pos",
+    "smart-contracts",
+    "ethereum-ecosystem",
+    "injective-ecosystem",
+    "layer-1"
+  ],
+  "categories_name": [
     "Coin",
     "PoS",
-    "Smart Contracts"
+    "Smart Contracts",
+    "Ethereum Ecosystem",
+    "Injective Ecosystem",
+    "Layer 1"
   ]
 }

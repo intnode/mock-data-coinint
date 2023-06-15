@@ -1,0 +1,31 @@
+{
+  "website": [
+    "https://aptoslabs.com"
+  ],
+  "explorer": [
+    "https://explorer.aptoslabs.com/",
+    "https://aptoscan.com/",
+    "https://tracemove.io/coin/0x1::aptos_coin::AptosCoin",
+    "https://apscan.io/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/aptoslabs",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Aptos",
+      "address": "0x1::aptos_coin::AptosCoin",
+      "link": null
+    }
+  ]
+}

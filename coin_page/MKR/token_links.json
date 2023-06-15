@@ -1,0 +1,40 @@
+{
+  "website": [
+    "https://makerdao.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/Maker",
+    "https://ethplorer.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "https://blockchair.com/ethereum/erc-20/token/0xda27b988921a0659bceac1abd4b43a295c8296f4",
+    "https://eth.tokenview.com/en/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "https://avascan.info/blockchain/c/token/0x88128fd4b259552A9A1D457f435a6527AAb72d42"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/MakerDAO",
+    "discord": null,
+    "reddit": "https://reddit.com/r/MakerDAO",
+    "facebook": null
+  },
+  "source_code": "https://github.com/makerdao",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "link": "https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+      "link": "https://bscscan.com/token/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+      "link": "https://snowtrace.io/token/0x88128fd4b259552A9A1D457f435a6527AAb72d42"
+    }
+  ]
+}

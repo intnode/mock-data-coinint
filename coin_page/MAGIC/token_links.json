@@ -1,0 +1,33 @@
+{
+  "website": [
+    "https://www.treasure.lol",
+    "https://trove.treasure.lol/"
+  ],
+  "explorer": [
+    "https://arbiscan.io/token/0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "https://etherscan.io/token/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Treasure_DAO",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/TreasureProject/",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Arbitrum",
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "link": "https://arbiscan.io/token/0x539bdE0d7Dbd336b79148AA742883198BBF60342"
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+      "link": "https://etherscan.io/token/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a"
+    }
+  ]
+}

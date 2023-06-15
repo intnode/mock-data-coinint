@@ -1,0 +1,39 @@
+{
+  "website": [
+    "https://bt.io/"
+  ],
+  "explorer": [
+    "https://tronscan.org/#/token20/TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+    "https://bscscan.com/token/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+    "https://bttcscan.com/",
+    "https://etherscan.io/token/0xc669928185dbce49d2230cc9b0979be6dc797957"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/BitTorrent",
+    "discord": null,
+    "reddit": "https://reddit.com/r/BittorrentToken",
+    "facebook": null
+  },
+  "source_code": "https://github.com/bittorrent",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Tron20",
+      "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+      "link": null
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+      "link": "https://etherscan.io/token/0xc669928185dbce49d2230cc9b0979be6dc797957"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+      "link": "https://bscscan.com/token/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B"
+    }
+  ]
+}

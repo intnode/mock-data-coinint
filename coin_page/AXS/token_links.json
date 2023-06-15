@@ -1,0 +1,53 @@
+{
+  "website": [
+    "https://axieinfinity.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "https://bscscan.com/token/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+    "https://explorer.harmony.one/address/0x14a7b318fed66ffdcc80c1517c172c13852865de",
+    "https://solscan.io/account/HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+    "https://bscscan.com/token/0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/AxieInfinity",
+    "discord": null,
+    "reddit": "https://reddit.com/r/AxieInfinity",
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [
+    "CertiK",
+    "Verichains"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "link": "https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+    },
+    {
+      "chain": "Harmony",
+      "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
+      "link": null
+    },
+    {
+      "chain": "Solana",
+      "address": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+      "link": null
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "link": "https://bscscan.com/token/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0"
+    },
+    {
+      "chain": "Ronin",
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "link": null
+    }
+  ]
+}

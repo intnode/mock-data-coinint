@@ -1,0 +1,34 @@
+{
+  "website": [
+    "https://golem.network/"
+  ],
+  "explorer": [
+    "https://etherscan.io/address/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+    "https://ethplorer.io/address/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+    "https://etherscan.io/token/Golem",
+    "https://ethplorer.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/golemproject",
+    "discord": null,
+    "reddit": "https://reddit.com/r/GolemProject",
+    "facebook": null
+  },
+  "source_code": "https://github.com/golemfactory/golem",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+      "link": "https://etherscan.io/token/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+      "link": "https://polygonscan.com/token/0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf"
+    }
+  ]
+}

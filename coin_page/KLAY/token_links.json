@@ -1,0 +1,27 @@
+{
+  "website": [
+    "https://www.klaytn.foundation/",
+    "https://www.klaytn.foundation/"
+  ],
+  "explorer": [
+    "https://scope.klaytn.com/blocks"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/klaytn_official",
+    "discord": null,
+    "reddit": "https://reddit.com/r/klaytn",
+    "facebook": "https://www.facebook.com/klaytn.official"
+  },
+  "source_code": "https://github.com/klaytn/klaytn",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Klaytn",
+      "address": "0x0000000000000000000000000000000000000000",
+      "link": "https://scope.klaytn.com/token/0x0000000000000000000000000000000000000000"
+    }
+  ]
+}

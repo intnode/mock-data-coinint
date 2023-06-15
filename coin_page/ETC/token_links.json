@@ -1,0 +1,27 @@
+{
+  "website": [
+    "https://ethereumclassic.org/"
+  ],
+  "explorer": [
+    "https://blockscout.com/etc/mainnet/",
+    "https://etcblockexplorer.com/home"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/eth_classic",
+    "discord": null,
+    "reddit": "https://reddit.com/r/EthereumClassic",
+    "facebook": null
+  },
+  "source_code": "https://github.com/ethereumclassic/ethereumclassic.github.io",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+      "link": "https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e"
+    }
+  ]
+}
