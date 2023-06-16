@@ -1,42 +1,140 @@
 [
   {
-    "title":"Bank Of Japan Sticks To Ultra-loose Monetary Policy",
-    "url":"https:\/\/www.barrons.com\/news\/bank-of-japan-sticks-to-ultra-loose-monetary-policy-769f1f1e",
-    "time_published":1686891025000,
+    "title":"BlackRock files for Bitcoin ETF in push into crypto | The Financial Express",
+    "url":"https:\/\/www.financialexpress.com\/business\/blockchain-blackrock-files-for-bitcoin-etf-in-push-into-crypto-3128560\/",
+    "time_published":1686901334000,
     "authors":[
-      "Kyoko HASEGAWA"
+
     ],
-    "summary":"The Bank of Japan said Friday it would maintain its long-standing, ultra-loose monetary policy as it looks to boost economic growth. The central bank has gone against the grain as its global peers hike interest rates to tackle inflation, pushing down the value of the yen against the dollar.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
+    "summary":"BlackRock files for Bitcoin ETF in push into crypto The Financial Express ...",
+    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/Image-credit-Freepik-2023-06-16T130326.059.jpg",
+    "source":"The Financial Express",
     "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
+    "source_domain":"www.financialexpress.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.9973"
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.96136"
       }
     ],
-    "overall_sentiment_score":-0.016995,
+    "overall_sentiment_score":0.15785,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.331765",
+        "ticker_sentiment_score":"0.426015",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CBOE",
+        "relevance_score":"0.113597",
+        "ticker_sentiment_score":"-0.025789",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.224903",
+        "ticker_sentiment_score":"0.200018",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.432291",
+        "ticker_sentiment_score":"0.213264",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTCP",
+        "relevance_score":"0.113597",
+        "ticker_sentiment_score":"0.279781",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Mark Cuban takes on SEC, John Reed Stark and 'crypto derangement syndrome'",
+    "url":"https:\/\/cointelegraph.com\/news\/mark-cuban-sec-john-reed-stark-crypto-derangement-syndrome",
+    "time_published":1686897000000,
+    "authors":[
+
+    ],
+    "summary":"The billionaire investor got stuck into a heated debate with former SEC official John Reed Stark over crypto regulation.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZDRjODNmMWEtMGI4Zi00MjNlLWE0YzctODE4ODJhYzc0MzJjLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":-0.080529,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.234307",
-        "ticker_sentiment_score":"-0.02057",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.173958",
+        "ticker_sentiment_score":"0.22345",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock files for bitcoin ETF in the US",
+    "url":"https:\/\/www.fnlondon.com\/articles\/blackrock-files-for-bitcoin-etf-in-the-us-20230616",
+    "time_published":1686896365000,
+    "authors":[
+      "David Ricketts"
+    ],
+    "summary":"BlackRock has lodged a filing with the US regulator to launch an exchange traded fund to offer investors exposure to bitcoin - the world's most popular cryptocurrency.",
+    "banner_image":"https:\/\/images.fnlondon.com\/im-801702\/?width=749&height=499",
+    "source":"Financial News London",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fnlondon.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
       },
       {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.07913",
-        "ticker_sentiment_score":"0.018397",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
       },
       {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.07913",
-        "ticker_sentiment_score":"0.076965",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Financial Markets",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":0.305168,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.35148",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.502698",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.502698",
+        "ticker_sentiment_label":"Bullish"
       }
     ]
   },
@@ -91,164 +189,6 @@
         "ticker":"CRYPTO:DOGE",
         "relevance_score":"0.118064",
         "ticker_sentiment_score":"-0.089873",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Rivian To Open Community Space In New York, Plans More Such Locations In US, Canada - Rivian Automotive  ( NASDAQ:RIVN ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/06\/32887352\/rivian-to-open-community-space-in-new-york-plans-more-such-locations-in-us-canada",
-    "time_published":1686890349000,
-    "authors":[
-      "Anan Ashraf"
-    ],
-    "summary":"Electric vehicle company Rivian Automotive, Inc. RIVN will open its new community space in New York on Friday. What Happened: Located under the High Line park, the community space, also Rivian's first in New York City, will enable visitors to go through Rivian vehicles and book a drive.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Rivian_R1T_truck_Photo_by_Tada_Images_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.124283,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FCCO",
-        "relevance_score":"0.15347",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RIVN",
-        "relevance_score":"0.754476",
-        "ticker_sentiment_score":"0.253567",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Disclosure of Voting Rights in IDEX Biometrics Board Member Morten Opstad - 15 June 2023",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689500\/0\/en\/Disclosure-of-Voting-Rights-in-IDEX-Biometrics-Board-Member-Morten-Opstad-15-June-2023.html",
-    "time_published":1686890220000,
-    "authors":[
-      "IDEX BIOMETRICS ASA"
-    ],
-    "summary":"At the close of business on 15 June 2023, Morten Opstad,Member of the Board of IDEX Biometrics, held the following voting rights in IDEX, for the purpose of the Annual General Meeting on 16 June ...",
-    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/70082ac7-fecb-4ab0-ad5f-f1a34b80b949",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.374568,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"IDBA",
-        "relevance_score":"0.404563",
-        "ticker_sentiment_score":"0.469663",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"MOOIF",
-        "relevance_score":"0.209365",
-        "ticker_sentiment_score":"0.296824",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"IEX",
-        "relevance_score":"0.71174",
-        "ticker_sentiment_score":"0.461682",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"From 'Megxit' To 'Pod-exit': The Sussexes' Spotify Podcast Dream Hits A Sour Note - Netflix  ( NASDAQ:NFLX ) , Spotify Technology  ( NYSE:SPOT ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/06\/32887302\/from-megxit-to-pod-exit-the-sussexes-spotify-podcast-dream-hits-a-sour-note",
-    "time_published":1686889861000,
-    "authors":[
-      "Ananya Gairola"
-    ],
-    "summary":"Spotify Technology's SPOT royal podcast partnership with Meghan Markle and Prince Harry comes to an end.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Prince_Harry_Photo_by_LINGTREN.COM_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.139274,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NFLX",
-        "relevance_score":"0.238133",
-        "ticker_sentiment_score":"0.227751",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"SPOT",
-        "relevance_score":"0.551295",
-        "ticker_sentiment_score":"0.060108",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Bill Gates visits China, hot on the heels of Elon Musk, with Xi meeting confirmed",
-    "url":"https:\/\/www.cnbc.com\/2023\/06\/16\/bill-gates-visits-china-hot-on-the-heels-of-elon-musk-with-xi-meeting-confirmed.html",
-    "time_published":1686889796000,
-    "authors":[
-      "Sheila Chiang"
-    ],
-    "summary":"Microsoft's co-founder Bill Gates is set to meet President Xi Jinping on Friday, a day after meeting Beijing's mayor to discuss a drug discovery partnership with China.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107258003-1686885792137-gettyimages-1258640773-EEI_2023.jpeg?v=1686889796&w=1920&h=1080",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.19349,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.151539",
-        "ticker_sentiment_score":"0.100226",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.151539",
-        "ticker_sentiment_score":"0.106393",
         "ticker_sentiment_label":"Neutral"
       }
     ]
@@ -404,1360 +344,6 @@
     ]
   },
   {
-    "title":"Mt Cattlin Ore Reserve update confirms mine life extension",
-    "url":"https:\/\/investingnews.com\/mt-cattlin-ore-reserve-update-confirms-mine-life-extension\/",
-    "time_published":1686889292000,
-    "authors":[
-
-    ],
-    "summary":"Allkem Limited ( ASX: AKE, \" Allkem \" or the \" Company \" ) provides an Ore Reserve update for its Mt Cattlin operation in Western Australia ( \" WA \" ) . The Mt Cattlin Ore Reserve estimate is based on the Mineral Resource Estimate of 12.8Mt at 1.3% Li 2 O grade and 179ppm Ta 2 O 5 , ...",
-    "banner_image":null,
-    "source":"Investing News Network",
-    "category_within_source":"n\/a",
-    "source_domain":"investingnews.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.214378"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999499"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":0.135446,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"OROCF",
-        "relevance_score":"0.226583",
-        "ticker_sentiment_score":"0.095136",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.015314",
-        "ticker_sentiment_score":"0.052879",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MALRF",
-        "relevance_score":"0.122036",
-        "ticker_sentiment_score":"0.046427",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Alphabet to shut down Google Domains business, sells assets to Squarespace for $180 million | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/life\/technology-alphabet-to-shut-down-google-domains-business-sells-assets-to-squarespace-for-180-million-3128060\/",
-    "time_published":1686888656000,
-    "authors":[
-
-    ],
-    "summary":"Alphabet to shut down Google Domains business, sells assets to Squarespace for $180 million The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/GOOGLE-BLOOMBERG.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.140667,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.908493",
-        "ticker_sentiment_score":"0.246956",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"SQSP",
-        "relevance_score":"0.810649",
-        "ticker_sentiment_score":"0.245148",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bill Gates To Meet Xi Jinping In Beijing On Friday",
-    "url":"https:\/\/www.barrons.com\/news\/bill-gates-to-meet-xi-jinping-in-beijing-on-friday-c3fb7552",
-    "time_published":1686888451000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Microsoft co-founder and philanthropist Bill Gates will meet President Xi Jinping on Friday, after his foundation pledged $50 million to help Chinese efforts to battle disease.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.122666,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.07887",
-        "ticker_sentiment_score":"0.003104",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.07887",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.07887",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"How to ensure your home loan application is not rejected by a bank | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/money\/how-to-avoid-home-loan-application-rejection-by-a-bank\/3128056\/",
-    "time_published":1686888367000,
-    "authors":[
-
-    ],
-    "summary":"How to ensure your home loan application is not rejected by a bank The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/home-buyer.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.367007,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"J.P. Morgan now forecasts 4% peak for key ECB rate",
-    "url":"https:\/\/www.reuters.com\/markets\/europe\/jp-morgan-now-forecasts-4-peak-key-ecb-rate-2023-06-16\/",
-    "time_published":1686888180000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"June 16 ( Reuters ) - J.P.Morgan said on Friday it expected the European Central Bank to hike interest rates by another 25 basis points in September, taking its terminal rate forecast to 4% after the central bank maintained its hawkish stance and signalled more hikes to come.",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/4QHZPUDFTZK3BDG52LY6JKYULU.jpg",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.058559,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Central banks all over the place",
-    "url":"https:\/\/www.ft.com\/content\/98f4f1bb-15dc-4b15-b868-1412429f18c1",
-    "time_published":1686888071000,
-    "authors":[
-
-    ],
-    "summary":"This is an audio transcript of the FT News Briefing podcast episode: 'Central banks all over the place' Good morning from the Financial Times. Today is Friday, June 16th, and this is your FT News Briefing. Saudi Arabia wants to be a dominant force in global gaming.",
-    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76535507-8cd7-460e-a851-3cb584ef6d95.jpg?fit=scale-down&source=next&width=700",
-    "source":"Financial Times",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.ft.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.9973"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.09313,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BACHY",
-        "relevance_score":"0.042571",
-        "ticker_sentiment_score":"0.080741",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DSSMY",
-        "relevance_score":"0.063819",
-        "ticker_sentiment_score":"0.057095",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"New Research by Shopify and BCG Analyzes 1 Billion Data Points Across 220,000+ E-Commerce Sites to Identify Key Drivers for Converting Online Shoppers into Online Buyers",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/new-research-by-shopify-and-bcg-analyzes-1-billion-data-points-across-220-000-e-commerce-sites-to-identify-key-drivers-for-converting-online-shoppers-into-online-buyers-301852443.html",
-    "time_published":1686888060000,
-    "authors":[
-      "Boston Consulting Group (BCG)"
-    ],
-    "summary":"New Research by Shopify and BCG Analyzes 1 Billion Data Points Across 220,000+ E-Commerce Sites to Identify Key ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/798393\/Boston_Consulting_Group_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.538269"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.495866"
-      }
-    ],
-    "overall_sentiment_score":0.268669,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"PYPL",
-        "relevance_score":"0.029363",
-        "ticker_sentiment_score":"0.064135",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SHOP",
-        "relevance_score":"0.117057",
-        "ticker_sentiment_score":"0.121116",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.029363",
-        "ticker_sentiment_score":"0.064135",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The Global Economy Looks Like It's Out of Sync",
-    "url":"https:\/\/www.wsj.com\/articles\/the-global-economy-looks-like-its-out-of-sync-a645f025",
-    "time_published":1686888060000,
-    "authors":[
-      "James Mackintosh"
-    ],
-    "summary":"As the Federal Reserve and other central banks go in different directions, most capital markets remain linked to a common global force: the dollar.",
-    "banner_image":"https:\/\/images.wsj.net\/im-801426\/social",
-    "source":"Wall Street Journal",
-    "category_within_source":"Markets",
-    "source_domain":"www.wsj.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":-0.241773,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Aidan Gomez: AI threat to human existence is 'absurd' distraction from real risks",
-    "url":"https:\/\/www.ft.com\/content\/732fc372-67ea-4684-9ab7-6b6f3cdfd736",
-    "time_published":1686888058000,
-    "authors":[
-
-    ],
-    "summary":"Co-founder of Cohere says we should be more worried about use of artificial intelligence in social media and medicine ...",
-    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0d9896e-64e2-42e2-88dd-540315c8aa9a.png?fit=scale-down&source=next&width=700",
-    "source":"Financial Times",
-    "category_within_source":"Companies",
-    "source_domain":"www.ft.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.069606,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.133369",
-        "ticker_sentiment_score":"0.106205",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.012181",
-        "ticker_sentiment_score":"0.08851",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Debate over 60\/40 portfolio rolls on despite BlackRock stance",
-    "url":"https:\/\/www.ft.com\/content\/8b6221f8-daa4-4cd9-8c76-58c8e0f7fff0",
-    "time_published":1686888058000,
-    "authors":[
-
-    ],
-    "summary":"Asset manager says current market conditions demand a new approach, but others keep the faith ...",
-    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9768f171-f794-4a39-a5b2-e0c5b917c980.png?fit=scale-down&source=next&width=700",
-    "source":"Financial Times",
-    "category_within_source":"Markets",
-    "source_domain":"www.ft.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999612"
-      }
-    ],
-    "overall_sentiment_score":0.060659,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.202366",
-        "ticker_sentiment_score":"0.176277",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Central banks all over the place",
-    "url":"https:\/\/www.ft.com\/content\/91a0c236-a156-4faa-aff8-b681d93e6519",
-    "time_published":1686888034000,
-    "authors":[
-
-    ],
-    "summary":"UK hedge fund firm Odey Asset Management is being dismantled in the wake of sexual misconduct allegations against its founder and Saudi Arabia has spent almost $8bn on gaming companies in the past 18 months as part of a turbocharged investment spree.",
-    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5bfa1763-c05b-44cc-aaaa-17f9c6bf77ba?source=next-opengraph&fit=scale-down&width=900",
-    "source":"Financial Times",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.ft.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.004689,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"DSSMY",
-        "relevance_score":"0.266828",
-        "ticker_sentiment_score":"0.08556",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Yen falls after BOJ stands pat; hawkish ECB and soft US data dent dollar",
-    "url":"https:\/\/www.business-standard.com\/world-news\/yen-falls-after-boj-stands-pat-hawkish-ecb-and-soft-us-data-dent-dollar-123061600150_1.html",
-    "time_published":1686888028000,
-    "authors":[
-      "Business Standard"
-    ],
-    "summary":"Yen falls after BOJ stands pat. hawkish ECB and soft US data dent dollar Business Standard ...",
-    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2022-10\/12\/full\/1665541770-3559.jpg?im=FeatureCrop,width=826,height=465",
-    "source":"Business Standard",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.business-standard.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.9545"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":-0.055456,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:AUD",
-        "relevance_score":"0.075161",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.149656",
-        "ticker_sentiment_score":"-0.160509",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.222838",
-        "ticker_sentiment_score":"-0.016385",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:GBP",
-        "relevance_score":"0.075161",
-        "ticker_sentiment_score":"0.067603",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.222838",
-        "ticker_sentiment_score":"-0.110542",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Is crypto a security, bro?",
-    "url":"https:\/\/www.ft.com\/content\/e945a541-9f36-4c1b-b1b0-c86c0b160e7e",
-    "time_published":1686888003000,
-    "authors":[
-
-    ],
-    "summary":"Crypto is at a crossroads.",
-    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fd088edf6-37b9-4c1b-a4dc-0060587149ce?source=next-opengraph&fit=scale-down&width=900",
-    "source":"Financial Times",
-    "category_within_source":"Companies",
-    "source_domain":"www.ft.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.021669,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Hepsor's Canadian subsidiary made its first investment in the Canadian real estate market",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689498\/0\/en\/Hepsor-s-Canadian-subsidiary-made-its-first-investment-in-the-Canadian-real-estate-market.html",
-    "time_published":1686888000000,
-    "authors":[
-      "HEPSOR AS"
-    ],
-    "summary":"Hepsor SPV I Ltd, a subsidiary of Hepsor in the Canadian province of Ontario, made its first investment in the Canadian real estate market. A property suitable for residential development was purchased in Toronto at 3406-3434 Weston Road together with Canadian partners.",
-    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/23c42bb2-8929-495b-ae73-ff9498a55308",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.12869,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Business News at 09:30 am on 16th June 2023 | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/audio\/expresso-business-update\/business-news-at-930-am-on-16th-june-2023\/3128021\/",
-    "time_published":1686887914000,
-    "authors":[
-
-    ],
-    "summary":"Business News at 09:30 am on 16th June 2023 The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2022\/09\/expresso-audio-business-update-2.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.345564,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Praxis Precision Medicines, Inc. Announces Pricing of $59.1 Million Public Offering",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689497\/0\/en\/Praxis-Precision-Medicines-Inc-Announces-Pricing-of-59-1-Million-Public-Offering.html",
-    "time_published":1686887880000,
-    "authors":[
-      "Inc.",
-      "Praxis Precision Medicines"
-    ],
-    "summary":"BOSTON, June 15, 2023 ( GLOBE NEWSWIRE ) -- Praxis Precision Medicines, Inc. ( NASDAQ: PRAX ) , a clinical-stage biopharmaceutical company translating genetic insights into the development of therapies for central nervous system ( CNS ) disorders characterized by neuronal excitation-inhibition ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/bff1e728-30ed-46c6-81e1-8bbc795929c0",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"IPO",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.9996"
-      }
-    ],
-    "overall_sentiment_score":0.136448,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"PRAX",
-        "relevance_score":"0.106305",
-        "ticker_sentiment_score":"0.07569",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"SoftBank-backed digital lender Zopa beefs up executive team with IPO-experienced CTO",
-    "url":"https:\/\/www.cnbc.com\/2023\/06\/16\/zopa-beefs-up-executive-team-with-two-ipo-experienced-hires.html",
-    "time_published":1686887825000,
-    "authors":[
-      "Ryan Browne"
-    ],
-    "summary":"Zopa told CNBC exclusively it has hired Peter Donlon, the former chief technology officer of online card retailer Moonpig, as its CTO.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107226897-16818193591681819356-29072401936-1080pnbcnews.jpg?v=1681820089&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Finance",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"IPO",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.185174,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"SFTBF",
-        "relevance_score":"0.067919",
-        "ticker_sentiment_score":"0.12942",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Mt Cattlin Ore Reserve update confirms mine life extension",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689496\/0\/en\/Mt-Cattlin-Ore-Reserve-update-confirms-mine-life-extension.html",
-    "time_published":1686887520000,
-    "authors":[
-      "Allkem Limited"
-    ],
-    "summary":"BRISBANE, Australia, June 15, 2023 ( GLOBE NEWSWIRE ) -- Allkem Limited ( ASX: AKE, \"Allkem\" or the \"Company\" ) provides an Ore Reserve update for its Mt Cattlin operation in Western Australia ( \"WA\" ) .",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/8a13271b-078c-478d-a772-11aa73e327c7",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.266143"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999499"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":0.15144,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"OROCF",
-        "relevance_score":"0.198276",
-        "ticker_sentiment_score":"0.113385",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.013357",
-        "ticker_sentiment_score":"0.05375",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MALRF",
-        "relevance_score":"0.106541",
-        "ticker_sentiment_score":"0.046183",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Gold Rate Today, Gold Price on 16 June: Gold trades flat, dollar softens; ECB announces 25 bps rate hike - Gold Price Forecast, Gold Price Outlook | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/market\/commodities\/gold-price-today-16-june-gold-trades-flat-dollar-softens-ecb-announces-25-bps-rate-hike\/3128026\/",
-    "time_published":1686887458000,
-    "authors":[
-
-    ],
-    "summary":"Gold Price Today, 16 June: Gold trades flat, dollar softens. ECB announces 25 bps rate hike The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/Gold-3-5.webp",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.890401"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":-0.004895,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"USAU",
-        "relevance_score":"0.085324",
-        "ticker_sentiment_score":"0.029402",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.169676",
-        "ticker_sentiment_score":"-0.073623",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Asian shares near four-month peak as BOJ takes the stage | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/market\/asian-shares-near-four-month-peak-as-boj-takes-the-stage\/3127998\/",
-    "time_published":1686887282000,
-    "authors":[
-
-    ],
-    "summary":"Asian shares near four-month peak as BOJ takes the stage The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/asian-shares-4.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.99489"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.650727"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.045811,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"USAU",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"0.004088",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NAUBF",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"-0.068072",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NWG",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"-0.082001",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"-0.04202",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"-0.04202",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.060694",
-        "ticker_sentiment_score":"-0.04202",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Rs 6 cr to 45 cr for a flat: NCR's Golf Course Road sees 42% price hike",
-    "url":"https:\/\/www.business-standard.com\/finance\/personal-finance\/rs-6-cr-to-rs-13-cr-golf-course-road-sees-42-price-hike-in-a-year-123061500762_1.html",
-    "time_published":1686886862000,
-    "authors":[
-      "Business Standard"
-    ],
-    "summary":"Golf Course Road is a well-developed luxury micro market in Gurgaon which has been on high demand from the HNIs and luxury buyers alike.",
-    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-06\/15\/full\/1686828508-0883.jpg",
-    "source":"Business Standard",
-    "category_within_source":"Finance",
-    "source_domain":"www.business-standard.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.1756,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Asian shares near four-month peak as BoJ takes the stage",
-    "url":"https:\/\/www.moneycontrol.com\/news\/business\/markets\/asian-shares-near-four-month-peak-as-boj-takes-the-stage-10806141.html",
-    "time_published":1686886570000,
-    "authors":[
-
-    ],
-    "summary":"MSCI's broadest index of Asia-Pacific shares outside Japan was 0.31% higher and on course for 2.5% gain in the week, its best weekly performance since January. The index rose as high as 534.16, its highest since mid-February.",
-    "banner_image":"https:\/\/images.moneycontrol.com\/static-mcnews\/2021\/09\/Self-Driving.jpg?impolicy=website&width=168&height=118",
-    "source":"Money Control",
-    "category_within_source":"Markets",
-    "source_domain":"www.moneycontrol.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.99489"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.650727"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.038609,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NAUBF",
-        "relevance_score":"0.061949",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NWG",
-        "relevance_score":"0.061949",
-        "ticker_sentiment_score":"-0.082011",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.061949",
-        "ticker_sentiment_score":"-0.030141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.061949",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.061949",
-        "ticker_sentiment_score":"-0.104023",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Trex Upgraded to Hold Rating by StockNews.com After Positive Quarterly Report",
-    "url":"https:\/\/beststocks.com\/trex-upgraded-to-hold-rating-by-stocknews-com-afte\/",
-    "time_published":1686886514000,
-    "authors":[
-      "Yasmim Mendon\u00e7a"
-    ],
-    "summary":"Trex Upgraded to Hold Rating by StockNews.com After Positive ... Best Stocks ...",
-    "banner_image":"https:\/\/beststocks.com\/wp-content\/plugins\/BestStocks-Premium-Components\/public\/images\/100.png",
-    "source":"Stocknews.com",
-    "category_within_source":"n\/a",
-    "source_domain":"beststocks.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.993856"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.316726"
-      }
-    ],
-    "overall_sentiment_score":0.356162,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BAC",
-        "relevance_score":"0.058047",
-        "ticker_sentiment_score":"0.093999",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BCS",
-        "relevance_score":"0.058047",
-        "ticker_sentiment_score":"0.093999",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"StockNews.com Grants Buy Rating for CIRCOR International Following Impressive Quarterly Earnings Report",
-    "url":"https:\/\/beststocks.com\/stocknews-com-grants-buy-rating-for-circor-interna\/",
-    "time_published":1686886365000,
-    "authors":[
-      "Elaine Mendon\u00e7a"
-    ],
-    "summary":"StockNews.com Grants Buy Rating for CIRCOR International ... Best Stocks ...",
-    "banner_image":"https:\/\/beststocks.com\/wp-content\/plugins\/BestStocks-Premium-Components\/public\/images\/100.png",
-    "source":"Stocknews.com",
-    "category_within_source":"n\/a",
-    "source_domain":"beststocks.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.998356"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.990786"
-      }
-    ],
-    "overall_sentiment_score":0.229867,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CIR",
-        "relevance_score":"0.602533",
-        "ticker_sentiment_score":"0.431807",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Intel set to gain US$11 billion in subsidies in Germany for chip plant",
-    "url":"https:\/\/www.scmp.com\/tech\/big-tech\/article\/3224265\/intel-set-gain-us11-billion-subsidies-germany-chip-plant-firm-seeks-regain-industry-leadership",
-    "time_published":1686886219000,
-    "authors":[
-      "Bloomberg"
-    ],
-    "summary":"Germany increased subsidies to Intel to \u20ac10 billion after the American chip giant postponed construction at a plant in Magdeburg amid high inflation.",
-    "banner_image":"https:\/\/img.i-scmp.com\/cdn-cgi\/image\/fit=contain,width=425,format=auto\/sites\/default\/files\/styles\/768x768\/public\/d8\/images\/canvas\/2023\/06\/16\/994c0e7c-8676-49d9-b780-acfbe70ecdfa_659168e2.jpg?itok=ivMSLtvt&v=1686883388",
-    "source":"South China Morning Post",
-    "category_within_source":"Companies",
-    "source_domain":"www.scmp.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.075268,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.077343",
-        "ticker_sentiment_score":"-0.027462",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Bill Gates To Meet Xi Jinping In Beijing On Friday",
-    "url":"https:\/\/www.barrons.com\/news\/bill-gates-to-meet-xi-jinping-in-beijing-on-friday-state-media-87ef2444",
-    "time_published":1686885692000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"\"On June 16, President Xi Jinping will meet in Beijing with Bill Gates, head of the Gates Foundation,\" state broadcaster CCTV said. Gates -- one of the world's richest men -- is one of a number of Western business leaders to visit China since the country ended strict Covid controls that saw it ...",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.138989,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.002302",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Larry Summers Found Fed's Rate Hike Pause 'A Little Bit Confusing' - Feels Policy Meet Was Driven By 'Internal Political Dynamics' - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/06\/32887118\/larry-summers-found-feds-rate-hike-pause-a-little-bit-confusing-feels-policy-meet-was-driven-by-inte",
-    "time_published":1686885673000,
-    "authors":[
-      "Bhavik Nair"
-    ],
-    "summary":"Former Treasury Secretary Lawrence Summers reportedly said Federal Reserve policymakers appeared to settle on an inconsistent set of actions this week based on internal dynamics at the apex institution. \"I found the Fed's action a little bit confusing,\" Summers told Bloomberg Television.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Larry_Summers_13.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.495866"
-      }
-    ],
-    "overall_sentiment_score":0.053321,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.109117",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Double trouble: FTX founder Sam Bankman-Fried faces two criminal trials",
-    "url":"https:\/\/cointelegraph.com\/news\/ftx-founder-sam-bankman-fried-two-criminal-trials",
-    "time_published":1686885599000,
-    "authors":[
-
-    ],
-    "summary":"A District Judge ordered a separate trial for the DOJ's charges against Sam Bankman-Fried which were added following his extradition to the U.S.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/312729a7-966c-4d39-8d97-8cc0158eed92.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.480524,
-    "overall_sentiment_label":"Bearish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Woman alleges she was sexually assaulted by UFC fighter Conor McGregor following NBA Finals game -- allegations he denies",
-    "url":"https:\/\/www.cnn.com\/2023\/06\/15\/us\/conor-mcgregor-sexual-assault-allegation-miami-nba-game\/index.html",
-    "time_published":1686885540000,
-    "authors":[
-      "Rebekah Riess",
-      "Jacob Lev",
-      "Jamiel Lynch",
-      "Matt Foster"
-    ],
-    "summary":"Woman alleges she was sexually assaulted by UFC fighter Conor McGregor following NBA Finals game - allegations he denies ...",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/230611162318-conor-mcgregor-burnie-0609-restricted.jpg?c=16x9&q=h_144,w_256,c_fill",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.1163,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.367412",
-        "ticker_sentiment_score":"-0.117666",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Microsoft -AI Will Help Drive $100 Billion In Revenue By 2027",
-    "url":"https:\/\/www.forbes.com\/sites\/bethkindig\/2023\/06\/15\/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027\/",
-    "time_published":1686885515000,
-    "authors":[
-      "Beth Kindig"
-    ],
-    "summary":"Over time, we agree with the analyst that Microsoft's competitive moat has positioned it to monetize the AI opportunity, much like with Azure and Microsoft 360, across its business lines so that its revenue will increase by $100B in the medium-term.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/648bd2abff1c29c9aeb1e996\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Money",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.998356"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.990999"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.205632,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"APG",
-        "relevance_score":"0.023838",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"EVR",
-        "relevance_score":"0.023838",
-        "ticker_sentiment_score":"0.063484",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.675894",
-        "ticker_sentiment_score":"0.328342",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.071428",
-        "ticker_sentiment_score":"0.04562",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Trump showed up at a Miami restaurant and promised food for everyone but left without paying for anything",
-    "url":"https:\/\/www.businessinsider.com\/trump-promised-free-food-no-one-got-anything-2023-6",
-    "time_published":1686885420000,
-    "authors":[
-      "Kwan Wei Kevin Tan"
-    ],
-    "summary":"Trump promised free food for his supporters but no one got anything - Business Insider ...",
-    "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.356814,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MDNDF",
-        "relevance_score":"0.27432",
-        "ticker_sentiment_score":"0.244664",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.139265",
-        "ticker_sentiment_score":"0.054945",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Vietnam's Power Crisis Hits Local Firms, Foreign Investors",
-    "url":"https:\/\/www.barrons.com\/news\/vietnam-s-power-crisis-hits-local-firms-foreign-investors-fffdc560",
-    "time_published":1686885419000,
-    "authors":[
-      "Tran Thi Minh Ha and Alice Philipson"
-    ],
-    "summary":"An intensely hot summer and unprecedented drought are straining energy supplies in northern Vietnam, prompting rolling blackouts and sudden power outages that have led to \"uncountable\" losses among local firms and foreign manufacturers.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":-0.090701,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"SSNLF",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.049928",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NSRGF",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"UL",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:VND",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Vietnam's Power Crisis Hits Local Firms, Foreign Investors",
-    "url":"https:\/\/www.barrons.com\/news\/vietnam-s-power-crisis-hits-local-firms-foreign-investors-4fbba340",
-    "time_published":1686885419000,
-    "authors":[
-      "Tran Thi Minh Ha and Alice Philipson"
-    ],
-    "summary":"An intensely hot summer and unprecedented drought are straining energy supplies in northern Vietnam, prompting rolling blackouts and sudden power outages that have led to \"uncountable\" losses among local firms and foreign manufacturers.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1506854364915607743068630020524713013938---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":-0.090701,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"SSNLF",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.049928",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NSRGF",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"UL",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:VND",
-        "relevance_score":"0.044885",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Top 100 listed companies to confirm, deny market rumours from Oct 1: Sebi notifies disclosure rules - ETCFO",
-    "url":"https:\/\/cfo.economictimes.indiatimes.com\/news\/governance-risk-compliance\/top-100-listed-companies-to-confirm-deny-market-rumours-from-oct-1-sebi-notifies-disclosure-rules\/101033415",
-    "time_published":1686885354000,
-    "authors":[
-      "www.ETCFO.com"
-    ],
-    "summary":"These companies will have to \"confirm, deny or clarify any reported event or information in the mainstream media which is not general in nature and which indicates that rumours of an impending specific material event\" that are circulating amongst the investing public, within 24 hours from the ...",
-    "banner_image":"https:\/\/cfo.economictimes.indiatimes.com\/Themes\/Release\/images\/responsive\/etcfo-default.jpg",
-    "source":"Economic Times",
-    "category_within_source":"Top Stories",
-    "source_domain":"cfo.economictimes.indiatimes.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.614606"
-      }
-    ],
-    "overall_sentiment_score":0.181003,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
     "title":"Investors want crypto, but not without TradFi backing: Nomura survey",
     "url":"https:\/\/cointelegraph.com\/news\/investors-crypto-institutional-backing-nomura-survey",
     "time_published":1686884931000,
@@ -1807,310 +393,1606 @@
     ]
   },
   {
-    "title":"Analysis: Tesla's China expansion hits speed bump amid industry overcapacity",
-    "url":"https:\/\/www.reuters.com\/business\/autos-transportation\/teslas-china-expansion-hits-speed-bump-amid-industry-overcapacity-2023-06-16\/",
-    "time_published":1686884924000,
+    "title":"Bitcoin, Ethereum, Dogecoin Rise After BlackRock Files For Spot Bitcoin ETF",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32887023\/bitcoin-ethereum-dogecoin-rise-on-blackrock-etf-news-why-this-veteran-trader-says-king-cry",
+    "time_published":1686883094000,
     "authors":[
-      "Reuters"
+      "Mehab Qureshi"
     ],
-    "summary":"SHANGHAI, June 16 ( Reuters ) - Tesla's ( TSLA.O ) ambitious plan to boost auto production in Shanghai, its most valuable plant globally, hinges on China's approvals to develop 70 hectares ( 172 acres ) of former farmland that is currently overgrown with wildflowers.",
-    "banner_image":"https:\/\/graphics.reuters.com\/TESLA-CHINA\/xmpjkmmajvr\/chart.png",
-    "source":"Reuters",
-    "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.186125,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"LCID",
-        "relevance_score":"0.04882",
-        "ticker_sentiment_score":"0.039",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.608634",
-        "ticker_sentiment_score":"0.258596",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Asian Markets Mostly Up As Traders Eye China Stimulus",
-    "url":"https:\/\/www.barrons.com\/news\/asian-markets-mostly-up-as-traders-eye-china-stimulus-43c4cc3e",
-    "time_published":1686884828000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Hopes China will unveil fresh measures to kickstart its ailing economy lifted most markets Friday, while the dollar struggled to bounce from losses fuelled by bets the Federal Reserve is near the end of its tightening cycle.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP5268848078674141524418145107450234243828---1.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
+    "summary":"Major cryptocurrencies spurted briefly late Thursday following the news that the iShares unit of BlackRock, filed to the Securities and Exchange Commission ( SEC ) to launch a spot Bitcoin ETF.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Cryptocurrency_Photo_by_SvetlanaParnikova_on_Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.928139"
-      },
-      {
-        "topic":"Economy - Macro",
         "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.014637,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BACHY",
-        "relevance_score":"0.069697",
-        "ticker_sentiment_score":"0.07174",
-        "ticker_sentiment_label":"Neutral"
       },
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.273552",
-        "ticker_sentiment_score":"0.012459",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.20698",
-        "ticker_sentiment_score":"-0.028474",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:CNY",
-        "relevance_score":"0.069697",
-        "ticker_sentiment_score":"0.09562",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.138863",
-        "ticker_sentiment_score":"-0.015809",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Asian Markets Mostly Up As Traders Eye China Stimulus",
-    "url":"https:\/\/www.barrons.com\/news\/asian-markets-mostly-up-as-traders-eye-china-stimulus-bc5f1f7f",
-    "time_published":1686884828000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Hopes China will unveil fresh measures to kickstart its ailing economy lifted most markets Friday, while the dollar struggled to bounce from losses fuelled by bets the Federal Reserve is near the end of its tightening cycle.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1067967608114055520585385043834431314221---1.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.928139"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.014637,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BACHY",
-        "relevance_score":"0.069697",
-        "ticker_sentiment_score":"0.07174",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.273552",
-        "ticker_sentiment_score":"0.012459",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.20698",
-        "ticker_sentiment_score":"-0.028474",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:CNY",
-        "relevance_score":"0.069697",
-        "ticker_sentiment_score":"0.09562",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.138863",
-        "ticker_sentiment_score":"-0.015809",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Penny Stocks To Buy? 4 To Watch With Big News Now",
-    "url":"https:\/\/pennystocks.com\/featured\/2023\/06\/15\/penny-stocks-to-buy-4-to-watch-with-big-news-now\/",
-    "time_published":1686884537000,
-    "authors":[
-      "J. Samuel"
-    ],
-    "summary":"Are you on the hunt for the next big thing? Ready to catch the wave before it crests? Then, chances are you're familiar with penny stocks and looking for the next round of names to add to your watch list.",
-    "banner_image":"https:\/\/pennystocks.com\/wp-content\/uploads\/2023\/04\/PENNY-STOCKS-TO-BUY-WITH-NEWS.jpg",
-    "source":"PennyStocks.com",
-    "category_within_source":"n\/a",
-    "source_domain":"pennystocks.com",
-    "topics":[
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.999612"
+        "relevance_score":"0.988915"
       },
       {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
+        "topic":"Finance",
+        "relevance_score":"1.0"
       },
       {
-        "topic":"Energy & Transportation",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
       }
     ],
-    "overall_sentiment_score":0.294613,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.141543,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"SIDU",
-        "relevance_score":"0.163078",
-        "ticker_sentiment_score":"0.182027",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"SPCE",
-        "relevance_score":"0.08197",
-        "ticker_sentiment_score":"0.2037",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"WIT",
-        "relevance_score":"0.203045",
-        "ticker_sentiment_score":"0.18368",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NRC",
-        "relevance_score":"0.041039",
-        "ticker_sentiment_score":"0.027015",
+        "ticker":"BLK",
+        "relevance_score":"0.238133",
+        "ticker_sentiment_score":"0.112593",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"PANW",
-        "relevance_score":"0.163078",
-        "ticker_sentiment_score":"0.157209",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"0.101765",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.080458",
+        "ticker_sentiment_score":"0.120147",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Bank Of Japan Sticks To Ultra-loose Monetary Policy",
-    "url":"https:\/\/www.barrons.com\/news\/bank-of-japan-sticks-to-ultra-loose-monetary-policy-1b06ab9",
-    "time_published":1686884497000,
+    "title":"US Clampdown Has Crypto Kings Looking Abroad",
+    "url":"https:\/\/www.barrons.com\/news\/us-clampdown-has-crypto-kings-looking-abroad-e3ddb8e2",
+    "time_published":1686879657000,
     "authors":[
-      "AFP - Agence France Presse"
+      "Thomas URBAIN"
     ],
-    "summary":"The Bank of Japan said Friday it would maintain its long-standing, ultra-loose monetary policy as it looks to boost economic growth. The central bank has gone against the grain as its global peers hike interest rates to tackle inflation, pushing down the value of the yen against the dollar.",
+    "summary":"After years on the sidelines, financial regulators in the United States are throwing the book at the free-wheeling cryptocurrency industry, with angry entrepreneurs threatening to take their business overseas.",
     "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
     "source":"Barrons",
     "category_within_source":"n\/a",
     "source_domain":"www.barrons.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.77141"
       }
     ],
-    "overall_sentiment_score":0.316347,
+    "overall_sentiment_score":-0.029105,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.225425",
+        "ticker_sentiment_score":"-0.003554",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:JPY",
+        "relevance_score":"0.057079",
+        "ticker_sentiment_score":"-0.015016",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.057079",
+        "ticker_sentiment_score":"-0.112088",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.057079",
+        "ticker_sentiment_score":"-0.112088",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Korean crypto contagion, Bank of China on Ethereum, HK's exchange red carpet: Asia Express",
+    "url":"https:\/\/cointelegraph.com\/magazine\/hong-kong-crypto-exchanges-do-kwon-jail-korean-crypto-lenders-contagion-asia-express\/",
+    "time_published":1686871993000,
+    "authors":[
+      "Zhiyuan Sun"
+    ],
+    "summary":"Hong Kong lays out welcome mat for exchanges, Korean crypto lender contagion, Do Kwon banged up abroad, Bank of China's Ethereum debt note.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2023\/01\/magazine-Asia-Express-Jan-20-scaled.jpeg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.977154"
+      }
+    ],
+    "overall_sentiment_score":-0.040641,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BACHY",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:HKD",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:CNY",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.080323",
+        "ticker_sentiment_score":"0.057617",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.080323",
+        "ticker_sentiment_score":"0.028579",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock applies for spot Bitcoin ETF - a US first, if approved",
+    "url":"https:\/\/cointelegraph.com\/news\/blackrock-apply-spot-bitcoin-etf-sec-nasdaq",
+    "time_published":1686870228000,
+    "authors":[
+
+    ],
+    "summary":"The investment firm joins a long line of applicants. ARK is among those still waiting to hear from the SEC and Grayscale has appealed its rejection.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZjZkYWUxMWItZjU4Mi00YzI0LWEzNjktMjdlMWFlNzQ3ODAxLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999919"
+      }
+    ],
+    "overall_sentiment_score":0.192943,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.651499",
-        "ticker_sentiment_score":"0.271115",
+        "ticker":"BLK",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.175545",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.651499",
-        "ticker_sentiment_score":"0.271115",
+        "ticker":"BK",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.309777",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.309777",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.920636",
+        "ticker_sentiment_score":"0.338052",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Nikola founder urges vote against critical share proposal",
-    "url":"https:\/\/www.reuters.com\/business\/autos-transportation\/nikola-founder-urges-vote-against-critical-share-proposal-2023-06-16\/",
-    "time_published":1686884280000,
+    "title":"JOLT HEALTH INC. ANNOUNCES FINANCING",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689461\/0\/en\/JOLT-HEALTH-INC-ANNOUNCES-FINANCING.html",
+    "time_published":1686868740000,
     "authors":[
-      "Abhirup Roy"
+      "Jolt Health Inc."
     ],
-    "summary":"SAN FRANCISCO, June 15 ( Reuters ) - Nikola's ( NKLA.O ) top shareholder and founder, Trevor Milton, on Thursday urged investors to vote against the electric truck maker's proposal to increase the number of shares it is allowed to issue and called for a change in leadership.",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/TKB2S4YBCFIQLDRAVUDQSEVMYE.jpg",
-    "source":"Reuters",
+    "summary":"VANCOUVER, BC, CANADA, June 15, 2023 ( GLOBE NEWSWIRE ) -- Jolt Health Inc. ( \"JOLT\" and or \"the Company\" ) ( CSE:JOLT ) ( FSE: G1Q0 ) announced it is undertaking a non-brokered private placement of up to $400,000. The Company will issue up to 27,972,028 units at a price of $0.0143 per unit.",
+    "banner_image":"",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.875462"
+      }
+    ],
+    "overall_sentiment_score":0.014474,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.131643",
+        "ticker_sentiment_score":"-0.03902",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Prometheum: What You Need to Know About the SEC's Poster Child for Crypto Compliance",
+    "url":"https:\/\/decrypt.co\/144833\/prometheum-sec-poster-child-crypto-compliance",
+    "time_published":1686867712000,
+    "authors":[
+      "Decrypt \/ Andr\u00e9 Beganski"
+    ],
+    "summary":"Prometheum's co-CEO gave remarks on Capitol Hill that mirrored the SEC's stance. Now industry observers are poring over the startup's paper trail.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2020\/11\/under-a-magnifying-glass-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.839681"
+      }
+    ],
+    "overall_sentiment_score":0.064248,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.033751",
+        "ticker_sentiment_score":"0.152162",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.033751",
+        "ticker_sentiment_score":"-0.083245",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.033751",
+        "ticker_sentiment_score":"-0.083245",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Is crypto a security, bro?",
+    "url":"https:\/\/www.ft.com\/content\/a80005e6-07a7-4dae-ac34-5c1d98f6d4a4",
+    "time_published":1686866495000,
+    "authors":[
+
+    ],
+    "summary":"This is an audio transcript of the Unhedged podcast episode: 'Is crypto a security, bro?' The US crypto crackdown is in full swing. The US Securities and Exchange Commission is suing the two most important crypto exchanges, Coinbase and Binance, alleging that they're running unregistered ...",
+    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46f1bdf0-0d60-4cf5-801d-18cecb9a1215.jpg?fit=scale-down&source=next&width=700",
+    "source":"Financial Times",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.ft.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999701"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999999"
+      }
+    ],
+    "overall_sentiment_score":0.088792,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.034831",
+        "ticker_sentiment_score":"0.014485",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.01742",
+        "ticker_sentiment_score":"-0.040298",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.01742",
+        "ticker_sentiment_score":"-0.004416",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.01742",
+        "ticker_sentiment_score":"0.003404",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock files spot bitcoin spot ETF application",
+    "url":"https:\/\/www.axios.com\/2023\/06\/15\/blackrock-bitcoin-spot-etf-application",
+    "time_published":1686866334000,
+    "authors":[
+      "https:\/\/www.axios.com\/authors\/lshen",
+      "Lucinda Shen"
+    ],
+    "summary":"Investment management giant BlackRock filed an application for a spot bitcoin ETF on Thursday. Why it matters: The SEC has historically rejected attempts to launch a spot bitcoin ETF in the U.S. Now, the world's largest asset manager is entering the battle.",
+    "banner_image":"https:\/\/images.axios.com\/D6NTm5FYsl6HZk216ZTyyaPIP58=\/0x0:1920x1080\/1920x1080\/2023\/06\/15\/1686838143000.jpg?w=1920",
+    "source":"Axios",
+    "category_within_source":"Economy",
+    "source_domain":"www.axios.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.875462"
+      }
+    ],
+    "overall_sentiment_score":-0.171343,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.17715",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BK",
+        "relevance_score":"0.17715",
+        "ticker_sentiment_score":"0.124429",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.17715",
+        "ticker_sentiment_score":"0.124429",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.926714",
+        "ticker_sentiment_score":"-0.297832",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock Moves Forward With Bitcoin ETF, Confirms Coinbase As Custodian In Form S-1 Registration - BlackRock  ( NYSE:BLK ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32885005\/blackrock-moves-forward-with-bitcoin-etf-confirms-coinbase-as-custodian-in-form-s-1-regist",
+    "time_published":1686866084000,
+    "authors":[
+      "Jose Rodrigo Safdiye"
+    ],
+    "summary":"In the face of the U.S. Securities and Exchange Commission's ( SEC ) amplified scrutiny on the crypto industry and Bitcoin BTC\/USD prices currently hovering at the $25,000 mark, BlackRock Inc BLK, the world's largest asset manager, seems undeterred about its involvement in the sector.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/shutterstock_733303144_0.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.917436"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.33012,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.214937",
+        "ticker_sentiment_score":"0.132342",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MSTR",
+        "relevance_score":"0.214937",
+        "ticker_sentiment_score":"0.045628",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.317527",
+        "ticker_sentiment_score":"0.267051",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.866386",
+        "ticker_sentiment_score":"0.542442",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Fed, SEC investigate Goldman Sachs over Silicon Valley Bank's securities portfolio: Report",
+    "url":"https:\/\/cointelegraph.com\/news\/fed-sec-investigate-goldman-sachs-silicon-valley-bank-securities-portfolio-report",
+    "time_published":1686865432000,
+    "authors":[
+
+    ],
+    "summary":"Both regulatory bodies are inquiring into the activities of Goldman Sachs during its unsuccessful capital raise preceding the downfall of Silicon Valley Bank.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZWRkMGY3ZjEtM2Y1Mi00ODk5LWE5YzktYzcyNzkzOTEyNThkLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.684621"
+      }
+    ],
+    "overall_sentiment_score":0.012083,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GS",
+        "relevance_score":"0.499789",
+        "ticker_sentiment_score":"-0.074014",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.089462",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin climbs as BlackRock files for ETF backed by the cryptocurrency",
+    "url":"https:\/\/www.marketwatch.com\/story\/bitcoin-climbs-as-blackrock-files-for-etf-backed-by-the-cryptocurrency-20bdd713",
+    "time_published":1686865200000,
+    "authors":[
+      "Frances Yue"
+    ],
+    "summary":"Bitcoin rises after BlackRock, the world's largest asset manager, files an application for an exchange-traded fund backed by the cryptocurrency.",
+    "banner_image":"https:\/\/images.mktw.net\/im-776988\/social",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.183506,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.570165",
+        "ticker_sentiment_score":"0.370704",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.570165",
+        "ticker_sentiment_score":"0.370704",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock files for spot bitcoin ETF, with Coinbase as a crypto custodian",
+    "url":"https:\/\/www.cnbc.com\/2023\/06\/15\/blackrock-files-for-spot-bitcoin-etf-with-coinbase-as-a-crypto-custodian.html",
+    "time_published":1686863818000,
+    "authors":[
+      "Jesse Pound"
+    ],
+    "summary":"The firm filed an application with the Securities and Exchange Commission to launch the iShares Bitcoin Trust.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107208912-1678874096868-gettyimages-1236743873-FR_20211118_011.jpeg?v=1686863818&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Investing",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999981"
+      }
+    ],
+    "overall_sentiment_score":0.149867,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.454174",
+        "ticker_sentiment_score":"0.079892",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.31282",
+        "ticker_sentiment_score":"-0.094631",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.772973",
+        "ticker_sentiment_score":"0.319996",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Jack Dorsey's Block Bitcoin Wallet Opens Beta, Announces Coinbase Support",
+    "url":"https:\/\/decrypt.co\/144825\/jack-dorseys-block-bitcoin-wallet-opens-beta-announces-coinbase-support",
+    "time_published":1686863114000,
+    "authors":[
+      "Decrypt \/ Andrew Throuvalas"
+    ],
+    "summary":"Bitkey will allow beta users to withdraw Bitcoin from Coinbase and Cashapp using \"copy and paste.\" ...",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2022\/12\/bitcoin-wallet-gID_7.jpeg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.294378,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.297061",
+        "ticker_sentiment_score":"0.237788",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"SQ",
+        "relevance_score":"0.388879",
+        "ticker_sentiment_score":"0.260275",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.872847",
+        "ticker_sentiment_score":"0.48834",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.101154",
+        "ticker_sentiment_score":"0.130239",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"3AC liquidators file motion to hold Kyle Davies in contempt",
+    "url":"https:\/\/cointelegraph.com\/news\/3ac-liquidators-file-motion-hold-kyle-davies-in-contempt",
+    "time_published":1686860575000,
+    "authors":[
+
+    ],
+    "summary":"Civil sanctions against 3AC's co-founder Kyle Davies include an award of attorneys' fees and a $10,000 daily fine until compliance with a subpoena.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/1cfc76d5-fe2d-434b-80f5-baead74485f5.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.10643,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.103331",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin briefly drops below $25,000, Tether's stablecoin falls under its dollar peg",
+    "url":"https:\/\/www.cnbc.com\/2023\/06\/15\/bitcoin-drops-below-25000-tethers-stablecoin-falls-below-its-dollar-peg.html",
+    "time_published":1686860450000,
+    "authors":[
+      "Tanaya Macheel"
+    ],
+    "summary":"Cryptocurrency prices plunged after the Federal Reserve's June meeting, with bitcoin falling below $25,000 for the first time since March.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107074597-1655103399286-gettyimages-1241039329-porzycki-bitcoinp220601_npP5u.jpeg?v=1686829421&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.614606"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":-0.140556,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.092569",
+        "ticker_sentiment_score":"-0.047123",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.092569",
+        "ticker_sentiment_score":"-0.046181",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.092569",
+        "ticker_sentiment_score":"-0.301386",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.647749",
+        "ticker_sentiment_score":"-0.197177",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.092569",
+        "ticker_sentiment_score":"-0.306676",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Sam Bankman-Fried judge weighing two separate trials for FTX founder",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/sam-bankman-fried-judge-weighing-two-separate-trials-ftx-founder",
+    "time_published":1686853888000,
+    "authors":[
+
+    ],
+    "summary":"FTX founder Sam Bankman-Fried is still set to face trial in the fall on several charges related to the collapse of his now-bankrupt cryptocurrency exchange, but recent developments could mean the former CEO could face a second trial next year.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/d689e1b9-0c55-440b-9d85-fa35c0f2c6b1\/301279db-b695-4195-966f-ccd4b2a0a365\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.087165,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.098255",
+        "ticker_sentiment_score":"0.078803",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Colombia's Central Bank Taps Ripple to Pilot CBDC",
+    "url":"https:\/\/decrypt.co\/144799\/colombia-central-bank-ripple-cbdc",
+    "time_published":1686852954000,
+    "authors":[
+      "Decrypt \/ Mat Di Salvo"
+    ],
+    "summary":"Colombia already makes use of Ripple's technology for land distribution efforts in the country.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2019\/08\/colombia-bitcoin-ethereum-cryptocurrency-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.120047,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.083833",
+        "ticker_sentiment_score":"0.118805",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.083833",
+        "ticker_sentiment_score":"0.118805",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.166743",
+        "ticker_sentiment_score":"0.066305",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.166743",
+        "ticker_sentiment_score":"0.066305",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin slides to $25K after Fed meeting",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/bitcoin-slides-below-25k-fed-meeting",
+    "time_published":1686852308000,
+    "authors":[
+
+    ],
+    "summary":"The price of Bitcoin and other digital assets tumbled after the U.S. Federal Reserve announced that additional interest rate hikes were on the way, after pausing at Wednesday's meeting.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/aefc79b5-735a-4bd7-821b-8f3ede875183\/b8201490-4f8e-48f5-b582-036be9b8d077\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.051931,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.320974",
+        "ticker_sentiment_score":"0.1207",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.163909",
+        "ticker_sentiment_score":"-0.206805",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Ripple partners with Colombia's central bank to explore blockchain technology",
+    "url":"https:\/\/cointelegraph.com\/news\/ripple-partners-colombia-central-bank-explore-blockchain-technology",
+    "time_published":1686852000000,
+    "authors":[
+
+    ],
+    "summary":"The pilot program will run through 2023 with the intent of demonstrating blockchain utility to the general public.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvMTBiYWY5YzQtZGI4NC00Y2FmLWJjMDctN2U0MzhkMTg2YTZkLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.026003,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.221819",
+        "ticker_sentiment_score":"0.144028",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.327366",
+        "ticker_sentiment_score":"0.004721",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Buying Bitcoin is preferable to BTC mining in most circumstances - Analysis",
+    "url":"https:\/\/cointelegraph.com\/news\/buying-bitcoin-is-preferable-to-btc-mining-in-most-circumstances-analysis",
+    "time_published":1686850002000,
+    "authors":[
+
+    ],
+    "summary":"Data suggests that investors are better off buying spot Bitcoin then attempting to mine it, unless the market is in a mega bull run.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/cecdfbae-4a97-4e8d-8c19-1d22405a6d35.JPG",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.495866"
+      }
+    ],
+    "overall_sentiment_score":0.221836,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"NYT",
+        "relevance_score":"0.048919",
+        "ticker_sentiment_score":"0.100096",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RIOT",
+        "relevance_score":"0.048919",
+        "ticker_sentiment_score":"0.100096",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RVRF",
+        "relevance_score":"0.097655",
+        "ticker_sentiment_score":"0.089301",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.924783",
+        "ticker_sentiment_score":"0.363776",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Crypto Corner Podcast: Cryptocurrency Stocks in the News:  ( NasdaqGS: HUT )   ( NasdaqCM: BTBT )   ( NasdaqCM: MIGI ) ",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/crypto-corner\/06151HUT-BTBT-MIGI.asp",
+    "time_published":1686849911000,
+    "authors":[
+
+    ],
+    "summary":"Crypto Corner Podcast: Cryptocurrency Stocks in the News ... ...",
+    "banner_image":null,
+    "source":"Investor Ideas",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investorideas.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.77141"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.918141"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.340533,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.054359",
+        "ticker_sentiment_score":"0.247929",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"APCX",
+        "relevance_score":"0.054359",
+        "ticker_sentiment_score":"0.214989",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"MIGI",
+        "relevance_score":"0.054359",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BTBT",
+        "relevance_score":"0.108466",
+        "ticker_sentiment_score":"0.14054",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SPOT",
+        "relevance_score":"0.054359",
+        "ticker_sentiment_score":"0.247929",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"HUT",
+        "relevance_score":"0.054359",
+        "ticker_sentiment_score":"0.105778",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.504646",
+        "ticker_sentiment_score":"0.399267",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"A Missouri doctor's death is steeped in mystery and speculation. Authorities aren't talking",
+    "url":"https:\/\/apnews.com\/article\/missouri-doctor-dead-john-forsyth-mystery-db7149050aedc913a184bc43f579db08",
+    "time_published":1686849255000,
+    "authors":[
+
+    ],
+    "summary":"This undated photo released by the Cassville Missouri Police Dept., shows a portrait of Dr. John Forsyth.",
+    "banner_image":"https:\/\/storage.googleapis.com\/afs-prod\/media\/ac571492a6ca4c018a0bf9b392006bc0\/3000.webp",
+    "source":"Associated Press",
     "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
+    "source_domain":"apnews.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":-0.023976,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"META",
+        "relevance_score":"0.056341",
+        "ticker_sentiment_score":"-0.006001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.056341",
+        "ticker_sentiment_score":"0.109003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.028188",
+        "ticker_sentiment_score":"0.119355",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Crypto Optimistic BlackRock Edges Closer to Bitcoin ETF Despite Increased SEC Scrutiny Of The Industry - BlackRock  ( NYSE:BLK ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32877103\/crypto-optimistic-blackrock-edges-closer-to-bitcoin-etf-despite-increased-sec-scrutiny-of-",
+    "time_published":1686848193000,
+    "authors":[
+      "Jose Rodrigo Safdiye"
+    ],
+    "summary":"Despite Bitcoin BTC\/USD languishing below the $25K mark and the U.S. Securities and Exchange Commission ( SEC ) intensifying its crackdown on the crypto industry, BlackRock Inc BLK, the world's largest asset manager, is reportedly nearing an application for a Bitcoin ETF ( exchange-traded fund ) ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/shutterstock_2104410695.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.857896"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.08988,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.767202",
+        "ticker_sentiment_score":"0.083166",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MSTR",
+        "relevance_score":"0.605937",
+        "ticker_sentiment_score":"0.179226",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.390904",
+        "ticker_sentiment_score":"-0.078194",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.911721",
+        "ticker_sentiment_score":"0.284585",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"The Future is Here: 3nm ASIC Technology in Cryptocurrency Miners",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32879735\/the-future-is-here-3nm-asic-technology-in-cryptocurrency-miners",
+    "time_published":1686848175000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"NEW YORK, June 15, 2023 ( GLOBE NEWSWIRE ) -- A suite of next generation crypto miners from Bitmanu are currently the talk of the town in the crypto market. These 3 nanometer ASIC miners have been tipped by many experts as the future of crypto mining.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.342059,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.183188",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:XMR",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.183188",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LTC",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.183188",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Whale Moves $1.2 Million After 13 Years of Inactivity",
+    "url":"https:\/\/decrypt.co\/144786\/bitcoin-whale-moves-million-after-13-years",
+    "time_published":1686848030000,
+    "authors":[
+      "Decrypt \/ Mat Di Salvo"
+    ],
+    "summary":"Some long-term investors are moving their stashes after years of remaining dormant.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2022\/12\/large-crypto-whale-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":-0.009539,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.77688",
+        "ticker_sentiment_score":"-0.083166",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.121037",
+        "ticker_sentiment_score":"-0.089058",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.121037",
+        "ticker_sentiment_score":"-0.089058",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"More than 1 in 5 cryptocurrencies have seen positive movement in 2023",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/cryptocurrency\/06153Positive-Movement.asp",
+    "time_published":1686847256000,
+    "authors":[
+
+    ],
+    "summary":"More than 1 in 5 cryptocurrencies have seen positive movement in ... ...",
+    "banner_image":null,
+    "source":"Investor Ideas",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investorideas.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.402147,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.318897",
+        "ticker_sentiment_score":"0.429319",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock Filing Bitcoin ETF Application Soon: Reports",
+    "url":"https:\/\/decrypt.co\/144782\/blackrock-filing-bitcoin-etf-application-soon-reports",
+    "time_published":1686846426000,
+    "authors":[
+      "Decrypt \/ Nicholas Morgan"
+    ],
+    "summary":"According to a recent report, BlackRock, the world's largest asset manager, is close to filing an application for a Bitcoin exchange traded fund with the help of Coinbase.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2020\/12\/blackrock-blockchain-vp-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999965"
+      }
+    ],
+    "overall_sentiment_score":-0.090148,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.489394",
+        "ticker_sentiment_score":"0.135234",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.489394",
+        "ticker_sentiment_score":"0.08336",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.642977",
+        "ticker_sentiment_score":"-0.084218",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"3 Bitcoin price metrics showing 'insane' similarities to 2020 breakout",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-price-metrics-similarities-2020-breakout",
+    "time_published":1686844366000,
+    "authors":[
+
+    ],
+    "summary":"Bitcoin remains bullish - and arguably more so than ever - depending on which BTC price metrics are used to assess it.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/824a2623-64c9-4d1c-aa40-cb15a1d1b826.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":-0.060046,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.856646",
+        "ticker_sentiment_score":"-0.281501",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Why Bitcoin, Ethereum, and Shiba Inu Are Falling Today",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/06\/15\/why-bitcoin-ethereum-and-shiba-inu-are-falling-tod\/",
+    "time_published":1686844264000,
+    "authors":[
+      "Bram Berkowitz"
+    ],
+    "summary":"Cryptocurrencies are down after the Federal Reserve indicated yesterday there could be two more rate hikes this year.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736450%2Fgeneric-upward-16.jpg&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":-0.031049,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.377142",
+        "ticker_sentiment_score":"-0.131147",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.155954",
+        "ticker_sentiment_score":"-0.040978",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.155954",
+        "ticker_sentiment_score":"-0.040978",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Marathon Digital Holdings Issues Warning of Fraudulent Activity",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689180\/0\/en\/Marathon-Digital-Holdings-Issues-Warning-of-Fraudulent-Activity.html",
+    "time_published":1686843420000,
+    "authors":[
+      "Marathon Digital Holdings",
+      "Inc."
+    ],
+    "summary":"FORT LAUDERDALE, Fla., June 15, 2023 ( GLOBE NEWSWIRE ) -- Marathon Digital Holdings, Inc. ( NASDAQ:MARA ) ( \"Marathon\" or \"Company\" ) , a leader in supporting and securing the Bitcoin ecosystem, is issuing a warning to the public to be alert for cryptocurrency scams.",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/5bf0e289-2377-488d-b737-bf7546a68e4b",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
     "topics":[
       {
         "topic":"Real Estate & Construction",
         "relevance_score":"1.0"
       },
       {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.214378"
+        "relevance_score":"0.972756"
       }
     ],
-    "overall_sentiment_score":-0.048557,
+    "overall_sentiment_score":-0.143476,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"NKLA",
-        "relevance_score":"0.462953",
-        "ticker_sentiment_score":"0.043523",
+        "ticker":"MARA",
+        "relevance_score":"0.104683",
+        "ticker_sentiment_score":"-0.036195",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.257805",
+        "ticker_sentiment_score":"-0.140646",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Cathie Wood's Ark Invest Says Current AR\/VR Tech Just Doesn't Cut It For Masses - Analyst Bets Apple Will Sell Less Than 1M Headsets In First Year - Meta Platforms  ( NASDAQ:META ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/06\/32887064\/cathie-woods-ark-invest-says-current-arvr-tech-just-doesnt-cut-it-for-masses-analyst-bets-apple-will",
-    "time_published":1686884259000,
+    "title":"Bitcoin Down More Than 3% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32876635\/bitcoin-down-more-than-3-within-24-hours",
+    "time_published":1686841240000,
     "authors":[
-      "Ananya Gairola"
+      "Benzinga Insights"
     ],
-    "summary":"ARK Invest, an investment firm led by Cathie Wood, boldly asserts that current augmented and virtual reality technology, including offerings from tech giants like Apple Inc. AAPL and Meta Platforms Inc. META, fails to meet the mark when it comes to capturing the masses adoption.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Cathie_Wood_Ark_Photo_courtesy_Benzinga_YouTube_and_Unsplash_7.jpeg?width=1200&height=800&fit=crop",
+    "summary":"Bitcoin's BTC\/USD price has decreased 3.82% over the past 24 hours to $24,998.00, continuing its downward trend over the past week of -6.0%, moving from $26,664.40 to its current price.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.108903,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.63188",
+        "ticker_sentiment_score":"-0.194292",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Stock Market Got Some Good News; Homebuilder Stock Hits A 52-Week High",
+    "url":"https:\/\/www.investors.com\/market-trend\/stock-market-today\/stock-market-got-some-good-news-homebuilder-stock-hits-a-high\/",
+    "time_published":1686840960000,
+    "authors":[
+      "KIMBERLEY KOENIG",
+      "Investor's Business Daily"
+    ],
+    "summary":"Stock Market Gets Some Good News, Reverses Higher ... Investor's Business Daily ...",
+    "banner_image":"https:\/\/www.investors.com\/wp-content\/uploads\/2023\/02\/Stock-lennar-01-adobe.jpg",
+    "source":"Investors Business Daily",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investors.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.2"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.2"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.2"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999975"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.2"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"0.2"
+      }
+    ],
+    "overall_sentiment_score":0.112276,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"DMPZF",
+        "relevance_score":"0.045482",
+        "ticker_sentiment_score":"0.109348",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVDA",
+        "relevance_score":"0.135857",
+        "ticker_sentiment_score":"-0.246999",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"LEN",
+        "relevance_score":"0.18046",
+        "ticker_sentiment_score":"0.13461",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JBL",
+        "relevance_score":"0.090816",
+        "ticker_sentiment_score":"0.176024",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"KR",
+        "relevance_score":"0.090816",
+        "ticker_sentiment_score":"0.015838",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ADBE",
+        "relevance_score":"0.090816",
+        "ticker_sentiment_score":"0.06635",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AMD",
+        "relevance_score":"0.135857",
+        "ticker_sentiment_score":"-0.246999",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"IVZ",
+        "relevance_score":"0.045482",
+        "ticker_sentiment_score":"0.217678",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"DPZ",
+        "relevance_score":"0.090816",
+        "ticker_sentiment_score":"0.115327",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.045482",
+        "ticker_sentiment_score":"-0.162822",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"What's Going On With Coinbase Stock Today? - Coinbase Glb  ( NASDAQ:COIN ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32875231\/whats-going-on-with-coinbase-stock-today",
+    "time_published":1686839437000,
+    "authors":[
+      "Adam Eckert"
+    ],
+    "summary":"Coinbase Global Inc COIN shares are trading lower Thursday alongside the broader crypto market. The company announced the repurchase of convertible senior notes Thursday morning.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/coinbase_mobile_-_splash.png?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"News",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Technology",
+        "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
@@ -2118,20 +2000,565 @@
         "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.208735,
+    "overall_sentiment_score":0.230355,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"META",
-        "relevance_score":"0.148731",
-        "ticker_sentiment_score":"0.048407",
+        "ticker":"COIN",
+        "relevance_score":"0.83383",
+        "ticker_sentiment_score":"0.346051",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.355588",
+        "ticker_sentiment_score":"-0.295151",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.355588",
+        "ticker_sentiment_score":"-0.295151",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"MARA: Which Financial Stock Should You Invest In: Marathon Digital  ( MARA )  vs. Everi Holdings  ( EVRI ) ",
+    "url":"https:\/\/stocknews.com\/news\/mara-evri-which-financial-stock-should-you-invest-in-marathon-digital-mara\/",
+    "time_published":1686839303000,
+    "authors":[
+
+    ],
+    "summary":"MARA: Which Financial Stock Should You Invest In: Marathon ... ...",
+    "banner_image":"https:\/\/stocknews.com\/wp-content\/uploads\/2020\/10\/cgc-nvs-pfe-jnj.jpg",
+    "source":"Stocknews.com",
+    "category_within_source":"n\/a",
+    "source_domain":"stocknews.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.365926"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.999975"
+      },
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.283665,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"EVRI",
+        "relevance_score":"0.460808",
+        "ticker_sentiment_score":"0.297758",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"MARA",
+        "relevance_score":"0.431441",
+        "ticker_sentiment_score":"0.346326",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.034984",
+        "ticker_sentiment_score":"0.272022",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:POWR",
+        "relevance_score":"0.0699",
+        "ticker_sentiment_score":"0.013219",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin falls below $25,000 as Fed signals more hawkish moves ahead and regulatory screws tighten on the sector",
+    "url":"https:\/\/africa.businessinsider.com\/markets\/bitcoin-falls-below-dollar25000-as-fed-signals-more-hawkish-moves-ahead-and\/5hx93me",
+    "time_published":1686839272000,
+    "authors":[
+
+    ],
+    "summary":"The world's biggest cryptocurrency by market value traded lower to $24,897 on Thursday morning, down around 4% from $25,930 on Wednesday. Ethereum, meanwhile, fell to $1,636, down nearly 6% from Wednesday's levels.",
+    "banner_image":"https:\/\/ocdn.eu\/pulscms-transforms\/1\/BM_ktkuTURBXy80NDNhNTc4NC00NzFjLTRhNzEtOTAyNS04ZDg1MTQxNGExOTAuanBlZ5GTBc0DFs0Brg",
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"africa.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.239253,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.154455",
+        "ticker_sentiment_score":"-0.279076",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.154455",
+        "ticker_sentiment_score":"-0.121256",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"AAPL",
-        "relevance_score":"0.697576",
-        "ticker_sentiment_score":"0.430633",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.303175",
+        "ticker_sentiment_score":"-0.185474",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin falls below $25,000 as Fed signals more hawkish moves ahead and regulatory screws tighten on the sector",
+    "url":"https:\/\/markets.businessinsider.com\/news\/currencies\/bitcoin-price-btc-usd-fed-interest-rates-regulation-binance-coinbase-2023-6",
+    "time_published":1686839220000,
+    "authors":[
+      "Jennifer Sor"
+    ],
+    "summary":"Bitcoin falls below $25,000 amid hawkish Fed, tighter regulation - Markets Insider ...",
+    "banner_image":"https:\/\/i.insider.com\/63877a01d9fcb200198d61b0?width=1200&format=jpeg",
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.890401"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.232558,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.234684",
+        "ticker_sentiment_score":"-0.215807",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.345674",
+        "ticker_sentiment_score":"-0.210081",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.234684",
+        "ticker_sentiment_score":"-0.151841",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Fedi's Bitcoin Federations Could Onboard Next 1 Billion Users, Says CEO",
+    "url":"https:\/\/decrypt.co\/144599\/fedis-bitcoin-federations-could-onboard-next-1-billion-users-says-ceo",
+    "time_published":1686838907000,
+    "authors":[
+      "Decrypt \/ Andrew Asmakov"
+    ],
+    "summary":"Fedi CEO Obi Nwosu has big plans for kickstarting Bitcoin adoption via a unique, Lightning-powered community app called \"Federations.\" ...",
+    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fit:1536:0:0:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/06\/Fedi-Federation-BTC-Prague.jpg@webp",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.167913,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.360229",
+        "ticker_sentiment_score":"0.116295",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Is blockchain technology ready for high-storage applications?",
+    "url":"https:\/\/cointelegraph.com\/news\/is-blockchain-technology-ready-for-high-storage-applications",
+    "time_published":1686838274000,
+    "authors":[
+
+    ],
+    "summary":"What does the blockchain space need to enable the development of high-storage apps?",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/e6bd3a73-3804-4faa-9571-5b54f2f462a7.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.259202,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.023395",
+        "ticker_sentiment_score":"-0.07611",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DTST",
+        "relevance_score":"0.093379",
+        "ticker_sentiment_score":"0.224665",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"REZNF",
+        "relevance_score":"0.023395",
+        "ticker_sentiment_score":"0.119308",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.04677",
+        "ticker_sentiment_score":"0.0808",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.023395",
+        "ticker_sentiment_score":"-0.018172",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Drops To 3-Month Low Following Fed Rate Decision",
+    "url":"https:\/\/www.forbes.com\/sites\/katherinehamilton\/2023\/06\/15\/bitcoin-drops-to-3-month-low-following-fed-rate-decision\/",
+    "time_published":1686838100000,
+    "authors":[
+      "Katherine Hamilton"
+    ],
+    "summary":"Bitcoin fell to its lowest point since mid-March after the Fed's latest meeting stoked fears of more aggressive policy-sending several other cryptocurrencies on a downward slope.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/648b15028cd5d4287ab12f50\/0x0.jpg?format=jpg&crop=1469,827,x0,y75,safe&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":-0.229522,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.206685",
+        "ticker_sentiment_score":"-0.218198",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.104228",
+        "ticker_sentiment_score":"-0.146561",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.399734",
+        "ticker_sentiment_score":"-0.212717",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.104228",
+        "ticker_sentiment_score":"-0.146561",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Tumbles Below $25,000 Following Fed's Decision; Injective, Aave Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32874541\/bitcoin-tumbles-below-25-000-following-feds-decision-injective-aave-among-top-losers",
+    "time_published":1686836714000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded lower, with the cryptocurrency prices trading below the $25,000 level on Thursday following the monetary policy decision from the Federal Reserve. The Fed held interest rates steady at its June FOMC meeting, as widely expected by the market.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.145255,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.651499",
+        "ticker_sentiment_score":"-0.600253",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.651499",
+        "ticker_sentiment_score":"-0.724303",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Coinbase Is Falling, but a Nasdaq Biotech Stock Is Thursday's Big Loser",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/06\/15\/coinbase-is-falling-but-a-nasdaq-biotech-stock-is\/",
+    "time_published":1686835957000,
+    "authors":[
+      "Dan Caplinger"
+    ],
+    "summary":"Markets gave back some ground after consideration of the Fed's latest interest rate decision.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736107%2Fa-young-person-laying-on-a-bed-looking-at-a-smartphone.jpg&op=resize&h=340",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.977154"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":-0.093413,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"MRSN",
+        "relevance_score":"0.194242",
+        "ticker_sentiment_score":"-0.363619",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.488007",
+        "ticker_sentiment_score":"-0.055221",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.130217",
+        "ticker_sentiment_score":"-0.052113",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.130217",
+        "ticker_sentiment_score":"-0.052113",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Opinion: GOP crypto maxis almost as bad as Dems' 'anti-crypto army'",
+    "url":"https:\/\/cointelegraph.com\/magazine\/opinion-republican-crypto-maxis-democrat-anti-crypto-army-mchenry-warren\/",
+    "time_published":1686835800000,
+    "authors":[
+      "AlexOdonnell"
+    ],
+    "summary":"Fighting between GOP crypto maxis and anti-crypto Dems fails to appreciate blockchain's importance to the U.S.' long-term economic interests.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2023\/06\/Op-Ed.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.15456,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.120632",
+        "ticker_sentiment_score":"0.111817",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.120632",
+        "ticker_sentiment_score":"0.060003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.040348",
+        "ticker_sentiment_score":"0.086646",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Price Cuts Below $25,000 After Fed Rate Decision; NFTs Slip Off The Radar",
+    "url":"https:\/\/www.investors.com\/news\/bitcoin-price-cuts-below-25000-after-fed-rate-decision-nfts-slip-off-the-radar\/",
+    "time_published":1686835560000,
+    "authors":[
+      "Investor's Business Daily",
+      "HARRISON MILLER"
+    ],
+    "summary":"Bitcoin Price Cuts Below $25000 After Fed Rate Decision. NFTs Slip ... Investor's Business Daily ...",
+    "banner_image":"https:\/\/www.investors.com\/wp-content\/uploads\/2023\/06\/Stock-NFT-shutt.jpg",
+    "source":"Investors Business Daily",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investors.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.858979"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":-0.077141,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.086556",
+        "ticker_sentiment_score":"0.060652",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.172097",
+        "ticker_sentiment_score":"-0.329484",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.172097",
+        "ticker_sentiment_score":"-0.171804",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.413199",
+        "ticker_sentiment_score":"-0.29529",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MANA",
+        "relevance_score":"0.086556",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   }

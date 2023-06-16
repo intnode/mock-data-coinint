@@ -19,7 +19,9 @@
     "facebook": null
   },
   "source_code": "https://github.com/compound-finance/compound-protocol",
-  "audit": [],
+  "audit": [
+    "Quantstamp"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",
