@@ -5,7 +5,7 @@
   "explorer": [
     "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
     "https://explorer.binance.org/asset/TUSDB-888",
-    "https://blockchair.com/ethereum/erc-20/token/0x0000000000085d4780b73119b644ae5ecd22b376",
+    "https://bscscan.com/token/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
     "https://tronscan.org/#/token20/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
     "https://snowtrace.io/token/0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
   ],
@@ -20,8 +20,8 @@
   },
   "source_code": "https://github.com/trusttoken/smart-contracts",
   "audit": [
-    "SlowMist",
-    "CertiK"
+    "CertiK",
+    "SlowMist"
   ],
   "contracts": [
     {
@@ -31,8 +31,8 @@
     },
     {
       "chain": "BNB Smart Chain (BEP20)",
-      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
-      "link": "https://bscscan.com/token/0x14016e85a25aeb13065688cafb43044c2ef86784"
+      "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+      "link": "https://bscscan.com/token/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9"
     },
     {
       "chain": "BNB Beacon Chain (BEP2)",

@@ -1,20 +1,636 @@
 [
   {
-    "title":"SEC charges against Binance and Coinbase are terrible for DeFi",
-    "url":"https:\/\/cointelegraph.com\/news\/sec-charges-binance-coinbase-terrible-defi",
-    "time_published":1686353763000,
+    "title":"Alibaba founder Jack Ma is 'alive' and 'happy,' top exec says after China's tech crackdown",
+    "url":"https:\/\/www.cnbc.com\/2023\/06\/16\/alibaba-founder-jack-ma-is-alive-and-happy-after-china-crackdown.html",
+    "time_published":1686876041000,
+    "authors":[
+      "Arjun Kharpal"
+    ],
+    "summary":"There is continued interest in Alibaba founder Jack Ma's whereabouts after he and his empire were the target of an intense regulatory crackdown by China.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/105068953-GettyImages-915262714.jpg?v=1603208359&w=750&h=422&vtcrop=y",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.147953,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BABA",
+        "relevance_score":"0.549012",
+        "ticker_sentiment_score":"0.433914",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"HUTCHMED and Takeda Announce Publication of Phase III FRESCO-2 Results in The Lancet",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689485\/0\/en\/HUTCHMED-and-Takeda-Announce-Publication-of-Phase-III-FRESCO-2-Results-in-The-Lancet.html",
+    "time_published":1686875400000,
+    "authors":[
+      "HUTCHMED (China) Limited"
+    ],
+    "summary":"- Publication shows FRESCO-2 demonstrated treatment with fruquintinib reduced the risk of death by 34% in previously treated metastatic colorectal cancer ( 0.66 HR ...",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/085957ad-3bec-49ee-b13e-39961b83c7be",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.976913"
+      }
+    ],
+    "overall_sentiment_score":0.072087,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CURN",
+        "relevance_score":"0.013916",
+        "ticker_sentiment_score":"0.057936",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HCM",
+        "relevance_score":"0.097175",
+        "ticker_sentiment_score":"0.064597",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TAK",
+        "relevance_score":"0.013916",
+        "ticker_sentiment_score":"0.017199",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Oil prices dip, pausing after previous session's surge",
+    "url":"https:\/\/www.reuters.com\/business\/energy\/oil-prices-dip-pausing-after-previous-sessions-surge-2023-06-16\/",
+    "time_published":1686875280000,
+    "authors":[
+      "Stephanie Kelly"
+    ],
+    "summary":"June 16 ( Reuters ) - Oil prices edged lower in early trade on Friday, taking a pause from the previous session when futures gained steeply on optimism around higher energy demand from top crude importer China. Brent futures dipped 13 cents to $75.54 a barrel by 00:08 GMT, while U.S.",
+    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/4QXBW6RP45FBRHDZQXLNRGX5UY.jpg",
+    "source":"Reuters",
+    "category_within_source":"Business",
+    "source_domain":"www.reuters.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.162915,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.27432",
+        "ticker_sentiment_score":"-0.255125",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Virgin Galactic shares rocket higher on plans for first commercial flight this month",
+    "url":"https:\/\/www.marketwatch.com\/story\/virgin-galactic-says-its-first-space-tourism-flight-will-take-place-this-month-2e48b4e6",
+    "time_published":1686874680000,
+    "authors":[
+      "Bill Peters"
+    ],
+    "summary":"Virgin Galactic Holdings made a scorching run higher after it said it plans to begin offering space-tourism flights at the end of this month.",
+    "banner_image":"https:\/\/images.mktw.net\/im-801536\/social",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.287294,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SPCE",
+        "relevance_score":"0.622414",
+        "ticker_sentiment_score":"0.354697",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Virgin Galactic announces first commercial spaceflights this summer",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/virgin-galactic-announces-first-commercial-spaceflights-this-summer",
+    "time_published":1686874377000,
     "authors":[
 
     ],
-    "summary":"The SEC's charges against Binance and Coinbase could have far-reaching consequences for decentralized finance.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/33b71981-a51f-4ec8-a38c-f8a351ca27ae.jpg",
+    "summary":"announced Thursday that the \"spaceline for Earth is open\" and the company will hold its first commercial spaceflights this summer. Virgin Galactic's is scheduled to happen from June 27 to June 30.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/8fc2c15a-7d92-49a9-bc47-395f57cf0076\/ab133a7e-e748-4052-9a42-44b9960349c8\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.14539,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SPCE",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.113813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VORBQ",
+        "relevance_score":"0.126119",
+        "ticker_sentiment_score":"0.112265",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NRC",
+        "relevance_score":"0.126119",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Crypto Giant Binance's U.S. Arm Faces Layoffs Amid Regulatory Showdown",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32884753\/crypto-giant-binances-u-s-arm-faces-layoffs-amid-regulatory-showdown",
+    "time_published":1686874283000,
+    "authors":[
+      "Murtuza Merchant"
+    ],
+    "summary":"Binance's U.S. affiliate, Binance.US, has reportedly conducted a series of layoffs following recent regulatory charges and asset freeze requests by the Securities and Exchange Commission ( SEC ) .",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/kanchanara--eyabhdagbe-unsplash_0.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":-0.083089,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.447528",
+        "ticker_sentiment_score":"0.164292",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"China's economic recovery is stalling. Here's what to expect next",
+    "url":"https:\/\/www.cnbc.com\/2023\/06\/16\/chinas-economic-recovery-is-stalling-heres-what-to-expect-next.html",
+    "time_published":1686874055000,
+    "authors":[
+      "Clement Tan"
+    ],
+    "summary":"A raft of weak Chinese economic data in May has raised hopes of decisive policy intervention.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/102916408-RTX1NZEU.jpg?v=1686687618",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.769861"
+      },
+      {
+        "topic":"Economy - Fiscal",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.980922"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.007252,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GS",
+        "relevance_score":"0.056943",
+        "ticker_sentiment_score":"0.192992",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"BACHY",
+        "relevance_score":"0.056943",
+        "ticker_sentiment_score":"-0.064933",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"'Is this real?' JPMorgan court filing shows Frank employees questioned stats before acquisition",
+    "url":"https:\/\/www.cnbc.com\/2023\/06\/15\/jpmorgan-frank-case-startup-employees-questioned-customer-stats-before-acquisition.html",
+    "time_published":1686873985000,
+    "authors":[
+      "Hugh Son"
+    ],
+    "summary":"Employees of a startup purchased by JPMorgan Chase expressed disbelief when the company's founder directed them to boost their customer count ahead of the acquisition.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107251809-16860641602023-06-06t145738z_2105044172_rc2qd1atnnl2_rtrmadp_0_jp-morgan-javice.jpeg?v=1686873985&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Finance",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.100608,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.746257",
+        "ticker_sentiment_score":"-0.16356",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Nvidia Insiders Continue To Sell Shares After Hitting All-Time Highs, $1 Trillion Market Cap: What Investors Should Know - NVIDIA  ( NASDAQ:NVDA ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/06\/32884099\/nvidia-insiders-continue-to-sell-shares-after-hitting-all-time-highs-1-trillion-market-cap-what-inve",
+    "time_published":1686873817000,
+    "authors":[
+      "Chris Katje"
+    ],
+    "summary":"One of the best-performing stocks of the year is Nvidia Corporation NVDA, a semiconductor company seeing strong interest in its artificial intelligence capabilities. While shares have soared, several insiders are cashing out.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/15\/jose-g-ortega-castro-2me5djjmw-q-unsplash_0.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.312948,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"NVDA",
+        "relevance_score":"0.815336",
+        "ticker_sentiment_score":"0.511946",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Descartes Announces Results of Annual Shareholder Meeting",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/16\/2689482\/9197\/en\/Descartes-Announces-Results-of-Annual-Shareholder-Meeting.html",
+    "time_published":1686873720000,
+    "authors":[
+      "The Descartes Systems Group Inc."
+    ],
+    "summary":"WATERLOO, Ontario, June 15, 2023 ( GLOBE NEWSWIRE ) -- The Descartes Systems Group Inc. announced the voting results from its annual meeting of shareholders held on Thursday, June 15, 2023 ( the \"Meeting\" ) .",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/b1575a4f-bd71-4f4f-b1b6-440ce8cb993b",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.204305,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"DSGX",
+        "relevance_score":"0.131643",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"With Hong Kong's property market reeling, higher rates will dampen mood further",
+    "url":"https:\/\/www.scmp.com\/business\/article\/3224215\/hong-kongs-property-market-reeling-falling-deals-and-prices-uptick-rates-will-dampen-mood-further",
+    "time_published":1686873620000,
+    "authors":[
+      "Enoch Yiu",
+      "Lam Ka-sing"
+    ],
+    "summary":"The prospect of higher interest rates is expected to continue to depress Hong Kong's secondary housing market until next year, analysts say, pointing to the falling transaction volumes and prices.",
+    "banner_image":"https:\/\/img.i-scmp.com\/cdn-cgi\/image\/fit=contain,width=425,format=auto\/sites\/default\/files\/styles\/768x768\/public\/d8\/images\/canvas\/2023\/06\/15\/7efa46a3-e532-45ae-86b2-01cda1a82835_2d1dcdb6.jpg?itok=YlPx2jct&v=1686826776",
+    "source":"South China Morning Post",
+    "category_within_source":"Business",
+    "source_domain":"www.scmp.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.972476"
+      }
+    ],
+    "overall_sentiment_score":0.019228,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SCBFF",
+        "relevance_score":"0.049019",
+        "ticker_sentiment_score":"0.014",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BKEAF",
+        "relevance_score":"0.049019",
+        "ticker_sentiment_score":"0.014",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BACHY",
+        "relevance_score":"0.049019",
+        "ticker_sentiment_score":"0.014",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HSNGF",
+        "relevance_score":"0.049019",
+        "ticker_sentiment_score":"0.014",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"HEMPSANA Announces Q4 and Fiscal 2022 Financial Results",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689474\/0\/en\/HEMPSANA-Announces-Q4-and-Fiscal-2022-Financial-Results.html",
+    "time_published":1686873000000,
+    "authors":[
+      "Hempsana Holdings Ltd."
+    ],
+    "summary":"NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR RELEASE, PUBLICATION, DISTRIBUTION OR DISSEMINATION DIRECTLY, OR INDIRECTLY, IN WHOLE OR IN PART, IN OR INTO THE UNITED STATES.",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/fa7b8aba-0843-4e8d-8e2b-29178843e928",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.976671"
+      }
+    ],
+    "overall_sentiment_score":0.0454,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Min-Jae Kim: Bayern Munich Now Favorites To Land $66 Million Rated Defender",
+    "url":"https:\/\/www.forbes.com\/sites\/manuelveth\/2023\/06\/15\/min-jae-kim-bayern-munich-now-favorites-to-land-66-million-rated-defender\/",
+    "time_published":1686872774000,
+    "authors":[
+      "Manuel Veth"
+    ],
+    "summary":"Bayern Munich is in advanced talks to sign Napoli defender Min-Jae Kim. The Korean was a key player in Napoli's title winning season.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/648ba18542a7d6d0bcb1e992\/0x0.jpg?format=jpg&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.307892,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MANU",
+        "relevance_score":"0.069697",
+        "ticker_sentiment_score":"0.201441",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of U-Haul Holding Company - UHAL",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-u-haul-holding-company---uhal-301852686.html",
+    "time_published":1686872400000,
+    "authors":[
+      "Pomerantz LLP"
+    ],
+    "summary":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of U-Haul Holding Company ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.744043"
+      }
+    ],
+    "overall_sentiment_score":0.021811,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"UHAL",
+        "relevance_score":"0.648995",
+        "ticker_sentiment_score":"-0.029538",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Russian Ransomware Group Breached Federal Agencies in Cyberattack",
+    "url":"https:\/\/www.nytimes.com\/2023\/06\/15\/us\/politics\/russian-ransomware-cyberattack-clop-moveit.html",
+    "time_published":1686872247000,
+    "authors":[
+
+    ],
+    "summary":"A Russian ransomware group gained access to data from federal agencies, including the Energy Department, in an attack that exploited file transfer software to steal and sell back users' data, U.S. officials said on Thursday.",
+    "banner_image":"https:\/\/static01.nyt.com\/images\/2023\/06\/15\/multimedia\/15dc-cyber-zjwp\/15dc-cyber-zjwp-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "source":"New York Times",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.nytimes.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.236179,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.043421",
+        "ticker_sentiment_score":"0.078833",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PRGS",
+        "relevance_score":"0.043421",
+        "ticker_sentiment_score":"-0.089718",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SWI",
+        "relevance_score":"0.043421",
+        "ticker_sentiment_score":"-0.094557",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DSSMY",
+        "relevance_score":"0.043421",
+        "ticker_sentiment_score":"0.058812",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Hi-View Frankfurt Stock Exchange Listing Update",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32886218\/hi-view-frankfurt-stock-exchange-listing-update",
+    "time_published":1686872092000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"VANCOUVER, British Columbia, June 15, 2023 ( GLOBE NEWSWIRE ) -- Hi-View Resources Inc. ( 'Hi-View' or the \"Company\" ) HVW announces that it has received its LEI number needed in order to list on the Frankfurt Stock Exchange ( the \"FSE\" ) .",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.997902"
+      }
+    ],
+    "overall_sentiment_score":0.180617,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"ECN Capital Announces Annual Meeting Voting Results",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32886211\/ecn-capital-announces-annual-meeting-voting-results",
+    "time_published":1686872060000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"TORONTO, June 15, 2023 ( GLOBE NEWSWIRE ) -- ECN Capital Corp. ECN ( \"ECN Capital\" ) confirmed today that the six nominees listed in its management information circular ( the \"Circular\" ) dated May 16, 2023 were elected as directors at today's annual meeting of shareholders of ECN Capital ( the ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.16821,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECNCF",
+        "relevance_score":"0.751437",
+        "ticker_sentiment_score":"0.342508",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Hi-View Frankfurt Stock Exchange Listing Update",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689471\/0\/en\/Hi-View-Frankfurt-Stock-Exchange-Listing-Update.html",
+    "time_published":1686872040000,
+    "authors":[
+      "Hi-View Resources Inc."
+    ],
+    "summary":"THIS NEWS RELEASE IS NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES FOR DISSEMINATION IN THE UNITED STATES ...",
+    "banner_image":"",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.995015"
+      }
+    ],
+    "overall_sentiment_score":0.18978,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Korean crypto contagion, Bank of China on Ethereum, HK's exchange red carpet: Asia Express",
+    "url":"https:\/\/cointelegraph.com\/magazine\/hong-kong-crypto-exchanges-do-kwon-jail-korean-crypto-lenders-contagion-asia-express\/",
+    "time_published":1686871993000,
+    "authors":[
+      "Zhiyuan Sun"
+    ],
+    "summary":"Hong Kong lays out welcome mat for exchanges, Korean crypto lender contagion, Do Kwon banged up abroad, Bank of China's Ethereum debt note.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2023\/01\/magazine-Asia-Express-Jan-20-scaled.jpeg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Finance",
-        "relevance_score":"1.0"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Blockchain",
@@ -22,2961 +638,1113 @@
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.744043"
+        "relevance_score":"0.977154"
       }
     ],
-    "overall_sentiment_score":0.060127,
+    "overall_sentiment_score":-0.040641,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"COIN",
-        "relevance_score":"0.195287",
-        "ticker_sentiment_score":"-0.045142",
+        "ticker":"BACHY",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:HKD",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:CNY",
+        "relevance_score":"0.040212",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.032871",
-        "ticker_sentiment_score":"-0.217743",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.065685",
-        "ticker_sentiment_score":"-0.038145",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.032871",
-        "ticker_sentiment_score":"-0.21174",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.032871",
-        "ticker_sentiment_score":"-0.21174",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Binance.US Pulls Several Trading Pairs in Wake of SEC Lawsuit",
-    "url":"https:\/\/decrypt.co\/143741\/binance-us-pulls-several-trading-pairs-in-wake-of-sec-lawsuit",
-    "time_published":1686172311000,
-    "authors":[
-      "Decrypt \/ Pedro Solimano"
-    ],
-    "summary":"The cryptocurrency exchange will drop over 40 trading pairs from their platform, the majority against USDT.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2022\/10\/binance-bitcoin-gID_7.jpg",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.77141"
-      }
-    ],
-    "overall_sentiment_score":0.061873,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:AAVE",
-        "relevance_score":"0.146025",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BAT",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.034762",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XTZ",
-        "relevance_score":"0.2872",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Tornado Cash 2.0: The race to build safe and legal coin mixers",
-    "url":"https:\/\/cointelegraph.com\/magazine\/tornado-cash-2-0-the-race-to-build-safe-and-legal-coin-mixers\/",
-    "time_published":1686058200000,
-    "authors":[
-      "Max Parasol"
-    ],
-    "summary":"Projects are racing to create legal coin mixers that preserve privacy while revealing just enough data to stay on the right side of the law.",
-    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2023\/06\/magazine-Alternatives-to-Tornado-cash-scaled.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.972193"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.04807,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.013756",
-        "ticker_sentiment_score":"-0.063568",
+        "relevance_score":"0.080323",
+        "ticker_sentiment_score":"0.057617",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.082393",
-        "ticker_sentiment_score":"-0.038677",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.013756",
-        "ticker_sentiment_score":"0.007526",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.068698",
-        "ticker_sentiment_score":"0.040322",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ERC",
-        "relevance_score":"0.013756",
-        "ticker_sentiment_score":"-0.006323",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:SPANK",
-        "relevance_score":"0.013756",
-        "ticker_sentiment_score":"0.139848",
+        "relevance_score":"0.080323",
+        "ticker_sentiment_score":"0.028579",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Binance was wrong to boot Monero, ZCash and other privacy coins",
-    "url":"https:\/\/cointelegraph.com\/news\/binance-wrong-monero-zcash-privacy-coins",
-    "time_published":1686000487000,
+    "title":"Australia's AGL Energy raises full-year guidance on reduced outages, more generation",
+    "url":"https:\/\/www.reuters.com\/business\/energy\/australias-agl-energy-raises-full-year-guidance-reduced-outages-more-generation-2023-06-15\/",
+    "time_published":1686871980000,
     "authors":[
-
+      "Reuters"
     ],
-    "summary":"Binance betrayed our interests with its decision to delist privacy coins. In the long run, it may mean that users leave Binance in the dust.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/a505bd44-418f-4269-a51e-1bb5643c1617.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
+    "summary":"June 16 ( Reuters ) - Australia's AGL Energy ( AGL.AX ) said on Friday that it has revised up the low end of its underlying operating earnings guidance due to increased generation.",
+    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/VKPVOPNK35PALIE6X7QZFLX62I.jpg",
+    "source":"Reuters",
+    "category_within_source":"Business",
+    "source_domain":"www.reuters.com",
     "topics":[
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
+        "topic":"Earnings",
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":-0.039091,
+    "overall_sentiment_score":0.179888,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"AGLNF",
+        "relevance_score":"0.163909",
+        "ticker_sentiment_score":"0.092711",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Resurgent Fowler Fires Stunning 62 In US Open Return",
+    "url":"https:\/\/www.barrons.com\/news\/resurgent-fowler-fires-stunning-62-in-us-open-return-9c0f4a92",
+    "time_published":1686871884000,
+    "authors":[
+      "AFP - Agence France Presse"
+    ],
+    "summary":"Rickie Fowler made a stunning return to the US Open on Thursday, his record-setting eight-under-par 62 a further sign that he's emerged from the slump that saw him miss the past two editions of the event.",
+    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
+    "source":"Barrons",
+    "category_within_source":"n\/a",
+    "source_domain":"www.barrons.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.184753,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SATLF",
+        "relevance_score":"0.08687",
+        "ticker_sentiment_score":"0.165138",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Patriot Provides Operational Update on the Work Programs at the Corvette Property, Quebec, Canada - Patriot Battery Metals  ( OTC:PMETF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32886200\/patriot-provides-operational-update-on-the-work-programs-at-the-corvette-property-quebec-canada",
+    "time_published":1686871804000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"A communication has been issued by the Minist\u00e8re des Ressources naturelles et des For\u00eats advising the restrictions on forest access at the Corvette Property due to the fire situation have been lifted effective June 14, 2023.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.126346,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates ClaimsOn Behalf of Investors of DZS Inc. - DZSI",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claimson-behalf-of-investors-of-dzs-inc---dzsi-301852682.html",
+    "time_published":1686871800000,
+    "authors":[
+      "Pomerantz LLP"
+    ],
+    "summary":"NEW YORK, June 15, 2023 \/PRNewswire\/ -- Pomerantz LLP is investigating claims on behalf of investors of DZS Inc. ( \"DZS\" or the \"Company\" ) ( NASDAQ: DZSI ) . Such investors are advised to contact Robert S. Willoughby at [email protected] or 888-476-6529, ext. 7980.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.161647"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.09696,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.291182",
-        "ticker_sentiment_score":"0.03047",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.244354",
-        "ticker_sentiment_score":"0.01327",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.099066",
-        "ticker_sentiment_score":"-0.042039",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"DZSI",
+        "relevance_score":"0.696319",
+        "ticker_sentiment_score":"0.19321",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"How regulators are mitigating the risk of extinction from AI: Law Decoded, May 29-June 5",
-    "url":"https:\/\/cointelegraph.com\/news\/how-regulators-are-mitigating-the-risk-of-extinction-from-ai-law-decoded-may-29-june-5",
-    "time_published":1685997000000,
+    "title":"Patriot Provides Operational Update on the Work Programs at the Corvette Property, Quebec, Canada",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689469\/0\/en\/Patriot-Provides-Operational-Update-on-the-Work-Programs-at-the-Corvette-Property-Quebec-Canada.html",
+    "time_published":1686871800000,
+    "authors":[
+      "Patriot Battery Metals"
+    ],
+    "summary":"Summary: ...",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/04220d03-1364-4bd0-b97a-f5b43559ed76",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.13343,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Meghan Markle's 'Archetypes' podcast on Spotify won't be renewed after one season: report",
+    "url":"https:\/\/www.foxbusiness.com\/entertainment\/meghan-markles-archetypes-podcast-spotify-wont-be-renewed-one-season-report",
+    "time_published":1686871709000,
     "authors":[
 
     ],
-    "summary":"There is no shortage of regulatory efforts to mitigate the negative impacts of artificial intelligence.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/cc4f3469-8b68-4fab-958a-a8cca20d6cf2.JPG",
-    "source":"Cointelegraph",
+    "summary":"Meghan Markle's \"Archetypes\" Spotify podcast won't be renewed for a second season, according to sources familiar with the matter, a casualty of the audio company's overhaul of its approach to podcasting.",
+    "banner_image":"https:\/\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/06\/meghan-markle-3.jpg",
+    "source":"Fox Business News",
     "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
+    "source_domain":"www.foxbusiness.com",
     "topics":[
       {
         "topic":"Technology",
         "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.110743,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"NFLX",
+        "relevance_score":"0.163354",
+        "ticker_sentiment_score":"0.033872",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.769861"
+        "ticker":"SPOT",
+        "relevance_score":"0.646507",
+        "ticker_sentiment_score":"0.18149",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Sea Limited - SE",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-sea-limited---se-301852673.html",
+    "time_published":1686871200000,
+    "authors":[
+      "Pomerantz LLP"
+    ],
+    "summary":"NEW YORK, June 15, 2023 \/PRNewswire\/ -- Pomerantz LLP is investigating claims on behalf of investors of Sea Limited ( \"Sea\" or the \"Company\" ) ( NYSE: SE ) . Such investors are advised to contact Robert S. Willoughby at [email protected] or 888-476-6529, ext. 7980.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.048853,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SE",
+        "relevance_score":"0.799626",
+        "ticker_sentiment_score":"0.044949",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"The 2023 Bull Market For Tesla Began With A Key Reversal On January 6",
+    "url":"https:\/\/www.forbes.com\/sites\/richardhenrysuttmeier\/2023\/06\/15\/the-2023-bull-market-for-tesla-began-with-a-key-reversal-on-january-6\/",
+    "time_published":1686870989000,
+    "authors":[
+      "Richard Henry Suttmeier"
+    ],
+    "summary":"The daily and weekly charts for Tesla ...",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/648b99f3602113d9fbb1e992\/0x0.jpg?format=jpg&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Money",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.033823,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.803061",
+        "ticker_sentiment_score":"-0.044793",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of UP Fintech Holding Limited - TIGR",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-up-fintech-holding-limited---tigr-301852676.html",
+    "time_published":1686870900000,
+    "authors":[
+      "Pomerantz LLP"
+    ],
+    "summary":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of UP Fintech Holding ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.024245,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FUTU",
+        "relevance_score":"0.130926",
+        "ticker_sentiment_score":"0.064613",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TIGR",
+        "relevance_score":"0.677342",
+        "ticker_sentiment_score":"0.083031",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"AMD vs. Nvidia Stock: Which Is the Better Buy Right Now?",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/06\/15\/amd-vs-nvidia-stock-which-is-the-better-buy-right\/",
+    "time_published":1686870786000,
+    "authors":[
+      "Jose Najarro"
+    ],
+    "summary":"Advanced Micro Devices and Nvidia are trading at crazy valuations when looking at current numbers.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736143%2Fpaper-certificate-shares-invest-stock-split-market-reverse-getty.jpg&op=resize&h=340",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.110523,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"AMD",
+        "relevance_score":"0.922387",
+        "ticker_sentiment_score":"0.299027",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"NVDA",
+        "relevance_score":"0.922387",
+        "ticker_sentiment_score":"0.299027",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"BLACK ENTERPRISE Presents Inaugural Chief Diversity Summit & Honors June 28",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/n32886024\/black-enterprise-presents-inaugural-chief-diversity-summit-honors-june-28",
+    "time_published":1686870600000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"Hosted by Fidelity, Publicis Groupe, and Merck, this groundbreaking salute to the champions of DEI will be held at the Rainbow Room at Rockefeller Center in New York City",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.87644"
+      }
+    ],
+    "overall_sentiment_score":0.52862,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"BLACK ENTERPRISE Presents Inaugural Chief Diversity Summit & Honors June 28",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/black-enterprise-presents-inaugural-chief-diversity-summit--honors-june-28-301852696.html",
+    "time_published":1686870600000,
+    "authors":[
+      "BLACK ENTERPRISE"
+    ],
+    "summary":"Hosted by Fidelity, Publicis Groupe, and Merck, this groundbreaking salute to the champions of DEI will be held at the Rainbow Room at Rockefeller Center in New York City",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1867872\/BLACK_ENTERPRISE_LOGO.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.796627"
       }
     ],
-    "overall_sentiment_score":0.100042,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.525121,
+    "overall_sentiment_label":"Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"GOOG",
-        "relevance_score":"0.056674",
-        "ticker_sentiment_score":"0.05105",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:CNY",
-        "relevance_score":"0.056674",
-        "ticker_sentiment_score":"0.030097",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.168884",
-        "ticker_sentiment_score":"-0.004173",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DCR",
-        "relevance_score":"0.113062",
-        "ticker_sentiment_score":"-0.003351",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:KCS",
-        "relevance_score":"0.056674",
-        "ticker_sentiment_score":"0.030097",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.168884",
-        "ticker_sentiment_score":"-0.004173",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:PIVX",
-        "relevance_score":"0.113062",
-        "ticker_sentiment_score":"-0.003351",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Binance to delist privacy tokens in France, Italy, Spain and Poland",
-    "url":"https:\/\/cointelegraph.com\/news\/binance-to-delist-privacy-tokens-in-france-italy-spain-and-poland",
-    "time_published":1685538846000,
-    "authors":[
-
-    ],
-    "summary":"Binance users in France, Italy, Poland and Spain will no longer be able to buy or sell 12 privacy tokens starting from June 26.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-05\/48056039-d6e5-4521-81e3-fd6a8ba38733.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.054008,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CAE",
-        "relevance_score":"0.192694",
-        "ticker_sentiment_score":"0.037665",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XVG",
-        "relevance_score":"0.192694",
-        "ticker_sentiment_score":"-0.056977",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.670742",
-        "ticker_sentiment_score":"-0.092288",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DCR",
-        "relevance_score":"0.374312",
-        "ticker_sentiment_score":"-0.096533",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.670742",
-        "ticker_sentiment_score":"-0.092288",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:PIVX",
-        "relevance_score":"0.374312",
-        "ticker_sentiment_score":"-0.096533",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"BIGG Digital Assets Inc. Reports Financial Results For Q1 2023",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/05\/29\/2677914\/0\/en\/BIGG-Digital-Assets-Inc-Reports-Financial-Results-For-Q1-2023.html",
-    "time_published":1685392980000,
-    "authors":[
-      "BIGG Digital Assets Inc."
-    ],
-    "summary":"VANCOUVER, British Columbia, May 29, 2023 ( GLOBE NEWSWIRE ) -- BIGG Digital Assets Inc. ( \"BIGG\" or the \"Company\" ) ( CSE: BIGG. OTCQX: BBKCF. WKN: A2PS9W ) , owner of Netcoins ( https:\/\/www.netcoins.com\/ca\/ and https:\/\/www.netcoins.com\/us\/ ) ( \"Netcoins\" ) , the online cryptocurrency brokerage ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/89ef7b10-6e38-47e8-abde-094b50c79b92",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.905476"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.998626"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.459462"
-      }
-    ],
-    "overall_sentiment_score":0.216877,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.033282",
-        "ticker_sentiment_score":"0.10216",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.033282",
-        "ticker_sentiment_score":"0.10216",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.066506",
-        "ticker_sentiment_score":"0.109948",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:TRX",
-        "relevance_score":"0.033282",
-        "ticker_sentiment_score":"0.110885",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.033282",
-        "ticker_sentiment_score":"0.110885",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.033282",
-        "ticker_sentiment_score":"0.110885",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"A husband hid $500,000 in bitcoin during a divorce - and got busted by a crypto hunter",
-    "url":"https:\/\/www.cnbc.com\/2023\/05\/20\/bitcoin-in-divorce-how-spouses-hide-assets-crypto-hunters-find-them.html",
-    "time_published":1684591201000,
-    "authors":[
-      "MacKenzie Sigalos"
-    ],
-    "summary":"Financial infidelity has become increasingly sophisticated, as investors \"hop\" coins across blockchains and sink their cash into metaverse properties.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107085971-16572411091657241106-24174480162-1080pnbcnews.jpg?v=1657241108&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.989041"
-      }
-    ],
-    "overall_sentiment_score":0.103263,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.059875",
-        "ticker_sentiment_score":"0.022",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MS",
-        "relevance_score":"0.011986",
+        "ticker":"BAC",
+        "relevance_score":"0.075874",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.07182",
-        "ticker_sentiment_score":"0.023182",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.047916",
-        "ticker_sentiment_score":"0.057363",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.011986",
-        "ticker_sentiment_score":"0.034787",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.011986",
-        "ticker_sentiment_score":"-0.026364",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.047916",
-        "ticker_sentiment_score":"-0.005955",
-        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Are Zkproofs The Future Of Crypto And Blockchain?",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/05\/32191332\/are-zkproofs-the-future-of-crypto-and-blockchain",
-    "time_published":1684514133000,
+    "title":"Tales of Stock Compounding: Does It Always Work?",
+    "url":"https:\/\/www.zacks.com\/stock\/news\/2109149\/tales-of-stock-compounding-does-it-always-work",
+    "time_published":1686870540000,
     "authors":[
-      "Finanflix"
+      "Zacks Investment Research"
     ],
-    "summary":"With the aim of improving the security of blockchain networks and record-keeping, the \"Layer-2 solution\" or second-layer scaling solution was created. Its objective is to combat blockchain scalability problems such as slow transaction times and high gas fees.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/05\/03\/uriel-sc-11kdtiuwrq4-unsplash_3.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
+    "summary":"Buffett's neighbors made millions after investing in Berkshire in the 1960s, but what if you bought GM or Ford instead?",
+    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/articles\/main\/94\/2105.jpg",
+    "source":"Zacks Commentary",
+    "category_within_source":"n\/a",
+    "source_domain":"www.zacks.com",
     "topics":[
       {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"1.0"
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.25"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.165545,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.018525",
-        "ticker_sentiment_score":"-0.029479",
-        "ticker_sentiment_label":"Neutral"
+        "relevance_score":"0.796627"
       },
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.074001",
-        "ticker_sentiment_score":"0.011219",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.25"
       },
-      {
-        "ticker":"CRYPTO:MATIC",
-        "relevance_score":"0.018525",
-        "ticker_sentiment_score":"-0.015144",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.018525",
-        "ticker_sentiment_score":"0.043433",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.272383",
-        "ticker_sentiment_score":"0.10696",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.055535",
-        "ticker_sentiment_score":"0.067974",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.018525",
-        "ticker_sentiment_score":"0.043433",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.03704",
-        "ticker_sentiment_score":"0.001964",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"AOC, Hollywood Stars Are 'Skeeting' on Bluesky",
-    "url":"https:\/\/decrypt.co\/138238\/aoc-hollywood-stars-are-skeeting-bluesky",
-    "time_published":1682678989000,
-    "authors":[
-      "Decrypt \/ Stephen Graves"
-    ],
-    "summary":"Instead of \"tweeting,\" the influx of new Bluesky users has coined a new term for sharing their thoughts on the decentralized social media app.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fit:1536:0:0:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/04\/aoc.jpg@webp",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.066215,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.047092",
-        "ticker_sentiment_score":"0.000991",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"What Is Bluesky? The Twitter Alternative With Promising Networking Technology",
-    "url":"https:\/\/decrypt.co\/resources\/what-is-bluesky-the-twitter-alternative-with-promising-networking-technology",
-    "time_published":1682082967000,
-    "authors":[
-      "Decrypt \/ Euny Hong"
-    ],
-    "summary":"While Bluesky seems like Twitter on the surface, the AT protocol architecture it is run on - and the functionality it enables - have the potential to be revolutionary.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/11\/COMPUTER-copy-gID_7-pID_4.png@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
       {
         "topic":"Technology",
-        "relevance_score":"1.0"
+        "relevance_score":"0.25"
       },
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
+        "topic":"Finance",
+        "relevance_score":"0.25"
       }
     ],
-    "overall_sentiment_score":0.143394,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.019846",
-        "ticker_sentiment_score":"0.025638",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.019846",
-        "ticker_sentiment_score":"0.025638",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.098984",
-        "ticker_sentiment_score":"0.104743",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.039679",
-        "ticker_sentiment_score":"0.077232",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.019846",
-        "ticker_sentiment_score":"0.053035",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.019846",
-        "ticker_sentiment_score":"0.071501",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The US Treasury department's first report on DeFi: Is it fair | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/business\/blockchain\/the-us-treasury-departments-first-report-on-defi-is-it-fair\/3056602\/",
-    "time_published":1682063100000,
-    "authors":[
-
-    ],
-    "summary":"The US Treasury department's first report on DeFi: Is it fair The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/04\/Image-credit-Freepik-2023-04-21T103953.348.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":-0.147025,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.064104",
-        "ticker_sentiment_score":"-0.071391",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.032078",
-        "ticker_sentiment_score":"-0.025175",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.032078",
-        "ticker_sentiment_score":"0.0325",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Bluesky, Jack Dorsey's Decentralized Twitter Rival, Launches An Android App",
-    "url":"https:\/\/decrypt.co\/137345\/bluesky-jack-dorseys-decentralized-twitter-rival-launches-an-android-app",
-    "time_published":1681993281000,
-    "authors":[
-      "Decrypt \/ Stephen Graves"
-    ],
-    "summary":"The decentralized social media platform is now available to both iOS and Android users-but you'll need an invite code to sign up.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/03\/blue-sky-twitter-gID_7.jpg@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":0.141834,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.122269",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Grayscale\u00ae Solana Trust Now Trading on OTC Markets",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/04\/17\/2647933\/0\/en\/Grayscale-Solana-Trust-Now-Trading-on-OTC-Markets.html",
-    "time_published":1681734600000,
-    "authors":[
-      "Grayscale Investments"
-    ],
-    "summary":"The Firm's sixteenth publicly-quoted investment vehicle increases investors' ability to access digital assets through a familiar, secure, regulated U.S. security The Firm's sixteenth publicly-quoted investment vehicle increases investors' ability to access digital assets through a familiar, ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/eed22808-d372-44ab-b39a-ee0407d5e0fe",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.9545"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999986"
-      }
-    ],
-    "overall_sentiment_score":0.415266,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.207571",
-        "ticker_sentiment_score":"0.390022",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:MANA",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BAT",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.326283",
-        "ticker_sentiment_score":"0.452592",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LINK",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.12546",
-        "ticker_sentiment_score":"0.290105",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Grayscale\u00ae Solana Trust Now Trading on OTC Markets - Grayscale Decentralized  ( OTC:DEFG ) , GRAYSCALE BITCOIN CASH TR by Grayscale Bitcoin Cash Trust  ( BCH )   ( OTC:BCHG ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/04\/g31828487\/grayscale-solana-trust-now-trading-on-otc-markets",
-    "time_published":1681734600000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"STAMFORD, Conn., April 17, 2023 ( GLOBE NEWSWIRE ) -- Grayscale Investments\u00ae, the world's largest digital currency asset manager, today announced that Grayscale\u00ae Solana Trust ( the \"Trust\" ) has begun trading on OTC Markets under the symbol: GSOL. Grayscale now offers 16 digital currency ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.9545"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999999"
-      }
-    ],
-    "overall_sentiment_score":0.396831,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.19677",
-        "ticker_sentiment_score":"0.368914",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:MANA",
-        "relevance_score":"0.158",
-        "ticker_sentiment_score":"0.320521",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BAT",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.309864",
-        "ticker_sentiment_score":"0.427735",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LINK",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.118842",
-        "ticker_sentiment_score":"0.277865",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"ViaBTC Upgrades Mining Pool Technology and Introduces Innovative Products and Services",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/viabtc-upgrades-mining-pool-technology-and-introduces-innovative-products-and-services-813097412.html",
-    "time_published":1680614700000,
-    "authors":[
-      "CoinEx Global Limited"
-    ],
-    "summary":"ViaBTC Upgrades Mining Pool Technology and Introduces ... Canada ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2046433\/1.jpg?p=facebook",
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      }
-    ],
-    "overall_sentiment_score":0.428047,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.075161",
-        "ticker_sentiment_score":"0.213702",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.075161",
-        "ticker_sentiment_score":"0.213702",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.075161",
-        "ticker_sentiment_score":"0.213702",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"INX security token platform gets its first token from a public company, Greenbriar",
-    "url":"https:\/\/cointelegraph.com\/news\/inx-security-token-platform-gets-its-first-token-from-a-public-company-greenbriar",
-    "time_published":1680557400000,
-    "authors":[
-
-    ],
-    "summary":"INX security tokens exist on Ethereum and use the ERC-1404 standard.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-04\/0592c803-baab-423f-821e-43ebbbee473d.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.961735"
-      }
-    ],
-    "overall_sentiment_score":0.167141,
+    "overall_sentiment_score":0.168878,
     "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"GEBRF",
-        "relevance_score":"0.282234",
-        "ticker_sentiment_score":"0.220573",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.190417",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.453099",
-        "ticker_sentiment_score":"-0.053641",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.190417",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"ZKP could help resolve blockchain tensions with GDPR",
-    "url":"https:\/\/cointelegraph.com\/innovation-circle\/zkp-could-help-resolve-blockchain-tensions-with-gdpr",
-    "time_published":1680181200000,
-    "authors":[
-
-    ],
-    "summary":"Given the participants, their roles and GDPR definitions, there is some work to do.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-03\/f568186e-4071-4a5e-944a-4c9546ca7966.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.983605"
-      }
-    ],
-    "overall_sentiment_score":0.093326,
-    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
         "ticker":"MSFT",
-        "relevance_score":"0.034882",
-        "ticker_sentiment_score":"0.063456",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"REZNF",
-        "relevance_score":"0.069697",
-        "ticker_sentiment_score":"0.088233",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.034882",
-        "ticker_sentiment_score":"0.04793",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.034882",
-        "ticker_sentiment_score":"0.040551",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Tested on Ethereum, StarkWare's Zero-Knowledge Proofs Are Now Live on Bitcoin",
-    "url":"https:\/\/decrypt.co\/124715\/tested-ethereum-starkware-zero-knowledge-proofs-are-live-bitcoin",
-    "time_published":1679997662000,
-    "authors":[
-      "Decrypt \/ Andrew Asmakov"
-    ],
-    "summary":"Zero-knowledge proofs developed by Ethereum scaling firm StarkWare are now making a debut on the Bitcoin blockchain.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/10\/disintegrating-bitcoin-gID_2.jpg@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.769861"
-      }
-    ],
-    "overall_sentiment_score":0.161619,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.70048",
-        "ticker_sentiment_score":"0.273063",
+        "relevance_score":"0.466811",
+        "ticker_sentiment_score":"0.173602",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.33446",
-        "ticker_sentiment_score":"0.251264",
+        "ticker":"SHW",
+        "relevance_score":"0.406745",
+        "ticker_sentiment_score":"0.288759",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.097894",
+        "ticker":"FAST",
+        "relevance_score":"0.278222",
+        "ticker_sentiment_score":"-0.059064",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BRK-A",
+        "relevance_score":"0.210579",
+        "ticker_sentiment_score":"0.19199",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"XOM",
+        "relevance_score":"0.523638",
+        "ticker_sentiment_score":"0.093069",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Billions At Risk As Catastrophic Flaws Found In Dogecoin And 280+ Crypto Networks",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31483237\/billions-at-risk-as-catastrophic-flaws-found-in-dogecoin-and-280-crypto-networks",
-    "time_published":1679608309000,
+    "title":"Premier League says fully-leveraged buyouts are off-limits",
+    "url":"https:\/\/www.fnlondon.com\/articles\/premier-league-says-fully-leveraged-buyouts-are-off-limits-20230616",
+    "time_published":1686870380000,
     "authors":[
-      "Murtuza Merchant"
+      "Sebastian McCarthy"
     ],
-    "summary":"An evaluation of the Dogecoin DOGE\/USD open-source codebase for potential vulnerabilities that could compromise the security of the blockchain network uncovered numerous critical and exploitable vulnerabilities, which have been code-named \"Rab13s.\"",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/23\/shutterstock_2003824559.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
+    "summary":"The Premier League has voted to ban fully-leveraged takeovers of its clubs. Teams in the top division of English football have unanimously agreed this week to amend the owners' and directors' test \"to prohibit fully-leveraged buyouts\".",
+    "banner_image":"https:\/\/images.fnlondon.com\/im-801176\/?width=749&height=499",
+    "source":"Financial News London",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fnlondon.com",
     "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":-0.184231,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.359014",
-        "ticker_sentiment_score":"-0.271172",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.244109",
-        "ticker_sentiment_score":"-0.05796",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.359014",
-        "ticker_sentiment_score":"-0.097969",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Dogecoin Network Security Flaw Fixed Last Year, Says Developer Pushing For Upgrade",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31354093\/dogecoin-network-security-flaw-fixed-last-year-says-developer-pushing-for-upgrade",
-    "time_published":1678853922000,
-    "authors":[
-      "Mehab Qureshi"
-    ],
-    "summary":"Blockchain security firm Holborn has detected multiple critical and exploitable vulnerabilities impacting Dogecoin DOGE\/USD network. What Happened: Holborn researchers on Monday discovered a critical vulnerability related to peer-to-peer ( p2p ) communications that can put entire networks at risk.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/15\/shutterstock_1908710596.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":-0.221299,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.669433",
-        "ticker_sentiment_score":"-0.136626",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.254307",
-        "ticker_sentiment_score":"-0.152562",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.254307",
-        "ticker_sentiment_score":"-0.152562",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"More than 280 blockchains at risk of 'zero-day' exploits, warns security firm",
-    "url":"https:\/\/cointelegraph.com\/news\/more-than-280-blockchains-at-risk-of-zero-day-exploits-warns-security-firm",
-    "time_published":1678771813000,
-    "authors":[
 
     ],
-    "summary":"Dogecoin, Zcash and Litecoin have already patched the \"critical\" vulnerability, but hundreds of others may not have, risking billions' worth of crypto.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-03\/ecefdeeb-b054-4287-8604-acbfdf07d0c7.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      }
-    ],
-    "overall_sentiment_score":-0.328697,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.355588",
-        "ticker_sentiment_score":"-0.216317",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.241684",
-        "ticker_sentiment_score":"-0.155911",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.241684",
-        "ticker_sentiment_score":"-0.155911",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Failed tech bank SVB held over $5B for prominent crypto VCs: Report",
-    "url":"https:\/\/cointelegraph.com\/news\/failed-tech-bank-svb-held-over-5b-for-prominent-crypto-vcs-report",
-    "time_published":1678557000000,
-    "authors":[
-
-    ],
-    "summary":"It is unclear how much assets custodied on behalf of crypto VCs are stuck in Silicon Valley Bank.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-03\/f335b19f-73d5-40bf-acbf-9fff8eced653.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.538269"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":0.114881,
+    "overall_sentiment_score":0.012295,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"COIN",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.060201",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.060201",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.060201",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"'Privacy has become a taboo,' says crypto anarchist project DarkFi",
-    "url":"https:\/\/cointelegraph.com\/news\/privacy-has-become-a-taboo-says-crypto-anarchist-project-darkfi",
-    "time_published":1676811600000,
-    "authors":[
-
-    ],
-    "summary":"A group of pseudonymous developers from DarkFi spoke with Cointelegraph on how crypto is evolving amid privacy challenges, bad actors and government oversight.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/c770fbac-38da-446c-97d1-d4afa2f89335.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":0.029153,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CYFRF",
-        "relevance_score":"0.104835",
-        "ticker_sentiment_score":"-0.005645",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.104835",
-        "ticker_sentiment_score":"-0.095352",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.035035",
-        "ticker_sentiment_score":"0.068295",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.035035",
-        "ticker_sentiment_score":"0.068295",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Crypto projects respond to privacy coin ban in Dubai",
-    "url":"https:\/\/cointelegraph.com\/news\/crypto-projects-respond-to-privacy-coin-ban-in-dubai",
-    "time_published":1676036601000,
-    "authors":[
-
-    ],
-    "summary":"Christopher Goes, co-founder of privacy protocol Anoma, pointed out that privacy is a basic human right and a ban demonstrates a lack of consideration for the public.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/7883e9b0-5e8c-4821-8637-d93b17b3ba6f.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.104105,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.233556",
-        "ticker_sentiment_score":"0.029931",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.176287",
-        "ticker_sentiment_score":"0.073135",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.059194",
-        "ticker_sentiment_score":"-0.042988",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"CoinGecko and 21Shares propose global crypto classification standard",
-    "url":"https:\/\/cointelegraph.com\/news\/coingecko-and-21shares-propose-global-crypto-classification-standard",
-    "time_published":1675861200000,
-    "authors":[
-
-    ],
-    "summary":"The new crypto classification effort aims to help investors and regulators spot potential crypto failures like those seen in 2022.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/d57782ca-e6e4-454e-b576-87e1fbb6dd6d.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.999682"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.221602,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.130217",
-        "ticker_sentiment_score":"0.306823",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.130217",
-        "ticker_sentiment_score":"0.306823",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.130217",
-        "ticker_sentiment_score":"0.306823",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.130217",
-        "ticker_sentiment_score":"0.306823",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"What is the Bitcoin Loophole, and how does it work?",
-    "url":"https:\/\/cointelegraph.com\/news\/what-is-the-bitcoin-loophole-and-how-does-it-work",
-    "time_published":1674564960000,
-    "authors":[
-
-    ],
-    "summary":"Anyone can make money trading Bitcoin and other cryptocurrencies thanks to Bitcoin Loophole, a well-known automated trading platform.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/storage\/uploads\/view\/1046a056d3d8e32686071fed5633d667.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.928139"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.723405"
-      }
-    ],
-    "overall_sentiment_score":0.08364,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.857817",
-        "ticker_sentiment_score":"0.200606",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BTG",
-        "relevance_score":"0.046816",
-        "ticker_sentiment_score":"0.039993",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XRP",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.139804",
-        "ticker_sentiment_score":"0.051757",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.09347",
-        "ticker_sentiment_score":"0.043335",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:MIOTA",
-        "relevance_score":"0.046816",
-        "ticker_sentiment_score":"0.039993",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Here's How HedgeUp  ( HDUP )  and Zcash  ( ZEC )  Wants To Challenge the Status Quo in the Financial Industry",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30529837\/heres-how-hedgeup-hdup-and-zcash-zec-wants-to-challenge-the-status-quo-in-the-financial-in",
-    "time_published":1674497757000,
-    "authors":[
-      "Locx Labs"
-    ],
-    "summary":"It is a volatile market, with many investors now exploring the best ways to grow and diversify their portfolios to protect their future investments. One of the ways to do so is to add investments like an alternative asset.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/01\/23\/untitled_design_-_2023-01-23t234425.114.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.999855"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999956"
-      }
-    ],
-    "overall_sentiment_score":0.139803,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.051551",
-        "ticker_sentiment_score":"-0.029009",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.102888",
-        "ticker_sentiment_score":"0.003346",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.56217",
-        "ticker_sentiment_score":"0.140266",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Ransomware Payments 'Significantly Down' in 2022: Chainalysis",
-    "url":"https:\/\/decrypt.co\/119636\/ransomware-payments-down-40-percent-2022",
-    "time_published":1674181738000,
-    "authors":[
-      "Decrypt \/ Jason Nelson"
-    ],
-    "summary":"Cyberattacks netted 40% less in 2022 than in the previous year, but not because criminals stood down.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/01\/Decrypt-Wallpaper-Format-2-gID_2.png@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      }
-    ],
-    "overall_sentiment_score":-0.183334,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.271777",
-        "ticker_sentiment_score":"-0.126913",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"0.042692",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"-0.046745",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"-0.046745",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Bullish crypto traders maintain the upper hand despite the total market cap rejecting at $1T",
-    "url":"https:\/\/cointelegraph.com\/news\/bullish-crypto-traders-maintain-the-upper-hand-despite-the-total-market-cap-rejecting-at-1t",
-    "time_published":1674163830000,
-    "authors":[
-
-    ],
-    "summary":"Former BitMEX CEO Arthur Hayes says catastrophe is coming for the crypto sector, but derivatives data shows bulls slowly taking control of the market.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/85af6ec6-0b5d-427b-bfa9-29e6d46b9602.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.744043"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":0.074088,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:EUR",
-        "relevance_score":"0.046184",
-        "ticker_sentiment_score":"-0.148341",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.137934",
-        "ticker_sentiment_score":"0.309474",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"-0.057363",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:MANA",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"0.05926",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.092213",
-        "ticker_sentiment_score":"-0.057363",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Are we still mad at MetaMask and ConsenSys for snooping on us?",
-    "url":"https:\/\/cointelegraph.com\/news\/are-we-all-still-mad-at-metamask-for-snooping-on-us",
-    "time_published":1673996336000,
-    "authors":[
-
-    ],
-    "summary":"ConsenSys, the developer behind MetaMask, isn't the only one snooping on our transactions, but they've taken the most heat for it.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/f67e4228-b633-40e5-9d1a-786353be2fa1.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.769861"
-      }
-    ],
-    "overall_sentiment_score":0.019341,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"-0.11219",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"-0.11219",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"-0.11219",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:VPN",
-        "relevance_score":"0.05833",
-        "ticker_sentiment_score":"0.026979",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Blockchain privacy groups urge new US Congresspeople to protect privacy rights",
-    "url":"https:\/\/cointelegraph.com\/news\/blockchain-privacy-groups-urge-new-us-congresspeople-to-protect-privacy-rights",
-    "time_published":1673388026000,
-    "authors":[
-
-    ],
-    "summary":"Digital advocacy group Fight for the Future has rounded up a group of prominent signatories to its appeal for digital privacy, balanced power and human rights.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/11e5dc9a-f6c7-43ec-88c2-decf7abfe676.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.272259,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.329551",
-        "ticker_sentiment_score":"0.467796",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.16849",
-        "ticker_sentiment_score":"0.379396",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bitcoin, Ethereum, Dogecoin Slip: Analyst Says This Major Crypto Needs A Bounce Or 'Things Get Painful' - Bitcoin  ( BTC\/USD ) , Ethereum  ( ETH\/USD ) , Dogecoin  ( DOGE\/USD ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30268167\/bitcoin-ethereum-dogecoin-slip-analyst-says-this-major-crypto-needs-a-bounce-or-things-get",
-    "time_published":1672794305000,
-    "authors":[
-      "Shivdeep Dhaliwal"
-    ],
-    "summary":"Major cryptocurrencies were seen trading lower on Tuesday evening as the global cryptocurrency market cap dropped 0.2% to $805.9 billion at 7:14 p.m. EST. Why It Matters: Bitcoin and Ethereum were in the red just as stock futures inched lower on Tuesday evening.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/01\/03\/shutterstock_2111616764.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.928139"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":-0.12463,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.296761",
-        "ticker_sentiment_score":"-0.233178",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.296761",
-        "ticker_sentiment_score":"-0.282588",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.224903",
-        "ticker_sentiment_score":"0.05876",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:HBAR",
-        "relevance_score":"0.075874",
-        "ticker_sentiment_score":"-0.013204",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:KSM",
-        "relevance_score":"0.075874",
-        "ticker_sentiment_score":"-0.013204",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DGB",
-        "relevance_score":"0.224903",
-        "ticker_sentiment_score":"0.05876",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"'Tracers in the Dark' presents a fun crime story - and lesson in privacy",
-    "url":"https:\/\/cointelegraph.com\/news\/tracers-in-the-dark-presents-a-fun-crime-story-and-lesson-in-privacy",
-    "time_published":1672696381000,
-    "authors":[
-
-    ],
-    "summary":"Want to keep the government from snooping on your transactional history? Start studying the forensics of crime and privacy on the blockchain.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/1716b40e-686f-4f74-9e70-065ebde18576.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.048888,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.272282",
-        "ticker_sentiment_score":"0.267706",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.138198",
-        "ticker_sentiment_score":"0.086035",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.183546",
-        "ticker_sentiment_score":"0.184873",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"After Helios Sales Update, Argo Blockchain Analyst Remains On Sidelines - Argo Blockchain  ( NASDAQ:ARBK ) ",
-    "url":"https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/22\/12\/30227732\/after-helios-sales-update-argo-blockchain-analyst-remains-on-sidelines",
-    "time_published":1672346767000,
-    "authors":[
-      "Anusuya Lahiri"
-    ],
-    "summary":"H.C. Wainwright analyst Kevin Dede maintained a Hold rating on Argo Blockchain Plc ARBK, given the uncertainty in Argo's prospects. Yesterday, Argo Blockchain announced the sale of its Helios facility, an 800MW ERCOT grid connection that houses a 200MW immersion bitcoin mining building operating ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/12\/29\/arbk_logo_light__0e42a362ab46e660710c20f6ed8adf6f.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.122376,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"ARBK",
-        "relevance_score":"0.289748",
-        "ticker_sentiment_score":"-0.006504",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BRPHF",
-        "relevance_score":"0.147366",
-        "ticker_sentiment_score":"-0.01061",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.422661",
-        "ticker_sentiment_score":"0.175493",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.074001",
+        "ticker":"MANU",
+        "relevance_score":"0.651499",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"The Year in Crypto, 2022 Part 2: Ethereum Merges, Feds Sanction Tornado Cash, FTX Collapses",
-    "url":"https:\/\/decrypt.co\/118135\/year-crypto-2022-part-2-ethereum-merges-tornado-cash-dev-arrested-ftx-goes-nuclear",
-    "time_published":1672340799000,
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of KeyCorp - KEY",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-keycorp---key-301852605.html",
+    "time_published":1686870360000,
     "authors":[
-      "Decrypt \/ Andrew Asmakov"
+      "Pomerantz LLP"
     ],
-    "summary":"If the first half of 2022 showed green shoots for the crypto industry, the second half snuffed out optimism of another bull run.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/12\/part-2-crypto-gID_1.jpg@png",
-    "source":"Decrypt.co",
+    "summary":"NEW YORK, June 15, 2023 \/PRNewswire\/ -- Pomerantz LLP is investigating claims on behalf of investors of KeyCorp ( \"KeyCorp\" or the \"Company\" ) ( NYSE: KEY ) . Such investors are advised to contact Robert S. Willoughby at [email protected] or 888-476-6529, ext. 7980.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
     "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "source_domain":"www.prnewswire.com",
     "topics":[
       {
         "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.999855"
-      },
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999981"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.650727"
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":-0.02178,
+    "overall_sentiment_score":0.114245,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"COIN",
-        "relevance_score":"0.064623",
-        "ticker_sentiment_score":"-0.017191",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.125087",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.207845",
-        "ticker_sentiment_score":"0.020479",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.329656",
-        "ticker_sentiment_score":"0.043134",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
+        "ticker":"KEY",
+        "relevance_score":"0.582526",
+        "ticker_sentiment_score":"0.053636",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"The Year in Crypto, 2022 Part 2: Ethereum Merges, Feds Sanctions Tornado Cash, FTX Collapses",
-    "url":"https:\/\/decrypt.co\/118135\/year-crypto-2022-part-2-ethereum-merges-tornado-cash-dev-arrested-and-ftx-goes-nuclear",
-    "time_published":1672340799000,
+    "title":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Futu Holdings Limited - FUTU",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/shareholder-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-futu-holdings-limited---futu-301852563.html",
+    "time_published":1686870360000,
     "authors":[
-      "Decrypt \/ Andrew Asmakov"
+      "Pomerantz LLP"
     ],
-    "summary":"If the first half of 2022 showed green shoots for the crypto industry, the second half snuffed out optimism of another bull run.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/12\/part-2-crypto-gID_1.jpg@png",
-    "source":"Decrypt.co",
+    "summary":"SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Futu Holdings Limited ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1486339\/Pomerantz_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
     "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "source_domain":"www.prnewswire.com",
     "topics":[
       {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.999855"
-      },
-      {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.310843"
       },
       {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999981"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.650727"
+        "topic":"Finance",
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":-0.02178,
+    "overall_sentiment_score":-0.048306,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"COIN",
-        "relevance_score":"0.064623",
-        "ticker_sentiment_score":"-0.017191",
+        "ticker":"FUTU",
+        "relevance_score":"0.521961",
+        "ticker_sentiment_score":"-0.146836",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"TSLA",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.125087",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.207845",
-        "ticker_sentiment_score":"0.020479",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.329656",
-        "ticker_sentiment_score":"0.043134",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.032338",
-        "ticker_sentiment_score":"0.141606",
+        "ticker":"TIGR",
+        "relevance_score":"0.080728",
+        "ticker_sentiment_score":"-0.085468",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Women who made a contribution to the crypto industry in 2022",
-    "url":"https:\/\/cointelegraph.com\/news\/women-who-made-a-contribution-to-the-crypto-industry-in-2022",
-    "time_published":1672014600000,
+    "title":"Azitra, Inc. Announces Pricing of Initial Public Offering",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/azitra-inc-announces-pricing-of-initial-public-offering-301852692.html",
+    "time_published":1686870240000,
+    "authors":[
+      "Inc.",
+      "Azitra"
+    ],
+    "summary":"BRANFORD, Conn., June 15, 2023 \/PRNewswire\/ -- Azitra, Inc. ( NYSE American: AZTR ) ( the \"Company\" ) , a biopharmaceutical company focused on developing innovative therapies for precision dermatology using engineered proteins and topical live biotherapeutic products, today announced the pricing ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2103494\/Azitra_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.838487"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.938793"
+      }
+    ],
+    "overall_sentiment_score":0.07619,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"STT",
+        "relevance_score":"0.061159",
+        "ticker_sentiment_score":"0.120017",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"BlackRock applies for spot Bitcoin ETF - a US first, if approved",
+    "url":"https:\/\/cointelegraph.com\/news\/blackrock-apply-spot-bitcoin-etf-sec-nasdaq",
+    "time_published":1686870228000,
     "authors":[
 
     ],
-    "summary":"2022 saw greater inclusivity and participation of women in the crypto and blockchain industries.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/290cbf77-c7bb-43b8-8589-850a3ed51731.jpg",
+    "summary":"The investment firm joins a long line of applicants. ARK is among those still waiting to hear from the SEC and Grayscale has appealed its rejection.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZjZkYWUxMWItZjU4Mi00YzI0LWEzNjktMjdlMWFlNzQ3ODAxLmpwZw==.jpg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.87644"
-      },
-      {
         "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
-        "topic":"Blockchain",
-        "relevance_score":"1.0"
+        "topic":"Financial Markets",
+        "relevance_score":"0.999919"
       }
     ],
-    "overall_sentiment_score":0.261155,
+    "overall_sentiment_score":0.192943,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"ACN",
-        "relevance_score":"0.029043",
-        "ticker_sentiment_score":"0.132907",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.029043",
-        "ticker_sentiment_score":"0.077642",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.058047",
-        "ticker_sentiment_score":"0.119985",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.172919",
-        "ticker_sentiment_score":"0.165388",
+        "ticker":"BLK",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.175545",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.058047",
-        "ticker_sentiment_score":"0.090974",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"BK",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.309777",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"CRYPTO:XTZ",
-        "relevance_score":"0.144448",
-        "ticker_sentiment_score":"0.134687",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"COIN",
+        "relevance_score":"0.139265",
+        "ticker_sentiment_score":"0.309777",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.920636",
+        "ticker_sentiment_score":"0.338052",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Santa's Crypto 'Nice' List 2022",
-    "url":"https:\/\/decrypt.co\/117283\/santas-crypto-nice-list-of-2022",
-    "time_published":1671900796000,
+    "title":"Alchemy's ChatGPT Plugin Enables Easier Blockchain Analysis Via AI",
+    "url":"https:\/\/decrypt.co\/144856\/alchemy-chatgpt-ai-plugin-enables-easier-blockchain-analysis",
+    "time_published":1686870125000,
     "authors":[
-      "Decrypt \/ Kate Irwin"
+      "Decrypt \/ Jason Nelson"
     ],
-    "summary":"Not everyone misbehaved in cryptoland this year. Here are the leaders who made Santa's nice list in crypto in 2022.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/12\/nicelist1-scaled-gID_5.jpg@png",
+    "summary":"Alchemy's new GPT-4 plugin harnesses the power of AI to deliver user-friendly, real-time blockchain analysis.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2022\/12\/Artificial-Intelligence-gID_7.png",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.209653,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"APG",
+        "relevance_score":"0.169081",
+        "ticker_sentiment_score":"0.058737",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.085022",
+        "ticker_sentiment_score":"0.2049",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Shanghai's Shenergy increases coal reserves ahead of expected heatwave",
+    "url":"https:\/\/www.scmp.com\/business\/china-business\/article\/3224241\/shanghais-major-power-generator-shenergy-increases-coal-reserves-completes-maintenance-ahead-summer",
+    "time_published":1686870009000,
+    "authors":[
+      "Daniel Ren"
+    ],
+    "summary":"Shenergy's chairman said that the company would do its utmost to ensure sufficient supply of electricity to the city, particularly in the peak season.",
+    "banner_image":null,
+    "source":"South China Morning Post",
+    "category_within_source":"Companies",
+    "source_domain":"www.scmp.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.650727"
+      }
+    ],
+    "overall_sentiment_score":0.180241,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Why Accenture Stock Topped the Market on Thursday",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/06\/15\/why-accenture-stock-topped-the-market-on-thursday\/",
+    "time_published":1686869994000,
+    "authors":[
+      "Eric Volkman"
+    ],
+    "summary":"The company made a fresh move in the virtual reality (VR) segment.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736107%2Fa-young-person-laying-on-a-bed-looking-at-a-smartphone.jpg&op=resize&h=340",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
     "topics":[
       {
         "topic":"Retail & Wholesale",
         "relevance_score":"0.5"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Finance",
+        "topic":"Technology",
         "relevance_score":"0.5"
       },
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.983605"
-      }
-    ],
-    "overall_sentiment_score":0.110646,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"SBUX",
-        "relevance_score":"0.035555",
-        "ticker_sentiment_score":"0.086773",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.035555",
-        "ticker_sentiment_score":"0.154683",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.07104",
-        "ticker_sentiment_score":"-0.013298",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.176373",
-        "ticker_sentiment_score":"0.124444",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.035555",
-        "ticker_sentiment_score":"0.059176",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"4 legislative predictions for crypto in 2023",
-    "url":"https:\/\/cointelegraph.com\/news\/4-legislative-predictions-for-crypto-in-2023",
-    "time_published":1671569705000,
-    "authors":[
-
-    ],
-    "summary":"We may not see much from Congress, but there is a chance the SEC will continue making crypto policy via litigation.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/ec5e2c23-835b-49b1-87e0-e698c70aa754.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.650727"
+        "relevance_score":"0.316726"
       }
     ],
-    "overall_sentiment_score":0.190099,
+    "overall_sentiment_score":0.183034,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.130926",
-        "ticker_sentiment_score":"0.152741",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.087503",
-        "ticker_sentiment_score":"-0.072741",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.130926",
-        "ticker_sentiment_score":"0.243093",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.130926",
-        "ticker_sentiment_score":"0.243093",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Israeli court rules authorities can seize crypto in 150 blacklisted wallets",
-    "url":"https:\/\/cointelegraph.com\/news\/israeli-court-rules-authorities-can-seize-crypto-in-150-blacklisted-wallets",
-    "time_published":1671419050000,
-    "authors":[
-
-    ],
-    "summary":"Over 150 crypto wallets blacklisted for alleged links to the funding of terror groups can now be drained of all funds following a ruling by an Israeli court.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/a1035642-09d5-4d93-83ac-7adcdac44d2d.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":-0.021634,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.24289",
-        "ticker_sentiment_score":"-0.014028",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.24289",
+        "ticker":"GOOG",
+        "relevance_score":"0.145145",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:XRP",
-        "relevance_score":"0.24289",
+        "ticker":"ACN",
+        "relevance_score":"0.856646",
+        "ticker_sentiment_score":"0.381719",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"UBER",
+        "relevance_score":"0.145145",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.24289",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.24289",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:USDT",
-        "relevance_score":"0.122894",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.24289",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.24289",
+        "ticker":"AMZN",
+        "relevance_score":"0.145145",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Aztec Network secures $100 million in Series B funding led by a16z",
-    "url":"https:\/\/cointelegraph.com\/news\/aztec-network-secures-100-million-in-series-b-funding-led-by-a16z",
-    "time_published":1671139800000,
+    "title":"Why Manchester United Stock Scored a Big Win Today",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/06\/15\/why-manchester-united-stock-scored-a-big-win-today\/",
+    "time_published":1686869935000,
     "authors":[
-
+      "Eric Volkman"
     ],
-    "summary":"With the funds, Aztec Network plans to hire more engineers and build a new encrypted blockchain.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/3ae4cd2e-b325-45e8-bb63-7669e2f82abe.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":0.111175,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.266828",
-        "ticker_sentiment_score":"0.040802",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:AAVE",
-        "relevance_score":"0.135347",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.135347",
-        "ticker_sentiment_score":"0.065707",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Grayscale\u00ae DeFi Fund Now Trading on OTC Markets - GRAYSCALE ETHRM CLSSIC TR by Grayscale Ethereum Classic Trust  ( ETC )   ( OTC:ETCG ) , GRAYSCALE BITCOIN CASH TR by Grayscale Bitcoin Cash Trust  ( BCH )   ( OTC:BCHG ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/12\/g30021377\/grayscale-defi-fund-now-trading-on-otc-markets",
-    "time_published":1670592657000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"STAMFORD, Conn., Dec. 09, 2022 ( GLOBE NEWSWIRE ) -- Grayscale Investments\u00ae, the world's largest digital currency asset manager, today announced that Grayscale\u00ae Decentralized Finance Fund ( DeFi Fund ) has begun trading on OTC Markets under the symbol: DEFG. Grayscale now offers 15 digital ...",
-    "banner_image":"",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999998"
-      }
-    ],
-    "overall_sentiment_score":0.312406,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.163687",
-        "ticker_sentiment_score":"0.339162",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:AAVE",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.070526",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.131284",
-        "ticker_sentiment_score":"0.078972",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:MANA",
-        "relevance_score":"0.131284",
-        "ticker_sentiment_score":"0.300911",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BAT",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.227615",
-        "ticker_sentiment_score":"0.370474",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LINK",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.098659",
-        "ticker_sentiment_score":"0.270716",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Grayscale\u00ae DeFi Fund Now Trading on OTC Markets",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2022\/12\/09\/2571058\/0\/en\/Grayscale-DeFi-Fund-Now-Trading-on-OTC-Markets.html",
-    "time_published":1670592600000,
-    "authors":[
-      "Grayscale Investments"
-    ],
-    "summary":"Investors can now access diversified exposure to the DeFi ecosystem through a single, publicly-quoted investment vehicle Investors can now access diversified exposure to the DeFi ecosystem through a single, publicly-quoted investment vehicle ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/eed22808-d372-44ab-b39a-ee0407d5e0fe?size=1",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999993"
-      }
-    ],
-    "overall_sentiment_score":0.329806,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.170878",
-        "ticker_sentiment_score":"0.361546",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:AAVE",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.081406",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.137083",
-        "ticker_sentiment_score":"0.092119",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:MANA",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BAT",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.237469",
-        "ticker_sentiment_score":"0.39639",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LINK",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.103035",
-        "ticker_sentiment_score":"0.284934",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Major Grayscale digital currency funds are trading at 34% to 69% discount to NAV",
-    "url":"https:\/\/cointelegraph.com\/news\/major-grayscale-digital-currency-funds-are-trading-at-34-to-69-discount-to-nav",
-    "time_published":1670519839000,
-    "authors":[
-
-    ],
-    "summary":"The firm manages more than $14.7 billion in digital assets through its OTC investment vehicles.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/0b58f600-df21-410a-b26e-41bd6354498a.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.986564"
-      }
-    ],
-    "overall_sentiment_score":0.225161,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.096283",
-        "ticker_sentiment_score":"0.050655",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.19117",
-        "ticker_sentiment_score":"0.458324",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.532043",
-        "ticker_sentiment_score":"0.729922",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.096283",
-        "ticker_sentiment_score":"0.44581",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.096283",
-        "ticker_sentiment_score":"0.44581",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.19117",
-        "ticker_sentiment_score":"0.475791",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Review: The digital sleuths who demystified cryptocurrency",
-    "url":"https:\/\/apnews.com\/article\/cryptocurrency-technology-entertainment-bitcoin-0e64197c94c801719bf3dfb5c5741d8b",
-    "time_published":1670263938000,
-    "authors":[
-
-    ],
-    "summary":"\"Tracers In The Dark\" by Andy Greenberg ( Doubleday ) The year was 2011. Cryptocurrency was a little-understood novelty, and Sen. Chuck Schumer called a news conference to vent outrage over a one-stop online shop for illegal drugs whose technology made sellers \"virtually untraceable.\"",
-    "banner_image":"https:\/\/storage.googleapis.com\/afs-prod\/media\/e092dba406724576a4fbfd3a6920873f\/2859.webp",
-    "source":"Associated Press",
-    "category_within_source":"Markets",
-    "source_domain":"apnews.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      }
-    ],
-    "overall_sentiment_score":-0.048575,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.282886",
-        "ticker_sentiment_score":"-0.019705",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.057767",
-        "ticker_sentiment_score":"0.003",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.057767",
-        "ticker_sentiment_score":"0.003",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Sorry Charlie  ( Munger ) ! Bitcoin Could Be Less Important For Cybercrime And Kidnappers Soon - Bitcoin  ( BTC\/USD ) , Monero  ( XMR\/USD ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/11\/29847860\/sorry-charlie-munger-bitcoin-could-be-less-important-for-cybercrime-and-kidnappers-soon",
-    "time_published":1669247829000,
-    "authors":[
-      "Chris Katje"
-    ],
-    "summary":"Leading cryptocurrency Bitcoin is known for many things, whether its used to buy a pizza, held on the balance sheet of companies, used as a currency in countries such as El Salvador or as a store of value. One famous use case could be less important in the future and silence critics.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/11\/23\/shutterstock_578912143.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      }
-    ],
-    "overall_sentiment_score":-0.007328,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BRK-A",
-        "relevance_score":"0.084127",
-        "ticker_sentiment_score":"-0.034469",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.327366",
-        "ticker_sentiment_score":"-0.090824",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.886922",
-        "ticker_sentiment_score":"-0.063654",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.167322",
-        "ticker_sentiment_score":"-0.15009",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.084127",
-        "ticker_sentiment_score":"-0.109976",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Why Binance Coin, Litecoin, and Zcash Are Seeing Double-Digit Surges Today",
-    "url":"https:\/\/www.fool.com\/investing\/2022\/11\/23\/why-binance-coin-litecoin-and-zcash-are-seeing-dou\/",
-    "time_published":1669219231000,
-    "authors":[
-      "Chris MacDonald"
-    ],
-    "summary":"Nearly all asset classes are surging today on hopeful bullish sentiment.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
+    "summary":"A consortium led by a Qatar-based investor is apparently in exclusive talks to buy the sports club.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736143%2Fpaper-certificate-shares-invest-stock-split-market-reverse-getty.jpg&op=resize&h=340",
     "source":"Motley Fool",
     "category_within_source":"n\/a",
     "source_domain":"www.fool.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
+        "topic":"Financial Markets",
+        "relevance_score":"0.972756"
+      }
+    ],
+    "overall_sentiment_score":0.399823,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MANU",
+        "relevance_score":"0.407844",
+        "ticker_sentiment_score":"0.266374",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
+        "ticker":"CRYPTO:XCP",
+        "relevance_score":"0.141726",
+        "ticker_sentiment_score":"0.11172",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Structurlam Closes US$83.5 Million Sale to Mercer",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32885939\/structurlam-closes-us-83-5-million-sale-to-mercer",
+    "time_published":1686869787000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"PENTICTON, British Columbia, June 15, 2023 ( GLOBE NEWSWIRE ) -- Structurlam Mass Timber Corporation ( the \"Company\" ) , the leading mass timber manufacturer in North America, announced today it has closed on the sale of substantially all its assets to Mercer International Inc. ( \"Mercer\" ) for ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Mergers",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.284907,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MERC",
+        "relevance_score":"0.085629",
+        "ticker_sentiment_score":"0.083129",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Nevada Copper Provides Positive Operational Update - Nevada Copper  ( OTC:NEVDF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/g32885937\/nevada-copper-provides-positive-operational-update",
+    "time_published":1686869778000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"YERINGTON, Nev., June 15, 2023 ( GLOBE NEWSWIRE ) -- Nevada Copper Corp. NCU NEVDF ZYTA ( \"Nevada Copper\" or the \"Company\" ) provides an update on progress of its operating restart activities at its Pumpkin Hollow underground copper mine ( the \"Underground Mine\" ) .",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.038441,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"NEVDF",
+        "relevance_score":"0.135806",
+        "ticker_sentiment_score":"0.078067",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MALRF",
+        "relevance_score":"0.027288",
+        "ticker_sentiment_score":"-0.028738",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Nevada Copper Provides Positive Operational Update",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689463\/0\/en\/Nevada-Copper-Provides-Positive-Operational-Update.html",
+    "time_published":1686869760000,
+    "authors":[
+      "Nevada Copper Corp."
+    ],
+    "summary":"Key Ventilation Project Completed, Significant Ore Stockpile and Mill Restart Preparation ...",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/5b91bd39-a414-4949-a078-df9066940eec",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.158519"
       }
     ],
-    "overall_sentiment_score":0.204006,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.465196",
-        "ticker_sentiment_score":"0.304193",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.465196",
-        "ticker_sentiment_score":"0.360495",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.395012",
-        "ticker_sentiment_score":"0.325233",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bitcoin Will Become 'Less Important' for Cybercrime Payments: Kaspersky",
-    "url":"https:\/\/decrypt.co\/115421\/bitcoin-will-become-less-important-cybercrime-payments-kaspersky",
-    "time_published":1669205911000,
-    "authors":[
-      "Decrypt \/ Will McCurdy"
-    ],
-    "summary":"Privacy coins like Monero and Zcash could soon be playing a much larger role in the multibillion-dollar world of cybercrime crypto transfers.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2020\/07\/Webp.net-resizeimage-27-gID_5.jpg@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      }
-    ],
-    "overall_sentiment_score":0.120121,
+    "overall_sentiment_score":0.043231,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"TTGT",
-        "relevance_score":"0.100308",
-        "ticker_sentiment_score":"-0.001074",
+        "ticker":"NEVDF",
+        "relevance_score":"0.137514",
+        "ticker_sentiment_score":"0.130927",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.550532",
-        "ticker_sentiment_score":"0.194268",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
+        "ticker":"MALRF",
+        "relevance_score":"0.027635",
+        "ticker_sentiment_score":"-0.028778",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Clene's ALS drug shows reduction in disease indicator levels in trial",
+    "url":"https:\/\/www.reuters.com\/business\/healthcare-pharmaceuticals\/clenes-als-drug-shows-reduction-disease-indicator-levels-trial-2023-06-15\/",
+    "time_published":1686869700000,
+    "authors":[
+      "Reuters"
+    ],
+    "summary":"June 15 ( Reuters ) - Clene ( CLNN.O ) said on Thursday its experimental amyotrophic lateral sclerosis ( ALS ) drug showed reduction in levels of an indicator believed to be tied with the disease progression in a mid-stage trial.",
+    "banner_image":"https:\/\/www.reuters.com\/pf\/resources\/images\/reuters\/reuters-default.webp?d=144",
+    "source":"Reuters",
+    "category_within_source":"Business",
+    "source_domain":"www.reuters.com",
+    "topics":[
       {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.100308",
-        "ticker_sentiment_score":"-0.011757",
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.06728,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CLNN",
+        "relevance_score":"0.327366",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.100308",
-        "ticker_sentiment_score":"0.25362",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.743396",
-        "ticker_sentiment_score":"0.195538",
+        "ticker":"BIIB",
+        "relevance_score":"0.167322",
+        "ticker_sentiment_score":"0.315938",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"New York Signs 2-Year Crypto Mining Moratorium Into Law",
-    "url":"https:\/\/decrypt.co\/115416\/new-york-signs-2-year-crypto-mining-moratorium-law",
-    "time_published":1669199793000,
+    "title":"Blue Moon Announces Closing of Strategic Financing",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/06\/15\/2689462\/0\/en\/Blue-Moon-Announces-Closing-of-Strategic-Financing.html",
+    "time_published":1686869640000,
     "authors":[
-      "Decrypt \/ Andrew Asmakov"
+      "Blue Moon Metals Inc"
     ],
-    "summary":"New York became the first state to instate a temporary moratorium on new fossil fuel-powered cryptocurrency mining operations.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2020\/08\/bitcoin-mining-gID_1.jpg@png",
+    "summary":"VANCOUVER, British Columbia, June 15, 2023 ( GLOBE NEWSWIRE ) -- Blue Moon Metals Inc. ( TSXV: MOON. OTCQB: BMOOF ) ( the \"Company\" ) announces it has closed a non-brokered private placement offering of common shares for proceeds of $500,240. The financing was priced at $0.065 per common share.",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/b589d33b-be3b-4b7b-a659-5a1bd80b85e1",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.12814,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLUMY",
+        "relevance_score":"0.298567",
+        "ticker_sentiment_score":"0.125489",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Banned In New York, CoinEx Returns $1.7 Million to Settle Lawsuit",
+    "url":"https:\/\/decrypt.co\/144820\/banned-in-new-york-coinex-returns-1-7-million-to-settle-lawsuit",
+    "time_published":1686869428000,
+    "authors":[
+      "Decrypt \/ Nicholas Morgan"
+    ],
+    "summary":"New York Attorney General Letitia James announced a $1.7 million settlement with Hong Kong-based CoinEx over securities violations.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/06\/new-york-attorney-general-letitia-james-nyag-gID_7.jpg",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
     "topics":[
       {
         "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":-0.196423,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Average 401 ( k )  account balances tumbled last year, Vanguard research shows",
+    "url":"https:\/\/www.foxbusiness.com\/economy\/average-401k-account-balances-tumbled-last-year-vanguard-research-shows",
+    "time_published":1686869416000,
+    "authors":[
+
+    ],
+    "summary":"The average balance in employer-sponsored retirement contribution plans plunged more than 20% last year, according to new data from Vanguard Group. Vanguard, which tracks about 5 million retirement accounts, found the average account balance for 401 ( k ) s and 403 ( b ) s was $112,572 in 2022 - ...",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/3556d919-01f8-4877-8263-3d2ba6065066\/138a8c64-c527-4be7-a8fb-ed2efc861822\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
         "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
       }
     ],
-    "overall_sentiment_score":0.148477,
+    "overall_sentiment_score":-0.048433,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Justin Boots Sponsors the Cinch Ranch Sorting National Championships",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/06\/n32885901\/justin-boots-sponsors-the-cinch-ranch-sorting-national-championships",
+    "time_published":1686869340000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"FORT WORTH, Texas, June 15, 2023 \/PRNewswire-PRWeb\/ -- Justin Boots is proud to announce its sponsorship of the Cinch Ranch Sorting National Championships, happening June 10-17, 2023, at the Will Rogers Coliseum in Fort Worth, Texas.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.477828,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SPOT",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.178248",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
-        "ticker_sentiment_label":"Neutral"
-      },
+        "ticker":"GOOG",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.178248",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Vegas Golden Knights to parade the Stanley Cup past marquees on casino-lined Strip on Saturday",
+    "url":"https:\/\/apnews.com\/article\/golden-knights-las-vegas-strip-stanley-cup-parade-f664416096801a274770c54a42ba650e",
+    "time_published":1686869139000,
+    "authors":[
+
+    ],
+    "summary":"Vegas Golden Knights to parade the Stanley Cup past marquees on casino-lined Strip on Saturday LAS VEGAS ( AP ) - The Vegas Golden Knights plan to parade this weekend with the NHL Stanley Cup beneath the glittery marquees of the Las Vegas Strip and rally with fans in front of their home arena to ...",
+    "banner_image":"https:\/\/storage.googleapis.com\/afs-prod\/media\/c30bc3bc770b412391735a938320aa39\/3000.jpeg",
+    "source":"Associated Press",
+    "category_within_source":"Markets",
+    "source_domain":"apnews.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.417093,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.200688",
-        "ticker_sentiment_score":"0.103777",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ZEC",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.13459",
-        "ticker_sentiment_score":"0.079884",
+        "ticker":"TOSBF",
+        "relevance_score":"0.143415",
+        "ticker_sentiment_score":"0.122406",
         "ticker_sentiment_label":"Neutral"
       }
     ]
