@@ -1,41 +1,5 @@
 [
   {
-    "price":5.0268377517,
-    "volume":2282090.5731932824,
-    "marketcap":4695863009.6857814789,
-    "transactions_count":0.0,
-    "active_address":15.0,
-    "token_holder":2371.0,
-    "percent_balance_on_exchanges":0.6905907735,
-    "exchange_withdrawals":1.0,
-    "exchange_deposits":1.0,
-    "time":1655337600000
-  },
-  {
-    "price":5.0328570261,
-    "volume":2203481.8814230449,
-    "marketcap":4704980343.684756279,
-    "transactions_count":0.0,
-    "active_address":21.0,
-    "token_holder":2377.0,
-    "percent_balance_on_exchanges":0.6905954283,
-    "exchange_withdrawals":3.0,
-    "exchange_deposits":4.0,
-    "time":1655424000000
-  },
-  {
-    "price":5.0459437231,
-    "volume":5881372.171341598,
-    "marketcap":4724773736.2195310593,
-    "transactions_count":0.0,
-    "active_address":23.0,
-    "token_holder":2374.0,
-    "percent_balance_on_exchanges":0.6905980295,
-    "exchange_withdrawals":5.0,
-    "exchange_deposits":7.0,
-    "time":1655510400000
-  },
-  {
     "price":5.1657893481,
     "volume":2504590.5113409744,
     "marketcap":4827273728.23179245,
@@ -4378,5 +4342,41 @@
     "exchange_withdrawals":1.0,
     "exchange_deposits":1.0,
     "time":1686787200000
+  },
+  {
+    "price":3.5316392258,
+    "volume":753402.2316762365,
+    "marketcap":3285374295.9762578011,
+    "transactions_count":0.0,
+    "active_address":8.0,
+    "token_holder":2677.0,
+    "percent_balance_on_exchanges":0.7070842515,
+    "exchange_withdrawals":2.0,
+    "exchange_deposits":3.0,
+    "time":1686873600000
+  },
+  {
+    "price":3.5155489951,
+    "volume":318958.2921125205,
+    "marketcap":3269560148.938325882,
+    "transactions_count":0.0,
+    "active_address":0.0,
+    "token_holder":2677.0,
+    "percent_balance_on_exchanges":0.7070933751,
+    "exchange_withdrawals":0.0,
+    "exchange_deposits":0.0,
+    "time":1686960000000
+  },
+  {
+    "price":3.5128717004,
+    "volume":306468.8580427956,
+    "marketcap":3265638146.1783089638,
+    "transactions_count":0.0,
+    "active_address":8.0,
+    "token_holder":2679.0,
+    "percent_balance_on_exchanges":0.7071015367,
+    "exchange_withdrawals":1.0,
+    "exchange_deposits":0.0,
+    "time":1687046400000
   }
 ]
