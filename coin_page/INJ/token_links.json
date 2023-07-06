@@ -18,7 +18,9 @@
     "facebook": "https://www.facebook.com/injectiveprotocol"
   },
   "source_code": "https://github.com/InjectiveLabs",
-  "audit": [],
+  "audit": [
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",
