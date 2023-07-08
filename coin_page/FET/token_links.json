@@ -19,7 +19,10 @@
     "facebook": "https://www.facebook.com/FetchAI.Official"
   },
   "source_code": "https://github.com/fetchai",
-  "audit": [],
+  "audit": [
+    "CertiK",
+    "SlowMist"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",
