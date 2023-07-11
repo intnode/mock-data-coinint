@@ -3,7 +3,8 @@
     "https://www.immutable.com/"
   ],
   "explorer": [
-    "https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+    "https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "https://www.oklink.com/cn/eth/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
   ],
   "wallets": [
     "metamask"
@@ -15,9 +16,7 @@
     "facebook": null
   },
   "source_code": null,
-  "audit": [
-    "CertiK"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "Ethereum",

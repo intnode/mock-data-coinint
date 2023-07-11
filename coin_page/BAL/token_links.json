@@ -5,7 +5,7 @@
   ],
   "explorer": [
     "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
-    "https://ethplorer.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+    "https://www.oklink.com/eth/token/0xba100000625a3754423978a60c9317c58a424e3D",
     "https://hecoinfo.com/token/0x045de15ca76e76426e8fc7cba8392a3138078d0f",
     "https://blockscout.com/xdai/mainnet/tokens/0x7eF541E2a22058048904fE5744f9c7E4C57AF717/token-transfers",
     "https://nearblocks.io/token/ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near"
@@ -20,7 +20,9 @@
     "facebook": null
   },
   "source_code": "https://github.com/balancer-labs",
-  "audit": [],
+  "audit": [
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",

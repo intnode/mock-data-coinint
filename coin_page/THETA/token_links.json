@@ -3,7 +3,8 @@
     "https://www.thetatoken.org/"
   ],
   "explorer": [
-    "https://explorer.thetatoken.org/"
+    "https://explorer.thetatoken.org/",
+    "https://www.oklink.com/cn/eth/token/0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
   ],
   "wallets": [
     "metamask"
@@ -15,7 +16,9 @@
     "facebook": null
   },
   "source_code": "https://github.com/thetatoken",
-  "audit": [],
+  "audit": [
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",

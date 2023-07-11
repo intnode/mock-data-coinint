@@ -4,7 +4,7 @@
   ],
   "explorer": [
     "https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
-    "https://ethplorer.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+    "https://www.oklink.com/cn/eth/token/0x8E870D67F660D95d5be530380D0eC0bd388289E1",
     "https://blockchair.com/ethereum/erc-20/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
     "https://eth.tokenview.com/en/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
     "https://bscscan.com/token/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094"
@@ -19,9 +19,7 @@
     "facebook": null
   },
   "source_code": "https://github.com/paxosglobal/pax-contracts",
-  "audit": [
-    "CertiK"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "Ethereum",

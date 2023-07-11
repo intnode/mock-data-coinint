@@ -5,7 +5,8 @@
   "explorer": [
     "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
     "https://solscan.io/token/49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
-    "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+    "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "https://www.oklink.com/cn/eth/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
   ],
   "wallets": [
     "metamask"
@@ -17,9 +18,7 @@
     "facebook": null
   },
   "source_code": null,
-  "audit": [
-    "CertiK"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "Ethereum",

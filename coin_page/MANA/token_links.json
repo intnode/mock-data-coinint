@@ -4,7 +4,7 @@
   ],
   "explorer": [
     "https://etherscan.io/token/decentraland",
-    "https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "https://www.oklink.com/eth/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
     "https://explorer.solana.com/address/7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi"
   ],
   "wallets": [
@@ -17,7 +17,9 @@
     "facebook": null
   },
   "source_code": "https://github.com/decentraland/mana",
-  "audit": [],
+  "audit": [
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",

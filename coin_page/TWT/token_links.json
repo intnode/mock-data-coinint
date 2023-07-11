@@ -4,7 +4,8 @@
   ],
   "explorer": [
     "https://explorer.binance.org/asset/TWT-8C2",
-    "https://bscscan.com/token/0x4b0f1812e5df2a09796481ff14017e6005508003"
+    "https://bscscan.com/token/0x4b0f1812e5df2a09796481ff14017e6005508003",
+    "https://www.oklink.com/bsc/token/0x4b0f1812e5df2a09796481ff14017e6005508003"
   ],
   "wallets": [
     "metamask"
@@ -16,9 +17,7 @@
     "facebook": null
   },
   "source_code": "https://github.com/trustwallet",
-  "audit": [
-    "CertiK"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "BNB Smart Chain (BEP20)",

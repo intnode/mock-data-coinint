@@ -3,7 +3,8 @@
     "https://www.iotex.io/"
   ],
   "explorer": [
-    "https://iotexscan.io/"
+    "https://iotexscan.io/",
+    "https://www.oklink.com/eth/token/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
   ],
   "wallets": [
     "metamask"
@@ -15,10 +16,7 @@
     "facebook": "https://www.facebook.com/iotex.io"
   },
   "source_code": "https://github.com/iotexproject/iotex-core",
-  "audit": [
-    "CertiK",
-    "SlowMist"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "Ethereum",
