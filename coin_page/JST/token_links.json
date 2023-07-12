@@ -16,7 +16,10 @@
     "facebook": null
   },
   "source_code": null,
-  "audit": [],
+  "audit": [
+    "SlowMist",
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "Tron20",
