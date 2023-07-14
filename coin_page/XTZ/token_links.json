@@ -18,7 +18,9 @@
     "facebook": null
   },
   "source_code": "https://gitlab.com/tezos/tezos",
-  "audit": [],
+  "audit": [
+    "Quantstamp"
+  ],
   "contracts": [
     {
       "chain": "Tezos",
