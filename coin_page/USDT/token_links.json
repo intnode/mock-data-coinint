@@ -19,10 +19,7 @@
     "facebook": null
   },
   "source_code": null,
-  "audit": [
-    "CertiK",
-    "Fairyproof"
-  ],
+  "audit": [],
   "contracts": [
     {
       "chain": "Ethereum",
@@ -225,6 +222,16 @@
       "link": null
     },
     {
+      "chain": "Fuse",
+      "address": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
+      "link": "https://explorer.fuse.io/token/0xfadbbf8ce7d5b7041be672561bba99f79c532e10"
+    },
+    {
+      "chain": "Syscoin",
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "link": "https://explorer.syscoin.org/token/0x922D641a426DcFFaeF11680e5358F34d97d112E1"
+    },
+    {
       "chain": "Milkomeda",
       "address": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
       "link": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com/token/0x3795c36e7d12a8c252a20c5a7b455f7c57b60283"
@@ -235,8 +242,23 @@
       "link": "https://brisescan.com/token/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D"
     },
     {
+      "chain": "Astar",
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "link": "https://blockscout.com/astar/token/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283"
+    },
+    {
       "chain": "Everscale",
       "address": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+      "link": null
+    },
+    {
+      "chain": "Cube network",
+      "address": "0x79F1520268A20c879EF44d169A4E3812D223C6de",
+      "link": "https://www.cubescan.network/token/0x79F1520268A20c879EF44d169A4E3812D223C6de"
+    },
+    {
+      "chain": "ThunderCore",
+      "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
       "link": null
     },
     {
@@ -260,21 +282,6 @@
       "link": null
     },
     {
-      "chain": "ThunderCore",
-      "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
-      "link": null
-    },
-    {
-      "chain": "Syscoin",
-      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-      "link": "https://explorer.syscoin.org/token/0x922D641a426DcFFaeF11680e5358F34d97d112E1"
-    },
-    {
-      "chain": "Cube network",
-      "address": "0x79F1520268A20c879EF44d169A4E3812D223C6de",
-      "link": "https://www.cubescan.network/token/0x79F1520268A20c879EF44d169A4E3812D223C6de"
-    },
-    {
       "chain": "Redlight Chain",
       "address": "0x73e84bfd35c3f1537a72180d1481e1eabf64b70b",
       "link": "https://redlightscan.finance/token/0x73e84bfd35c3f1537a72180d1481e1eabf64b70b"
@@ -285,19 +292,14 @@
       "link": null
     },
     {
-      "chain": "Astar",
-      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
-      "link": "https://blockscout.com/astar/token/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283"
+      "chain": "SUI",
+      "address": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+      "link": null
     },
     {
       "chain": "Core",
       "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
       "link": "https://scan.coredao.org/token/0x9Ebab27608bD64AFf36f027049aECC69102a0D1e"
-    },
-    {
-      "chain": "Fuse",
-      "address": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
-      "link": "https://explorer.fuse.io/token/0xfadbbf8ce7d5b7041be672561bba99f79c532e10"
     },
     {
       "chain": "Polygon zkEVM",
@@ -310,11 +312,6 @@
       "link": "https://explorer.evm.eosnetwork.com/token/0xfa9343c3897324496a05fc75abed6bac29f8a40f"
     },
     {
-      "chain": "SUI",
-      "address": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
-      "link": null
-    },
-    {
       "chain": "PulseChain",
       "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
       "link": "https://scan.pulsechain.com/token/0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f"
@@ -322,6 +319,11 @@
     {
       "chain": "Mantle",
       "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "link": null
+    },
+    {
+      "chain": "NEON EVM",
+      "address": "0x5f0155d08ef4aae2b500aefb64a3419da8bb611a",
       "link": null
     }
   ]
