@@ -16,7 +16,10 @@
     "facebook": "https://www.facebook.com/iotex.io"
   },
   "source_code": "https://github.com/iotexproject/iotex-core",
-  "audit": [],
+  "audit": [
+    "CertiK",
+    "SlowMist"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",
