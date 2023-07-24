@@ -1,0 +1,90 @@
+{
+  "website": [
+    "https://terra.money"
+  ],
+  "explorer": [
+    "https://finder.terra.money",
+    "https://etherscan.io/token/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+    "https://solscan.io/token/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "https://polygonscan.com/token/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+    "https://avascan.info/blockchain/c/address/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/token"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/terra_money",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/terra-project",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+      "link": "https://etherscan.io/token/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "link": "https://bscscan.com/token/0x23396cf899ca06c4472205fc903bdb4de249d6fc"
+    },
+    {
+      "chain": "Solana",
+      "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "link": null
+    },
+    {
+      "chain": "Terra Classic",
+      "address": "uusd",
+      "link": null
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b",
+      "link": "https://ftmscan.com/token/0x846e4d51d7e2043c1a87e0ab7490b93fb940357b"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+      "link": "https://polygonscan.com/token/0x692597b009d13C4049a947CAB2239b7d6517875F"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+      "link": "https://snowtrace.io/token/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+    },
+    {
+      "chain": "Harmony",
+      "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
+      "link": null
+    },
+    {
+      "chain": "Moonbeam",
+      "address": "0x085416975fe14c2a731a97ec38b9bf8135231f62",
+      "link": "https://moonbeam.moonscan.io/token/0x085416975fe14c2a731a97ec38b9bf8135231f62"
+    },
+    {
+      "chain": "Cosmos",
+      "address": "IBC/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC",
+      "link": null
+    },
+    {
+      "chain": "Oasis Network",
+      "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+      "link": "https://explorer.emerald.oasis.dev/token/0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2"
+    },
+    {
+      "chain": "Secret",
+      "address": "secret129h4vu66y3gry6wzwa24rw0vtqjyn8tujuwtn9",
+      "link": null
+    },
+    {
+      "chain": "Aurora",
+      "address": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
+      "link": "https://explorer.aurora.dev/token/0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc"
+    }
+  ]
+}

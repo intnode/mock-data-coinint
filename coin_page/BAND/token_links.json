@@ -1,0 +1,47 @@
+{
+  "website": [
+    "https://bandprotocol.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "https://www.oklink.com/eth/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+    "https://blockscout.com/xdai/mainnet/tokens/0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27/token-transfers",
+    "https://ftmscan.com/token/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/bandprotocol",
+    "discord": null,
+    "reddit": "https://reddit.com/r/bandprotocol",
+    "facebook": null
+  },
+  "source_code": "https://github.com/bandprotocol",
+  "audit": [
+    "CertiK"
+  ],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "link": "https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "link": "https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
+      "link": "https://gnosisscan.io/token/0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27"
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+      "link": "https://ftmscan.com/token/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
+    }
+  ]
+}
