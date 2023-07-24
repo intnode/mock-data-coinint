@@ -1,5 +1,166 @@
 [
   {
+    "title":"Price analysis 7\/24: SPX, DXY, BTC, ETH, XRP, BNB, ADA, DOGE, SOL, MATIC",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-24-spx-dxy-btc-eth-xrp-bnb-ada-doge-sol-matic",
+    "time_published":1690221651000,
+    "authors":[
+      "Rakesh Upadhyay"
+    ],
+    "summary":"Bitcoin is at the pivotal 50-day SMA support, and a drop below this level could result in accelerated selling of BTC and altcoins.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-07\/c7075941-fb40-4fea-8516-6d8540092ee4.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.77141"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.002425,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.175433",
+        "ticker_sentiment_score":"-0.018047",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.088255",
+        "ticker_sentiment_score":"-0.063915",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.058903",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.088255",
+        "ticker_sentiment_score":"-0.033282",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Price Drops. New Crypto From ChatGPT Founder Fails to Lift Spirits.",
+    "url":"https:\/\/www.barrons.com\/articles\/bitcoin-price-ether-chatgpt-sam-altman-crypto-worldcoin-8a897511",
+    "time_published":1690195740000,
+    "authors":[
+      "Adam Clark"
+    ],
+    "summary":"The price of Bitcoin and other cryptocurrencies was falling on Monday as traders look ahead to the Federal Reserve's monetary-policy decision this week. The global launch of a new cryptocurrency co-founded by OpenAI CEO Sam Altman was doing little to lift spirits in the sector.",
+    "banner_image":"https:\/\/images.barrons.com\/im-574517?width=639&height=426",
+    "source":"Barrons",
+    "category_within_source":"n\/a",
+    "source_domain":"www.barrons.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.052259,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.077263",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.165031",
+        "ticker_sentiment_score":"0.070689",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.165031",
+        "ticker_sentiment_score":"0.070689",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:WDC",
+        "relevance_score":"0.468029",
+        "ticker_sentiment_score":"0.154403",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Price Drops. New Crypto From ChatGPT Founder Fails to Lift Spirits.",
+    "url":"https:\/\/www.barrons.com\/articles\/bitcoin-price-crypto-markets-today-8a897511",
+    "time_published":1690195740000,
+    "authors":[
+      "Adam Clark"
+    ],
+    "summary":"Bitcoin Drops. This Week Is All About the Fed. ...",
+    "banner_image":"https:\/\/images.barrons.com\/im-574517?width=639&height=426",
+    "source":"Barrons",
+    "category_within_source":"n\/a",
+    "source_domain":"www.barrons.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.052259,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.077263",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.165031",
+        "ticker_sentiment_score":"0.070689",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.165031",
+        "ticker_sentiment_score":"0.070689",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:WDC",
+        "relevance_score":"0.468029",
+        "ticker_sentiment_score":"0.154403",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
     "title":"SEC reviews Ripple ruling, US bill seeks control over DeFi, and more: Hodler's Digest, July 16-22",
     "url":"https:\/\/cointelegraph.com\/magazine\/sec-reviews-ripple-ruling-us-bill-seeks-control-over-defi-and-more-hodlers-digest-july-16-22\/",
     "time_published":1690061258000,
@@ -2782,217 +2943,6 @@
         "ticker":"CRYPTO:ADA",
         "relevance_score":"0.09245",
         "ticker_sentiment_score":"-0.094819",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"This Week In Coins: Bitcoin Unmoved, But PoW Classics Bitcoin Cash and Litecoin Moon",
-    "url":"https:\/\/decrypt.co\/147002\/this-week-in-coins-bitcoin-level-cash-litecoin-moon",
-    "time_published":1688245828000,
-    "authors":[
-      "Decrypt \/ Tim Hakki"
-    ],
-    "summary":"Also, this week's news surfaced doubts about BlackRock's Bitcoin spot ETF application.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fit:1536:0:0:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2021\/11\/Coins6.2%402x.png@webp",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.95493"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.9545"
-      }
-    ],
-    "overall_sentiment_score":0.077729,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.162437",
-        "ticker_sentiment_score":"0.037113",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.054483",
-        "ticker_sentiment_score":"0.074999",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.318211",
-        "ticker_sentiment_score":"0.052475",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.162437",
-        "ticker_sentiment_score":"0.166851",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.108712",
-        "ticker_sentiment_score":"0.082648",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.108712",
-        "ticker_sentiment_score":"-0.083098",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.108712",
-        "ticker_sentiment_score":"0.082648",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"SEC calls ETF filings inadequate, Binance loses euro partner and other news: Hodler's Digest, June 25 - July 1",
-    "url":"https:\/\/cointelegraph.com\/magazine\/sec-calls-etf-filings-inadequate-binance-loses-euro-partner-and-other-news-hodlers-digest-june-25-july-1\/",
-    "time_published":1688243206000,
-    "authors":[
-      "Editorial Staff"
-    ],
-    "summary":"SEC calls BTC ETF filings inadequate, Binance loses euro partner, and a record number of DeFi hacks and scams in 2023.",
-    "banner_image":null,
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.986564"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      }
-    ],
-    "overall_sentiment_score":-0.031457,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.036926",
-        "ticker_sentiment_score":"0.09112",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.036926",
-        "ticker_sentiment_score":"0.09112",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WT",
-        "relevance_score":"0.036926",
-        "ticker_sentiment_score":"0.09112",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PSFE",
-        "relevance_score":"0.036926",
-        "ticker_sentiment_score":"-0.008716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.421485",
-        "ticker_sentiment_score":"0.16922",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.073773",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.183059",
-        "ticker_sentiment_score":"0.096086",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.073773",
-        "ticker_sentiment_score":"0.067496",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Celsius Network approved to convert altcoins into BTC or ETH",
-    "url":"https:\/\/cointelegraph.com\/news\/celsius-network-approved-convert-altcoins-into-btc-or-eth",
-    "time_published":1688195276000,
-    "authors":[
-
-    ],
-    "summary":"The liquidations will pave the way for the distribution of the funds to creditors in the near future.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-07\/9661353f-099b-433b-a216-75e98f6b6de6.JPG",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.00968,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.490323",
-        "ticker_sentiment_score":"0.076455",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.490323",
-        "ticker_sentiment_score":"0.076455",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.258351",
-        "ticker_sentiment_score":"0.196389",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:UST",
-        "relevance_score":"0.258351",
-        "ticker_sentiment_score":"-0.088237",
         "ticker_sentiment_label":"Neutral"
       }
     ]
