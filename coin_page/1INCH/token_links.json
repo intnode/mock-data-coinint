@@ -19,7 +19,11 @@
     "facebook": "https://www.facebook.com/1inchNetwork"
   },
   "source_code": "https://github.com/1inch",
-  "audit": [],
+  "audit": [
+    "SlowMist",
+    "CertiK",
+    "Chainsulting"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",

@@ -19,7 +19,10 @@
     "facebook": null
   },
   "source_code": "https://github.com/trusttoken/smart-contracts",
-  "audit": [],
+  "audit": [
+    "CertiK",
+    "SlowMist"
+  ],
   "contracts": [
     {
       "chain": "Ethereum",
