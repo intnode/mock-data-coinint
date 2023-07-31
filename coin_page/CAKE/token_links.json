@@ -19,7 +19,10 @@
     "facebook": null
   },
   "source_code": "https://github.com/pancakeswap",
-  "audit": [],
+  "audit": [
+    "SlowMist",
+    "CertiK"
+  ],
   "contracts": [
     {
       "chain": "BNB Smart Chain (BEP20)",
