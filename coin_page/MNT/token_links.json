@@ -1,0 +1,26 @@
+{
+  "website": [
+    "https://www.mantle.xyz/"
+  ],
+  "explorer": [
+    "https://explorer.mantle.xyz/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/0xMantle",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/mantlenetworkio",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+      "link": "https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+    }
+  ]
+}

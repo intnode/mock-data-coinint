@@ -1,0 +1,32 @@
+{
+  "website": [
+    "https://worldcoin.org/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x163f8c2467924be0ae7b5347228cabf260318753",
+    "https://optimistic.etherscan.io/token/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/worldcoin",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/worldcoin",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
+      "link": "https://etherscan.io/token/0x163f8c2467924be0ae7b5347228cabf260318753"
+    },
+    {
+      "chain": "Optimism",
+      "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+      "link": "https://optimistic.etherscan.io/token/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+    }
+  ]
+}
