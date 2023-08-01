@@ -1,5 +1,84 @@
 [
   {
+    "title":"Price analysis 7\/31: SPX, DXY, BTC, ETH, XRP, BNB, ADA, DOGE, SOL, LTC",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-31-spx-dxy-btc-eth-xrp-bnb-ada-doge-sol-ltc",
+    "time_published":1690828309000,
+    "authors":[
+      "Rakesh Upadhyay"
+    ],
+    "summary":"Bitcoin's record low volatility is also a sign that the next price breakout will be volatile, but everyone is guessing which direction price will take and how it will impact altcoins.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-07\/b0ddd27c-c0db-4f46-8183-000e54c5606c.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.002416,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.150216",
+        "ticker_sentiment_score":"-0.027872",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"-0.082627",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"0.142433",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"-0.056951",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"0.104977",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.238133",
+        "ticker_sentiment_score":"0.027421",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LTC",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"0.007321",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"0.014565",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"Bitcoin, Ethereum Face Mass Exodus - Will XRP And Dogecoin Follow Suit?",
     "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/07\/33471822\/bitcoin-ethereum-face-mass-exodus-will-xrp-and-dogecoin-follow-suit",
     "time_published":1690824533000,
@@ -2751,39 +2830,6 @@
         "relevance_score":"0.059636",
         "ticker_sentiment_score":"0.132002",
         "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Ripple to offer digital asset-based payments | The Financial Express",
-    "url":"https:\/\/www.financialexpress.com\/business\/blockchain-ripple-to-offer-digital-asset-based-payments-3138113\/",
-    "time_published":1687438694000,
-    "authors":[
-
-    ],
-    "summary":"Ripple to offer digital asset-based payments The Financial Express ...",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/06\/Image-credit-Freepik229.jpg",
-    "source":"The Financial Express",
-    "category_within_source":"n\/a",
-    "source_domain":"www.financialexpress.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.384914,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:XRP",
-        "relevance_score":"0.229149",
-        "ticker_sentiment_score":"0.330543",
-        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   }
