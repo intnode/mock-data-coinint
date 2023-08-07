@@ -1,0 +1,43 @@
+{
+  "website": [
+    "http://apenft.org/"
+  ],
+  "explorer": [
+    "https://tronscan.org/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+    "https://etherscan.io/token/0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+    "https://hecoinfo.com/token/0x1A5364F782DbED4f69043B02b5c3870a10C23Ed5"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/apenftorg",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+      "link": "https://etherscan.io/token/0x198d14f2ad9ce69e76ea330b374de4957c3f850a"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
+      "link": "https://bscscan.com/token/0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca"
+    },
+    {
+      "chain": "HECO",
+      "address": "0x1A5364F782DbED4f69043B02b5c3870a10C23Ed5",
+      "link": "https://www.hecoinfo.com/token/0x1A5364F782DbED4f69043B02b5c3870a10C23Ed5"
+    },
+    {
+      "chain": "Tron20",
+      "address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+      "link": null
+    }
+  ]
+}

@@ -1,5 +1,58 @@
 [
   {
+    "title":"SHIB, UNI, OKB and HBAR flash bullish signs as Bitcoin volatility hits record low",
+    "url":"https:\/\/cointelegraph.com\/news\/shib-uni-okb-and-hbar-flash-bullish-signs-as-bitcoin-volatility-hits-record-low",
+    "time_published":1691350234000,
+    "authors":[
+      "Rakesh Upadhyay"
+    ],
+    "summary":"Bitcoin remains stuck in a tight range, but select altcoins such as SHIB, UNI, OKB and HBAR are attracting buyers.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-08\/8a6bdf4b-fc84-419a-8dd5-4efe946c4e51.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      }
+    ],
+    "overall_sentiment_score":-0.016916,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.199037",
+        "ticker_sentiment_score":"0.013083",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.100308",
+        "ticker_sentiment_score":"-0.013042",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.100308",
+        "ticker_sentiment_score":"0.055984",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.166398",
+        "ticker_sentiment_score":"0.065823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.06697",
+        "ticker_sentiment_score":"-0.087177",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"Hyundai Motor and Kia Introduce CO2 Emission Monitoring System Built on the Hedera Network",
     "url":"https:\/\/www.prnewswire.com\/news-releases\/hyundai-motor-and-kia-introduce-co2-emission-monitoring-system-built-on-the-hedera-network-301891084.html",
     "time_published":1690977660000,
@@ -3021,39 +3074,6 @@
         "relevance_score":"0.032553",
         "ticker_sentiment_score":"0.218658",
         "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Crypto Industry Can't Hire Enough Lawyers",
-    "url":"https:\/\/www.wsj.com\/articles\/crypto-industry-cant-hire-enough-lawyers-11650879002",
-    "time_published":1650879000000,
-    "authors":[
-      "Mengqi Sun"
-    ],
-    "summary":"Crypto exchanges and companies are poaching attorneys to help them navigate an evolving regulatory landscape and to cut down legal costs.",
-    "banner_image":"https:\/\/images.wsj.net\/im-529983?width=639&height=426",
-    "source":"Wall Street Journal",
-    "category_within_source":"Business",
-    "source_domain":"www.wsj.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.9545"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":0.021302,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:HBAR",
-        "relevance_score":"0.106572",
-        "ticker_sentiment_score":"0.015014",
-        "ticker_sentiment_label":"Neutral"
       }
     ]
   }
