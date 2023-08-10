@@ -1,0 +1,34 @@
+{
+  "website": [
+    "https://livepeer.org/"
+  ],
+  "explorer": [
+    "https://explorer.livepeer.org/",
+    "https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239",
+    "https://ethplorer.io/address/0x58b6a8a3302369daec383334672404ee733ab239",
+    "https://hubble.figment.network/livepeer/chains/mainnet"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/Livepeer",
+    "discord": null,
+    "reddit": "https://reddit.com/r/livepeer",
+    "facebook": null
+  },
+  "source_code": "https://github.com/livepeer",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+      "link": "https://etherscan.io/token/0x58b6a8a3302369daec383334672404ee733ab239"
+    },
+    {
+      "chain": "Harmony",
+      "address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c",
+      "link": null
+    }
+  ]
+}
