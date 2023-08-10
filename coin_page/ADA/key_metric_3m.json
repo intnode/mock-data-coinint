@@ -1,20 +1,5 @@
 [
   {
-    "price":0.3635783669,
-    "volume":237308697.1625937819,
-    "marketcap":12739370020.7443962097,
-    "zero_balance_addresses_all_time":38159224.0,
-    "unique_addresses_all_time":42509975.0,
-    "new_addresses":22750.0,
-    "active_addresses":57346.0,
-    "transaction_count":81497.0,
-    "transaction_count_all_time":66192150.0,
-    "large_transaction_count":10014.0,
-    "average_transaction_value":388595.538655716,
-    "token_holder":4350751.0,
-    "time":1683590400000
-  },
-  {
     "price":0.3706085739,
     "volume":365559449.6864185929,
     "marketcap":12975441604.4009113312,
@@ -1348,5 +1333,20 @@
     "average_transaction_value":0.0,
     "token_holder":4417302.0,
     "time":1691280000000
+  },
+  {
+    "price":0.2901808552,
+    "volume":239590650.8677541614,
+    "marketcap":10165410298.2240333557,
+    "zero_balance_addresses_all_time":39151280.0,
+    "unique_addresses_all_time":43568582.0,
+    "new_addresses":0.0,
+    "active_addresses":0.0,
+    "transaction_count":0.0,
+    "transaction_count_all_time":0.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":0.0,
+    "token_holder":4417302.0,
+    "time":1691366400000
   }
 ]
