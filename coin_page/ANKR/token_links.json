@@ -4,10 +4,10 @@
   ],
   "explorer": [
     "https://etherscan.io/token/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
-    "https://explorer.binance.org/asset/ANKR-E97",
     "https://bscscan.com/token/0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-    "https://solscan.io/account/Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
-    "https://polygonscan.com/address/0x101a023270368c0d50bffb62780f4afd4ea79c35"
+    "https://polygonscan.com/address/0x101a023270368c0d50bffb62780f4afd4ea79c35",
+    "https://arbiscan.io/address/0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+    "https://snowtrace.io/token/0xDF474B7109b73b7D57926d43598D5934131136b2"
   ],
   "wallets": [
     "metamask"
@@ -43,8 +43,8 @@
     },
     {
       "chain": "Fantom",
-      "address": "0x0615dbba33fe61a31c7ed131bda6655ed76748b1",
-      "link": "https://ftmscan.com/token/0x0615dbba33fe61a31c7ed131bda6655ed76748b1"
+      "address": "0xDF474B7109b73b7D57926d43598D5934131136b2",
+      "link": "https://ftmscan.com/token/0xDF474B7109b73b7D57926d43598D5934131136b2"
     },
     {
       "chain": "Polygon",
@@ -53,8 +53,18 @@
     },
     {
       "chain": "Avalanche C-Chain",
-      "address": "0x20cf1b6e9d856321ed4686877cf4538f2c84b4de",
-      "link": "https://snowtrace.io/token/0x20cf1b6e9d856321ed4686877cf4538f2c84b4de"
+      "address": "0xDF474B7109b73b7D57926d43598D5934131136b2",
+      "link": "https://snowtrace.io/token/0xDF474B7109b73b7D57926d43598D5934131136b2"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+      "link": "https://arbiscan.io/token/0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861"
+    },
+    {
+      "chain": "Polygon zkEVM",
+      "address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+      "link": "https://zkevm.polygonscan.com/token/0xdf474b7109b73b7d57926d43598d5934131136b2"
     }
   ]
 }
