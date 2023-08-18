@@ -1,5 +1,60 @@
 [
   {
+    "title":"Securitize Acquires $40B Crypto Fund Manager Onramp Invest",
+    "url":"https:\/\/decrypt.co\/152794\/securitize-acquires-40b-crypto-fund-manager-onramp-invest",
+    "time_published":1692349174000,
+    "authors":[
+      "Mattis Meichler"
+    ],
+    "summary":"The undisclosed acquisition means that RIAs from Onramp Invest will be able to turn to Securitize's tokenization offering.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2020\/06\/shutterstock_656980429-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.365926"
+      }
+    ],
+    "overall_sentiment_score":0.275409,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"WT",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.131233",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HLNE",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.088737",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.014566",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.106541",
+        "ticker_sentiment_score":"0.014566",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"What will Bitcoin do if the Justice Department takes aim at Binance?",
     "url":"https:\/\/cointelegraph.com\/news\/bitcoin-justice-department-binance",
     "time_published":1691590594000,
@@ -3071,35 +3126,6 @@
         "ticker":"CRYPTO:BNB",
         "relevance_score":"0.116914",
         "ticker_sentiment_score":"0.017262",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Ledger CEO says crypto key recovery service makes self-custody easier",
-    "url":"https:\/\/cointelegraph.com\/news\/ledger-ceo-says-crypto-key-recovery-service-makes-self-custody-easier",
-    "time_published":1685365260000,
-    "authors":[
-
-    ],
-    "summary":"Ledger's \"Recover\" service may be concerning, but some crypto industry participants think the feature may onboard new users while helping crypto natives.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-05\/20a90d21-b16d-479f-a299-f9f7160b23d6.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.199313,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ALGO",
-        "relevance_score":"0.047092",
-        "ticker_sentiment_score":"-0.112692",
         "ticker_sentiment_label":"Neutral"
       }
     ]
