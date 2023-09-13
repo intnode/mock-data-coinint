@@ -4,7 +4,8 @@
   ],
   "explorer": [
     "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-    "https://www.oklink.com/bsc/token/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    "https://www.oklink.com/bsc/token/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "https://etherscan.io/token/0x12e2b8033420270db2f3b328e32370cb5b2ca134"
   ],
   "wallets": [
     "metamask"
@@ -22,6 +23,11 @@
       "chain": "BNB Smart Chain (BEP20)",
       "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
       "link": "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+      "link": "https://etherscan.io/token/0x12e2b8033420270db2f3b328e32370cb5b2ca134"
     }
   ]
 }
