@@ -1,35 +1,5 @@
 [
   {
-    "price":0.0172650062,
-    "volume":2888684.5505743511,
-    "marketcap":163071901.0354223251,
-    "zero_balance_addresses_all_time":42644,
-    "unique_addresses_all_time":61926,
-    "new_addresses":11,
-    "active_addresses":24,
-    "transaction_count":43,
-    "transaction_count_all_time":186475,
-    "large_transaction_count":0,
-    "average_transaction_value":129711.304463422,
-    "token_holder":19282,
-    "time":1686787200000
-  },
-  {
-    "price":0.0176161312,
-    "volume":2614311.2727728249,
-    "marketcap":166406250.0723566115,
-    "zero_balance_addresses_all_time":42649,
-    "unique_addresses_all_time":61941,
-    "new_addresses":15,
-    "active_addresses":37,
-    "transaction_count":49,
-    "transaction_count_all_time":186524,
-    "large_transaction_count":0,
-    "average_transaction_value":92858.8034572989,
-    "token_holder":19292,
-    "time":1686873600000
-  },
-  {
     "price":0.018044878,
     "volume":2033899.4402883793,
     "marketcap":170587929.9887668192,
@@ -1348,5 +1318,35 @@
     "average_transaction_value":11846.9552691229,
     "token_holder":19583,
     "time":1694476800000
+  },
+  {
+    "price":0.0156924521,
+    "volume":5043201.6510196188,
+    "marketcap":148319065.1532125175,
+    "zero_balance_addresses_all_time":43003,
+    "unique_addresses_all_time":62587,
+    "new_addresses":6,
+    "active_addresses":21,
+    "transaction_count":29,
+    "transaction_count_all_time":188812,
+    "large_transaction_count":0,
+    "average_transaction_value":114105.564953222,
+    "token_holder":19584,
+    "time":1694563200000
+  },
+  {
+    "price":0.0151911867,
+    "volume":3149760.5115136891,
+    "marketcap":143522786.6190299094,
+    "zero_balance_addresses_all_time":43006,
+    "unique_addresses_all_time":62593,
+    "new_addresses":6,
+    "active_addresses":16,
+    "transaction_count":16,
+    "transaction_count_all_time":188828,
+    "large_transaction_count":0,
+    "average_transaction_value":22085.2176861991,
+    "token_holder":19587,
+    "time":1694649600000
   }
 ]
