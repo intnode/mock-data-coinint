@@ -1,128 +1,1104 @@
 [
   {
-    "title":"Fr8App Announces New Integration with Geotab's Open API for Improved Shipment Visibility - Freight Technologies  ( NASDAQ:FRGT ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34898742\/fr8app-announces-new-integration-with-geotabs-open-api-for-improved-shipment-visibility",
-    "time_published":1695724200000,
+    "title":"Bitcoin, Ethereum Move Higher; Axie Infinity, THORChain Among Top Gainers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34618212\/bitcoin-ethereum-move-higher-axie-infinity-thorchain-among-top-gainers",
+    "time_published":1694788830000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices trading above the $26,600 level on Friday. Ethereum ETH\/USD, also moved higher, trading above the key $1,600 mark this morning. Axie Infinity AXS\/USD was the top gainer over the prior 24 hours, while ApeCoin APE\/USD turned out to be ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/15\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.118232,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.670742",
+        "ticker_sentiment_score":"0.36821",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.205192",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"-0.383528",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.374312",
+        "ticker_sentiment_score":"0.743322",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.374312",
+        "ticker_sentiment_score":"0.743322",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:MIOTA",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"-0.383528",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Tops This Key Level Following PPI Data; Hedera Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34582168\/ethereum-tops-this-key-level-following-ppi-data-hedera-emerges-as-top-gainer",
+    "time_published":1694699285000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices trading above the $26,400 level on Thursday. Ethereum ETH\/USD, also moved higher, trading above the key $1,600 mark this morning. Producer prices in the U.S. rose by 0.7% in August 2023, higher than market expectations for a 0.4% ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/14\/ethereum_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.038849,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:COMP",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"-0.383528",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"0.522215",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.535653",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.374312",
+        "ticker_sentiment_score":"0.144602",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KLAY",
+        "relevance_score":"0.374312",
+        "ticker_sentiment_score":"-0.58899",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.374312",
+        "ticker_sentiment_score":"0.743322",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"2 new Hong Kong-based registries to boost carbon credits trade: founders",
+    "url":"https:\/\/www.scmp.com\/business\/article\/3233545\/green-finance-two-newly-launched-hong-kong-based-registries-boost-carbon-credits-trade-asia-founders",
+    "time_published":1693965625000,
+    "authors":[
+      "Eric Ng"
+    ],
+    "summary":"Two Hong Kong-based and Asia-focused carbon registries launched recently will help to lower barriers for the trading of credits claimed by greenhouse gas emissions reduction projects in the region, their founders say.",
+    "banner_image":"https:\/\/cdn.i-scmp.com\/sites\/default\/files\/d8\/images\/canvas\/2023\/09\/06\/bc3548fc-2749-488b-8b44-e93354f8408c_068336aa.jpg",
+    "source":"South China Morning Post",
+    "category_within_source":"Business",
+    "source_domain":"www.scmp.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.365926"
+      }
+    ],
+    "overall_sentiment_score":0.284751,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.042876",
+        "ticker_sentiment_score":"0.06785",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Edge Lower; Pepe, Sui Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/34090371\/bitcoin-ethereum-edge-lower-pepe-sui-among-top-losers",
+    "time_published":1693316049000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved slightly lower, but the cryptocurrency prices traded above the $26,000 level on Tuesday. Ethereum ETH\/USD, also edged lower, but traded above the key $1,600 mark this morning. XDC Network XDC\/USD was the top gainer over the prior 24 hours, while Pepe PEPE\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/29\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.107877,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.521465",
+        "ticker_sentiment_score":"-0.593842",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:DOT",
+        "relevance_score":"0.186738",
+        "ticker_sentiment_score":"0.512778",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.521465",
+        "ticker_sentiment_score":"-0.616851",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:AVAX",
+        "relevance_score":"0.186738",
+        "ticker_sentiment_score":"0.225837",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.186738",
+        "ticker_sentiment_score":"-0.375663",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.363388",
+        "ticker_sentiment_score":"0.734164",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"PanXchange Carbon Credit Market to Integrate with the Hedera Blockchain",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/08\/n34068007\/panxchange-carbon-credit-market-to-integrate-with-the-hedera-blockchain",
+    "time_published":1693228800000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"DENVER, Aug. 28, 2023 \/PRNewswire\/ -- PanXchange, which offers a vertically integrated carbon exchange program for nature-based solutions today announced it has received funding from the HBAR Foundation for its integration with the Hedera Network.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.266143"
+      }
+    ],
+    "overall_sentiment_score":0.352826,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.246167",
+        "ticker_sentiment_score":"0.284823",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Falls Below $26,000 Following PMI Data; Maker Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/34005038\/bitcoin-falls-below-26-000-following-pmi-data-maker-becomes-top-loser",
+    "time_published":1692799277000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved slightly lower, with the cryptocurrency prices falling below the $26,000 level on Wednesday. Ethereum ETH\/USD, also moved lower, trading below the key $1,700 mark this morning. The S&P Global US manufacturing PMI declined to 47 in August from 49 in July, while composite PMI ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/23\/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.153276,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SPGI",
+        "relevance_score":"0.175859",
+        "ticker_sentiment_score":"-0.323398",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.495015",
+        "ticker_sentiment_score":"-0.62867",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.495015",
+        "ticker_sentiment_score":"-0.610875",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.175859",
+        "ticker_sentiment_score":"-0.361384",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.343279",
+        "ticker_sentiment_score":"-0.560854",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MKR",
+        "relevance_score":"0.343279",
+        "ticker_sentiment_score":"-0.275761",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Tumbles Below $26,000, THORChain, Synthetix Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33963704\/bitcoin-tumbles-below-26-000-thorchain-synthetix-among-top-losers",
+    "time_published":1692626161000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved lower, with the cryptocurrency prices trading below the $26,000 level on Monday. Ethereum ETH\/USD also recorded losses, trading below the key $1,700 mark this morning. Optimism OP\/USD was the top gainer over the prior 24 hours, while THORChain RUNE\/USD turned out to be the ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/21\/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":-0.06438,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.546745",
+        "ticker_sentiment_score":"-0.620935",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.546745",
+        "ticker_sentiment_score":"-0.649305",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.197413",
+        "ticker_sentiment_score":"0.529654",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.682689",
+        "ticker_sentiment_score":"-0.023469",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SNX",
+        "relevance_score":"0.197413",
+        "ticker_sentiment_score":"-0.389769",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:XMR",
+        "relevance_score":"0.382925",
+        "ticker_sentiment_score":"0.750222",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Tumbles Below $1,800 Following Jobless Claims Data; Sei Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33895237\/ethereum-tumbles-below-1-800-following-jobless-claims-data-sei-becomes-top-loser",
+    "time_published":1692279730000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved lower, with the cryptocurrency prices trading below the $28,500 level on Thursday. Ethereum ETH\/USD also recorded losses, falling below the key $1,800 mark this morning.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/17\/ethereum_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.197059,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.612033",
+        "ticker_sentiment_score":"-0.658825",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:COMP",
+        "relevance_score":"0.170878",
+        "ticker_sentiment_score":"-0.354912",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.48268",
+        "ticker_sentiment_score":"-0.660819",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.334008",
+        "ticker_sentiment_score":"-0.55186",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.170878",
+        "ticker_sentiment_score":"-0.354912",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.334008",
+        "ticker_sentiment_score":"-0.55186",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Flash News: OKX Lists Hedera Token Perpetual Swap",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/08\/g33870805\/flash-news-okx-lists-hedera-token-perpetual-swap",
+    "time_published":1692167400000,
     "authors":[
       "Globe Newswire"
     ],
-    "summary":"Empowering Shippers and Carriers with Unprecedented Efficiency and Tracking Capabilities HOUSTON, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Freight Technologies, Inc.",
+    "summary":"NASSAU, The Bahamas, Aug. 16, 2023 ( GLOBE NEWSWIRE ) -- OKX, a leading crypto exchange by trading volume and a leading Web3 technology company, has issued updates for August 16, 2023. OKX today listed the Hedera token ( HBAR ) on its perpetual market at 06:00 ( UTC ) .",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"1.0"
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.650727"
+        "relevance_score":"0.5855"
       }
     ],
-    "overall_sentiment_score":0.200219,
+    "overall_sentiment_score":0.237875,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"APG",
-        "relevance_score":"0.086713",
-        "ticker_sentiment_score":"0.185858",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.220809",
+        "ticker_sentiment_score":"0.066692",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"FRGT",
-        "relevance_score":"0.520933",
-        "ticker_sentiment_score":"0.185253",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.42503",
+        "ticker_sentiment_score":"0.068429",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"K92 Mining Announces US$100 Million Senior Secured Loan and Amended Offtake Agreement With Trafigura, Bolstering Balance Sheet and Future Metals Payabilities",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749285\/0\/en\/K92-Mining-Announces-US-100-Million-Senior-Secured-Loan-and-Amended-Offtake-Agreement-With-Trafigura-Bolstering-Balance-Sheet-and-Future-Metals-Payabilities.html",
-    "time_published":1695724200000,
+    "title":"Bitcoin Edges Higher Following Economic Data; Sei Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33859308\/bitcoin-edges-higher-following-economic-data-sei-emerges-as-top-gainer",
+    "time_published":1692107285000,
     "authors":[
-      "K92 Mining Inc."
+      "Lisa Levin"
     ],
-    "summary":"K92 MINING enters into agreement with Trafigura for US $100 million loan and amended offtake agreement, bolstering balance sheet and future payabilities.",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/b777f2ea-6c46-42ed-a4b8-0567039a812d",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
+    "summary":"Bitcoin BTC\/USD moved slightly higher, with the cryptocurrency prices trading above the $29,300 level on Tuesday. Ethereum ETH\/USD meanwhile edged lower, but remained above the $1,800 mark this morning. Retail sales in the U.S. rose 0.7% month-over-month in July, beating market expectations for ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/15\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.692272"
-      }
-    ],
-    "overall_sentiment_score":0.169904,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.023236",
-        "ticker_sentiment_score":"-0.018712",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
       },
       {
-        "ticker":"MALRF",
-        "relevance_score":"0.161555",
-        "ticker_sentiment_score":"-0.001381",
-        "ticker_sentiment_label":"Neutral"
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.004934,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.462395",
+        "ticker_sentiment_score":"-0.420478",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.462395",
+        "ticker_sentiment_score":"-0.519774",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"0.474745",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.318897",
+        "ticker_sentiment_score":"0.691745",
+        "ticker_sentiment_label":"Bullish"
       }
     ]
   },
   {
-    "title":"Recreational Vehicles Maker Thor Industries' Q4 Earnings Top Estimates; Sales Decline As Demand Cools Down - Thor Industries  ( NYSE:THO ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/09\/34894422\/recreational-vehicles-maker-thor-industries-q4-earnings-top-estimates-sales-decline-as-demand-cools",
-    "time_published":1695724031000,
+    "title":"Federal Reserve Action Boosts Hedera",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/08\/14\/the-federal-reserve-just-gave-into-crypto\/",
+    "time_published":1692045480000,
     "authors":[
-      "Shivani Kumaresan"
+      "Chris MacDonald"
     ],
-    "summary":"Thor Industries Inc THO reported a fourth-quarter FY23 sales decline of 28.4% year-on-year to $2.74 billion, beating the analyst consensus of $2.42 billion. The decrease in sales is primarily due to lower current dealer and consumer demand in comparison to record demand in the prior-year period, ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/26\/tho.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
+    "summary":"This could be the biggest catalyst for the crypto sector in some time, and it's tied to Hedera, of all tokens ...",
+    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.158519"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
       }
     ],
-    "overall_sentiment_score":-0.151342,
-    "overall_sentiment_label":"Somewhat-Bearish",
+    "overall_sentiment_score":0.231684,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"THO",
-        "relevance_score":"0.443626",
-        "ticker_sentiment_score":"-0.286533",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.419153",
+        "ticker_sentiment_score":"0.240246",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Spotify brings Jam, real-time collaborative playlist for up to 32 people, for both free and paid users",
-    "url":"https:\/\/www.financialexpress.com\/life\/technology-spotify-brings-jam-real-time-collaborative-playlist-for-up-to-32-people-for-both-free-and-paid-users-3255429\/",
-    "time_published":1695723966000,
+    "title":"HBAR Surges 16% as FedNow Adds Hedera Project Dropp to 'Service Provider Showcase'",
+    "url":"https:\/\/decrypt.co\/152419\/hbar-surges-fednow-adds-hedera-project-dropp-service-provider-showcase",
+    "time_published":1692025724000,
     "authors":[
-      "Abhinav Anand"
+      "Andrew Asmakov"
     ],
-    "summary":"Spotify today rolled out a new feature that lets you listen to music in real-time for up to 32 people, Jam, globally. This feature is available for both Premium users and free users. However, only Premium users can initiate it - and free users can contribute.",
-    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/09\/spotify-jam.jpg",
+    "summary":"The Federal Reserve's payment service FedNow has added the Hedera-powered micropayments platform Dropp to its list showcasing service providers.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2020\/06\/digital-dollar-fed-federal-reserve-bankers-association-aba-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.147934,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"ADYYF",
+        "relevance_score":"0.108466",
+        "ticker_sentiment_score":"0.091883",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.108466",
+        "ticker_sentiment_score":"0.053228",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Edge Lower; Bone ShibaSwap, XDC Network Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33833412\/bitcoin-ethereum-edge-lower-bone-shibaswap-xdc-network-among-top-losers",
+    "time_published":1692020727000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded slightly lower, with the cryptocurrency prices falling below the $29,400 level on Monday. Ethereum ETH\/USD also edged lower, trading below the $1,850 mark this morning. Hedera ( HBAR ) was the top gainer over the prior 24 hours, while Bone ShibaSwap BONE\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/14\/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.119446,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"-0.646338",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"-0.634527",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"0.129365",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:STX",
+        "relevance_score":"0.18967",
+        "ticker_sentiment_score":"-0.379531",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"-0.584186",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Edge Lower Following PPI Data; GMX Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33749782\/bitcoin-ethereum-edge-lower-following-ppi-data-gmx-becomes-top-loser",
+    "time_published":1691761034000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded lower, with the cryptocurrency prices falling below the $29,500 level on Friday. Ethereum ETH\/USD also moved lower, trading below the $1,850 mark this morning. Producer prices in the U.S. increased 0.3% month-over-month in July, recording the biggest rise since January, ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/11\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.054111,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.465196",
+        "ticker_sentiment_score":"-0.62453",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.465196",
+        "ticker_sentiment_score":"-0.59938",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.163909",
+        "ticker_sentiment_score":"-0.345961",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.320974",
+        "ticker_sentiment_score":"0.69392",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BAT",
+        "relevance_score":"0.320974",
+        "ticker_sentiment_score":"0.69392",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Social Marketplace Calaxy Launches To Revolutionize Creator Monetization in $250 Billion Creator Economy",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/08\/n33727408\/social-marketplace-calaxy-launches-to-revolutionize-creator-monetization-in-250-billion-creator-ec",
+    "time_published":1691703480000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"Calaxy offers an innovative toolkit that empowers content creators to build personal economies and fans to connect directly with celebrities LOS ANGELES, Aug. 10, 2023 \/PRNewswire\/ -- Calaxy, a next-generation social marketplace, has successfully launched its application, ushering in a new era of ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":0.299712,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.038717",
+        "ticker_sentiment_score":"0.035432",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.038717",
+        "ticker_sentiment_score":"0.087796",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"SHIB, UNI, OKB and HBAR flash bullish signs as Bitcoin volatility hits record low",
+    "url":"https:\/\/cointelegraph.com\/news\/shib-uni-okb-and-hbar-flash-bullish-signs-as-bitcoin-volatility-hits-record-low",
+    "time_published":1691350234000,
+    "authors":[
+      "Rakesh Upadhyay"
+    ],
+    "summary":"Bitcoin remains stuck in a tight range, but select altcoins such as SHIB, UNI, OKB and HBAR are attracting buyers.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-08\/8a6bdf4b-fc84-419a-8dd5-4efe946c4e51.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      }
+    ],
+    "overall_sentiment_score":-0.016916,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.199037",
+        "ticker_sentiment_score":"0.013083",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.100308",
+        "ticker_sentiment_score":"-0.013042",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.100308",
+        "ticker_sentiment_score":"0.055984",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.166398",
+        "ticker_sentiment_score":"0.065823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.06697",
+        "ticker_sentiment_score":"-0.087177",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Hyundai Motor and Kia Introduce CO2 Emission Monitoring System Built on the Hedera Network",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/hyundai-motor-and-kia-introduce-co2-emission-monitoring-system-built-on-the-hedera-network-301891084.html",
+    "time_published":1690977660000,
+    "authors":[
+      "The HBAR Foundation"
+    ],
+    "summary":"DALLAS, Aug. 2, 2023 \/PRNewswire\/ -- The HBAR Foundation today announced that Hyundai Motor Company and Kia Corporation have introduced an AI-enabled, blockchain-based Supplier CO2 Emission Monitoring System ( SCEMS ) to manage the carbon emissions of business partners, utilizing the energy ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2009551\/HBAR_Logo.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.364294,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"HYMLF",
+        "relevance_score":"0.358152",
+        "ticker_sentiment_score":"0.379056",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"KIMTF",
+        "relevance_score":"0.06179",
+        "ticker_sentiment_score":"0.068005",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.301686",
+        "ticker_sentiment_score":"0.35753",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"KAP Games Unveils a Paradigm Shift in Gaming with a New Web3 Ecosystem",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/07\/n33247339\/kap-games-unveils-a-paradigm-shift-in-gaming-with-a-new-web3-ecosystem",
+    "time_published":1689598800000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"ROAD TOWN, Tortola, British Virgin Islands , July 17, 2023 \/PRNewswire\/ -- KAP Games launches as the web3 industry's first browser & mobile-native gaming distribution and publishing platform, complete with a feature-packed gaming portal, deep tech solutions for developers, and a new indie game ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.340691,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SSNLF",
+        "relevance_score":"0.059785",
+        "ticker_sentiment_score":"0.133003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NKE",
+        "relevance_score":"0.059785",
+        "ticker_sentiment_score":"0.194035",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:AI",
+        "relevance_score":"0.059785",
+        "ticker_sentiment_score":"0.250111",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.059785",
+        "ticker_sentiment_score":"0.133003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.059785",
+        "ticker_sentiment_score":"0.133003",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"OKX Adjusts Position Tiers of Margins Across 38 Trading Pairs",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/07\/g33156308\/okx-adjusts-position-tiers-of-margins-across-38-trading-pairs",
+    "time_published":1688832660000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"DUBAI, United Arab Emirates, July 08, 2023 ( GLOBE NEWSWIRE ) -- OKX, a leading Web3 technology company, has issued updates for July 8, 2023. On July 7, 2023, OKX adjusted position tiers for margins across 38 trading pairs in order to improve market liquidity and mitigate risk.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.233173,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.892549",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AAVE",
+        "relevance_score":"0.339356",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.339356",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.116348",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.991565",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ZEC",
+        "relevance_score":"0.230235",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.116348",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LTC",
+        "relevance_score":"0.339356",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XMR",
+        "relevance_score":"0.339356",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.116348",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"UAE free zone teams up with HBAR Foundation to support Web3 startups",
+    "url":"https:\/\/cointelegraph.com\/news\/uae-free-zone-teams-up-with-hbar-foundation-to-support-web3-startups",
+    "time_published":1688558400000,
+    "authors":[
+
+    ],
+    "summary":"The collaboration will give startups access to a grant program and support in areas such as technology, marketing and business development.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvZWZmOGQ0MWQtYWQxNy00YjkzLTkxNTYtZTU5NzBlYjZiMzE0LmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.35734,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.118647",
+        "ticker_sentiment_score":"0.143823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.118647",
+        "ticker_sentiment_score":"0.175211",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.234684",
+        "ticker_sentiment_score":"0.33147",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"ChatGPT plugin goes live for Hedera network",
+    "url":"https:\/\/cointelegraph.com\/news\/chat-gpt-plugin-goes-live-hedera-network",
+    "time_published":1687678010000,
+    "authors":[
+
+    ],
+    "summary":"Users can view account balances through a network explorer or programmatically retrieve them via the mirror node Rest API, which the plugin will utilize.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZmExMmQ4ODgtZWIzNi00NjM1LWI4YjQtMDljYmY5ODE3MmE4LkpQRw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":0.222959,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"APG",
+        "relevance_score":"0.310843",
+        "ticker_sentiment_score":"0.131879",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.495015",
+        "ticker_sentiment_score":"0.252086",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Google Cloud expands its Web3.0 startup program | The Financial Express",
+    "url":"https:\/\/www.financialexpress.com\/business\/blockchain-google-cloud-expands-its-web3-0-startup-program-3062973\/",
+    "time_published":1682475975000,
+    "authors":[
+
+    ],
+    "summary":"Google Cloud expands its Web3.0 startup program The Financial Express ...",
+    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2023\/04\/Image-credit-Freepik88.jpg",
     "source":"The Financial Express",
     "category_within_source":"n\/a",
     "source_domain":"www.financialexpress.com",
@@ -130,972 +1106,244 @@
       {
         "topic":"Technology",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.247697,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"SPOT",
-        "relevance_score":"0.43852",
-        "ticker_sentiment_score":"0.301044",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Student loan scams on the rise as October repayment date approaches",
-    "url":"https:\/\/www.foxbusiness.com\/economy\/student-loan-scams-rise-october-repayment-date-approaches",
-    "time_published":1695723776000,
-    "authors":[
-      "Sunny Tsai"
-    ],
-    "summary":"Student loan scams on the rise as October repayment date ... Fox Business ...",
-    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/09a86bbb-298a-4a03-b5af-8518c3ddd9fd\/fa10cf6c-5adc-496c-864e-d1bc1b10186d\/1280x720\/match\/image.jpg",
-    "source":"Fox Business News",
-    "category_within_source":"n\/a",
-    "source_domain":"www.foxbusiness.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.316726"
-      }
-    ],
-    "overall_sentiment_score":0.067205,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Mushroom Market size to hit USD 105.20 Bn by 2029 at a CAGR 9.6 percent - says Maximize Market Research",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34898680\/mushroom-market-size-to-hit-usd-105-20-bn-by-2029-at-a-cagr-9-6-percent-says-maximize-market-resea",
-    "time_published":1695723709000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"Pune, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Maximize Market Research a leading Food & Beverages research firm has published a market intelligence report on the Global Mushroom Market.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.199452,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSRM",
-        "relevance_score":"0.029008",
-        "ticker_sentiment_score":"0.046985",
-        "ticker_sentiment_label":"Neutral"
       },
-      {
-        "ticker":"CTTQF",
-        "relevance_score":"0.029008",
-        "ticker_sentiment_score":"0.046985",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"3 Dividend Growers Investors Can Buy Now and Hold Forever",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/3-dividend-growers-investors-can-buy-now-and-hold\/",
-    "time_published":1695723660000,
-    "authors":[
-      "Ryan Henderson"
-    ],
-    "summary":"Companies that consistently grow their dividends have proven to be market beaters.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/36c5dc4fe6becfeb8bf549fb6fddfe1a.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.538269"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.94762"
-      }
-    ],
-    "overall_sentiment_score":0.380264,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.050786",
-        "ticker_sentiment_score":"-0.004001",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PEP",
-        "relevance_score":"0.201105",
-        "ticker_sentiment_score":"0.172382",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"HD",
-        "relevance_score":"0.050786",
-        "ticker_sentiment_score":"0.072849",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PM",
-        "relevance_score":"0.201105",
-        "ticker_sentiment_score":"0.176881",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Alibaba aims to spin off logistics arm Cainiao in Hong Kong IPO",
-    "url":"https:\/\/www.reuters.com\/markets\/deals\/alibaba-aims-spin-off-logistics-arm-cainiao-hong-kong-ipo-2023-09-26\/",
-    "time_published":1695723631000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"Alibaba aims to spin off logistics arm Cainiao in Hong Kong ...",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/N22MKB5QQRO6BL45TI7KAL52DQ.jpg",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.141187,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BABA",
-        "relevance_score":"0.703273",
-        "ticker_sentiment_score":"0.222384",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CGCO",
-        "relevance_score":"0.205807",
-        "ticker_sentiment_score":"0.080489",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html",
-    "time_published":1695723540000,
-    "authors":[
-      "Infosys"
-    ],
-    "summary":"Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue growth, and enable business transformation",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/633365\/Infosys_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.77141"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.614606"
-      }
-    ],
-    "overall_sentiment_score":0.384853,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.174903",
-        "ticker_sentiment_score":"0.339138",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"INFY",
-        "relevance_score":"0.652386",
-        "ticker_sentiment_score":"0.535662",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Jane Bell AM Appointed Chair of Mesoblast Audit and Risk Committee - Mesoblast  ( NASDAQ:MESO ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34898497\/jane-bell-am-appointed-chair-of-mesoblast-audit-and-risk-committee",
-    "time_published":1695723529000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"NEW YORK, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Mesoblast Limited MESOMSB ) ) , global leader in allogeneic cellular medicines for inflammatory diseases, today announced that independent Director Jane Bell AM has been appointed Chair of the Mesoblast Board Audit and Risk Committee.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.796627"
-      }
-    ],
-    "overall_sentiment_score":0.043574,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MESO",
-        "relevance_score":"0.495015",
-        "ticker_sentiment_score":"-0.113271",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INNMF",
-        "relevance_score":"0.053153",
-        "ticker_sentiment_score":"0.092784",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Jane Bell AM Appointed Chair of Mesoblast Audit and Risk Committee",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749277\/0\/en\/Jane-Bell-AM-Appointed-Chair-of-Mesoblast-Audit-and-Risk-Committee.html",
-    "time_published":1695723480000,
-    "authors":[
-      "Mesoblast Limited"
-    ],
-    "summary":"NEW YORK, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Mesoblast Limited ( Nasdaq:MESO. ASX:MSB ) , global leader in allogeneic cellular medicines for inflammatory diseases, today announced that independent Director Jane Bell AM has been appointed Chair of the Mesoblast Board Audit and Risk Committee.",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/a9938a8a-a0ba-4708-abd5-2219515343fc",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.77141"
-      }
-    ],
-    "overall_sentiment_score":0.115368,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MESO",
-        "relevance_score":"0.330876",
-        "ticker_sentiment_score":"0.078245",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INNMF",
-        "relevance_score":"0.034087",
-        "ticker_sentiment_score":"0.091527",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Flash News: OKX Lists Wall Street Memes Coin  ( WSM )  on its Spot Market",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34897785\/flash-news-okx-lists-wall-street-memes-coin-wsm-on-its-spot-market",
-    "time_published":1695723300000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"DUBAI, United Arab Emirates, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- OKX, a leading crypto exchange by trading volume and a leading Web3 technology company, has issued updates for September 26, 2023.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
       {
         "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      }
-    ],
-    "overall_sentiment_score":0.298435,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.096671",
-        "ticker_sentiment_score":"0.066232",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:USDT",
-        "relevance_score":"0.191929",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ERC",
-        "relevance_score":"0.096671",
-        "ticker_sentiment_score":"0.066232",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"3 High-Yield Energy Stocks That Are Distributing Massive Payouts to Investors",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/3-high-yield-energy-stocks-massive-dividends\/",
-    "time_published":1695723300000,
-    "authors":[
-      "and Lee Samaha",
-      "Daniel Foelber",
-      "Scott Levine"
-    ],
-    "summary":"Oil and gas can be a great way to power your passive income stream.",
-    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F747817%2Fwelder.webp&op=resize&w=700",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
         "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.882182"
       }
     ],
-    "overall_sentiment_score":0.33935,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"ENB",
-        "relevance_score":"0.298113",
-        "ticker_sentiment_score":"0.323197",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"D",
-        "relevance_score":"0.038162",
-        "ticker_sentiment_score":"0.059543",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FANG",
-        "relevance_score":"0.114137",
-        "ticker_sentiment_score":"0.148977",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KMI",
-        "relevance_score":"0.333257",
-        "ticker_sentiment_score":"0.344212",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Jamie Dimon says India optimism is 'completely justified'",
-    "url":"https:\/\/www.cnbc.com\/2023\/09\/26\/jamie-dimon-says-india-optimism-is-completely-justified.html",
-    "time_published":1695723299000,
-    "authors":[
-      "Hannah Ward-Glenton"
-    ],
-    "summary":"JPMorgan Chase Chairman and CEO Jamie Dimon struck a bullish tone at the India Investor Summit.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107304092-1695242768335-dim2.jpg?v=1695723299&w=1920&h=1080",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.538269"
-      }
-    ],
-    "overall_sentiment_score":0.398048,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.101154",
-        "ticker_sentiment_score":"0.10663",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ACN",
-        "relevance_score":"0.101154",
-        "ticker_sentiment_score":"0.110919",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GS",
-        "relevance_score":"0.101154",
-        "ticker_sentiment_score":"0.10663",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.101154",
-        "ticker_sentiment_score":"0.169898",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"MS",
-        "relevance_score":"0.101154",
-        "ticker_sentiment_score":"0.10663",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Evergrande has 'no bullets' left as debt crisis lights up China's social media",
-    "url":"https:\/\/www.scmp.com\/business\/china-business\/article\/3235865\/china-evergrande-has-no-bullets-left-crisis-lights-mainland-social-media-about-end-game-fallen",
-    "time_published":1695723291000,
-    "authors":[
-      "Yulu Ao"
-    ],
-    "summary":"Evergrande's debt plight is lighting up mainland Chinese social media platforms as users debate its ultimate fate. Brock Silvers at Kaiyuan Capital says there is 'plenty of time on the clock' for founder Hui Ka-yan to salvage the situation.",
-    "banner_image":"https:\/\/cdn.i-scmp.com\/sites\/default\/files\/d8\/images\/canvas\/2023\/09\/26\/a80c4f38-2393-4bb1-874f-76e760627857_279b8803.jpg",
-    "source":"South China Morning Post",
-    "category_within_source":"Money",
-    "source_domain":"www.scmp.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":-0.253334,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"SZIHF",
-        "relevance_score":"0.063425",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WB",
-        "relevance_score":"0.188683",
-        "ticker_sentiment_score":"-0.17362",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Chinese disinformation in Taiwan is in overdrive",
-    "url":"https:\/\/www.economist.com\/asia\/2023\/09\/26\/chinese-disinformation-in-taiwan-is-in-overdrive",
-    "time_published":1695723233000,
-    "authors":[
-      "The Economist"
-    ],
-    "summary":"I of Taiwan's top newspapers, United Daily News, published a story based on supposedly leaked minutes from a secret government meeting. America had asked Taiwan to manufacture biological weapons at a lab run by the island's defence ministry, the report claimed. Taiwanese and American officials ...",
-    "banner_image":"https:\/\/www.economist.com\/img\/b\/1280\/720\/90\/media-assets\/image\/20230930_ASD001.jpg",
-    "source":"The Economist",
-    "category_within_source":"BusinessGoogleRSS",
-    "source_domain":"www.economist.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.103411,
+    "overall_sentiment_score":0.135256,
     "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.034282",
-        "ticker_sentiment_score":"-0.069989",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Iran Deal Part Of Bigger Oil Game?",
-    "url":"https:\/\/www.forbes.com\/sites\/eliasferrerbreda\/2023\/09\/26\/iran-deal-part-of-bigger-oil-game\/",
-    "time_published":1695723159000,
-    "authors":[
-      "Elias Ferrer Breda"
-    ],
-    "summary":"Washington DC and Tehran have reached an important deal including a prisoner swap and the unfreezing of $6bn of assets.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6512a97cb7f833d609c42978\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.014637,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GETY",
-        "relevance_score":"0.096671",
-        "ticker_sentiment_score":"0.033326",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"AI chip firm Kneron raises $49 million as it looks to rival Nvidia, with Foxconn among backers",
-    "url":"https:\/\/www.cnbc.com\/2023\/09\/26\/ai-chip-firm-kneron-raises-49-million-as-it-looks-to-rival-nvidia.html",
-    "time_published":1695723140000,
-    "authors":[
-      "Arjun Kharpal"
-    ],
-    "summary":"Kneron is looking to capitalize on the investor interest in AI and the chip technology that underpins it, underscored by Nvidia's 180% rally this year.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107305197-1695392996262-gettyimages-1236320508-HM1_0873.jpeg?v=1695723140&w=1920&h=1080",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.122531,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.08687",
-        "ticker_sentiment_score":"0.071838",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"QCOM",
-        "relevance_score":"0.08687",
-        "ticker_sentiment_score":"0.062704",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"How to Get Started Trading Penny Stocks: Quick Guide",
-    "url":"https:\/\/pennystocks.com\/featured\/2023\/09\/26\/how-trading-penny-stocks-quick-guide\/",
-    "time_published":1695723120000,
-    "authors":[
-      "D. Marie"
-    ],
-    "summary":"3 Things to Know to Get Started Trading Penny Stocks Navigating the world of penny stocks can be an exciting venture for investors looking to explore opportunities in the financial markets.",
-    "banner_image":"https:\/\/pennystocks.com\/wp-content\/uploads\/2023\/03\/hot-penny-stocks-7.jpg",
-    "source":"PennyStocks.com",
-    "category_within_source":"n\/a",
-    "source_domain":"pennystocks.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.423397,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"2 Stocks Warren Buffett Should Buy Right Now",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/2-stocks-warren-buffett-should-buy-right-now\/",
-    "time_published":1695723060000,
-    "authors":[
-      "CFP\u00ae and Tyler Crowe",
-      "Matthew Frankel"
-    ],
-    "summary":"Berkshire Hathaway has over $140 billion in cash, and these stocks could be a great way to use some of it.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":0.037378,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BRK-A",
-        "relevance_score":"0.485711",
-        "ticker_sentiment_score":"0.061818",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Morning Bid: Bond crush stifles markets as $134 billion hits",
-    "url":"https:\/\/www.reuters.com\/markets\/us\/global-markets-view-usa-2023-09-26\/",
-    "time_published":1695722880000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"The employee of a currency exchange shop counts U.S. dollar banknotes in Ciudad Juarez, Mexico July 27, 2023. REUTERS\/Jose Luis Gonzalez Acquire Licensing Rights A look at the day ahead in U.S. and global markets by Mike Dolan",
-    "banner_image":"https:\/\/graphics.reuters.com\/INDEX-AUTOMATED\/US-COMPARISON-365-DAYS-20230925\/zdvxrayolvx\/chart.png",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.9545"
-      },
-      {
-        "topic":"Economy - Fiscal",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.972756"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.091283,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MCO",
-        "relevance_score":"0.045139",
-        "ticker_sentiment_score":"-0.160897",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.045139",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.045139",
-        "ticker_sentiment_score":"-0.170466",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"FOREX:GBP",
-        "relevance_score":"0.045139",
-        "ticker_sentiment_score":"0.074499",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.134841",
-        "ticker_sentiment_score":"0.007368",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Beauty And Fragrance Company Coty Expands Footprint With Global Stock Offering, Paris Listing - Coty  ( NYSE:COTY ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/09\/34893884\/beauty-and-fragrance-company-coty-expands-footprint-with-global-stock-offering-paris-listing",
-    "time_published":1695722774000,
-    "authors":[
-      "Shivani Kumaresan"
-    ],
-    "summary":"Beauty and fragrance company Coty Inc COTY has disclosed its plans to initiate a global offering of 33 million of its Class A common stock. This move comes under an effective shelf registration statement that has already been filed with the U.S. Securities and Exchange Commission.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/26\/coty_1.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.98396"
-      }
-    ],
-    "overall_sentiment_score":0.233333,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"COTY",
-        "relevance_score":"0.479683",
-        "ticker_sentiment_score":"0.282559",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"SAG-AFTRA Members Approve Strike Action Against Video Game Firms",
-    "url":"https:\/\/www.benzinga.com\/general\/gaming\/23\/09\/34897602\/sag-aftra-members-approve-strike-action-against-video-game-firms",
-    "time_published":1695722726000,
-    "authors":[
-      "Benzinga Neuro"
-    ],
-    "summary":"In a recent development, members of the performers union, SAG-AFTRA, have voted overwhelmingly in favor of a strike authorization against the video game industry, escalating the possibility of a potential work stoppage. What Happened: Monday's vote saw a massive 98.32% of the union members back ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Gaming_4.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.538269"
-      }
-    ],
-    "overall_sentiment_score":0.19304,
-    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
         "ticker":"GOOG",
-        "relevance_score":"0.104228",
-        "ticker_sentiment_score":"0.205091",
+        "relevance_score":"0.895116",
+        "ticker_sentiment_score":"0.23505",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.213048",
+        "ticker_sentiment_score":"0.230384",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Cough syrup deaths overseas prompts US crackdown on toxic testing",
-    "url":"https:\/\/www.reuters.com\/business\/healthcare-pharmaceuticals\/cough-syrup-deaths-overseas-prompts-us-crackdown-toxic-testing-2023-09-26\/",
-    "time_published":1695722640000,
+    "title":"Google Cloud broadens Web3 startup program with 11 blockchain firms",
+    "url":"https:\/\/cointelegraph.com\/news\/google-cloud-broadens-web3-startup-program-with-11-blockchain-firms",
+    "time_published":1682444090000,
     "authors":[
-      "Patrick Wingrove"
-    ],
-    "summary":"Defendants and lawyers attend a court hearing in the case of child deaths linked to contaminated cough syrups, in Tashkent, Uzbekistan August 16, 2023. REUTERS\/Stringer\/File Photo Acquire Licensing Rights Sept 26 ( Reuters ) - The U.S.",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/GRD34DSHOVPDPCSUBIFOPCTQZM.jpg",
-    "source":"Reuters",
-    "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
-    "topics":[
 
     ],
-    "overall_sentiment_score":-0.197119,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"HESG",
-        "relevance_score":"0.044304",
-        "ticker_sentiment_score":"-0.074305",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Sam Bankman-Fried's lawyer renews request for temporary release from jail",
-    "url":"https:\/\/cointelegraph.com\/news\/sam-bankman-frieds-lawyer-renews-request-for-temporary-release-from-jail",
-    "time_published":1695722521000,
-    "authors":[
-      "Savannah Fortis"
-    ],
-    "summary":"The lawyer representing Sam Bankman-Fried has renewed a request for temporary release before his upcoming trial for preparation purposes.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMDE2MzA3NDAtZGRkMi00YzAzLThhY2ItNmIzNGViODZlNDU4LmpwZw==.jpg",
+    "summary":"Along with Google, 11 blockchain firms are now part of the Google Web3 startup program to help accelerate startups.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-04\/2e317ae9-169c-4e8d-a017-11eeb4ecc987.jpg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
         "topic":"Blockchain",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":-0.048261,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.204777,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.868543",
+        "ticker_sentiment_score":"0.284213",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.1331",
+        "ticker_sentiment_score":"0.171466",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.1331",
+        "ticker_sentiment_score":"0.227571",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
     ]
   },
   {
-    "title":"Coty, Thor Industries And Other Big Stocks Moving Lower In Tuesday's Pre-Market Session - KE Holdings  ( NYSE:BEKE ) , American Oncology Network  ( NASDAQ:AONC ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/09\/34897538\/coty-thor-industries-and-other-big-stocks-moving-lower-in-tuesdays-pre-market-session",
-    "time_published":1695722464000,
+    "title":"Google Adds Web3 Features to Cloud Offerings",
+    "url":"https:\/\/decrypt.co\/137708\/google-adds-web3-features-to-cloud-offerings",
+    "time_published":1682431262000,
     "authors":[
-      "Lisa Levin"
+      "Decrypt \/ Ryan S. Gladwin"
     ],
-    "summary":"U.S. stock futures traded lower this morning on Tuesday. Here are some big stocks recording losses in today's pre-market trading session. Murphy Canyon Acquisition Corp. CDT shares dipped 18.1% to $8.50 in pre-market trading after dipping 38% on Monday. American Oncology Network, Inc.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/26\/image49.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
+    "summary":"Web3 startups can now get specialized services when they build using Google Cloud.",
+    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/04\/Google-Cloud-shutterstock_1528609619-16x9-1-gID_7.jpg@png",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
     "topics":[
       {
-        "topic":"Life Sciences",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999365"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.25"
-      },
-      {
         "topic":"Technology",
-        "relevance_score":"0.25"
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
       }
     ],
-    "overall_sentiment_score":-0.113852,
+    "overall_sentiment_score":0.13287,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"MURF",
-        "relevance_score":"0.172097",
-        "ticker_sentiment_score":"0.18863",
+        "ticker":"GOOG",
+        "relevance_score":"0.746257",
+        "ticker_sentiment_score":"0.187277",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"BEKE",
-        "relevance_score":"0.33628",
-        "ticker_sentiment_score":"-0.444336",
-        "ticker_sentiment_label":"Bearish"
-      },
-      {
-        "ticker":"THO",
-        "relevance_score":"0.485711",
-        "ticker_sentiment_score":"0.133124",
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.064973",
+        "ticker_sentiment_score":"-0.005049",
         "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COTY",
-        "relevance_score":"0.33628",
-        "ticker_sentiment_score":"0.044142",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NYAX",
-        "relevance_score":"0.485711",
-        "ticker_sentiment_score":"0.225907",
-        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"'Hoofster' NFT-Backed Shoe Hits AVAVAV's Milan Fashion Week Runway",
-    "url":"https:\/\/decrypt.co\/198704\/hoofster-nft-backed-shoe-avavav-milan-fashion-week-runway",
-    "time_published":1695722463000,
+    "title":"Karate Combat Secures $18 Million for Crypto-Driven Martial Arts",
+    "url":"https:\/\/decrypt.co\/137185\/karate-combat-18-million-fundraise-investors-crypto-martial-arts-game",
+    "time_published":1681912862000,
     "authors":[
-      "Stephanie Hirschmiller"
+      "Decrypt \/ Jason Nelson"
     ],
-    "summary":"Ever wanted hooves? Co-created with a community, the Hoofster from OnlyEver and AVAVAV debuted on the Milan runway.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fit:1536:0:0:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/09\/hoofster-onlyever-runway.jpg@webp",
+    "summary":"The cash infusion will help the crypto league launch Karate Combat apps on iOS and Android.",
+    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/04\/KARATE-COMBAT-gID_7.png@png",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
     "topics":[
       {
         "topic":"Blockchain",
-        "relevance_score":"0.682689"
+        "relevance_score":"0.158519"
       }
     ],
-    "overall_sentiment_score":0.045246,
+    "overall_sentiment_score":0.067148,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"HYPPF",
-        "relevance_score":"0.08687",
-        "ticker_sentiment_score":"-0.054794",
+        "ticker":"NFLX",
+        "relevance_score":"0.068112",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.08687",
-        "ticker_sentiment_score":"0.053675",
+        "relevance_score":"0.068112",
+        "ticker_sentiment_score":"-0.146536",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.068112",
+        "ticker_sentiment_score":"0.044354",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SOC",
+        "relevance_score":"0.068112",
+        "ticker_sentiment_score":"-0.005027",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Sterling nudges at March trough, a year on from 'mini-budget' record low",
-    "url":"https:\/\/www.reuters.com\/markets\/currencies\/sterling-nudges-march-trough-year-mini-budget-record-low-2023-09-26\/",
-    "time_published":1695722460000,
+    "title":"Ethereum Rises Sharply; Dogecoin Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/04\/31657401\/ethereum-rises-sharply-dogecoin-emerges-as-top-gainer",
+    "time_published":1680616286000,
     "authors":[
-      "Reuters"
+      "Lisa Levin"
     ],
-    "summary":"LONDON, Sept 26 ( Reuters ) - The pound fell for a fifth day on Tuesday as rising U.S. bond yields supported the dollar, but is still up 18% from a year ago when former British Prime Minister Liz Truss' borrowing plans drove it to a record low.",
-    "banner_image":"https:\/\/graphics.reuters.com\/BRITAIN-BOE\/xmvjlbxxevr\/chart.png",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
+    "summary":"Bitcoin BTC\/USD edged higher, with the cryptocurrency prices trading above the key $28,000 level on Tuesday. Ethereum ETH\/USD also moved higher, trading above the key $1,800 mark this morning. Dogecoin DOGE\/USD was the top gainer over the prior 24 hours, while Hedera HBAR\/USD turned out to be ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/04\/04\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.928139"
+        "topic":"Technology",
+        "relevance_score":"1.0"
       },
       {
-        "topic":"Economy - Macro",
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.115078,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.205807",
+        "ticker_sentiment_score":"0.25494",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.566143",
+        "ticker_sentiment_score":"0.198746",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.566143",
+        "ticker_sentiment_score":"0.211671",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.566143",
+        "ticker_sentiment_score":"-0.125609",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.205807",
+        "ticker_sentiment_score":"-0.10977",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Trades Above This Key Level; Hedera, Rocket Pool Among Top Gainers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31609141\/ethereum-trades-above-this-key-level-hedera-rocket-pool-among-top-gainers",
+    "time_published":1680270397000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved lower, but the cryptocurrency prices remained above the key $28,000 level on Friday. Ethereum ETH\/USD, meanwhile, moved higher, trading above the key $1,800 mark this morning. Hedera HBAR\/USD was the top gainer over the prior 24 hours, while 1inch Network 1INCH\/USD turned ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/31\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
         "relevance_score":"0.158519"
       },
       {
@@ -1103,840 +1351,689 @@
         "relevance_score":"0.161647"
       }
     ],
-    "overall_sentiment_score":0.021826,
+    "overall_sentiment_score":-0.048055,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"FOREX:GBP",
-        "relevance_score":"0.772973",
-        "ticker_sentiment_score":"0.196853",
+        "ticker":"GOOG",
+        "relevance_score":"0.224903",
+        "ticker_sentiment_score":"0.27246",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.385286",
-        "ticker_sentiment_score":"0.100171",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.608634",
+        "ticker_sentiment_score":"-0.54113",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.608634",
+        "ticker_sentiment_score":"-0.472416",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.224903",
+        "ticker_sentiment_score":"-0.113798",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Meta's Threads struggles to grow amid rivalry with Elon Musk's X, ranking ahead of only Tumblr",
-    "url":"https:\/\/www.cnbc.com\/2023\/09\/26\/metas-twitter-like-threads-tries-to-grow-amid-rivalry-with-elon-musks-x.html",
-    "time_published":1695722401000,
+    "title":"Hedera confirms exploit on mainnet led to theft of service tokens",
+    "url":"https:\/\/cointelegraph.com\/news\/hedera-confirms-exploit-on-mainnet-led-to-theft-of-service-tokens",
+    "time_published":1678427821000,
     "authors":[
-      "Jonathan Vanian"
+
     ],
-    "summary":"Threads ranks near the bottom of the most popular social apps and continues to trail X, according to Insider Intelligence's first forecast of the Twitter clone.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107278845-16905886131690588611-30516694182-1080pnbcnews.jpg?v=1690588857&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
+    "summary":"Hedera said the smart contract exploit on Mar. 9 has not impacted the network or its consensus layer.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-03\/f87e39f5-c25f-413a-adab-b03e52178fa3.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":0.13667,
+    "overall_sentiment_score":-0.074075,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"META",
-        "relevance_score":"0.078354",
-        "ticker_sentiment_score":"0.04889",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.371523",
+        "ticker_sentiment_score":"-0.049157",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"SMWB",
-        "relevance_score":"0.078354",
-        "ticker_sentiment_score":"-0.044091",
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.096283",
+        "ticker_sentiment_score":"-0.112643",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"TSLA",
-        "relevance_score":"0.078354",
-        "ticker_sentiment_score":"0.102445",
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.096283",
+        "ticker_sentiment_score":"-0.145495",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Kraken Robotics Announces Management Update",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749265\/0\/en\/Kraken-Robotics-Announces-Management-Update.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Kraken Robotics Inc."
-    ],
-    "summary":"ST. JOHN'S, Newfoundland and Labrador, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Kraken Robotics Inc. ( \"Kraken\" or the \"Company\" ) ( TSX-V: PNG, OTCQB: KRKNF ) announces that Ms. Lynne Adu will take over leadership of Kraken's Services business, expanding her current role as Vice President ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/578dfdc9-26eb-48e6-9469-41bccd88b05f",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.209796,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"DTII",
-        "relevance_score":"0.032164",
-        "ticker_sentiment_score":"0.099661",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CVE",
-        "relevance_score":"0.032164",
-        "ticker_sentiment_score":"0.099661",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"XOM",
-        "relevance_score":"0.032164",
-        "ticker_sentiment_score":"0.099661",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Roivant Announces Positive Initial IMVT-1402 Phase 1 SAD and 300 mg Subcutaneous MAD Results",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749268\/34323\/en\/Roivant-Announces-Positive-Initial-IMVT-1402-Phase-1-SAD-and-300-mg-Subcutaneous-MAD-Results.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Inc.",
-      "Roivant Sciences"
-    ],
-    "summary":"NEW YORK, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Immunovant, Inc. ( Nasdaq: IMVT ) , a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases, today announced that subcutaneously administered doses of IMVT-1402 produced dose-dependent reductions in ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/f1a5db68-ee4f-437f-b4e6-2b840ae6a536",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.838487"
-      }
-    ],
-    "overall_sentiment_score":0.066879,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"IMVT",
-        "relevance_score":"0.624759",
-        "ticker_sentiment_score":"0.115607",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"KBR Wins Blue Hydrogen Technology and Engineering Contract for EET Hydrogen Facilities - KBR  ( NYSE:KBR ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/n34897508\/kbr-wins-blue-hydrogen-technology-and-engineering-contract-for-eet-hydrogen-facilities",
-    "time_published":1695722400000,
+    "title":"GameOn Announces Grant Funding From The HBAR Foundation - GameOn Entertainment Tech  ( OTC:GMETF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/03\/n31163110\/gameon-announces-grant-funding-from-the-hbar-foundation",
+    "time_published":1677758400000,
     "authors":[
       "PRNewswire"
     ],
-    "summary":"HOUSTON, Sept. 26, 2023 \/PRNewswire\/ -- KBR KBR announced today that it has been awarded a blue hydrogen process technology and front-end engineering design ( FEED ) contract by EET Hydrogen for its planned HPP2 low-carbon hydrogen facility at HyNet, the UK's leading industrial decarbonization ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.149569,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Biden administration plans to keep refugee cap at 125,000 | Politics",
-    "url":"https:\/\/www.cnn.com\/2023\/09\/26\/politics\/refugee-cap\/index.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Priscilla Alvarez"
-    ],
-    "summary":"Biden administration plans to keep refugee cap at ...",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/230921134311-01-migrants-awaiting-processing-eagle-pass-0921.jpg?c=16x9&q=h_144,w_256,c_fill",
-    "source":"CNN",
-    "category_within_source":"Economy",
-    "source_domain":"www.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.1658,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.113329",
-        "ticker_sentiment_score":"0.124068",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Radware Defends World Leading Data Center Provider and Operator from Volumetric DDoS Attacks",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749266\/8980\/en\/Radware-Defends-World-Leading-Data-Center-Provider-and-Operator-from-Volumetric-DDoS-Attacks.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Radware Ltd."
-    ],
-    "summary":"Diverts large volumes of web traffic and reduces time to protection Diverts large volumes of web traffic and reduces time to protection ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/651773cc-1089-4fbc-a964-892c3bc5a551",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.77141"
-      }
-    ],
-    "overall_sentiment_score":0.068308,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"APG",
-        "relevance_score":"0.033375",
-        "ticker_sentiment_score":"0.15587",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"FORR",
-        "relevance_score":"0.033375",
-        "ticker_sentiment_score":"0.15587",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.033375",
-        "ticker_sentiment_score":"-0.001964",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.033375",
-        "ticker_sentiment_score":"0.180439",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.033375",
-        "ticker_sentiment_score":"0.180439",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"RDWR",
-        "relevance_score":"0.496795",
-        "ticker_sentiment_score":"0.156916",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Element Nutritional Sciences Names CPG Executive Vito Sanzone CEO to Bolster Rejuvenate\u2122 and PROMINO\u2122 Brands",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/element-nutritional-sciences-names-cpg-executive-vito-sanzone-ceo-to-bolster-rejuvenate-tm-and-promino-tm-brands-894931919.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Element Nutritional Sciences Inc."
-    ],
-    "summary":"Element Nutritional Sciences Names CPG Executive Vito Sanzone CEO to Bolster Rejuvenate\u2122 and PROMINO ... Canada ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2220943\/Element_Nutritional_Sciences_Inc__Element_Nutritional_Sciences_N.jpg?p=facebook",
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.650727"
-      }
-    ],
-    "overall_sentiment_score":0.244352,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"HESG",
-        "relevance_score":"0.03853",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Radware Defends World Leading Data Center Provider and Operator from Volumetric DDoS Attacks - Radware  ( NASDAQ:RDWR ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34897481\/radware-defends-world-leading-data-center-provider-and-operator-from-volumetric-ddos-attacks",
-    "time_published":1695722400000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"MAHWAH, N.J., Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Radware\u00ae RDWR, a leading provider of cyber security and application delivery solutions, announced it is providing DDoS protection for one of the top 20 leading data center providers and operators in the world.",
+    "summary":"VANCOUVER, BC, March 2, 2023 \/PRNewswire\/ -- GameOn GET GMETF, a leading B2B technology company partnered with the world's biggest IPs to launch, operate, and monetize web3 games, today announces a grant from The HBAR Foundation.",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.161647"
       },
       {
         "topic":"Technology",
-        "relevance_score":"0.5"
+        "relevance_score":"0.25"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.858979"
+        "topic":"Finance",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
       }
     ],
-    "overall_sentiment_score":0.068249,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.198187,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"APG",
-        "relevance_score":"0.032916",
-        "ticker_sentiment_score":"0.155606",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"FORR",
-        "relevance_score":"0.032916",
-        "ticker_sentiment_score":"0.155606",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.032916",
-        "ticker_sentiment_score":"-0.002942",
+        "ticker":"ECIFF",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"GOOG",
-        "relevance_score":"0.032916",
-        "ticker_sentiment_score":"0.180153",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DKS",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.10183",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DELL",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.034381",
+        "ticker_sentiment_score":"0.061405",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.204072",
+        "ticker_sentiment_score":"0.172013",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"META",
-        "relevance_score":"0.032916",
-        "ticker_sentiment_score":"0.180153",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"RDWR",
-        "relevance_score":"0.490905",
-        "ticker_sentiment_score":"0.152628",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.136888",
+        "ticker_sentiment_score":"0.080557",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"CryptoBlox Signs LOI for Modular Renewable Energy Powered Mining Infrastructure",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749261\/0\/en\/CryptoBlox-Signs-LOI-for-Modular-Renewable-Energy-Powered-Mining-Infrastructure.html",
-    "time_published":1695722400000,
+    "title":"GameOn Announces Grant Funding From The HBAR Foundation - GameOn Entertainment Tech  ( OTC:GMETF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/03\/n31163139\/gameon-announces-grant-funding-from-the-hbar-foundation",
+    "time_published":1677758400000,
     "authors":[
-      "Cryptoblox Technologies Inc."
+      "PRNewswire"
     ],
-    "summary":"Vancouver, B.C., Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- CryptoBlox Technologies Inc. ( the \"Company\" or \"CryptoBlox\" ) ( CSE: BLOX ) , is pleased to announce the signing of a non-binding letter of intent ( \"LOI\" ) with Crypto Green Tech Inc. ( \"Crypto Green\" ) for a strategic partnership whereby ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/d86ce216-24fa-4c40-8dd0-357717ca197c",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
+    "summary":"VANCOUVER, BC, March 2, 2023 \/CNW\/ -- GameOn GET GMETF, a leading B2B technology company partnered with the world's biggest IPs to launch, operate, and monetize web3 games, today announces a grant from The HBAR Foundation.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.161647"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":0.200461,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DKS",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.101739",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DELL",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.034136",
+        "ticker_sentiment_score":"0.061338",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.202648",
+        "ticker_sentiment_score":"0.171103",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.135921",
+        "ticker_sentiment_score":"0.080251",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"GameOn Announces Grant Funding From The HBAR Foundation",
+    "url":"https:\/\/www.newswire.ca\/news-releases\/gameon-announces-grant-funding-from-the-hbar-foundation-865317229.html",
+    "time_published":1677758400000,
+    "authors":[
+      "GameOn Entertainment Technologies Inc."
+    ],
+    "summary":"VANCOUVER, BC, March 2, 2023 \/CNW\/ -- ( CSE: GET ) ( OTCQB: GMETF ) , a leading B2B technology company partnered with the world's biggest IPs to launch, operate, and monetize web3 games, today announces a grant from The HBAR Foundation.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1882920\/GameOn_Logo.jpg?p=facebook",
+    "source":"Canada Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.newswire.ca",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.161647"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.25"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":0.200489,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DKS",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.104679",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DELL",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.036869",
+        "ticker_sentiment_score":"0.045701",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.146692",
+        "ticker_sentiment_score":"0.141105",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.146692",
+        "ticker_sentiment_score":"0.073632",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Takeaways from Davos: Blockchain is changing the way we fight for sustainability",
+    "url":"https:\/\/cointelegraph.com\/news\/takeaways-from-davos-blockchain-is-changing-the-way-we-fight-for-sustainability",
+    "time_published":1676574597000,
+    "authors":[
+
+    ],
+    "summary":"Evercity's Alexey Shadrin shares his insights from last month's World Economic Forum in Davos.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/5b7c79d1-e88a-4b7e-b3d5-8edd20560e40.jpeg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.983605"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.2737,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.027164",
+        "ticker_sentiment_score":"0.097379",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"MATIC, HBAR, LDO and BIT gather strength as Bitcoin price rebounds",
+    "url":"https:\/\/cointelegraph.com\/news\/matic-hbar-ldo-and-bit-gather-strength-as-bitcoin-price-rebounds",
+    "time_published":1676233555000,
+    "authors":[
+
+    ],
+    "summary":"BTC price could remain range-bound in the near term, but MATIC, HBAR, LDO and BIT could continue higher.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/79b5e552-64f1-45ad-a88d-38ade0c33ccc.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Blockchain",
         "relevance_score":"0.451494"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
       }
     ],
-    "overall_sentiment_score":0.316013,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"VIASP",
-        "relevance_score":"0.035345",
-        "ticker_sentiment_score":"0.116474",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:CDT",
-        "relevance_score":"0.035345",
-        "ticker_sentiment_score":"0.045402",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Immunovant Announces Positive Initial IMVT-1402 Phase 1 SAD and 300 mg Subcutaneous MAD Results",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/09\/26\/2749259\/0\/en\/Immunovant-Announces-Positive-Initial-IMVT-1402-Phase-1-SAD-and-300-mg-Subcutaneous-MAD-Results.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Immunovant Inc."
-    ],
-    "summary":"NEW YORK, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Immunovant, Inc. ( Nasdaq: IMVT ) , a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases, today announced that subcutaneously administered doses of IMVT-1402 produced dose-dependent reductions in ...",
-    "banner_image":"",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.057622,
+    "overall_sentiment_score":0.043454,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"IMVT",
-        "relevance_score":"0.805222",
-        "ticker_sentiment_score":"0.097264",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.221385",
+        "ticker_sentiment_score":"0.052134",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:MATIC",
+        "relevance_score":"0.064018",
+        "ticker_sentiment_score":"0.090502",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.127625",
+        "ticker_sentiment_score":"0.062365",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.064018",
+        "ticker_sentiment_score":"-0.028302",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Mediaocean Reintroduces Flashtalking Brand to Unleash the Power of Creative in Advertising",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34897486\/mediaocean-reintroduces-flashtalking-brand-to-unleash-the-power-of-creative-in-advertising",
-    "time_published":1695722400000,
+    "title":"\"First of its kind\" collaboration between Liithos and CoinZoom, built on the Hedera network, reinvents Sunday Comics for a Web3 generation",
+    "url":"https:\/\/investingnews.com\/first-of-its-kind-collaboration-between-liithos-and-coinzoom-built-on-the-hedera-network-reinvents-sunday-comics-for-a-web3-generation\/",
+    "time_published":1674842340000,
     "authors":[
-      "Globe Newswire"
+
     ],
-    "summary":"NEW YORK, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Mediaocean ( www.Mediaocean.com ) , the mission-critical platform for omnichannel advertising, announces the reintroduction of Flashtalking as the leading independent ad tech stack for creative relevance and activation across all digital marketing ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.392641,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"VIDE",
-        "relevance_score":"0.041538",
-        "ticker_sentiment_score":"0.196623",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Beam Global Completes Initial Deployment of Solar-Powered EV ARC\u2122 Electric Vehicle Charging Systems for Top Global Automotive Manufacturer - Beam Glb  ( NASDAQ:BEEM ) , Beam Glb  ( NASDAQ:BEEMW ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/g34897485\/beam-global-completes-initial-deployment-of-solar-powered-ev-arc-electric-vehicle-charging-systems",
-    "time_published":1695722400000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"SAN DIEGO, Sept. 26, 2023 ( GLOBE NEWSWIRE ) -- Beam Global, BEEM BEEMW ) ) ) , the leading provider of innovative sustainable products and technologies for electric vehicle ( EV ) charging, energy storage, energy security and outdoor media, announced today that it has successfully and quickly ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.283931,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BEEM",
-        "relevance_score":"0.509589",
-        "ticker_sentiment_score":"0.354401",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.068698",
-        "ticker_sentiment_score":"0.238365",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"International food companies ranked in cage-free corporate accountability report",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/international-food-companies-ranked-in-cage-free-corporate-accountability-report-301938297.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Mercy For Animals"
-    ],
-    "summary":"LOS ANGELES, Sept. 26, 2023 \/PRNewswire\/ -- As part of a coalition of 16 animal protection organizations across 22 countries, Mercy For Animals has released the third edition of the .",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2220544\/Mercy_For_Animals_Logo_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
+    "summary":"Mega-TikTok Influencer Michael Le Partners with Liithos to create Ashfall, The TikTok Creator Series and Innovative 5-Episode Digital Collectible, Premiering Sunday, January 29",
+    "banner_image":"https:\/\/investingnews.com\/media-library\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTg1ODg1NS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTcwODY4MTIxOX0.Phin9ClvosnPNpkGRdBWHz_VFepTco5fqEYZcXCsZIQ\/image.png?width=210",
+    "source":"Investing News Network",
     "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
+    "source_domain":"investingnews.com",
     "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.298255,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"YUM",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"-0.008276",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ARMK",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"0.234927",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CMPGF",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"0.234927",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"COST",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"0.234927",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"MDNDF",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"-0.008276",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CAKE",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"-0.008276",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KHC",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"0.234927",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"UL",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"0.234927",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"SHAK",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"-0.008276",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WMT",
-        "relevance_score":"0.077593",
-        "ticker_sentiment_score":"-0.008276",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Why Verizon's Dividend Increase Might Actually Be Reason to Sell the Stock",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/why-verizons-dividend-increase-might-actually-be-r\/",
-    "time_published":1695722400000,
-    "authors":[
-      "Billy Duberstein"
-    ],
-    "summary":"The telecom's paltry increase seems like a forced move and trails inflation.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/77b8d2adf30cd71a10b869519ba21d6e.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.928139"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.316726"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.891286"
-      },
       {
         "topic":"Technology",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.153627,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"T",
-        "relevance_score":"0.097259",
-        "ticker_sentiment_score":"0.128899",
-        "ticker_sentiment_label":"Neutral"
       },
-      {
-        "ticker":"VZ",
-        "relevance_score":"0.607669",
-        "ticker_sentiment_score":"0.375859",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bitget's Smart Portfolio Bot Enables Sophisticated Crypto Trading For Users",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/bitget-s-smart-portfolio-bot-enables-sophisticated-crypto-trading-for-users-821042467.html",
-    "time_published":1695722400000,
-    "authors":[
-      "Bitget"
-    ],
-    "summary":"VICTORIA, Seychelles, Sept. 26, 2023 \/CNW\/ -- , the leading has announced the launch of Smart Portfolio, an intelligent investment bot designed to boost returns.",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2220044\/Bitget_s_Smart_Portfolio_Bot_Enables_Sophisticated_Crypto_Trading_For_Users.jpg?p=facebook",
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
       {
         "topic":"Blockchain",
         "relevance_score":"0.576289"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.87644"
+        "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.531458,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Stock Split Watch: 1 Magnificent Growth Stock Up 928% in 10 Years to Buy Now and Hold Forever",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/stock-split-watch-1-growth-stock-up-928-to-buy-now\/",
-    "time_published":1695722040000,
-    "authors":[
-      "Trevor Jennewine"
-    ],
-    "summary":"MercadoLibre was a phenomenal investment over the past decade, but there is plenty of upside left.",
-    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F748515%2Fpersonal_mercadolibre-revenue-final.png&op=resize&w=700",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.413559"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.998962"
-      },
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.362323,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MELI",
-        "relevance_score":"0.592095",
-        "ticker_sentiment_score":"0.475202",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"MS",
-        "relevance_score":"0.109705",
-        "ticker_sentiment_score":"0.090937",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Tesla to face EU anti-subsidy probe over China exports- FT",
-    "url":"https:\/\/www.reuters.com\/business\/autos-transportation\/tesla-face-eu-anti-subsidy-probe-over-china-exports-ft-2023-09-26\/",
-    "time_published":1695721920000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"Tesla's Model 3 is displayed during an event a day ahead of the official opening of the 2023 Munich Auto Show IAA Mobility, in Munich, Germany, September 4, 2023. REUTERS\/Angelika Warmuth\/File Photo Acquire Licensing Rights",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/QRVZBKLFIVMNXC4CCCYXEPJOXI.jpg",
-    "source":"Reuters",
-    "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.078331,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.377142",
-        "ticker_sentiment_score":"-0.167992",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Amazon Just Gave Investors Yet Another Reason to Buy Its Stock Hand Over Fist",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/09\/26\/amazon-just-gave-investors-yet-another-reason-to-b\/",
-    "time_published":1695721860000,
-    "authors":[
-      "Keith Speights"
-    ],
-    "summary":"The e-commerce and cloud services giant is about to have a new revenue source.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.983783"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      }
-    ],
-    "overall_sentiment_score":0.257729,
+    "overall_sentiment_score":0.328038,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"AMZN",
-        "relevance_score":"0.831429",
-        "ticker_sentiment_score":"0.440845",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"CURN",
+        "relevance_score":"0.027603",
+        "ticker_sentiment_score":"0.130475",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.027603",
+        "ticker_sentiment_score":"0.085545",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.027603",
+        "ticker_sentiment_score":"0.130475",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.027603",
+        "ticker_sentiment_score":"0.130475",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.082677",
+        "ticker_sentiment_score":"0.186034",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"OnePlus Is Bringing Apple's Dynamic Island To Its Phones With The OxygenOS 14 Update, But There's A Catch - Apple  ( NASDAQ:AAPL ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/09\/34897425\/oneplus-is-bringing-apples-dynamic-island-to-its-phones-with-the-oxygenos-14-update-but-theres-a-cat",
-    "time_published":1695721859000,
+    "title":"\"First of its kind\" collaboration between Liithos and CoinZoom, built on the Hedera network, reinvents Sunday Comics for a Web3 generation",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/first-of-its-kind-collaboration-between-liithos-and-coinzoom-built-on-the-hedera-network-reinvents-sunday-comics-for-a-web3-generation-301732569.html",
+    "time_published":1674840600000,
     "authors":[
-      "Rounak Jain"
+      "The HBAR Foundation"
     ],
-    "summary":"Apple Inc.'s AAPL Dynamic Island has a new fan - OnePlus. The Android phone maker is now working to bring Dynamic Island to its phones with the OxygenOS 14 update. What Happened: OnePlus showed off a slew of new features in the upcoming OxygenOS 14 update, and one of the highlights is its take on ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/OnePlus_smartphones_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
+    "summary":"\"First of its kind\" collaboration between Liithos and CoinZoom, built ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1991254\/Episode_1_Cover.jpg?w=600",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
     "topics":[
       {
         "topic":"Technology",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.118996,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
+      },
       {
-        "ticker":"AAPL",
-        "relevance_score":"0.236972",
-        "ticker_sentiment_score":"0.455266",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Mutual Funds Reality Check: Are You Really Diversified?",
-    "url":"https:\/\/www.kiplinger.com\/investing\/mutual-funds-are-you-really-diversified",
-    "time_published":1695721828000,
-    "authors":[
-      "Dan Sullivan"
-    ],
-    "summary":"Mutual funds were created to give the individual investor a broad-range, diversified portfolio. Is that true? The vast majority of today's retirees and pre-retirees own mutual funds. Chances are good that you may not be getting the diversification you expected.",
-    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/kRFaDgdCVX4Jnw42u5XsN8-415-80.jpg",
-    "source":"Kiplinger",
-    "category_within_source":"n\/a",
-    "source_domain":"www.kiplinger.com",
-    "topics":[
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.999975"
+        "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.226071,
+    "overall_sentiment_score":0.328157,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-
+      {
+        "ticker":"CURN",
+        "relevance_score":"0.027828",
+        "ticker_sentiment_score":"0.131573",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.027828",
+        "ticker_sentiment_score":"0.088555",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.027828",
+        "ticker_sentiment_score":"0.131573",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.027828",
+        "ticker_sentiment_score":"0.131573",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.083347",
+        "ticker_sentiment_score":"0.18836",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
     ]
   },
   {
-    "title":"Revolutionizing the Home Theater Experience: ULTIMEA Thor T60 Triple Laser TV Projector at 4000 ANSI Lumens",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/09\/n34897055\/revolutionizing-the-home-theater-experience-ultimea-thor-t60-triple-laser-tv-projector-at-4000-ans",
-    "time_published":1695721740000,
+    "title":"\"First of its kind\" collaboration between Liithos and CoinZoom, built on the Hedera network, reinvents Sunday Comics for a Web3 generation",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/01\/n30606509\/first-of-its-kind-collaboration-between-liithos-and-coinzoom-built-on-the-hedera-network-reinvents",
+    "time_published":1674840600000,
     "authors":[
       "PRNewswire"
     ],
-    "summary":"LEWES, Del., Sept. 26, 2023 \/PRNewswire\/ -- Today, the ULTIMEA team, respected pioneers of home entertainment solutions, announced the launch of the ULTIMEA Thor T60 Triple Laser TV Projector - a groundbreaking projector featuring a Tri-Color Laser Engine and a spectrum of state-of-the-art ...",
+    "summary":"Mega-TikTok Influencer Michael Le Partners with Liithos to create Ashfall, The TikTok Creator Series and Innovative 5-Episode Digital Collectible, Premiering Sunday, January 29",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"General",
@@ -1945,57 +2042,1050 @@
       {
         "topic":"Technology",
         "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
       }
     ],
-    "overall_sentiment_score":0.404753,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.325877,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
+        "ticker":"CURN",
+        "relevance_score":"0.027288",
+        "ticker_sentiment_score":"0.131256",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
         "ticker":"GOOG",
-        "relevance_score":"0.095899",
-        "ticker_sentiment_score":"0.233566",
+        "relevance_score":"0.027288",
+        "ticker_sentiment_score":"0.088337",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.027288",
+        "ticker_sentiment_score":"0.131256",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.027288",
+        "ticker_sentiment_score":"0.131256",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.081737",
+        "ticker_sentiment_score":"0.187763",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Smiths Group Reports Record FY Sales, Expects Further Increases",
-    "url":"https:\/\/www.forbes.com\/sites\/roystonwild\/2023\/09\/26\/smiths-group-reports-record-fy-sales-expects-further-increases\/",
-    "time_published":1695721730000,
+    "title":"Davos 2023: Hedera Exec Spent Years On Capitol Hill, Now She's Shaping Blockchain Policy",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/01\/30537166\/davos-2023-hedera-seeks-to-verify-data-on-the-blockchain-eliminate-greenwashing",
+    "time_published":1674573983000,
     "authors":[
-      "Royston Wild"
+      "Renato Capelj"
     ],
-    "summary":"Organic revenues rose by double-digit percentages last year to all-time peaks above \u00a33 billion.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6512a830b1971c4b0e36de23\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
+    "summary":"The World Economic Forum ( WEF ) , which recently took place in Davos, Switzerland, featured some note-worthy attendees, including Ursula von der Leyen, the President of the European Commission; Olena Zelenska, the First Lady of Ukraine; actor Idris Elba and many others.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/01\/23\/fle5t_dwiaebnxn.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.9545"
+      }
+    ],
+    "overall_sentiment_score":0.293393,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.105141",
+        "ticker_sentiment_score":"0.123942",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.105141",
+        "ticker_sentiment_score":"0.073215",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.105141",
+        "ticker_sentiment_score":"0.127417",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.052685",
+        "ticker_sentiment_score":"0.180658",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.052685",
+        "ticker_sentiment_score":"0.180658",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.105141",
+        "ticker_sentiment_score":"0.123942",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.052685",
+        "ticker_sentiment_score":"0.180658",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.052685",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Aptos Soars 58% on the Week, Leading Layer-1 Token Rally",
+    "url":"https:\/\/decrypt.co\/119879\/aptos-soars-week-leading-layer-1-token-rally",
+    "time_published":1674566819000,
+    "authors":[
+      "Decrypt \/ Andrew Asmakov"
+    ],
+    "summary":"Aptos (APT), Fantom (FTM), and Hedera (HBAR) are among the crypto market's top gainers over the past week.",
+    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2022\/10\/aptos-apt-crypto-gID_1.jpeg@png",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":0.237147,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.125523",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:CAKE",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.184619",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Aptos  ( APT )  Surges 75% In A Week, Racing Past BTC, ETH Gains",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30517480\/layer-1-gaming-token-rallies-75-in-a-week-leaving-bitcoin-ethereum-and-dogecoin-in-the-dus",
+    "time_published":1674486505000,
+    "authors":[
+      "Mehab Qureshi"
+    ],
+    "summary":"Aptos APT\/USD is up 75% in the last seven days, leading the crypto market gains on Monday, recorded at 12 am EST. What Happened: Apex cryptocurrency Bitcoin ( CRYPTO: BTC ) is up 7.52%. Ethereum ( CRYPTO: ETH ) gained 3.92% and Dogecoin ( CRYPTO: DOGE ) rose 4.19% in the last seven days, ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/01\/23\/shutterstock_2212227083.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.163093,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.31282",
+        "ticker_sentiment_score":"0.187186",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.31282",
+        "ticker_sentiment_score":"0.187186",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.31282",
+        "ticker_sentiment_score":"0.187186",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.159569",
+        "ticker_sentiment_score":"0.168928",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Why Altcoins Popped in Value Today",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/01\/20\/why-altcoins-popped-in-value-today\/",
+    "time_published":1674257595000,
+    "authors":[
+      "Travis Hoium"
+    ],
+    "summary":"The crypto market came to life to end the week.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F716726%2Folder-man-at-laptop-raising-his-arms-as-if-frustrated.jpg&op=resize&h=340",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.031396,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.248682",
+        "ticker_sentiment_score":"0.163245",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.084127",
+        "ticker_sentiment_score":"-0.107554",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Nifty News: Fake Pok\u00e9mon NFT game spreads malware, 'Jai Ho' singer to launch metaverse and more",
+    "url":"https:\/\/cointelegraph.com\/news\/nifty-news-fake-pokemon-nft-game-spreads-malware-jai-ho-singer-to-launch-metaverse-and-more",
+    "time_published":1673244645000,
+    "authors":[
+
+    ],
+    "summary":"Software used to access computers remotely has been inserted in a phishing website fronting as an NFT card game for the popular Pok\u00e9mon franchise.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/243b5dc4-0ac1-4a02-9e12-6fecc4939145.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.161647"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.983605"
+      }
+    ],
+    "overall_sentiment_score":-0.011861,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.106305",
+        "ticker_sentiment_score":"0.056127",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:MATIC",
+        "relevance_score":"0.053271",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.158868",
+        "ticker_sentiment_score":"0.175056",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum, Dogecoin Slip: Analyst Says This Major Crypto Needs A Bounce Or 'Things Get Painful' - Bitcoin  ( BTC\/USD ) , Ethereum  ( ETH\/USD ) , Dogecoin  ( DOGE\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30268167\/bitcoin-ethereum-dogecoin-slip-analyst-says-this-major-crypto-needs-a-bounce-or-things-get",
+    "time_published":1672794305000,
+    "authors":[
+      "Shivdeep Dhaliwal"
+    ],
+    "summary":"Major cryptocurrencies were seen trading lower on Tuesday evening as the global cryptocurrency market cap dropped 0.2% to $805.9 billion at 7:14 p.m. EST. Why It Matters: Bitcoin and Ethereum were in the red just as stock futures inched lower on Tuesday evening.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/01\/03\/shutterstock_2111616764.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.12463,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.296761",
+        "ticker_sentiment_score":"-0.233178",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.296761",
+        "ticker_sentiment_score":"-0.282588",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ZEC",
+        "relevance_score":"0.224903",
+        "ticker_sentiment_score":"0.05876",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.075874",
+        "ticker_sentiment_score":"-0.013204",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KSM",
+        "relevance_score":"0.075874",
+        "ticker_sentiment_score":"-0.013204",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DGB",
+        "relevance_score":"0.224903",
+        "ticker_sentiment_score":"0.05876",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"EXCLUSIVE: Jordan Fried On The History Of Internet, Cryptocurrency And Keeping An Open Mind For The Future - Bitcoin  ( BTC\/USD ) , Hedera Hashgraph  ( HBAR\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/12\/30007740\/exclusive-jordan-fried-on-the-history-of-internet-cryptocurrency-and-keeping-an-open-mind-",
+    "time_published":1670511884000,
+    "authors":[
+      "Chris Katje"
+    ],
+    "summary":"While some people are calling the last four weeks the darkest period in the world of cryptocurrency, declaring major cryptocurrencies like Bitcoin BTC\/USD as dead is nothing new.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/12\/08\/screen_shot_2022-12-08_at_10.10.51_am.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
     "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      }
+    ],
+    "overall_sentiment_score":-0.065917,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.07157",
+        "ticker_sentiment_score":"0.206045",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"IBM",
+        "relevance_score":"0.142565",
+        "ticker_sentiment_score":"0.259285",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"IHLDF",
+        "relevance_score":"0.142565",
+        "ticker_sentiment_score":"0.080581",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.470482",
+        "ticker_sentiment_score":"-0.248373",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.07157",
+        "ticker_sentiment_score":"0.206045",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Joget and The HBAR Foundation Partner to Enable No-Code\/Low-Code dApp Development on Hedera",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/11\/n29894245\/joget-and-the-hbar-foundation-partner-to-enable-no-codelow-code-dapp-development-on-hedera",
+    "time_published":1669748040000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"The partnership aims to further drive adoption of the Hedera network by making it fast and easy to create distributed applications on the world's greenest public DLT",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.320307,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.127231",
+        "ticker_sentiment_score":"0.22991",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.042571",
+        "ticker_sentiment_score":"0.091811",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.291347",
+        "ticker_sentiment_score":"0.289568",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Joget and The HBAR Foundation Partner to Enable No-Code\/Low-Code dApp Development on Hedera",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/11\/n29894246\/joget-and-the-hbar-foundation-partner-to-enable-no-codelow-code-dapp-development-on-hedera",
+    "time_published":1669748040000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"The partnership aims to further drive adoption of the Hedera network by making it fast and easy to create distributed applications on the world's greenest public DLT",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.322441,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.126119",
+        "ticker_sentiment_score":"0.228988",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.042196",
+        "ticker_sentiment_score":"0.091715",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.288893",
+        "ticker_sentiment_score":"0.287728",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Joget and The HBAR Foundation Partner to Enable No-Code\/Low-Code dApp Development on Hedera",
+    "url":"https:\/\/www.newswire.ca\/news-releases\/joget-and-the-hbar-foundation-partner-to-enable-no-code-low-code-dapp-development-on-hedera-849277926.html",
+    "time_published":1669748040000,
+    "authors":[
+      "Joget"
+    ],
+    "summary":"The partnership aims to further drive adoption of the Hedera network by making it fast and easy to create distributed applications on the world's greenest public DLT",
+    "banner_image":"",
+    "source":"Canada Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.newswire.ca",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      }
+    ],
+    "overall_sentiment_score":0.337643,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DLT",
+        "relevance_score":"0.141448",
+        "ticker_sentiment_score":"0.251022",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.047371",
+        "ticker_sentiment_score":"0.10479",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.233556",
+        "ticker_sentiment_score":"0.290246",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Science Fiction Double Feature: Carbon And Tokens",
+    "url":"https:\/\/www.forbes.com\/sites\/davidbirch\/2022\/11\/25\/science-fiction-double-feature-carbon-and-tokens\/",
+    "time_published":1669391383000,
+    "authors":[
+      "David G.W. Birch"
+    ],
+    "summary":"While, as The Economist pointed out, making carbon markets work better is more of a political challenge than an economic one, it does seem to me that the use of the new technologies of tokenisation and defi might well offer an innovative (and practical) way forward. Anyone for a Carbon Standard?",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6380dfafc0cf9ed11c365181\/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Money",
     "source_domain":"www.forbes.com",
     "topics":[
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":0.398224,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.205451,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.036756",
+        "ticker_sentiment_score":"0.050494",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"EA Licensed Esports Platform Realm Launches in Apex Legends",
+    "url":"https:\/\/investingnews.com\/ea-licensed-esports-platform-realm-launches-in-apex-legends\/",
+    "time_published":1667917828000,
+    "authors":[
+
+    ],
+    "summary":"Realm delivers a new type of experience for competitors of all skill levels, with verifiability powered by the Hedera Consensus Service A new competition has arrived in Apex Legends.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1523598\/Everi_Holdings_Logo.jpg",
+    "source":"Investing News Network",
+    "category_within_source":"n\/a",
+    "source_domain":"investingnews.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.212751,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
         "ticker":"DSSMY",
-        "relevance_score":"0.09439",
-        "ticker_sentiment_score":"0.282564",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.071403",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.043818",
+        "ticker_sentiment_score":"0.070418",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.173958",
+        "ticker_sentiment_score":"0.142262",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"EA Licensed Esports Platform Realm Launches in Apex Legends",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/11\/n29615984\/ea-licensed-esports-platform-realm-launches-in-apex-legends",
+    "time_published":1667916300000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"Realm delivers a new type of experience for competitors of all skill levels, with verifiability powered by the Hedera Consensus Service CALGARY, AB, Nov. 8, 2022 \/PRNewswire\/ -- A new competition has arrived in Apex Legends.",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.212749,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ECIFF",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMR",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AVY",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DSSMY",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.067421",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOW",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BA",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGOF",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.043579",
+        "ticker_sentiment_score":"0.070372",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.173022",
+        "ticker_sentiment_score":"0.143188",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Filecoin launches Web3 data storage solution for carbon offsets",
+    "url":"https:\/\/cointelegraph.com\/news\/filecoin-launches-web3-data-storage-solution-for-carbon-offsets",
+    "time_published":1666719000000,
+    "authors":[
+
+    ],
+    "summary":"This free storage utility aims to address the shortcomings of traditional storage solutions for all types of digital environmental assets, said the company.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvYjRiYzc5NTEtY2M0Yi00YjMyLWJkYTktOWRhMTQ3YmUwZGNkLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":0.325514,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"DTST",
+        "relevance_score":"0.227007",
+        "ticker_sentiment_score":"0.349129",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"SMGKF",
-        "relevance_score":"0.36472",
-        "ticker_sentiment_score":"0.45639",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.114682",
+        "ticker_sentiment_score":"0.073836",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.68732",
+        "ticker_sentiment_score":"0.613942",
         "ticker_sentiment_label":"Bullish"
       },
       {
-        "ticker":"CRBO",
-        "relevance_score":"0.09439",
-        "ticker_sentiment_score":"0.174385",
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.114682",
+        "ticker_sentiment_score":"0.170614",
         "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.114682",
+        "ticker_sentiment_score":"0.073836",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   }
