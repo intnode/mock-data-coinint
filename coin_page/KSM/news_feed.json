@@ -1,5 +1,51 @@
 [
   {
+    "title":"J Balvin takes on the art world",
+    "url":"https:\/\/www.ft.com\/content\/0e88cac7-12aa-4cd6-a61d-ab9521e9a69f",
+    "time_published":1695204028000,
+    "authors":[
+      "Ludovic Hunter-Tilney",
+      "Jacoba Urist"
+    ],
+    "summary":"Young people in school might have a perception that art is kind of boring.",
+    "banner_image":"https:\/\/www.ft.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fafa1ce21-20dc-4803-a9f2-d47aa82b23b1.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+    "source":"Financial Times",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.ft.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.26215,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ANDE",
+        "relevance_score":"0.031907",
+        "ticker_sentiment_score":"0.072083",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SPOT",
+        "relevance_score":"0.031907",
+        "ticker_sentiment_score":"0.005668",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KSM",
+        "relevance_score":"0.095517",
+        "ticker_sentiment_score":"0.136669",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"Polkadot Adds USDC Stablecoin To Hub, Leads Race In Supported Blockchain Networks",
     "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34735852\/polkadot-adds-usdc-stablecoin-to-hub-leads-race-in-supported-blockchain-networks",
     "time_published":1695142035000,
@@ -2369,47 +2415,6 @@
         "ticker":"CRYPTO:ERC",
         "relevance_score":"0.108958",
         "ticker_sentiment_score":"0.152697",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Shiba Inu Unveils Security Enhancement With Decentralized Identity Verification",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33542795\/shiba-inu-unveils-security-enhancement-with-decentralized-identity-verification",
-    "time_published":1691068451000,
-    "authors":[
-      "Murtuza Merchant"
-    ],
-    "summary":"Meme coin Shiba Inu SHIB\/USD is planning to integrate Self-Sovereign Identity ( SSI ) into its protocols, a move expected to enhance the security of the network and provide users with more control over their digital identities.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/03\/shiba-7513487_1280.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.232887,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.150592",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:KSM",
-        "relevance_score":"0.295867",
-        "ticker_sentiment_score":"0.346857",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:SHIB",
-        "relevance_score":"0.295867",
-        "ticker_sentiment_score":"0.166662",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
