@@ -1,23 +1,5 @@
 [
   {
-    "price":0.5988729838,
-    "volume":1896847.9679335719,
-    "marketcap":335132839.1644635797,
-    "zero_balance_addresses_all_time":166302.0,
-    "unique_addresses_all_time":237502.0,
-    "new_addresses":29.0,
-    "active_addresses":85.0,
-    "transaction_count":102.0,
-    "transaction_count_all_time":886069.0,
-    "large_transaction_count":6.0,
-    "average_transaction_value":21289.8574486777,
-    "token_holder":71200.0,
-    "percent_balance_on_exchanges":null,
-    "exchange_withdrawals":null,
-    "exchange_deposits":null,
-    "time":1693180800000
-  },
-  {
     "price":0.6180221038,
     "volume":2711041.2462685187,
     "marketcap":346117307.6478177905,
@@ -538,5 +520,23 @@
     "exchange_withdrawals":null,
     "exchange_deposits":null,
     "time":1695686400000
+  },
+  {
+    "price":0.5628997954,
+    "volume":1861446.5960236415,
+    "marketcap":315131817.6772913933,
+    "zero_balance_addresses_all_time":167344.0,
+    "unique_addresses_all_time":238905.0,
+    "new_addresses":44.0,
+    "active_addresses":105.0,
+    "transaction_count":147.0,
+    "transaction_count_all_time":891120.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":5392.0164516228,
+    "token_holder":71561.0,
+    "percent_balance_on_exchanges":null,
+    "exchange_withdrawals":null,
+    "exchange_deposits":null,
+    "time":1695772800000
   }
 ]
