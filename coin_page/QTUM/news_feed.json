@@ -1,81 +1,310 @@
 [
   {
-    "title":"Aptos Jumps 10% Overnight as South Korea Trading Volumes Spike",
-    "url":"https:\/\/decrypt.co\/147252\/aptos-jumps-overnight-south-korea-trading-volumes-spike",
-    "time_published":1688462167000,
+    "title":"Walmart changing titles, pay structure for corporate staff",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/walmart-changing-titles-pay-structure-corporate-staff",
+    "time_published":1696184217000,
     "authors":[
-      "Decrypt \/ Nivesh Rustgi"
+      "Eric Revell"
     ],
-    "summary":"Aptos (APT) topped crypto market gains on Tuesday at 10% amid a surge in trading volumes in South Korea. the token was last trading at $8.15, per CoinGecko. 's (BTC) positive price action above $31,000 yesterday has likely added to the positive sentiment. (ETH) buyers are also attempting to move ...",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/07\/aptos-token-gID_7.jpg",
-    "source":"Decrypt.co",
+    "summary":"Walmart on Saturday announced changes to job titles and pay structure for its corporate staff starting in November.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/de389ab7-3a68-410c-900e-e2680126b0d3\/9d208e84-ec82-443d-bdfd-25a27c5ab96a\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
     "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.052158,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WMT",
+        "relevance_score":"0.704114",
+        "ticker_sentiment_score":"0.155408",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum's Ascent Over Bitcoin? Here's One Analyst's Long-term Crypto Forecast",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35021185\/ethereums-ascent-over-bitcoin-heres-one-analysts-long-term-crypto-forecast",
+    "time_published":1696183954000,
+    "authors":[
+      "Bibhu Pattnaik"
+    ],
+    "summary":"In the ever-evolving crypto landscape, Ethereum ETH\/USD might soon overshadow Bitcoin BTC\/USD in terms of long-term performance, suggests pseudonymous crypto analyst and trader Dave the Wave.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/eth_btc.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.110808,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.731269",
+        "ticker_sentiment_score":"0.015529",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.419733",
+        "ticker_sentiment_score":"-0.109961",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Will Bitcoin 'Uptober' bring gains for MKR, AAVE, RUNE and INJ?",
+    "url":"https:\/\/cointelegraph.com\/news\/will-bitcoin-uptober-bring-gains-for-mkr-aave-rune-and-inj",
+    "time_published":1696183434000,
+    "authors":[
+      "Rakesh Upadhyay"
+    ],
+    "summary":"Bitcoin tends to rally in October, possibly opening the door for MKR, AAVE, RUNE, INJ and other altcoins.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/180c0279-0f08-4e74-b3f4-bd8371fa31ba.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Blockchain",
-        "relevance_score":"0.310843"
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.096224,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.200688",
+        "ticker_sentiment_score":"0.178023",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:AAVE",
+        "relevance_score":"0.101154",
+        "ticker_sentiment_score":"-0.040514",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.167787",
+        "ticker_sentiment_score":"0.034425",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.101154",
+        "ticker_sentiment_score":"-0.004413",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:MKR",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.015122",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Buzz: Kim Kardashian And This QB Great Bid Millions At Jay-Z's Charity Auction - Mattel  ( NASDAQ:MAT ) , Meta Platforms  ( NASDAQ:META ) ",
+    "url":"https:\/\/www.benzinga.com\/general\/entertainment\/23\/10\/35020963\/benzinga-buzz-kim-kardashian-and-this-qb-great-bid-millions-at-jay-zs-charity-auction",
+    "time_published":1696183353000,
+    "authors":[
+      "Anthony Noto"
+    ],
+    "summary":"Each week, Benzinga Buzz compiles the latest entertainment news into a cohesive column for your consideration. Read on for the latest updates - both useful and irreverent. This week, we got a glimpse at the goings-on in Atlantic City, where Jay-Z's nonprofit - the Reform Alliance - raised ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/untitled_design97.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      }
+    ],
+    "overall_sentiment_score":0.287649,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"TGT",
+        "relevance_score":"0.160633",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MAT",
+        "relevance_score":"0.160633",
+        "ticker_sentiment_score":"0.324801",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.160633",
+        "ticker_sentiment_score":"0.225342",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"ULTA",
+        "relevance_score":"0.160633",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BRPHF",
+        "relevance_score":"0.080728",
+        "ticker_sentiment_score":"-0.020503",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Haley hits Ramaswamy for pushing TikTok because it's 'politically popular' despite 'dangerous' Chinese threat",
+    "url":"https:\/\/www.foxbusiness.com\/politics\/haley-hits-ramaswamy-pushing-tiktok-because-politically-popular-despite-dangerous-chinese-threat",
+    "time_published":1696183120000,
+    "authors":[
+      "Danielle Wallace"
+    ],
+    "summary":"GOP presidential candidate Nikki Haley on Sunday upped her criticism of Republican rival Vivek Ramaswamy for pushing TikTok despite the known \"dangerous\" threats posed by the Chinese Communist Party.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/694940094001\/970f50e9-3690-47d8-b43f-85b71e3736ad\/8a354ed7-c4c0-4941-badd-fb7fc0c257fb\/1280x720\/match\/image.jpg?pubId=854081161001",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.126747,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOX",
+        "relevance_score":"0.109206",
+        "ticker_sentiment_score":"0.193169",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"EOSE FINAL DEADLINE TOMORROW: ROSEN, LEADING TRIAL ATTORNEYS, Encourages Eos Energy Enterprises, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important October 2 Deadline in Securities Class Action - EOSE, EOSEW - Eos Energy Enterprises  ( NASDAQ:EOSE ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35021171\/eose-final-deadline-tomorrow-rosen-leading-trial-attorneys-encourages-eos-energy-enterprises-inc-i",
+    "time_published":1696182060000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"NEW YORK, Oct. 01, 2023 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Eos Energy Enterprises, Inc. EOSE EOSEW ) ) ) between May 9, 2022 and July 27, 2023, both dates inclusive ( the \"Class Period\" ) , of the important October 2, ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.650727"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.166999,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"EOSE",
+        "relevance_score":"0.128822",
+        "ticker_sentiment_score":"0.116919",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.064623",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Dexalot's New Features Set To Revolutionize Decentralized Trading Experience",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35021092\/dexalots-new-features-set-to-revolutionize-decentralized-trading-experience",
+    "time_published":1696181677000,
+    "authors":[
+      "Bibhu Pattnaik"
+    ],
+    "summary":"New York-based decentralized exchange Dexalot, operating on an Avalanche Subnet, has rolled out two significant features: SimpleSwap and SimpleView. These tools are designed to simplify the trading experience, merging the ease of a DEX with the advanced capabilities of a CEX.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/dexalot.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.413559"
       }
     ],
-    "overall_sentiment_score":-0.120964,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.377804,
+    "overall_sentiment_label":"Bullish",
     "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.272788",
-        "ticker_sentiment_score":"0.012439",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.183895",
-        "ticker_sentiment_score":"0.231009",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.272788",
-        "ticker_sentiment_score":"0.16797",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.183895",
-        "ticker_sentiment_score":"-0.098674",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XRP",
-        "relevance_score":"0.092569",
-        "ticker_sentiment_score":"-0.012644",
-        "ticker_sentiment_label":"Neutral"
-      }
+
     ]
   },
   {
-    "title":"The CEO of a $900 million asset manager shares 6 stocks to buy to take advantage of the coming AI revolution - and explains how investors can diversify their holdings to capitalize on emerging tech trends",
-    "url":"https:\/\/www.businessinsider.com\/artificial-intelligence-tech-stocks-to-buy-ai-revolution-investing-strategy-2023-5",
-    "time_published":1683974700000,
+    "title":"UAW strike, jobs report and Tesla deliveries top Wall Street's week ahead",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/uaw-strike-jobs-report-tesla-deliveries-top-wall-street-week-ahead",
+    "time_published":1696181458000,
     "authors":[
-      "Lisa Kailai Han"
+      "Joe Toppe"
     ],
-    "summary":"6 Tech Stocks to Buy to Take Advantage of the Coming AI Revolution - Business Insider ...",
-    "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
+    "summary":"Investors will kick off the final quarter of the year as more headwinds swirl for the economy, including the ongoing United Auto Workers ( UAW ) strike against Detroit's Big Three. All three of the major averages fell during the third quarter, led by the Nasdaq Composite's 4% drop, this as the ...",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/8d15b704-b1e7-4b7e-b00e-db3e620cadd7\/51cac159-c419-461f-b181-c2b16844419e\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
     "topics":[
       {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.333333"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.994953"
+        "relevance_score":"0.360215"
       },
       {
         "topic":"Manufacturing",
@@ -83,2051 +312,1539 @@
       },
       {
         "topic":"Earnings",
-        "relevance_score":"0.858979"
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.333333"
       },
       {
         "topic":"Technology",
         "relevance_score":"0.333333"
       }
     ],
-    "overall_sentiment_score":0.15606,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.18455",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.214177",
-        "ticker_sentiment_score":"0.00848",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.214177",
-        "ticker_sentiment_score":"0.034653",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.18455",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"AMBA",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.014557",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMZN",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.186915",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.086556",
-        "ticker_sentiment_score":"0.086122",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"4 of the world's elite investors agree on the biggest risks that will cause the next recession. Here's how they're each protecting clients with over half a trillion in combined assets.",
-    "url":"https:\/\/www.businessinsider.com\/recession-risks-factors-fed-policy-taiwan-investing-strategy-downside-protection-2023-5",
-    "time_published":1683282900000,
-    "authors":[
-      "Akin Oyedele",
-      "William Edwards"
-    ],
-    "summary":"Next Recession Forecast: Elite Investors Agree on 3 Catalysts ... - Business Insider ...",
-    "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.682689"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999965"
-      }
-    ],
-    "overall_sentiment_score":0.019478,
+    "overall_sentiment_score":-0.067279,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"WT",
-        "relevance_score":"0.043898",
-        "ticker_sentiment_score":"0.112612",
+        "ticker":"MSFT",
+        "relevance_score":"0.142144",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.043898",
-        "ticker_sentiment_score":"0.003989",
+        "ticker":"STZ",
+        "relevance_score":"0.071357",
+        "ticker_sentiment_score":"-0.130815",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SPCE",
+        "relevance_score":"0.071357",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.071357",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Stocks & ETFs for AI, Travel & Green Hydrogen",
-    "url":"https:\/\/www.zacks.com\/stock\/news\/2061727\/stocks-etfs-for-ai-travel-green-hydrogen",
-    "time_published":1677878940000,
+    "title":"Biden urges Republicans to keep their word on government funding and Ukraine aid | Politics",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/politics\/joe-biden-shutdown-remarks\/index.html",
+    "time_published":1696181110000,
     "authors":[
-      "Zacks Investment Research"
+      "Aileen Graef",
+      "Kyle Feldscher"
     ],
-    "summary":"We discuss the market outlook and some hot thematic ETFs.",
-    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/articles\/main\/84\/124.jpg",
-    "source":"Zacks Commentary",
+    "summary":"Biden urges Republicans to keep their word on government funding and Ukraine aid ...",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231001124942-01-joe-biden-remarks-1001.jpg?c=16x9&q=w_800,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.07464,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.087824",
+        "ticker_sentiment_score":"0.023004",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ukraine Left Out In Cold By US Shutdown Deal",
+    "url":"https:\/\/www.barrons.com\/news\/ukraine-left-out-in-cold-by-us-shutdown-deal-fd46652e",
+    "time_published":1696180680000,
+    "authors":[
+      "Danny KEMP"
+    ],
+    "summary":"The future of US aid for Ukraine hangs in the balance after a last-gasp deal to avoid a government shutdown, despite President Joe Biden's attempts to reassure Kyiv it will get what it needs to fight Russia.",
+    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
+    "source":"Barrons",
     "category_within_source":"n\/a",
-    "source_domain":"www.zacks.com",
+    "source_domain":"www.barrons.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.972193"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.25"
       }
     ],
-    "overall_sentiment_score":0.137169,
+    "overall_sentiment_score":0.002447,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.18046",
-        "ticker_sentiment_score":"-0.140437",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"HLT",
-        "relevance_score":"0.18046",
-        "ticker_sentiment_score":"-0.03812",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.267804",
-        "ticker_sentiment_score":"0.227918",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"RCL",
-        "relevance_score":"0.18046",
-        "ticker_sentiment_score":"-0.03812",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DAL",
-        "relevance_score":"0.18046",
-        "ticker_sentiment_score":"-0.03812",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.18046",
-        "ticker_sentiment_score":"-0.1634",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Best Tech ETFs In Nasdaq's Worst Week Since December",
-    "url":"https:\/\/www.zacks.com\/stock\/news\/2054280\/best-tech-etfs-in-nasdaqs-worst-week-since-december",
-    "time_published":1676402400000,
-    "authors":[
-      "Zacks Investment Research"
-    ],
-    "summary":"The technology sector, which had its best January in decades, faltered lately following a slew of weak earnings reports from the tech titans and renewed rising rate concerns.",
-    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/default_article_images\/default137.jpg",
-    "source":"Zacks Commentary",
-    "category_within_source":"n\/a",
-    "source_domain":"www.zacks.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999346"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.986564"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.25"
-      }
-    ],
-    "overall_sentiment_score":0.026708,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.059194",
-        "ticker_sentiment_score":"-0.064991",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.118064",
-        "ticker_sentiment_score":"-0.135368",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.118064",
-        "ticker_sentiment_score":"0.102303",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMZN",
-        "relevance_score":"0.118064",
-        "ticker_sentiment_score":"-0.135368",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.118064",
-        "ticker_sentiment_score":"-0.135368",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.059194",
-        "ticker_sentiment_score":"-0.214032",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"The AI craze has sent some stocks soaring up to 300%. This list of over 74 stocks across 5 categories features the top picks from the sector's leading fund managers.",
-    "url":"https:\/\/www.businessinsider.com\/best-ai-stocks-to-buy-top-fund-managers-list-etf-2023-2",
-    "time_published":1675879439000,
-    "authors":[
-      "Laila Maidan"
-    ],
-    "summary":"Best AI Stocks to Buy: 74 Picks From Top Fund Managers Across 5 ... - Business Insider ...",
-    "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.166667"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.166667"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.166667"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.166667"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999974"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.166667"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.166667"
-      }
-    ],
-    "overall_sentiment_score":0.188698,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSTR",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NIPNF",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TER",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.110291",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"LSCC",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ADI",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BIDU",
-        "relevance_score":"0.089713",
-        "ticker_sentiment_score":"0.045462",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BZFD",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.092199",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"STM",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"EADSF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CEVA",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KSFTF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.077501",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FJTSF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AYX",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BABA",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.089713",
-        "ticker_sentiment_score":"0.107754",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NTTDF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NOC",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SUMO",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RPYTF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPOT",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"HON",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IQ",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MU",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JSCPF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NOK",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SNPS",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TOSBF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSBHF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MCHP",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPLK",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"HPE",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SYNA",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MRVL",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ONTO",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BB",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.012627",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSEM",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ABB",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVEC",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WIT",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"HTHIF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"HPQ",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IONQ",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RGTI",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ASML",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MKSI",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.112008",
-        "ticker_sentiment_score":"0.081469",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRUS",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"QCOM",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RTX",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KC",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"LRCX",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MEIUF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.077501",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ON",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KLAC",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MOMO",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.085442",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.089713",
-        "ticker_sentiment_score":"0.070198",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JNPR",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NXPI",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BAH",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ACN",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"THNOF",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"-0.030035",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"LMT",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMBA",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ORAN",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMZN",
-        "relevance_score":"0.044927",
-        "ticker_sentiment_score":"0.110291",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.022473",
-        "ticker_sentiment_score":"0.054063",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"These five-star stock funds can help you play the semiconductor rebound, as well as AI and 5G build-outs",
-    "url":"https:\/\/www.marketwatch.com\/story\/these-five-star-stock-funds-can-help-you-play-the-semiconductor-rebound-as-well-as-ai-and-5g-build-outs-11675339880",
-    "time_published":1675339860000,
-    "authors":[
-      "Philip van Doorn"
-    ],
-    "summary":"Sylvia Jablonksi of Defiance ETFs describes two investment strategies that include chip makers but also other companies working on cutting-edge technology ...",
-    "banner_image":"https:\/\/images.mktw.net\/im-713940\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.996718"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.796627"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.25"
-      }
-    ],
-    "overall_sentiment_score":0.097526,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.073767",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VZ",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.07336",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ADI",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.07336",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NXPI",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.07336",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMT",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.07336",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.130689",
-        "ticker_sentiment_score":"0.059403",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRUS",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.073767",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"T",
-        "relevance_score":"0.043738",
-        "ticker_sentiment_score":"0.069712",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IBM",
-        "relevance_score":"0.130689",
-        "ticker_sentiment_score":"0.059403",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"-0.218404",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.07336",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MORN",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.089616",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SYNA",
-        "relevance_score":"0.087344",
-        "ticker_sentiment_score":"0.073767",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.298957",
-        "ticker_sentiment_score":"0.062278",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Cryptocurrency Market Size Worth USD 1902.5 Million by 2028 | Report by Fortune Business Insights",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/01\/g30457155\/cryptocurrency-market-size-worth-usd-1902-5-million-by-2028-report-by-fortune-business-insights",
-    "time_published":1674039616000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"Pune, India, Jan. 18, 2023 ( GLOBE NEWSWIRE ) -- The global cryptocurrency market size was valued at USD 826.6 million in 2020. It is projected to rise from USD 910.3 Million in 2021 to USD 1902.5 Million by 2028 at a CAGR of 11.1% during the forecast period.",
-    "banner_image":"",
-    "source":"Benzinga",
-    "category_within_source":"Mergers",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.161647"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.999973"
-      }
-    ],
-    "overall_sentiment_score":0.248601,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IBN",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"-0.158304",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.408109",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"V",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.087664",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.1145",
-        "ticker_sentiment_score":"0.123378",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.076479",
-        "ticker_sentiment_score":"0.097468",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.187252",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BNB",
-        "relevance_score":"0.038284",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The Zacks Analyst Blog Highlights SPDR S&P Semiconductor ETF, First Trust NASDAQ Technology Dividend Index Fund, Invesco S&P SmallCap Information Technology ETF, Defiance Quantum ETF and First Trust Indxx Metaverse ETF",
-    "url":"https:\/\/www.zacks.com\/stock\/news\/2038831\/the-zacks-analyst-blog-highlights-spdr-sp-semiconductor-etf-first-trust-nasdaq-technology-dividend-index-fund-invesco-sp-smallcap-information-technology-etf-defiance-quantum-etf-and-first-trust-indxx-metaverse-etf",
-    "time_published":1673604000000,
-    "authors":[
-      "Zacks Investment Research"
-    ],
-    "summary":"SPDR S&P Semiconductor ETF, First Trust NASDAQ Technology Dividend Index Fund, Invesco S&P SmallCap Information Technology ETF, Defiance Quantum ETF and First Trust Indxx Metaverse ETF are included in this Analyst Blog.",
-    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/articles\/main\/84\/124.jpg",
-    "source":"Zacks Commentary",
-    "category_within_source":"n\/a",
-    "source_domain":"www.zacks.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.96136"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.105632,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.116067",
-        "ticker_sentiment_score":"0.032646",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SFIX",
-        "relevance_score":"0.058188",
-        "ticker_sentiment_score":"0.011034",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VMEO",
-        "relevance_score":"0.058188",
-        "ticker_sentiment_score":"0.011034",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.058188",
-        "ticker_sentiment_score":"0.032",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"3 Reasons Why Tech ETFs May Rebound in 2023",
-    "url":"https:\/\/www.zacks.com\/stock\/news\/2038671\/3-reasons-why-tech-etfs-may-rebound-in-2023",
-    "time_published":1673546400000,
-    "authors":[
-      "Zacks Investment Research"
-    ],
-    "summary":"U.S. tech stocks hit rough weather last year. But the segment may stage a turnaround in 2023.",
-    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/default_article_images\/default2.jpg",
-    "source":"Zacks Commentary",
-    "category_within_source":"n\/a",
-    "source_domain":"www.zacks.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.682689"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      }
-    ],
-    "overall_sentiment_score":0.084371,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SFIX",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.011173",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VMEO",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.011173",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"-0.176851",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Remote work could redefine the global workforce for good",
-    "url":"https:\/\/cointelegraph.com\/news\/remote-work-could-redefine-the-global-workforce-for-good",
-    "time_published":1673369398000,
-    "authors":[
 
-    ],
-    "summary":"While implementing remote work structures seems to be a priority for most tech firms, there are still some concerns about its long-term efficacy.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/2bb8976d-fbf7-4f0d-8f02-9e1f4a2704a0.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.682689"
-      }
-    ],
-    "overall_sentiment_score":0.303183,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.033846",
-        "ticker_sentiment_score":"0.092905",
-        "ticker_sentiment_label":"Neutral"
-      }
     ]
   },
   {
-    "title":"Crypto Markets 2023 Will Be 'About Differentiate Or Die' For Investors",
-    "url":"https:\/\/www.forbes.com\/sites\/kenrapoza\/2022\/12\/29\/crypto-markets-2023-will-be-about-differentiate-or-die-for-investors\/",
-    "time_published":1672317000000,
+    "title":"From Tweets To Streams: Elon Musk's X Aims To Revolutionize Game Broadcasting",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35020973\/from-tweets-to-streams-elon-musks-x-aims-to-revolutionize-game-broadcasting",
+    "time_published":1696180616000,
     "authors":[
-      "Kenneth Rapoza"
+      "Bibhu Pattnaik"
     ],
-    "summary":"Where to invest (or gamble) in the crypto market in 2023.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/63a600e9279ad6a0b3cc7317\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Markets",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.980716"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.990678"
-      }
-    ],
-    "overall_sentiment_score":-0.02661,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRON",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.028716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"-0.150759",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.520971",
-        "ticker_sentiment_score":"-0.009883",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.028716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.028716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.028716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LINK",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.028716",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"-0.166216",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"-0.166216",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.02689",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.080548",
-        "ticker_sentiment_score":"-0.001028",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Flash News: OKX Lists LDO, Discounts More Blue-chip NFTs and Offers up to 65.35% Staking APY",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/09\/g28737349\/flash-news-okx-lists-ldo-discounts-more-blue-chip-nfts-and-offers-up-to-65-35-staking-apy",
-    "time_published":1662139818000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"VICTORIA, Seychelles, Sept. 02, 2022 ( GLOBE NEWSWIRE ) -- OKX, the world's second largest crypto exchange, has issued business updates for the week of September 2, 2022: OKX lists LidoTrading of LDO will start according to the following schedule:",
-    "banner_image":"",
+    "summary":"X owner Elon Musk is steering the platform towards the gaming broadcast arena, positioning it as a potential competitor to industry leaders. Musk is now venturing into game streaming, with platforms like Twitch, YouTube and Facebook Gaming already having a solid foothold in the game broadcasting ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/elon_musk.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.158519"
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.130657,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.141726",
+        "ticker_sentiment_score":"0.075968",
+        "ticker_sentiment_label":"Neutral"
       },
+      {
+        "ticker":"META",
+        "relevance_score":"0.141726",
+        "ticker_sentiment_score":"0.075968",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Airlines face limited liability for lost baggage",
+    "url":"https:\/\/www.business-standard.com\/opinion\/columns\/airlines-face-limited-liability-for-lost-baggage-123100100980_1.html",
+    "time_published":1696180131000,
+    "authors":[
+      "Jehangir B Gai"
+    ],
+    "summary":"These are personal views of the writer. They do not necessarily reflect the opinion of www.business-standard.com or the Business Standard newspaper Kettle objects to the pot calling the pan black Expect status quo on rate and no change in stance Tata Group is India's most valuable brand, ...",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-10\/01\/full\/1696180088-9084.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.07722,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"UAL",
+        "relevance_score":"0.258351",
+        "ticker_sentiment_score":"-0.443865",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"INFY",
+        "relevance_score":"0.490323",
+        "ticker_sentiment_score":"0.627967",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"How carbon prices are taking over the world",
+    "url":"https:\/\/www.economist.com\/finance-and-economics\/2023\/10\/01\/how-carbon-prices-are-taking-over-the-world",
+    "time_published":1696180105000,
+    "authors":[
+      "The Economist"
+    ],
+    "summary":"I is to be limited, the world must forget about fossil fuels as fast as possible-that much almost everyone agrees upon. How to do so is the complicated part. Economists have long favoured putting a price on carbon, a mechanism that Europe introduced in 2005.",
+    "banner_image":"https:\/\/www.economist.com\/cdn-cgi\/image\/width=1424,quality=80,format=auto\/content-assets\/images\/20231007_EPC779.png",
+    "source":"The Economist",
+    "category_within_source":"BusinessGoogleRSS",
+    "source_domain":"www.economist.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.413559"
+      }
+    ],
+    "overall_sentiment_score":0.050419,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Amazon customers report false email confirmations for gift cards they did not buy",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/01\/amazon-customers-report-false-email-confirmations-for-gift-cards.html",
+    "time_published":1696179810000,
+    "authors":[
+      "Rebecca Picciotto"
+    ],
+    "summary":"Amazon customer service representatives have been receiving a host of inquiries from worried and confused customers.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1696179810&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.091648,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"MA",
+        "relevance_score":"0.109455",
+        "ticker_sentiment_score":"0.147863",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.21686",
+        "ticker_sentiment_score":"0.431675",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.109455",
+        "ticker_sentiment_score":"0.12568",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Taylor Swift Tickets and a New IRS Rule: What You Need To Know",
+    "url":"https:\/\/www.kiplinger.com\/taxes\/reselling-tickets-irs-reporting-rule",
+    "time_published":1696179660000,
+    "authors":[
+      "Kelley R. Taylor"
+    ],
+    "summary":"If you're a Kansas City Chiefs fan or a \"Swiftie,\" you might have wondered recently whether Travis Kelce and Taylor Swift are dating. But all the excitement and talk about Taylor's appearance at an NFL game has also raised questions about what Eras Tour tickets have to do with taxes.",
+    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/H2GismoA63FfNEadaEBDTE-415-80.jpg",
+    "source":"Kiplinger",
+    "category_within_source":"n\/a",
+    "source_domain":"www.kiplinger.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.19264,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"PYPL",
+        "relevance_score":"0.130217",
+        "ticker_sentiment_score":"0.096264",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EBAY",
+        "relevance_score":"0.065327",
+        "ticker_sentiment_score":"0.148273",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ETSY",
+        "relevance_score":"0.065327",
+        "ticker_sentiment_score":"0.148273",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Opinion: These 3 Stocks Could Double by 2025",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/01\/opinion-these-3-stocks-could-double-by-2025\/",
+    "time_published":1696179600000,
+    "authors":[
+      "Justin Pope",
+      "and Will Healy",
+      "Jake Lerch"
+    ],
+    "summary":"The potential for quick growth is enticing.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749091%2Fgoogl_sankey_q22023.png&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.5855"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.999999"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      }
+    ],
+    "overall_sentiment_score":0.18992,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.370418",
+        "ticker_sentiment_score":"0.190603",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.198182",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"NVDA",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.198182",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.198182",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"ZM",
+        "relevance_score":"0.335772",
+        "ticker_sentiment_score":"0.184018",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"KO",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.150572",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"BRK-A",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.061793",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NU",
+        "relevance_score":"0.190567",
+        "ticker_sentiment_score":"0.062432",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"India 'big hub' for blue collar economy, says Fountain CEO Sean Behr",
+    "url":"https:\/\/www.business-standard.com\/companies\/news\/india-big-hub-for-blue-collar-economy-says-fountain-ceo-sean-behr-123100100260_1.html",
+    "time_published":1696178905000,
+    "authors":[
+      "Press Trust of India"
+    ],
+    "summary":"Fountain, a provider of hiring automation software for frontline workforces, considers India as one of the \"big hubs\" in this space, a top company official said.",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2020-01\/21\/full\/1579622359.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.221301,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Reid Hoffman backs 'blitzscaling' AI for the 'elevation of humanity'",
+    "url":"https:\/\/africa.businessinsider.com\/news\/reid-hoffman-backs-blitzscaling-ai-for-the-elevation-of-humanity\/ce8lz8v",
+    "time_published":1696178868000,
+    "authors":[
+      "Polly Thompson"
+    ],
+    "summary":"\"Every month, every year, every week that there's earlier access causes human goodness,\" Hoffman said in an interview with Time, pointing to AI's benefits tackling problems such as climate change and pandemics, and widening access to education.",
+    "banner_image":"https:\/\/ocdn.eu\/pulscms-transforms\/1\/41tktkuTURBXy80ZDJhYWQ2ZS0yMTBjLTQ4ZTAtOTI1Ny03ZTE1Mzg2NTNmZjkuanBlZ5GTBc0DFs0Brg",
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"africa.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.094922,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"NYT",
+        "relevance_score":"0.121037",
+        "ticker_sentiment_score":"-0.095377",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"UBER",
+        "relevance_score":"0.121037",
+        "ticker_sentiment_score":"0.112516",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ABNB",
+        "relevance_score":"0.121037",
+        "ticker_sentiment_score":"0.112516",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Better AI Stock: Applied Digital vs. SentinelOne",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/01\/better-ai-stock-applied-digital-vs-sentinelone\/",
+    "time_published":1696178700000,
+    "authors":[
+      "Leo Sun"
+    ],
+    "summary":"Which of these oft-overlooked AI stocks is a more compelling buy?",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749157%2Fandroids-business-suits.jpg&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"IPO",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.316726"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.972756"
+      },
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":-0.05337,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"0.087439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"APLD",
+        "relevance_score":"0.491595",
+        "ticker_sentiment_score":"-0.047702",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVDA",
+        "relevance_score":"0.143131",
+        "ticker_sentiment_score":"0.100448",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRWD",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"0.109908",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"S",
+        "relevance_score":"0.281692",
+        "ticker_sentiment_score":"-0.115776",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PANW",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"0.109908",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"0.010941",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Done and delivered by drone: Pharma companies chart a new course",
+    "url":"https:\/\/www.business-standard.com\/technology\/tech-news\/done-and-delivered-by-drone-pharma-companies-chart-a-new-course-123100100956_1.html",
+    "time_published":1696178586000,
+    "authors":[
+      "Shivani Shinde",
+      "Sohini Das"
+    ],
+    "summary":"Gender bias seen in AI-generated content on leadership, new research says AI far from translating emotions effectively; it is still a threat: Expert Medicine to manufacturing: Nano is the next frontier in 3D printing A question of balance in age gating for children of the internet",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-10\/01\/full\/1696178470-5658.jpg?im=FitAndFill=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.007279,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:NANO",
+        "relevance_score":"0.213048",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"DFS Opening the First World-Class, Seven-Star Luxury Retail and Entertainment Destination DFS Yalong Bay in Sanya, Hainan, China by 2026",
+    "url":"https:\/\/markets.businessinsider.com\/news\/stocks\/dfs-opening-the-first-world-class-seven-star-luxury-retail-and-entertainment-destination-dfs-yalong-bay-in-sanya-hainan-china-by-2026-1032668416",
+    "time_published":1696178475000,
+    "authors":[
+      "markets.businessinsider.com"
+    ],
+    "summary":"DFS Opening the First World-Class, Seven-Star Luxury Retail and Entertainment Destination DFS Yalong Bay in Sanya ... - Markets Insider ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2236083\/Architect_s_Impression__Overview_DFS_Yalong_Bay_Property.jpg",
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
       {
         "topic":"Financial Markets",
         "relevance_score":"0.161647"
       }
     ],
-    "overall_sentiment_score":0.302185,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.445738,
+    "overall_sentiment_label":"Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.167322",
-        "ticker_sentiment_score":"0.27986",
+        "ticker":"MFCSF",
+        "relevance_score":"0.042421",
+        "ticker_sentiment_score":"0.20298",
         "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:EGLD",
-        "relevance_score":"0.167322",
-        "ticker_sentiment_score":"0.005636",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.167322",
-        "ticker_sentiment_score":"0.005636",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ICX",
-        "relevance_score":"0.167322",
-        "ticker_sentiment_score":"0.005636",
-        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Cryptocurrency Market Worth USD 1902.5 Billion in 2028 | Exhibiting a CAGR of 47.6% [2021-2028]",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/08\/g28413150\/cryptocurrency-market-worth-usd-1902-5-billion-in-2028-exhibiting-a-cagr-of-47-6-2021-2028",
-    "time_published":1660042653000,
+    "title":"Kevin O'Leary Predicts This New Regulatory-compliant Crypto Exchange Will Surpass Binance And FTX - BlackRock  ( NYSE:BLK ) , Coinbase Glb  ( NASDAQ:COIN ) , Fidelity National Finl  ( NYSE:FNF ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35021027\/kevin-oleary-predicts-this-new-regulatory-compliant-crypto-exchange-will-surpass-binance-a",
+    "time_published":1696178052000,
     "authors":[
-      "Globe Newswire"
+      "Bibhu Pattnaik"
     ],
-    "summary":"Pune, India, Aug. 09, 2022 ( GLOBE NEWSWIRE ) -- The global cryptocurrency market is projected to rise from USD 910.3 million in 2021 to USD 1902.5 million by 2028 at a CAGR of 11.1% during the forecast period.",
-    "banner_image":"",
+    "summary":"O'Shares Investment Advisors chairman and renowned \"Shark Tank\" investor Kevin O'Leary recently shared insights about a new exchange that could potentially overshadow giants like Binance and FTX due to its regulatory compliance.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/kevin_oleary.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
-    "category_within_source":"Mergers",
+    "category_within_source":"Markets",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.962106"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
+        "topic":"Finance",
+        "relevance_score":"1.0"
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.990678"
-      }
-    ],
-    "overall_sentiment_score":0.178673,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.039548",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
+        "relevance_score":"0.158519"
       },
       {
-        "ticker":"IBN",
-        "relevance_score":"0.039548",
-        "ticker_sentiment_score":"-0.158642",
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.116581,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.397098",
+        "ticker_sentiment_score":"-0.183057",
         "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "ticker":"INTC",
-        "relevance_score":"0.039548",
-        "ticker_sentiment_score":"0.408754",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"V",
-        "relevance_score":"0.039548",
-        "ticker_sentiment_score":"0.079247",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"COIN",
+        "relevance_score":"0.397098",
+        "ticker_sentiment_score":"-0.157481",
+        "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
         "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.157227",
-        "ticker_sentiment_score":"-0.054133",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.039548",
-        "ticker_sentiment_score":"0.18779",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.079",
-        "ticker_sentiment_score":"0.097867",
+        "relevance_score":"0.137671",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Crypto VC funding hits $30.3B in H1, Michael Saylor steps down as CEO, and Voyager to return $270M worth of customer assets: Hodler's Digest, July 31-Aug 6",
-    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/08\/06\/crypto-vc-funding-hits-30-3b-h1-michael-saylor-steps-down-ceo-and-voyager-return-270m-worth-customer-assets-hodlers-digest-july-31-aug-6",
-    "time_published":1659817810000,
+    "title":"Microsoft to form nuclear power team to support AI: Report",
+    "url":"https:\/\/cointelegraph.com\/news\/microsoft-form-nuclear-power-team-support-ai",
+    "time_published":1696177932000,
     "authors":[
-
+      "Ana Paula Pereira"
     ],
-    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
-    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/08\/AUG-6.jpg",
+    "summary":"Microsoft is forming a new team of professionals to advance its artificial intelligence plans with Small Modular Reactors and microreactors.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/1061a092-cb3e-4262-8e6d-94aa9928a4dd.png",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.162908,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.345674",
+        "ticker_sentiment_score":"0.294215",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.118647",
+        "ticker_sentiment_score":"0.00869",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Lawrence, Ridley and defense help Jaguars beat Falcons 23-7 in London",
+    "url":"https:\/\/apnews.com\/article\/jaguars-falcons-london-wembley-888de4b14f694cc344dc95eb2e56d81c",
+    "time_published":1696177860000,
+    "authors":[
+      "KEN MAGUIRE"
+    ],
+    "summary":"LONDON ( AP ) - Calvin Ridley caught a touchdown pass against his old team and Darious Williams returned an interception for a 61-yard score and the Jacksonville Jaguars beat the Atlanta Falcons 23-7 on Sunday at Wembley Stadium.",
+    "banner_image":"https:\/\/dims.apnews.com\/dims4\/default\/a5be7cd\/2147483647\/strip\/true\/crop\/4264x2840+0+1\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Fe6%2F4da6953f3610676478175d2430ae%2F156ada68f429450598c652e559e35765",
+    "source":"Associated Press",
+    "category_within_source":"Markets",
+    "source_domain":"apnews.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.035254,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"DSSMY",
+        "relevance_score":"0.075161",
+        "ticker_sentiment_score":"0.037304",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"A question of balance in age gating for children of the internet",
+    "url":"https:\/\/www.business-standard.com\/technology\/tech-news\/a-question-of-balance-in-age-gating-for-children-of-the-internet-123100100810_1.html",
+    "time_published":1696177818000,
+    "authors":[
+      "Debarghya Sanyal",
+      "Sourabh Lele"
+    ],
+    "summary":"Danish alliance's copyright notice could change the way AI is designed Gender bias seen in AI-generated content on leadership, new research says AI far from translating emotions effectively; it is still a threat: Expert Medicine to manufacturing: Nano is the next frontier in 3D printing",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-10\/01\/full\/1696177820-1673.jpg?im=FitAndFill=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":-0.22162,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:NANO",
+        "relevance_score":"0.299478",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Micron Technology Stock: Bear vs. Bull",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/01\/micron-technology-stock-bear-vs-bull\/",
+    "time_published":1696177800000,
+    "authors":[
+      "Leo Sun"
+    ],
+    "summary":"Is the memory chipmaker's cyclical downturn nearly over?",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749152%2Fdram-chips.jpg&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.998311"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.266143"
+      }
+    ],
+    "overall_sentiment_score":0.053638,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SSNLF",
+        "relevance_score":"0.107495",
+        "ticker_sentiment_score":"-0.054244",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WDC",
+        "relevance_score":"0.05387",
+        "ticker_sentiment_score":"-0.048996",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:AMD",
+        "relevance_score":"0.213048",
+        "ticker_sentiment_score":"0.091192",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Medicine to manufacturing: Nano is the next frontier in 3D printing",
+    "url":"https:\/\/www.business-standard.com\/technology\/tech-news\/medicine-to-manufacturing-nano-is-the-next-frontier-in-3d-printing-123100100942_1.html",
+    "time_published":1696177747000,
+    "authors":[
+      "Pranjal Sharma"
+    ],
+    "summary":"Danish alliance's copyright notice could change the way AI is designed Gender bias seen in AI-generated content on leadership, new research says AI far from translating emotions effectively; it is still a threat: Expert BFSI sector saw highest rise in data science, analytics jobs in 2023: Study",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-10\/01\/full\/1696177572-7314.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.077434,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:NANO",
+        "relevance_score":"0.247838",
+        "ticker_sentiment_score":"0.413482",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"NFL's Safest Helmets Absorb Impact With 3D Printing Instead Of Foam",
+    "url":"https:\/\/www.forbes.com\/sites\/carolynschwaar\/2023\/10\/01\/nfls-safest-helmets-absorb-impact-with-3d-printing-instead-of-foam\/",
+    "time_published":1696177422000,
+    "authors":[
+      "Carolyn Schwaar"
+    ],
+    "summary":"San Francisco 49er Nick Bosa's helmet is unremarkable from the outside. On the inside is 3D-printed padding shown to reduce impact injury.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651997cb92ce72f6ce0e214d\/0x0.jpg?format=jpg&crop=2525,1419,x0,y57,safe&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.259358,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FSRDQ",
+        "relevance_score":"0.024622",
+        "ticker_sentiment_score":"0.226754",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"International Longshore and Warehouse US dockworkers union files for bankruptcy",
+    "url":"https:\/\/www.reuters.com\/markets\/deals\/international-longshore-warehouse-us-dockworkers-union-files-bankruptcy-2023-10-01\/",
+    "time_published":1696177080000,
+    "authors":[
+      "Reuters"
+    ],
+    "summary":"A man works as union members with the International Longshore and Warehouse Union Canada ( ILWU ) remove tents and strike signs from a picket line outside the despatch hall in Vancouver, British Columbia, Canada July 13, 2023. REUTERS\/Chris Helgren\/File Photo Acquire Licensing Rights",
+    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/BOEUZWXRSFI7BCLFCET3NRQRCI.jpg",
+    "source":"Reuters",
+    "category_within_source":"Markets",
+    "source_domain":"www.reuters.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.01932,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"ICTEF",
+        "relevance_score":"0.131643",
+        "ticker_sentiment_score":"-0.0227",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"General Motors Employees Union calls for chain hunger strike from Oct 2",
+    "url":"https:\/\/www.business-standard.com\/companies\/news\/general-motors-employees-union-calls-for-chain-hunger-strike-from-oct-2-123100100903_1.html",
+    "time_published":1696176906000,
+    "authors":[
+      "Press Trust of India"
+    ],
+    "summary":"The employee union of General Motors India has called for a chain hunger strike from Monday, demanding transfer of all its workers to Hyundai Motor, which plans to acquire its manufacturing facility in Talegaon. The American automobile giant stopped selling its cars in India from 2017.",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-08\/22\/full\/1692690129-0123.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.9545"
-      }
-    ],
-    "overall_sentiment_score":0.118599,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSTR",
-        "relevance_score":"0.0378",
-        "ticker_sentiment_score":"0.029893",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.0378",
-        "ticker_sentiment_score":"0.123693",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.0378",
-        "ticker_sentiment_score":"0.036261",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.259925",
-        "ticker_sentiment_score":"0.013645",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTG",
-        "relevance_score":"0.075516",
-        "ticker_sentiment_score":"-0.065598",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BCH",
-        "relevance_score":"0.075516",
-        "ticker_sentiment_score":"-0.065598",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:XRP",
-        "relevance_score":"0.0378",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.150357",
-        "ticker_sentiment_score":"0.041743",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:FIL",
-        "relevance_score":"0.075516",
-        "ticker_sentiment_score":"0.15683",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.075516",
-        "ticker_sentiment_score":"-0.065598",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Crypto pumps after Fed rate hike, Zuck pins hopes on Metaverse making hundreds of billions, and Tesla posts $64M BTC gain: Hodler's Digest, July 24-30",
-    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/07\/30\/crypto-pumps-after-fed-rate-hike-zuck-pins-hopes-metaverse-making-hundreds-billions-tesla-posts-64m-btc-profit-hodlers-digest-july-24-30",
-    "time_published":1659213057000,
-    "authors":[
-
-    ],
-    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link. Despite the U.S.",
-    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/07\/jule-24-30.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.967645"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.838487"
-      }
-    ],
-    "overall_sentiment_score":0.12204,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.139064",
-        "ticker_sentiment_score":"0.001249",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.034933",
-        "ticker_sentiment_score":"0.096445",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.173333",
-        "ticker_sentiment_score":"0.096923",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.207275",
-        "ticker_sentiment_score":"0.022632",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:HT",
-        "relevance_score":"0.069798",
-        "ticker_sentiment_score":"-0.057743",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:KSM",
-        "relevance_score":"0.069798",
-        "ticker_sentiment_score":"-0.057743",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETC",
-        "relevance_score":"0.069798",
-        "ticker_sentiment_score":"0.164891",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.069798",
-        "ticker_sentiment_score":"0.164891",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bitcoin Falls Below This Major Level, Here Are The Top Crypto Movers For Monday",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/07\/28185138\/bitcoin-falls-below-this-major-level-here-are-the-top-crypto-movers-for-monday",
-    "time_published":1658750739000,
-    "authors":[
-      "Lisa Levin"
-    ],
-    "summary":"Bitcoin BTC\/USD, the world's oldest cryptocurrency, fell below the $22,000 mark, recording sharp losses on Monday. Ethereum ETH\/USD, the second-biggest cryptocurrency, meanwhile, managed to stay above the $15,000 level, but moved sharply lower over the past 24 hours.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/07\/25\/image-bitcoin4.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
       },
       {
         "topic":"Manufacturing",
         "relevance_score":"1.0"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
       }
     ],
-    "overall_sentiment_score":-0.170442,
-    "overall_sentiment_label":"Somewhat-Bearish",
+    "overall_sentiment_score":-0.088759,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"WHR",
-        "relevance_score":"0.439786",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"GM",
+        "relevance_score":"0.670742",
+        "ticker_sentiment_score":"-0.060356",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"PKG",
-        "relevance_score":"0.439786",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.617765",
-        "ticker_sentiment_score":"-0.63085",
-        "ticker_sentiment_label":"Bearish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.617765",
-        "ticker_sentiment_score":"-0.63085",
-        "ticker_sentiment_label":"Bearish"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.229149",
-        "ticker_sentiment_score":"0.578129",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"HYMLF",
+        "relevance_score":"0.285526",
+        "ticker_sentiment_score":"-0.186272",
+        "ticker_sentiment_label":"Somewhat-Bearish"
       }
     ]
   },
   {
-    "title":"CoinAgenda Europe Announces Blockchain Startup Competition Winners in Monaco",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/06\/g27548187\/coinagenda-europe-announces-blockchain-startup-competition-winners-in-monaco",
-    "time_published":1654276655000,
+    "title":"New iPhones Feeling The Heat? Apple Blames Software And Apps, Assures Solutions - Apple  ( NASDAQ:AAPL ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35020906\/new-iphones-feeling-the-heat-apple-blames-software-and-apps-assures-solutions",
+    "time_published":1696176823000,
     "authors":[
-      "Globe Newswire"
+      "Bibhu Pattnaik"
     ],
-    "summary":"Monaco, June 03, 2022 ( GLOBE NEWSWIRE ) -- ( via Blockchain Wire ) CoinAgenda ( www.coinagenda.com ) , the premier conference series, connecting blockchain and cryptocurrency investors with startups since 2014, today announced the winners of the CoinAgenda Europe Blockchain Startup Competiti",
-    "banner_image":"",
+    "summary":"Apple Inc. AAPL is addressing concerns regarding its latest iPhone 15 devices becoming unusually warm. What Happened: The company identified software issues and specific third-party applications as the primary causes and assured users that corrective measures are in progress, reported Bloomberg.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/01\/iphone_15.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"News",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.999996"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.995077"
+        "topic":"Technology",
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":0.014913,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.222797,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:AE",
-        "relevance_score":"0.042953",
-        "ticker_sentiment_score":"0.018431",
+        "ticker":"SSTK",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"0.130647",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.085782",
-        "ticker_sentiment_score":"0.023822",
+        "ticker":"UBER",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"-0.060837",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.042953",
-        "ticker_sentiment_score":"0.018431",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"AAPL",
+        "relevance_score":"0.66906",
+        "ticker_sentiment_score":"0.181929",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Score 170% Potential Gains with These \"Ground-Floor\" Quantum Computing Stocks",
-    "url":"https:\/\/moneymorning.com\/2022\/05\/17\/score-170-potential-gains-with-these-ground-floor-quantum-computing-stocks\/",
-    "time_published":1652818310000,
+    "title":"Ryder Cup in Rome stays right at home for the Europeans. The US loses its seventh straight in Europe",
+    "url":"https:\/\/apnews.com\/article\/ryder-cup-europe-usa-marco-simone-4ba506769714aff78488651db46c1dfd",
+    "time_published":1696176780000,
     "authors":[
-      "Lyric Mott",
-      "lmott"
+      "DOUG FERGUSON"
     ],
-    "summary":"Quantum computing was only a hopeful theory a few decades ago, but today, it's a reality, and big companies are racing to own a stake in the exploding sector.",
-    "banner_image":"https:\/\/moneymorning.com\/wp-content\/blogs.dir\/1\/files\/2021\/11\/semiconductor-chip-1200.jpg",
-    "source":"Money Morning",
-    "category_within_source":"n\/a",
-    "source_domain":"moneymorning.com",
+    "summary":"GUIDONIA MONTECELIO, Italy ( AP ) - Europe won back the the on Sunday, just like it always does before its raucous crowd, with Rory McIlroy leading the way and Tommy Fleetwood delivering the decisive point to extend its dominance over the Americans on home soil.",
+    "banner_image":"https:\/\/dims.apnews.com\/dims4\/default\/fcd1656\/2147483647\/strip\/true\/crop\/3284x2188+0+1\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F56%2F9f713e03280e5cf9e7b65d7b530f%2Ffc2cd717bb59491b980471d14e97bc33",
+    "source":"Associated Press",
+    "category_within_source":"Markets",
+    "source_domain":"apnews.com",
     "topics":[
       {
-        "topic":"Life Sciences",
-        "relevance_score":"0.333333"
+        "topic":"Real Estate & Construction",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.22323,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"AWON",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"0.067859",
+        "ticker_sentiment_label":"Neutral"
       },
+      {
+        "ticker":"FPH",
+        "relevance_score":"0.04794",
+        "ticker_sentiment_score":"-0.162766",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Tax tweaks send foreign mutual funds into a 5-month outflow eclipse",
+    "url":"https:\/\/www.business-standard.com\/markets\/news\/tax-tweaks-send-international-mfs-into-a-five-month-outflow-eclipse-123100100594_1.html",
+    "time_published":1696176720000,
+    "authors":[
+      "Abhishek Kumar"
+    ],
+    "summary":"M-cap of 5 of 10 valued firms decline by Rs 62,586 cr; TCS biggest laggard FPIs turn sellers after 6 mths of investment; pulls out Rs 14,767 cr in Sep Rising costs, competition leave paint sector in need of fresh coat Retail investors have grasped the power of equities: Vikas Khemani",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-03\/26\/full\/1679828489-0782.jpg?im=FitAndFill=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.014664,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"The firms of middle India",
+    "url":"https:\/\/www.business-standard.com\/opinion\/columns\/the-firms-of-middle-india-123100100915_1.html",
+    "time_published":1696176579000,
+    "authors":[
+      "Ajay Shah"
+    ],
+    "summary":"These are personal views of the writer. They do not necessarily reflect the opinion of www.business-standard.com or the Business Standard newspaper Kettle objects to the pot calling the pan black Expect status quo on rate and no change in stance Sensex sheds 505 pts from summit, ends 165 pts up.",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-10\/01\/full\/1696176412-0413.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
+        "topic":"Economy - Fiscal",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.192444,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Harvesting volatility: Trading volumes in September ripe for the picking",
+    "url":"https:\/\/www.business-standard.com\/markets\/news\/harvesting-volatility-trading-volumes-in-september-ripe-for-the-picking-123100100629_1.html",
+    "time_published":1696176578000,
+    "authors":[
+      "Mayank Patwardhan"
+    ],
+    "summary":"Azad Engineering Ltd submits application for Rs 740 cr IPO with Sebi M-cap of 5 of 10 valued firms decline by Rs 62,586 cr; TCS biggest laggard FPIs turn sellers after 6 mths of investment; pulls out Rs 14,767 cr in Sep Rising costs, competition leave paint sector in need of fresh coat",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-07\/03\/full\/1688404849-6988.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
       {
         "topic":"IPO",
         "relevance_score":"0.158519"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.938793"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
+        "relevance_score":"0.87644"
       }
     ],
-    "overall_sentiment_score":0.195049,
+    "overall_sentiment_score":0.060343,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Toy Fair Leaving New York After 100-Plus-Years Run",
+    "url":"https:\/\/www.forbes.com\/sites\/joanverdon\/2023\/10\/01\/toy-fair-leaving-new-york-after-100-plus-years-run\/",
+    "time_published":1696176465000,
+    "authors":[
+      "Joan Verdon"
+    ],
+    "summary":"The annual extravaganza of fun and games is leaving the Big Apple and heading to the Big Easy in 2026, after being a fixture in New York since the turn of the century.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651987b72648cb0bb866d2b0\/0x0.jpg?format=jpg&crop=2101,1401,x0,y86,safe&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.186604,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"MSFT",
-        "relevance_score":"0.049567",
-        "ticker_sentiment_score":"0.118075",
+        "ticker":"MAT",
+        "relevance_score":"0.056943",
+        "ticker_sentiment_score":"-0.038016",
         "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSEM",
-        "relevance_score":"0.049567",
-        "ticker_sentiment_score":"0.118075",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.098943",
-        "ticker_sentiment_score":"0.089382",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"INTC",
-        "relevance_score":"0.098943",
-        "ticker_sentiment_score":"0.052491",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"ACN",
-        "relevance_score":"0.049567",
-        "ticker_sentiment_score":"0.015487",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RGTI",
-        "relevance_score":"0.098943",
-        "ticker_sentiment_score":"0.105308",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BIIB",
-        "relevance_score":"0.049567",
-        "ticker_sentiment_score":"0.015487",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.098943",
-        "ticker_sentiment_score":"0.512162",
-        "ticker_sentiment_label":"Bullish"
       }
     ]
   },
   {
-    "title":"Will Ethereum's Virtual Machine Eat Itself?",
-    "url":"https:\/\/www.forbes.com\/sites\/lawrencewintermeyer\/2022\/05\/12\/will-ethereums-virtual-machine-eat-itself\/",
-    "time_published":1652349629000,
+    "title":"Challenge to McCarthy's speakership would be first in over 100 years | Politics",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/politics\/history-mccarthy-house-speaker-challenge\/index.html",
+    "time_published":1696176360000,
     "authors":[
-      "Lawrence Wintermeyer"
+      "Kristin Wilson",
+      "Jack Forrest"
     ],
-    "summary":"Just as Bitcoin begat altcoins, which begat Ethereum, smart contracts and a barrage of blockchains, the EVM is the Virtual Machine that spawned an army of imitators. While Ethereum's network effects have yet to be surpassed, its trusty VM has been pressed into service on the unlikeliest of networks.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/627ca9c86b0e218de08ee823\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Money",
-    "source_domain":"www.forbes.com",
+    "summary":"Challenge to McCarthy's speakership would be first in over 100 years ...",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231001102124-05-kevin-mccarthy-093023.jpg?c=16x9&q=w_800,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
     "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.998626"
-      }
+
     ],
-    "overall_sentiment_score":0.076637,
+    "overall_sentiment_score":-0.037845,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CRON",
-        "relevance_score":"0.036858",
-        "ticker_sentiment_score":"0.06938",
+        "ticker":"WBD",
+        "relevance_score":"0.069094",
+        "ticker_sentiment_score":"-0.067211",
         "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.110259",
-        "ticker_sentiment_score":"0.034869",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.690673",
-        "ticker_sentiment_score":"0.100646",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:SYS",
-        "relevance_score":"0.036858",
-        "ticker_sentiment_score":"0.06938",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.146648",
-        "ticker_sentiment_score":"0.037686",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:WAN",
-        "relevance_score":"0.036858",
-        "ticker_sentiment_score":"0.420823",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.182727",
-        "ticker_sentiment_score":"0.300401",
-        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Thematic ETFs Are in a Funk. Here Are Reasons to Buy Now.",
-    "url":"https:\/\/www.barrons.com\/advisor\/articles\/thematic-etfs-slump-reasons-buy-now-51651773456",
-    "time_published":1651773540000,
+    "title":"1 Apple Chip Supplier the Market Has Given Up On -- Time to Buy Before It Soars?",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/01\/1-apple-chip-supplier-the-market-has-given-up-on-t\/",
+    "time_published":1696176300000,
     "authors":[
-      "David Sterman"
+      "Nicholas Rossolillo"
     ],
-    "summary":"I have great sympathy for Cathie Wood. She has seemingly bore the brunt of investor frustration as growth stocks have cratered in recent quarters. In fact, her flagship ARK Innovation ETF  ( ARKK )  has fallen more than 60% from its early 2021 peak as investors come to see that high beta investing carries just as much risk as reward. Not a day goes by when a financial pundit doesn't express some measure of schadenfreude from witnessing her fund's implosion.",
-    "banner_image":"https:\/\/images.barrons.com\/im-433851?width=619&height=413",
-    "source":"Barrons",
+    "summary":"Synaptics is down this year, dramatically underperforming other chip stocks, but it could be really cheap right now.",
+    "banner_image":"https:\/\/media.ycharts.com\/charts\/2a973435d106c06079f84ea298066317.png",
+    "source":"Motley Fool",
     "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
+    "source_domain":"www.fool.com",
     "topics":[
       {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.010188,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.099367",
-        "ticker_sentiment_score":"0.085701",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AGTEF",
-        "relevance_score":"0.033199",
-        "ticker_sentiment_score":"0.164853",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"MORN",
-        "relevance_score":"0.033199",
-        "ticker_sentiment_score":"0.02663",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.099367",
-        "ticker_sentiment_score":"0.017915",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"With 11.1% CAGR, Cryptocurrency Market Size Worth USD 1902.5 Million in 2028",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/05\/g27015644\/with-11-1-cagr-cryptocurrency-market-size-worth-usd-1902-5-million-in-2028",
-    "time_published":1651749627000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"Pune, India, May  05, 2022   ( GLOBE NEWSWIRE )  -- The global cryptocurrency market size is likely to reach USD 1902.5 million by 2028, exhibiting a CAGR of 11.1% during the forecast period. In its report titled \"Cryptocurrency Market Size, Share and Growth\", Fortune Business Insight mentions that ",
-    "banner_image":"https:\/\/ml.globenewswire.com\/media\/05408ba1-26b1-4fdd-8f48-1af4df373348\/small\/fbi-logo-tm-png.png",
-    "source":"Benzinga",
-    "category_within_source":"Mergers",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.977154"
+        "relevance_score":"0.360215"
       },
       {
         "topic":"Manufacturing",
         "relevance_score":"0.5"
       },
       {
+        "topic":"Earnings",
+        "relevance_score":"0.839681"
+      },
+      {
         "topic":"Technology",
         "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":-0.003912,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.208034,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"CURN",
-        "relevance_score":"0.050894",
-        "ticker_sentiment_score":"0.063218",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"NVDA",
+        "relevance_score":"0.113329",
+        "ticker_sentiment_score":"0.172084",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"IBN",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"-0.192808",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
+        "ticker":"SYNA",
+        "relevance_score":"0.681539",
+        "ticker_sentiment_score":"0.318576",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Top home improvement projects to boost value",
+    "url":"https:\/\/www.foxbusiness.com\/personal-finance\/top-home-improvement-projects-boost-value",
+    "time_published":1696176042000,
+    "authors":[
+      "Erica Lamberg"
+    ],
+    "summary":"New survey data released by Realtor.com reveals that despite high costs for home improvements, 70% of U.S. homeowners plan to renovate their home in the next year.",
+    "banner_image":"https:\/\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/09\/Home-kitchen-room-replacement-workers.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
+    "topics":[
       {
-        "ticker":"BACHY",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"0.137367",
-        "ticker_sentiment_label":"Neutral"
-      },
+        "topic":"Financial Markets",
+        "relevance_score":"0.684621"
+      }
+    ],
+    "overall_sentiment_score":0.304893,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
       {
-        "ticker":"INTC",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"3.1e-05",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"V",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"0.0302",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMD",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"0.000421",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CBSU",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"0.137367",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.151858",
-        "ticker_sentiment_score":"0.03077",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.050894",
-        "ticker_sentiment_score":"0.002372",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.02546",
-        "ticker_sentiment_score":"0.105869",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:LTC",
-        "relevance_score":"0.050894",
-        "ticker_sentiment_score":"0.096524",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.050894",
-        "ticker_sentiment_score":"0.095687",
+        "ticker":"ANGI",
+        "relevance_score":"0.061159",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Bitcoin Trailblazer Raises Capital To Create Interplanetary Cryptocurrency",
-    "url":"https:\/\/www.forbes.com\/sites\/michaeldelcastillo\/2022\/05\/04\/bitcoin-trailblazer-raises-capital-to-create-interplanetary-cryptocurrency\/",
-    "time_published":1651704252000,
+    "title":"'Anxiety' high as stock market falls, bond yields rise --- what investors need to know after S&P 500's worst month of 2023",
+    "url":"https:\/\/www.marketwatch.com\/story\/anxiety-high-as-stock-market-falls-bond-yields-rise-what-investors-need-to-know-after-s-p-500s-worst-month-of-2023-4196cd0e",
+    "time_published":1696176000000,
     "authors":[
-      "Michael del Castillo"
+      "Christine Idzelis"
     ],
-    "summary":"LedgerX founding CEO Paul Chou is building on the sale of the company he created to FTX by creating a new kind of cryptocurrency, Foundation Coin, that can be spent on Earth, the Moon, Mars and beyond.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6273053a466486d65cbb66d0\/0x0.jpg?format=jpg&crop=1703,958,x0,y0,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Money",
-    "source_domain":"www.forbes.com",
+    "summary":"U.S. stocks and bonds are both falling again, with the S&P 500 just wrapping up its worst quarterly performance in a year after another surge in Treasury yields.",
+    "banner_image":"https:\/\/images.mktw.net\/im-860228\/social",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.9973"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.095992,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SCHW",
+        "relevance_score":"0.033328",
+        "ticker_sentiment_score":"0.010651",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"C",
+        "relevance_score":"0.033328",
+        "ticker_sentiment_score":"0.120747",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Polish opposition hold huge Warsaw rally ahead of elections",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/europe\/poland-warsaw-rally-intl\/index.html",
+    "time_published":1696175820000,
+    "authors":[
+      "Zahid Mahmood",
+      "Antonia Mortensen",
+      "Marcelo Medeiros"
+    ],
+    "summary":"Massive crowds descended on the Polish capital of Warsaw on Sunday for a rally organized by the country's opposition party ahead of elections that could determine Poland's future in Europe later this month.",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231001113849-01-poland-rally-10012023.jpg?c=16x9&q=h_720,w_1280,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.108505,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.095517",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"International 7-Day News Agenda",
+    "url":"https:\/\/www.barrons.com\/news\/international-7-day-news-agenda-59c0a4b5",
+    "time_published":1696175760000,
+    "authors":[
+      "AFP - Agence France Presse"
+    ],
+    "summary":"Please note that all times are in GMT. Major events are listed under 'Highlights'. For full details of our coverage of top stories, please see our regularly updated News Advisory. ( * ) : Event updated in the last 24 hours.",
+    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
+    "source":"Barrons",
+    "category_within_source":"n\/a",
+    "source_domain":"www.barrons.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.310843"
       },
       {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.029016,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.050148",
+        "ticker_sentiment_score":"0.134235",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EADSF",
+        "relevance_score":"0.050148",
+        "ticker_sentiment_score":"-0.233358",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.050148",
+        "ticker_sentiment_score":"0.134235",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"How the Senate GOP's campaign chief is navigating Trump and messy primaries | Politics",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/politics\/steve-daines-2024\/index.html",
+    "time_published":1696175760000,
+    "authors":[
+      "Manu Raju"
+    ],
+    "summary":"How the Senate GOP's campaign chief is navigating Trump and messy primaries ...",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/200715230859-steve-daines-file.jpg?q=x_191,y_234,h_700,w_1245,c_crop\/w_800",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.068174,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.063341",
+        "ticker_sentiment_score":"-0.001002",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"NTSB team on-site at fatal ammonia-carrying semi-truck crash",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/us\/truck-crash-illinois-anhydrous-ammonia\/index.html",
+    "time_published":1696175557000,
+    "authors":[
+      "Keith Allen",
+      "Zoe Sottile"
+    ],
+    "summary":"A team with the National Transportation Safety Board ( NTSB ) has arrived at the Illinois site where a semi-truck carrying thousands of gallons of toxic ammonia crashed Friday, killing at least five people.",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/230930170539-01-crash-ammonia-leak-illinois-0930-still.jpg?c=16x9&q=h_144,w_256,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":-0.299078,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.090474",
+        "ticker_sentiment_score":"-0.054875",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Tech workers are paying up to $700 a month for tiny bed 'pods' in San Francisco",
+    "url":"https:\/\/www.businessinsider.com\/tech-workers-paying-700-month-tiny-bed-pods-san-francisco-2023-10",
+    "time_published":1696175400000,
+    "authors":[
+      "Nathan Rennolds"
+    ],
+    "summary":"Tech workers paying $700 a month for tiny bed 'pods' in San Francisco - Business Insider ...",
+    "banner_image":null,
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.businessinsider.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.154205,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"Z",
+        "relevance_score":"0.084127",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cautious optimism",
+    "url":"https:\/\/www.business-standard.com\/opinion\/editorial\/cautious-optimism-123100100895_1.html",
+    "time_published":1696175371000,
+    "authors":[
+      "Business Standard Editorial Comment"
+    ],
+    "summary":"Sensex rebounds 507 pts from lows, ends 138 pts up; auto, IT stocks gain Sensex sheds 505 pts from summit, ends 165 pts up; PSU banks crack; IT gain Investors have reason to be satisfied with stock-market returns at the half-year mark of 2023-24.",
+    "banner_image":"https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2023-09\/25\/full\/1695612851-2693.jpg?im=FeatureCrop,size=(826,465)",
+    "source":"Business Standard",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"www.business-standard.com",
+    "topics":[
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.980922"
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":-0.065508,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"FP Markets remporte les prix \u00ab Meilleures conditions de trading \u00bb et \u00ab Courtier le plus fiable \u00bb aux Ultimate Fintech ... - PR Newswire",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/fp-markets-remporte-les-prix--meilleures-conditions-de-trading--et--courtier-le-plus-fiable--aux-ultimate-fintech-awards-global-2023-301943814.html",
+    "time_published":1696175280000,
+    "authors":[
+
+    ],
+    "summary":"FP Markets remporte les prix \u00ab Meilleures conditions de trading \u00bb et \u00ab Courtier le plus fiable \u00bb aux Ultimate Fintech ... PR ...",
+    "banner_image":null,
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.266143"
+      }
+    ],
+    "overall_sentiment_score":0.13344,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Annual Twin Cities Marathon canceled due to extreme heat",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/01\/us\/twin-cities-marathon-canceled-weather\/index.html",
+    "time_published":1696175100000,
+    "authors":[
+      "Mitchell McCluskey",
+      "Kara Devlin"
+    ],
+    "summary":"The annual Twin Cities Marathon has been canceled due to record-breaking heat in Minneapolis and St. Paul, marathon organizers announced Sunday morning. The event, slated to begin at 7 a.m. local time, was expected to draw 300,000 spectators, according to the organizers.",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231001112128-twin-cities-marathon-2022.jpg?c=16x9&q=w_800,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.033128,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.109455",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"A Bull Market Is Coming: 1 Magnificent Growth Stock Down 62% You'll Regret Not Buying on the Dip",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/01\/a-bull-market-is-coming-1-magnificent-growth-stock\/",
+    "time_published":1696175100000,
+    "authors":[
+      "Danny Vena"
+    ],
+    "summary":"Snowflake is well positioned to benefit from the exponential growth of data.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F748941%2Fperson-wearing-glasses-looking-at-multiple-electronic-devices.jpg&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.684621"
       },
       {
         "topic":"Technology",
         "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.972193"
       }
     ],
-    "overall_sentiment_score":0.034641,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.315548,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"GS",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.025039",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"MSFT",
+        "relevance_score":"0.049939",
+        "ticker_sentiment_score":"0.239826",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"GOOG",
-        "relevance_score":"0.023652",
-        "ticker_sentiment_score":"0.090512",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"DTST",
+        "relevance_score":"0.049939",
+        "ticker_sentiment_score":"0.171635",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"MS",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.044187",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"NVDA",
+        "relevance_score":"0.049939",
+        "ticker_sentiment_score":"0.239826",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"FOREX:JPY",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.059133",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.221787",
-        "ticker_sentiment_score":"0.028167",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.0833",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:QTUM",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.0833",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:SPC",
-        "relevance_score":"0.011827",
-        "ticker_sentiment_score":"0.0833",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"SNOW",
+        "relevance_score":"0.683699",
+        "ticker_sentiment_score":"0.54135",
+        "ticker_sentiment_label":"Bullish"
       }
+    ]
+  },
+  {
+    "title":"Attorneys for college taken over by DeSantis allies threaten to sue 'alternate' school",
+    "url":"https:\/\/apnews.com\/article\/new-college-florida-desantis-education-5524a9aec8c2022dc3dae015815e1044",
+    "time_published":1696174920000,
+    "authors":[
+
+    ],
+    "summary":"SARASOTA, Fla. ( AP ) - Attorneys for New College of Florida, the traditionally progressive public liberal arts college that was by allies of Gov.",
+    "banner_image":"https:\/\/dims.apnews.com\/dims4\/default\/4f0620a\/2147483647\/strip\/true\/crop\/4674x3113+0+124\/resize\/599x399!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F88%2Ff2bdc1002ec3a801e5be8a5a9ffc%2F20fc67fbe9fb48b8a511e6e0165d8494",
+    "source":"Associated Press",
+    "category_within_source":"Markets",
+    "source_domain":"apnews.com",
+    "topics":[
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.073158,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
     ]
   }
 ]
