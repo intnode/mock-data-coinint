@@ -1,1121 +1,813 @@
 [
   {
-    "title":"Cummins Acquires Part Of Faurecia's Commercial Vehicle Exhaust Aftertreatment Business For \u20ac199.2M - Cummins  ( NYSE:CMI ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35022904\/cummins-acquires-part-of-faurecias-commercial-vehicle-exhaust-aftertreatment-business-for-199-2m",
-    "time_published":1696246007000,
+    "title":"Paxos' $500K Bitcoin fee, FTX tokens sales set to begin and other news: Hodler's Digest, Sept. 10-16",
+    "url":"https:\/\/cointelegraph.com\/magazine\/paxos-500k-bitcoin-fee-ftx-tokens-sales-set-to-begin-and-other-news-hodlers-digest-sept-10-16\/",
+    "time_published":1694898171000,
     "authors":[
-      "Shivani Kumaresan"
+      "Editorial Staff"
     ],
-    "summary":"Cummins Inc CMI said Cummins Emission Solutions completed its acquisition of two Faurecia commercial vehicle manufacturing plants and their related activities, one in Columbus, Indiana ( U.S. ) , and one in Roermond, Netherlands. Faurecia is a global automotive technology leader and company ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/02\/cmi.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.241358,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FURCF",
-        "relevance_score":"0.350564",
-        "ticker_sentiment_score":"0.255523",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CMI",
-        "relevance_score":"0.987581",
-        "ticker_sentiment_score":"0.466023",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"CVGI",
-        "relevance_score":"0.179788",
-        "ticker_sentiment_score":"0.074166",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Coinbase Lands Full Operating License in Singapore",
-    "url":"https:\/\/decrypt.co\/199727\/coinbase-lands-full-operating-license-singapore",
-    "time_published":1696245633000,
-    "authors":[
-      "Mattis Meichler"
-    ],
-    "summary":"The popular crypto exchange Coinbase continues its global expansion strategy as the crackdown stateside shows no side of abatement.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2022\/07\/coinbase-nft-nyc-gID_7.jpeg",
-    "source":"Decrypt.co",
+    "summary":"Paxos makes a mistake, pays $500k in Bitcoin transfer. FTX receives court approval for token sales, and Gemini Earn users receive plan for fund recovery.",
+    "banner_image":null,
+    "source":"Cointelegraph",
     "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "source_domain":"cointelegraph.com",
     "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      },
       {
         "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.310843"
+        "relevance_score":"0.983605"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.917436"
       }
     ],
-    "overall_sentiment_score":0.311687,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.057723,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
+        "ticker":"BK",
+        "relevance_score":"0.034282",
+        "ticker_sentiment_score":"0.156619",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"GS",
+        "relevance_score":"0.068502",
+        "ticker_sentiment_score":"-0.065176",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IVZ",
+        "relevance_score":"0.034282",
+        "ticker_sentiment_score":"0.156619",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"WT",
+        "relevance_score":"0.034282",
+        "ticker_sentiment_score":"0.156619",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
         "ticker":"COIN",
-        "relevance_score":"0.807885",
-        "ticker_sentiment_score":"0.545404",
-        "ticker_sentiment_label":"Bullish"
+        "relevance_score":"0.034282",
+        "ticker_sentiment_score":"0.156619",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.508345",
+        "ticker_sentiment_score":"0.150086",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"0.0",
+        "relevance_score":"0.170154",
+        "ticker_sentiment_score":"0.065288",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.068502",
+        "ticker_sentiment_score":"0.070194",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.068502",
+        "ticker_sentiment_score":"0.070194",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Sam Bankman-Fried FTX trial - five things you need to know",
-    "url":"https:\/\/cointelegraph.com\/news\/sam-bankman-fried-ftx-trial-preview",
-    "time_published":1696245231000,
+    "title":"Blockchain Market in Supply Chain Industry to grow by USD 4.94 billion between 2022 - 2027 | The increasing ... - PR Newswire",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/blockchain-market-in-supply-chain-industry-to-grow-by-usd-4-94-billion-between-2022---2027--the-increasing-complexities-due-to-time-bound-deliveries-and-customization-of-the-supply-chain-to-drive-growth---technavio-301928549.html",
+    "time_published":1694772900000,
     "authors":[
-      "Gareth Jenkinson"
+
     ],
-    "summary":"The long awaited trial of former FTX CEO Sam Bankman-Fried gets underway on Oct. 4 - here's what you need to know.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMjkzNTEwYzgtMjI0NC00MjJmLTgyMGItNTk1M2Y4YTZmYzY1LmpwZw==.jpg",
+    "summary":"Blockchain Market in Supply Chain Industry to grow by USD 4.94 billion between 2022 - 2027 | The increasing ... PR ...",
+    "banner_image":null,
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.972193"
+      }
+    ],
+    "overall_sentiment_score":0.237321,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SAP",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CAPMF",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IBM",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ORCL",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"INFY",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ACN",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TCTZF",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.053509",
+        "ticker_sentiment_score":"0.038813",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Rises More Than 8% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34539934\/cryptocurrency-vechain-rises-more-than-8-in-24-hours",
+    "time_published":1694617251000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price rose 8.93% to $0.02. This continues its positive trend over the past week where it has experienced a 5.0% gain, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/crypto_movers_image_0.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.079671,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.135461",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Tops $26,000; Toncoin Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34536808\/bitcoin-tops-26-000-toncoin-emerges-as-top-gainer",
+    "time_published":1694612029000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices trading above the $26,000 level on Wednesday. Ethereum ETH\/USD, also moved higher, but traded slightly below the key $1,600 mark this morning. Toncoin TON\/USD was the top gainer over the prior 24 hours, while Astar ASTR\/USD turned out ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/13\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.108587,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.766141",
+        "ticker_sentiment_score":"0.48987",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:COMP",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.515087",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BSV",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.736449",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.736449",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.736449",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"0.193496",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:XLM",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.15178",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"vechain et SingularityNet combinent la blockchain et l'IA pour promouvoir le d\u00e9veloppement durable et cr\u00e9er des outils d'entreprise avanc\u00e9s",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/vechain-et-singularitynet-combinent-la-blockchain-et-lia-pour-promouvoir-le-developpement-durable-et-creer-des-outils-dentreprise-avances-301910782.html",
+    "time_published":1693190340000,
+    "authors":[
+      "vechain"
+    ],
+    "summary":"vechain et SingularityNet combinent la blockchain et l'IA pour promouvoir le d\u00e9veloppement durable et cr\u00e9er des outils ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2194446\/Vechain_and_SingularityNET.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.039157,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.343279",
+        "ticker_sentiment_score":"0.052345",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.421485",
+        "ticker_sentiment_score":"0.047099",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Vechain and SingularityNet Combine Blockchain + AI To Drive Sustainability and Build Advanced Enterprise-Grade Tools",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/vechain-and-singularitynet-combine-blockchain--ai-to-drive-sustainability-and-build-advanced-enterprise-grade-tools-301910127.html",
+    "time_published":1692969240000,
+    "authors":[
+      "vechain"
+    ],
+    "summary":"Vechain and SingularityNet Combine Blockchain + AI To Drive Sustainability and Build Advanced Enterprise-Grade ... PR ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2194446\/Vechain_and_SingularityNET.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.428757,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.28442",
+        "ticker_sentiment_score":"0.367694",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.604787",
+        "ticker_sentiment_score":"0.568001",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Vechain and SingularityNet Combine Blockchain + AI To Drive Sustainability and Build Advanced Enterprise-Grade Tools",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/vechain-and-singularitynet-combine-blockchain--ai-to-drive-sustainability-and-build-advanced-enterprise-grade-tools-301910113.html",
+    "time_published":1692968220000,
+    "authors":[
+      "vechain"
+    ],
+    "summary":"SAN MARINO, Aug. 25, 2023 \/PRNewswire\/ -- Vechain and SingularityNET, industry leaders in blockchain and artificial intelligence ( AI ) respectively, are thrilled to announce their strategic collaboration.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2194446\/Vechain_and_SingularityNET.jpg?p=facebook",
+    "source":"PR Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.428757,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.28442",
+        "ticker_sentiment_score":"0.367694",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.604787",
+        "ticker_sentiment_score":"0.568001",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"VeChain and SingularityNET team up on AI to fight climate change",
+    "url":"https:\/\/cointelegraph.com\/news\/vechain-and-singularitynet-team-up-on-ai-to-fight-climate-change",
+    "time_published":1692928927000,
+    "authors":[
+      "Martin Young"
+    ],
+    "summary":"SingularityNET CEO Ben Goertzel says that AI and blockchain have the potential to solve problems that traditional mechanisms have \"consistently, miserably failed.\" ...",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMWI0NTE4MDktMzI2Yi00MjUxLWE1YzctOWE0M2VhNjlkMGM0LmpwZw==.jpg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Blockchain",
-        "relevance_score":"0.890401"
+        "relevance_score":"0.99489"
       }
     ],
-    "overall_sentiment_score":-0.170126,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NFLX",
-        "relevance_score":"0.0362",
-        "ticker_sentiment_score":"-0.139017",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.0362",
-        "ticker_sentiment_score":"-0.233793",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"SFTBF",
-        "relevance_score":"0.0362",
-        "ticker_sentiment_score":"0.123023",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:FTT",
-        "relevance_score":"0.108303",
-        "ticker_sentiment_score":"-0.101739",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"GreenShield welcomes Sabrina Ladha as Vice President, GreenShield Cares - Canada NewsWire",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/greenshield-welcomes-sabrina-ladha-as-vice-president-greenshield-cares-877894995.html",
-    "time_published":1696244820000,
-    "authors":[
-
-    ],
-    "summary":"GreenShield welcomes Sabrina Ladha as Vice President, GreenShield Cares Canada ...",
-    "banner_image":null,
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.614606"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.485905,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Innovative Designs Adds New Accounts",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752606\/0\/en\/Innovative-Designs-Adds-New-Accounts.html",
-    "time_published":1696244400000,
-    "authors":[
-      "Innovative Designs Inc."
-    ],
-    "summary":"PITTSBURGH, PA, Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- via NewMediaWire - Innovative Designs Inc ( OTCQB: IVDN ) continues to add new accounts across the United States. Three of the most recent additions are as follows: ( 1 ) Guerdon LLC is the leading manufacturer of large-scale, commercial modular ...",
-    "banner_image":"",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.189647,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Eledon Pharmaceuticals Appoints Kidney Transplant Specialist Dr. Allan Douglas Kirk to Board of Directors",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752607\/0\/en\/Eledon-Pharmaceuticals-Appoints-Kidney-Transplant-Specialist-Dr-Allan-Douglas-Kirk-to-Board-of-Directors.html",
-    "time_published":1696244400000,
-    "authors":[
-      "Eledon Pharmaceuticals",
-      "Inc."
-    ],
-    "summary":"IRVINE, Calif., Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Eledon Pharmaceuticals, Inc. ( \"Eledon\" ) ( NASDAQ: ELDN ) today announced the appointment of Allan Douglas Kirk, M.D., Ph.D., to its Board of Directors.",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/5e2f90ec-c9a5-4fcd-99c8-2c8c838ac033",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.168395,
+    "overall_sentiment_score":0.189884,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"ELDN",
-        "relevance_score":"0.187827",
-        "ticker_sentiment_score":"0.113575",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Global Atomic Finalizes Letter of Intent for Its Third Agreement to Supply Uranium to North American Nuclear Utilities - Canada NewsWire",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/global-atomic-finalizes-letter-of-intent-for-its-third-agreement-to-supply-uranium-to-north-american-nuclear-utilities-839385169.html",
-    "time_published":1696244400000,
-    "authors":[
-
-    ],
-    "summary":"Global Atomic Finalizes Letter of Intent for Its Third Agreement to Supply Uranium to North American Nuclear Utilities Canada ...",
-    "banner_image":null,
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.158531,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.041682",
-        "ticker_sentiment_score":"0.056108",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.079392",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"BFSAF",
-        "relevance_score":"0.165598",
-        "ticker_sentiment_score":"0.100993",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.079392",
+        "ticker_sentiment_score":"0.08427",
         "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"MediPharm Labs Settles an Outstanding Claim for $9M",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/medipharm-labs-settles-an-outstanding-claim-for-9m-864507463.html",
-    "time_published":1696244400000,
-    "authors":[
-      "MediPharm Labs Corp."
-    ],
-    "summary":"TORONTO, Oct. 2, 2023 \/CNW\/ - MediPharm Labs Corp. ( TSX: LABS ) ( OTCQB: MEDIF ) ( FSE: MLZ ) ( \"MediPharm\", \"MediPharm Labs\" or the \"Company\" ) a company specialized in precision-based cannabinoids, is pleased to announce it has entered into a settlement agreement on September 29, 2023 ( the ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2236210\/MediPharm_Labs_Corp__MediPharm_Labs_Settles_an_Outstanding_Claim.jpg?p=facebook",
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
       },
       {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.235062",
+        "ticker_sentiment_score":"0.063241",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.30942,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"APG",
-        "relevance_score":"0.031405",
-        "ticker_sentiment_score":"0.199843",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"TLRY",
-        "relevance_score":"0.031405",
-        "ticker_sentiment_score":"0.24147",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"HEXO",
-        "relevance_score":"0.125134",
-        "ticker_sentiment_score":"0.254395",
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.235062",
+        "ticker_sentiment_score":"0.15263",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Hemlo Explorers Announces Results of 2023 Mapping and Sampling Program",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752609\/0\/en\/Hemlo-Explorers-Announces-Results-of-2023-Mapping-and-Sampling-Program.html",
-    "time_published":1696244400000,
+    "title":"Page 99 of Cryptocurrency News: Cryptocurrency Latest News, Cryptocurrency Today news, Cryptocurrency Breaking News",
+    "url":"https:\/\/www.financialexpress.com\/about\/cryptocurrency\/news\/page\/99\/",
+    "time_published":1692165558000,
     "authors":[
-      "Hemlo Explorers Inc."
+
     ],
-    "summary":"Hemlo Explorers Inc. provides update on its geological mapping and grab sampling program.",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/8ccb7f1f-f253-41ac-b9fe-ebfc4777c695",
-    "source":"GlobeNewswire",
+    "summary":"Page 99 of Cryptocurrency News: Cryptocurrency Latest News, Cryptocurrency Today news, Cryptocurrency Breaking ... The Financial Express ...",
+    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2022\/11\/Digital-currency-13.jpg?w=310&h=174&crop=1",
+    "source":"The Financial Express",
     "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.052557,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CNOBF",
-        "relevance_score":"0.222157",
-        "ticker_sentiment_score":"0.051339",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOLD",
-        "relevance_score":"0.074926",
-        "ticker_sentiment_score":"0.082192",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MALRF",
-        "relevance_score":"0.037504",
-        "ticker_sentiment_score":"-0.035796",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Will Electronic Arts Stock Offer Better Returns Than PPG Industries In The Next Three Years?",
-    "url":"https:\/\/www.forbes.com\/sites\/greatspeculations\/2023\/10\/02\/will-electronic-arts-stock-offer-better-returns-than-ppg-industries-in-the-next-three-years\/",
-    "time_published":1696244400000,
-    "authors":[
-      "Trefis Team"
-    ],
-    "summary":"We believe Electronic Arts stock (NASDAQ: EA) is a better pick than PPG Industries stock (NYSE: PPG), a paints, coatings, and specialty materials supplier, given its b...",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/63d363e37ac05691e64c550c\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Markets",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.5855"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.999696"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.270575,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"EA",
-        "relevance_score":"0.830322",
-        "ticker_sentiment_score":"0.443734",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"PPG",
-        "relevance_score":"0.754753",
-        "ticker_sentiment_score":"0.429662",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Auto Sales Set To Rise. Here's How Much GM, Ford May Gain.",
-    "url":"https:\/\/www.investors.com\/news\/auto-sales-q3-2023-gm-ford-gains\/",
-    "time_published":1696244400000,
-    "authors":[
-      "Investor's Business Daily",
-      "APARNA NARAYANAN"
-    ],
-    "summary":"General Motors ( GM ) and Ford Motor ( F ) are due to report U.S. auto sales for the third quarter this week, while autoworkers strike over a new labor contract. Chrysler parent Stellantis ( STLA ) , Toyota ( TM ) and Honda ( HMC ) are also due to report new vehicle sales in the U.S. market.",
-    "banner_image":"https:\/\/www.investors.com\/wp-content\/uploads\/2021\/06\/Stock-GM-lyriq-01-company.jpg",
-    "source":"Investors Business Daily",
-    "category_within_source":"n\/a",
-    "source_domain":"www.investors.com",
+    "source_domain":"www.financialexpress.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.158519"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.115248,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.204072",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"F",
-        "relevance_score":"0.204072",
-        "ticker_sentiment_score":"-0.095685",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GM",
-        "relevance_score":"0.395012",
-        "ticker_sentiment_score":"-0.305291",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"HMC",
-        "relevance_score":"0.204072",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"BAE Systems Secures \u00a33.95B Funding For Next Phase Of AUKUS Submarine Program - BAE Systems  ( OTC:BAESF ) , BAE Systems  ( OTC:BAESY ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35023002\/bae-systems-secures-3-95b-funding-for-next-phase-of-aukus-submarine-program",
-    "time_published":1696244216000,
-    "authors":[
-      "Akanksha Bakshi"
-    ],
-    "summary":"BAE Systems plc BAESY BAESF has secured \u00a33.95 billion in funding for the progression of the SSN-AUKUS project, the U.K.'s next-generation nuclear-powered attack submarine program. The SSN-AUKUS submarines are set to be the most formidable and technologically advanced in the Royal Navy's fleet.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/02\/baesy.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.216716,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BAESF",
-        "relevance_score":"0.651499",
-        "ticker_sentiment_score":"0.170839",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NNWWF",
-        "relevance_score":"0.185306",
-        "ticker_sentiment_score":"0.160679",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"China's Hollysys forms committee to review $1.55 bln takeover offer",
-    "url":"https:\/\/www.reuters.com\/markets\/deals\/chinas-hollysys-forms-committee-review-155-bln-takeover-offer-2023-10-02\/",
-    "time_published":1696244118000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"Oct 2 ( Reuters ) - Hollysys Automation Technologies ( HOLI.F ) , a China-based maker of automation and control systems, said on Monday it had formed a special committee to review a $1.55 billion offer from a consortium and start a sale process.",
-    "banner_image":"https:\/\/www.reuters.com\/pf\/resources\/images\/reuters\/reuters-default.webp?d=159",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.291417,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"HOLI",
-        "relevance_score":"0.211191",
-        "ticker_sentiment_score":"0.116023",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Nio's stock rises toward 5-day win streak as Q3 deliveries jump 75%",
-    "url":"https:\/\/www.marketwatch.com\/story\/nios-stock-rises-toward-5-day-win-streak-as-q3-deliveries-jump-75-7fef3830",
-    "time_published":1696244040000,
-    "authors":[
-      "Tomi Kilgore"
-    ],
-    "summary":"Nio's stock rose Monday after the China-based EV maker reported a big jump in deliveries for both September and the third quarter.",
-    "banner_image":"https:\/\/images.mktw.net\/im-861060\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.929393"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.130497,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"XPEV",
-        "relevance_score":"0.339356",
-        "ticker_sentiment_score":"0.267489",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"BYDDF",
-        "relevance_score":"0.116348",
-        "ticker_sentiment_score":"0.080369",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"LI",
-        "relevance_score":"0.339356",
-        "ticker_sentiment_score":"0.09195",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NIO",
-        "relevance_score":"0.230235",
-        "ticker_sentiment_score":"0.091633",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Timken Expands Linear Motion Offerings with Rosa Sistemi Acquisition",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/timken-expands-linear-motion-offerings-with-rosa-sistemi-acquisition-301943341.html",
-    "time_published":1696243860000,
-    "authors":[
-      "The Timken Company"
-    ],
-    "summary":"NORTH CANTON, Ohio, Oct. 2, 2023 \/PRNewswire\/ -- The Timken Company ( NYSE: TKR. ) , a global leader in engineered bearings and industrial motion products, has acquired Rosa Sistemi S.p.A., a European designer and manufacturer of roller guideways, linear bearings, customized linear systems and ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/333357\/the_timken_company_logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.316726"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.153171,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"TKR",
-        "relevance_score":"0.62382",
-        "ticker_sentiment_score":"0.413826",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"ANI Pharmaceuticals Announces FDA Approval and Commercial Availability of New 1-mL Vial Size of Purified Cortrophin\u00ae Gel, Appropriate for Adjunctive Treatment of Certain Patients with Acute Gouty Arthritis Flares",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752595\/0\/en\/ANI-Pharmaceuticals-Announces-FDA-Approval-and-Commercial-Availability-of-New-1-mL-Vial-Size-of-Purified-Cortrophin-Gel-Appropriate-for-Adjunctive-Treatment-of-Certain-Patients-wit.html",
-    "time_published":1696243800000,
-    "authors":[
-      "Inc.",
-      "ANI Pharmaceuticals"
-    ],
-    "summary":"Cortrophin Gel is the only FDA-approved purified corticotropin ( ACTH ) indicated for the treatment of appropriate patients with acute gouty arthritis flares ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/2efb6d4a-2b60-468e-93f0-ab6ceeb02958",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.108042,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"ANIP",
-        "relevance_score":"0.087663",
-        "ticker_sentiment_score":"0.227948",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.021957",
-        "ticker_sentiment_score":"0.117869",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"ANI Pharmaceuticals Announces FDA Approval and Commercial Availability of New 1-mL Vial Size of Purified Cortrophin\u00ae Gel, Appropriate for Adjunctive Treatment of Certain Patients with Acute Gouty Arthritis Flares - ANI Pharmaceuticals  ( NASDAQ:ANIP ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35026438\/ani-pharmaceuticals-announces-fda-approval-and-commercial-availability-of-new-1-ml-vial-size-of-pu",
-    "time_published":1696243800000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"Cortrophin Gel is the only FDA-approved purified corticotropin ( ACTH ) indicated for the treatment of appropriate patients with flares New 1-mL size furthers ANI's commitment to providing ACTH options for appropriate flare patients and their healthcare providers.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.495866"
-      }
-    ],
-    "overall_sentiment_score":0.11527,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"ANIP",
-        "relevance_score":"0.092927",
-        "ticker_sentiment_score":"0.229698",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.023281",
-        "ticker_sentiment_score":"0.117827",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Magnificent Seven tech stocks haven't been this cheap in six years, Goldman Sachs strategists say",
-    "url":"https:\/\/www.marketwatch.com\/story\/magnificent-seven-tech-stocks-havent-been-this-cheap-in-six-years-goldman-sachs-strategists-say-42c0b8b7",
-    "time_published":1696243800000,
-    "authors":[
-      "Steve Goldstein"
-    ],
-    "summary":"The top megacap stocks haven't been this cheap in six years.",
-    "banner_image":"https:\/\/images.mktw.net\/im-861044?width=700&height=643",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Economy - Monetary",
+        "topic":"Blockchain",
         "relevance_score":"0.576289"
+      }
+    ],
+    "overall_sentiment_score":-0.067575,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:MANA",
+        "relevance_score":"0.666827",
+        "ticker_sentiment_score":"-0.226488",
+        "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.25"
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.666827",
+        "ticker_sentiment_score":"-0.226488",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.371523",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Price Analysis: What's Next For Polygon  ( MATIC ) , VeChain, And Tradecurve",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33574381\/price-analysis-whats-next-for-polygon-matic-vechain-and-tradecurve",
+    "time_published":1691156225000,
+    "authors":[
+      "Tradecurve"
+    ],
+    "summary":"In this article, we analyze the potential future price movements of Polygon ( MATIC ) , VeChain ( VET ) , and Tradecurve ( TCRV ) . Of these three cryptos, Tradecurve is leading the charge with a 150% gain during a presale phase of discounted tokens. The recent decision by the U.S.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/04\/screenshot_2023-08-04_at_6.59.00_pm.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.998962"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.614606"
       }
     ],
-    "overall_sentiment_score":0.066735,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BATRA",
-        "relevance_score":"0.056275",
-        "ticker_sentiment_score":"0.107911",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GS",
-        "relevance_score":"0.056275",
-        "ticker_sentiment_score":"0.115102",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMZN",
-        "relevance_score":"0.112269",
-        "ticker_sentiment_score":"-0.088141",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Trump's civil fraud trial to begin in New York: What to know",
-    "url":"https:\/\/www.aljazeera.com\/news\/2023\/10\/2\/trumps-civil-fraud-trial-to-begin-in-new-york-what-to-know",
-    "time_published":1696243713000,
-    "authors":[
-      "Al Jazeera"
-    ],
-    "summary":"This trial could determine whether Trump and his family can continue to do business in New York. Former United States President Donald Trump and his family business will face a civil trial in New York starting on Monday.",
-    "banner_image":"https:\/\/www.aljazeera.com\/wp-content\/uploads\/2023\/08\/INTERACTIVE-Donald-Trump-four-criminal-cases-1692088265.png?w=770&resize=770%2C769",
-    "source":"Al Jareeza",
-    "category_within_source":"n\/a",
-    "source_domain":"www.aljazeera.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.046316,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.054236",
-        "ticker_sentiment_score":"0.001001",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"NRx Pharmaceuticals Announces FDA Permission to Proceed on Investigational New Drug  ( IND )  Application for NRX-101 to Treat Chronic Pain",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/nrx-pharmaceuticals-announces-fda-permission-to-proceed-on-investigational-new-drug-ind-application-for-nrx-101-to-treat-chronic-pain-301943962.html",
-    "time_published":1696243680000,
-    "authors":[
-      "NRx Pharma"
-    ],
-    "summary":"NRx Pharmaceuticals Announces FDA Permission to Proceed on Investigational New Drug ( IND ) Application for NRX ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1734122\/NRX_Logo_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.224529,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NRXP",
-        "relevance_score":"0.260768",
-        "ticker_sentiment_score":"-0.194049",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Why Investors Like Penny Stocks",
-    "url":"https:\/\/pennystocks.com\/featured\/2023\/10\/02\/why-investors-like-penny-stocks\/",
-    "time_published":1696243680000,
-    "authors":[
-      "D. Marie"
-    ],
-    "summary":"3 Reasons to Invest in Penny Stocks in 2023 Penny stocks have always been a magnet for investors looking for high returns on relatively low investments. As we enter 2023, the allure of penny stocks remains strong for several compelling reasons. [Read More] Is Day Trading Penny Stocks Right For You?",
-    "banner_image":"https:\/\/pennystocks.com\/wp-content\/uploads\/2021\/12\/top-penny-stocks-to-buy-now-3.jpg",
-    "source":"PennyStocks.com",
-    "category_within_source":"n\/a",
-    "source_domain":"pennystocks.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.380349,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Katalin Kariko, Scientific Maverick Who Paved Way For MRNA Vaccines",
-    "url":"https:\/\/www.barrons.com\/news\/katalin-kariko-scientific-maverick-who-paved-way-for-mrna-vaccines-bfd9daaa",
-    "time_published":1696243560000,
-    "authors":[
-      "Issam AHMED"
-    ],
-    "summary":"Hungarian-born scientist Katalin Kariko's obsession with researching a substance called mRNA to fight disease once cost her a faculty position at a prestigious US university, which dismissed the idea as a dead end.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1019411260184049259926265123363646674092---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.134942,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"LRLCF",
-        "relevance_score":"0.064276",
-        "ticker_sentiment_score":"0.494761",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"MRNA",
-        "relevance_score":"0.128135",
-        "ticker_sentiment_score":"0.143825",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PFE",
-        "relevance_score":"0.128135",
-        "ticker_sentiment_score":"0.143825",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BNTX",
-        "relevance_score":"0.128135",
-        "ticker_sentiment_score":"0.143825",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Adventus Mining and Salazar Resources Achieve Key Permitting Milestone with Granting of Certificate of No Affect of Water",
-    "url":"https:\/\/www.newswire.ca\/news-releases\/adventus-mining-and-salazar-resources-achieve-key-permitting-milestone-with-granting-of-certificate-of-no-affect-of-water-871429914.html",
-    "time_published":1696243500000,
-    "authors":[
-      "Adventus Mining Corporation"
-    ],
-    "summary":"Adventus Mining and Salazar Resources Achieve Key Permitting Milestone with Granting of Certificate of No Affect of ... Canada ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2236240\/Adventus_Mining_Corporation_Adventus_Mining_and_Salazar_Resource.jpg?p=facebook",
-    "source":"Canada Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.newswire.ca",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.136803,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"DOMO",
-        "relevance_score":"0.340915",
-        "ticker_sentiment_score":"0.099032",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WPM",
-        "relevance_score":"0.027072",
-        "ticker_sentiment_score":"0.031326",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SHTLF",
-        "relevance_score":"0.027072",
-        "ticker_sentiment_score":"0.031326",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"U.S. Food and Drug Administration Issues Complete Response Letter for Lebrikizumab Based on Inspection Findings at Third-Party Manufacturer",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/us-food-and-drug-administration-issues-complete-response-letter-for-lebrikizumab-based-on-inspection-findings-at-third-party-manufacturer-301943925.html",
-    "time_published":1696243500000,
-    "authors":[
-      "Eli Lilly and Company"
-    ],
-    "summary":"U.S. Food and Drug Administration Issues Complete Response Letter for Lebrikizumab Based on Inspection Findings ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/133140\/eli_lilly_and_company_logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.204257,
+    "overall_sentiment_score":0.189836,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"LLY",
-        "relevance_score":"0.622414",
-        "ticker_sentiment_score":"0.302624",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.07031",
-        "ticker_sentiment_score":"0.170556",
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.441698",
+        "ticker_sentiment_score":"0.252548",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"IGT Demonstrates Market Leadership and Momentum Across Gaming Product and Solutions Portfolio at G2E 2023 - PR Newswire",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/igt-demonstrates-market-leadership-and-momentum-across-gaming-product-and-solutions-portfolio-at-g2e-2023-301943904.html",
-    "time_published":1696243500000,
+    "title":"What is the difference between DApps and protocols?",
+    "url":"https:\/\/cointelegraph.com\/news\/difference-between-dapps-and-protocols",
+    "time_published":1690024020000,
+    "authors":[
+      "Guneet Kaur"
+    ],
+    "summary":"Discover the contrasting functions of DApps and protocols in the blockchain world, and gain insights into how they contribute to the growth of decentralized technologies.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-07\/5b5e7b10-57d8-42a4-bfa6-7943783b3c6a.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.9545"
+      }
+    ],
+    "overall_sentiment_score":0.25204,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.072655",
+        "ticker_sentiment_score":"0.0872",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.072655",
+        "ticker_sentiment_score":"0.0872",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Rises More Than 3% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/33032262\/cryptocurrency-vechain-rises-more-than-3-in-24-hours",
+    "time_published":1687892426000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price rose 3.37% to $0.02. This continues its positive trend over the past week where it has experienced a 22.0% gain, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/crypto_movers_image_0.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.077313,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.582526",
+        "ticker_sentiment_score":"0.130462",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin trades above $30K, boosting traders' interest in ETH, ARB, VET and STX",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-trades-above-30k-boosting-traders-interest-in-eth-arb-vet-and-stx",
+    "time_published":1687718700000,
     "authors":[
 
     ],
-    "summary":"IGT Demonstrates Market Leadership and Momentum Across Gaming Product and Solutions Portfolio at G2E 2023 PR ...",
-    "banner_image":null,
-    "source":"PR Newswire",
+    "summary":"Bitcoin and Ether's recovery has improved traders' sentiment, which could trigger buying in ARB, VET, and STX.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-06\/79ea743b-ef4f-4356-b19d-18b618da4019.png",
+    "source":"Cointelegraph",
     "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
+    "source_domain":"cointelegraph.com",
     "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.367049,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.068896",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IGT",
-        "relevance_score":"0.80531",
-        "ticker_sentiment_score":"0.594537",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Brown & Brown, Inc. announces 2023 third-quarter earnings release and conference call dates",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752590\/0\/en\/Brown-Brown-Inc-announces-2023-third-quarter-earnings-release-and-conference-call-dates.html",
-    "time_published":1696243500000,
-    "authors":[
-      "Inc.",
-      "Brown & Brown"
-    ],
-    "summary":"DAYTONA BEACH, Fla., Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Brown & Brown, Inc. ( NYSE: BRO ) announces it will release its 2023 third-quarter earnings on Monday, October 23, 2023, after the close of the market. On Tuesday, October 24, 2023, J. Powell Brown, Brown & Brown's president and chief ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/6b9c5622-0167-4250-bb55-88e511327e48",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
       {
         "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.06346,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BRO",
-        "relevance_score":"0.546745",
-        "ticker_sentiment_score":"0.119404",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Arrive Logistics Enhances Carrier Connectivity and Visibility Using Descartes Freight Visibility Solution",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752592\/9197\/en\/Arrive-Logistics-Enhances-Carrier-Connectivity-and-Visibility-Using-Descartes-Freight-Visibility-Solution.html",
-    "time_published":1696243500000,
-    "authors":[
-      "The Descartes Systems Group Inc."
-    ],
-    "summary":"ATLANTA, Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Descartes Systems Group ( Nasdaq:DSGX ) ( TSX:DSG ) , the global leader in uniting logistics-intensive businesses in commerce, announced that Austin-based Arrive Logistics, a leading multimodal transportation and technology company, is using Descartes ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/b1575a4f-bd71-4f4f-b1b6-440ce8cb993b",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.495866"
+        "relevance_score":"0.684621"
       }
     ],
-    "overall_sentiment_score":0.322311,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.053165,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"DSGX",
-        "relevance_score":"0.042723",
-        "ticker_sentiment_score":"0.095794",
+        "ticker":"COIN",
+        "relevance_score":"0.031864",
+        "ticker_sentiment_score":"0.029696",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.280794",
+        "ticker_sentiment_score":"0.015071",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.220236",
+        "ticker_sentiment_score":"-0.003602",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.09539",
+        "ticker_sentiment_score":"-0.027935",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Arrive Logistics Enhances Carrier Connectivity and Visibility Using Descartes Freight Visibility Solution - Descartes Systems Gr  ( NASDAQ:DSGX ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35025806\/arrive-logistics-enhances-carrier-connectivity-and-visibility-using-descartes-freight-visibility-s",
-    "time_published":1696243500000,
+    "title":"Cryptocurrency VeChain's Price Increased More Than 19% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32990690\/cryptocurrency-vechains-price-increased-more-than-19-within-24-hours",
+    "time_published":1687546826000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price has risen 19.34% to $0.02. This continues its positive trend over the past week where it has experienced a 31.0% gain, moving from $0.01 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/crypto_movers_image_0.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.056226,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.093981",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Surpasses This Key Level; Trust Wallet Token Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32892887\/bitcoin-surpasses-this-key-level-trust-wallet-token-emerges-as-top-gainer",
+    "time_published":1686922376000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices topping the key $25,000 level on Friday. Ethereum ETH\/USD also moved higher, trading above the key $1,600 mark this morning. Trust Wallet Token TWT\/USD was the top gainer over the prior 24 hours, while VeChain VET\/USD turned out to be ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/06\/16\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.110232,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.846873",
+        "ticker_sentiment_score":"0.241901",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.846873",
+        "ticker_sentiment_score":"0.25334",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.659096",
+        "ticker_sentiment_score":"0.224955",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Down More Than 3% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/05\/32189970\/cryptocurrency-vechain-down-more-than-3-within-24-hours",
+    "time_published":1683126039000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has decreased 3.44% over the past 24 hours to $0.02, continuing its downward trend over the past week of -12.0%, moving from $0.02 to its current price. The chart below compares the price movement and volatility for VeChain over the past 24 hours ( left ) to its price ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.048992,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.613172",
+        "ticker_sentiment_score":"-0.0811",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Trades Above $1,800; Stacks Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/05\/32188004\/ethereum-trades-above-1-800-stacks-emerges-as-top-gainer",
+    "time_published":1683121741000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved higher, with the cryptocurrency prices trading above the $28,600 level on Wednesday. Ethereum ETH\/USD also recorded gains, trading above the key $1,800 mark this morning. Stacks STX\/USD was the top gainer over the prior 24 hours, while Neo NEO\/USD turned out to be the ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":-0.009729,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRON",
+        "relevance_score":"0.235823",
+        "ticker_sentiment_score":"-0.43996",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.63188",
+        "ticker_sentiment_score":"0.213901",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:CRO",
+        "relevance_score":"0.235823",
+        "ticker_sentiment_score":"-0.43996",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.451494",
+        "ticker_sentiment_score":"-0.646953",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MKR",
+        "relevance_score":"0.235823",
+        "ticker_sentiment_score":"-0.43996",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:STX",
+        "relevance_score":"0.235823",
+        "ticker_sentiment_score":"-0.122075",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.63188",
+        "ticker_sentiment_score":"0.36162",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:NEO",
+        "relevance_score":"0.451494",
+        "ticker_sentiment_score":"-0.330623",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Blockchain as a Service  ( BaaS )  Market worth $11,519 million by 2026, growing at a CAGR of 62.2%: Report by MarketsandMarkets\u2122",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/04\/g32047655\/blockchain-as-a-service-baas-market-worth-11-519-million-by-2026-growing-at-a-cagr-of-62-2-report-",
+    "time_published":1682604000000,
     "authors":[
       "Globe Newswire"
     ],
-    "summary":"ATLANTA, Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Descartes Systems Group DSGX DSG, the global leader in uniting logistics-intensive businesses in commerce, announced that Austin-based Arrive Logistics, a leading multimodal transportation and technology company, is using Descartes MacroPoint\u2122 to ...",
+    "summary":"Chicago, April 27, 2023 ( GLOBE NEWSWIRE ) -- The Blockchain as a Service ( BaaS ) Market size to grow from USD 632 million in 2020 to USD 11,519 million by 2026, at a Compound Annual Growth Rate ( CAGR ) of 62.2% during the forecast period, according to a new report by MarketsandMarkets\u2122.",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"News",
@@ -1124,274 +816,1294 @@
       {
         "topic":"Technology",
         "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.983605"
+      }
+    ],
+    "overall_sentiment_score":0.202591,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DTST",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.286651",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"INFY",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SAP",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WIT",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ACN",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DRGN",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FCT",
+        "relevance_score":"0.063258",
+        "ticker_sentiment_score":"0.011001",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Decreases More Than 3% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/04\/31917180\/cryptocurrency-vechain-decreases-more-than-3-within-24-hours",
+    "time_published":1682002840000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price has fallen 3.15% to $0.02. This continues its negative trend over the past week where it has experienced a 5.0% loss, moving from $0.03 to its current price.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.143422,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.617765",
+        "ticker_sentiment_score":"-0.249511",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"ExoWorlds: A Next-Level Gaming Experience On VeChainThor Blockchain",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31546733\/exoworlds-a-next-level-gaming-experience-on-vechainthor-blockchain",
+    "time_published":1680093476000,
+    "authors":[
+      "Navid Ladani"
+    ],
+    "summary":"ExoWorlds is a new and exciting game combining science fiction, blockchain technology, and massively multiplayer online role-playing games ( MMORPGs ) . Built on the VeChainThor blockchain, this game allows players to explore the vastness of space, establish alliances with other planets, create ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/29\/untitled_design_-_2023-03-29t181011.210.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.972193"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.650727"
       }
     ],
-    "overall_sentiment_score":0.313439,
+    "overall_sentiment_score":0.222825,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"DSGX",
-        "relevance_score":"0.123315",
-        "ticker_sentiment_score":"0.147456",
+        "ticker":"GOOG",
+        "relevance_score":"0.026386",
+        "ticker_sentiment_score":"0.150402",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.026386",
+        "ticker_sentiment_score":"0.066319",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Brown & Brown, Inc. announces 2023 third-quarter earnings release and conference call dates - Brown & Brown  ( NYSE:BRO ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35025803\/brown-brown-inc-announces-2023-third-quarter-earnings-release-and-conference-call-dates",
-    "time_published":1696243500000,
+    "title":"Cryptocurrency VeChain Rises More Than 4% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/02\/31070128\/cryptocurrency-vechain-rises-more-than-4-in-24-hours",
+    "time_published":1677510069000,
     "authors":[
-      "Globe Newswire"
+      "Benzinga Insights"
     ],
-    "summary":"DAYTONA BEACH, Fla., Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Brown & Brown, Inc. BRO announces it will release its 2023 third-quarter earnings on Monday, October 23, 2023, after the close of the market. On Tuesday, October 24, 2023, J. Powell Brown, Brown & Brown's president and chief executive ...",
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price has risen 4.34% to $0.03. This is contrary to its negative trend over the past week where it has experienced a 11.0% loss, moving from $0.03 to its current price. As it stands right now, the coin's all-time high is $0.28.",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
-    "category_within_source":"News",
+    "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.360215"
+        "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.058697,
+    "overall_sentiment_score":-0.063223,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"BRO",
-        "relevance_score":"0.524949",
-        "ticker_sentiment_score":"0.116599",
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.566143",
+        "ticker_sentiment_score":"-0.108341",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"iBio Explains Recent Filing of Registration Statement",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752591\/0\/en\/iBio-Explains-Recent-Filing-of-Registration-Statement.html",
-    "time_published":1696243500000,
+    "title":"Cryptocurrency VeChain Rises More Than 4% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/02\/31029551\/cryptocurrency-vechain-rises-more-than-4-in-24-hours",
+    "time_published":1677164452000,
     "authors":[
-      "Inc.",
-      "iBio"
+      "Benzinga Insights"
     ],
-    "summary":"- No new securities are being registered under the Post-Effective Amendment - - No new securities are being registered under the Post-Effective Amendment ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/c472b1f4-0d21-4a83-b703-3214f1faebbc",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price rose 4.98% to $0.03. This continues its positive trend over the past week where it has experienced a 21.0% gain, moving from $0.03 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"IPO",
-        "relevance_score":"0.310843"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.961735"
+        "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.154557,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.072565,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.546745",
+        "ticker_sentiment_score":"0.125959",
+        "ticker_sentiment_label":"Neutral"
+      }
     ]
   },
   {
-    "title":"Silk Road founder marks 10 years into his double life sentence in prison",
-    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-silk-road-founder-ross-ulbricht-10-years-prison",
-    "time_published":1696243441000,
+    "title":"China Crypto Coins Give Investors 119% Return in 2023",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/cryptocurrency\/02221China-Crypto-Coins.asp",
+    "time_published":1677082880000,
     "authors":[
-      "Savannah Fortis"
+
     ],
-    "summary":"Ross Ulbricht the founder of the first \"modern darknet market\" has reached the 10-year mark of his double life sentence in prison after having his laptop seized by the FBI in 2013.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvNjVkMThhOWYtZGIwZC00NGRhLWJjMTQtYmUyNDUzZjM4YWVkLmpwZw==.jpg",
+    "summary":"China Crypto Coins Give Investors 119% Return in ...",
+    "banner_image":null,
+    "source":"Investor Ideas",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investorideas.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.03036,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BACHY",
+        "relevance_score":"0.073098",
+        "ticker_sentiment_score":"0.110844",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.073098",
+        "ticker_sentiment_score":"-0.044271",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.353562",
+        "ticker_sentiment_score":"0.045285",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KLAY",
+        "relevance_score":"0.073098",
+        "ticker_sentiment_score":"-0.038229",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:CTXC",
+        "relevance_score":"0.073098",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.145583",
+        "ticker_sentiment_score":"-0.047183",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BCX",
+        "relevance_score":"0.073098",
+        "ticker_sentiment_score":"0.05707",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain's Price Increased More Than 6% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/02\/30977213\/cryptocurrency-vechains-price-increased-more-than-6-within-24-hours",
+    "time_published":1676905245000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has increased 6.23% over the past 24 hours to $0.03. Over the past week, VET has experienced an uptick of over 40.0%, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.046865,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.716023",
+        "ticker_sentiment_score":"0.095305",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"9 promising blockchain use cases in healthcare industry",
+    "url":"https:\/\/cointelegraph.com\/news\/9-promising-blockchain-use-cases-in-healthcare-industry",
+    "time_published":1676901600000,
+    "authors":[
+
+    ],
+    "summary":"Blockchain enables healthcare record management, clinical trial transparency, efficient supply chain management and more.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/a2f23942-a1dc-421c-a075-e1bb712e10f8.jpg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.064901,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.074692",
-        "ticker_sentiment_score":"0.154631",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.488337",
-        "ticker_sentiment_score":"0.171448",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Is BlackBerry Limited Stock a Buy Now?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/02\/is-blackberry-limited-stock-a-buy-now\/",
-    "time_published":1696243260000,
-    "authors":[
-      "Leo Sun"
-    ],
-    "summary":"The Canadian tech company still faces existential challenges.",
-    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749286%2Fit-professionals-computer.jpg&op=resize&w=700",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.999921"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.858979"
-      }
-    ],
-    "overall_sentiment_score":0.064936,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"BB",
-        "relevance_score":"0.29887",
-        "ticker_sentiment_score":"0.072939",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.051003",
-        "ticker_sentiment_score":"0.075481",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRWD",
-        "relevance_score":"0.152178",
-        "ticker_sentiment_score":"0.02637",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PANW",
-        "relevance_score":"0.152178",
-        "ticker_sentiment_score":"0.02637",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Tim Cook's 'Aha Moment' with Apple's Vision Pro - 'You Only Have A Few Of Those In A Lifetime' - Meta Platforms  ( NASDAQ:META ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35025572\/tim-cooks-aha-moment-with-apples-vision-pro-you-only-have-a-few-of-those-in-a-lifetime",
-    "time_published":1696243151000,
-    "authors":[
-      "Ananya Gairola"
-    ],
-    "summary":"Apple Inc. AAPL CEO Tim Cook has described his first encounter with the company's first-generated mixed-reality headset, Vision Pro, as an 'aha moment,' highlighting the transformative potential of spatial computing.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Tim_Cook_1.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
+        "topic":"Life Sciences",
         "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999999"
+      }
+    ],
+    "overall_sentiment_score":0.375436,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MET",
+        "relevance_score":"0.062926",
+        "ticker_sentiment_score":"0.071431",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PFE",
+        "relevance_score":"0.062926",
+        "ticker_sentiment_score":"0.113057",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.062926",
+        "ticker_sentiment_score":"0.147109",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin's bullish price action continues to bolster rallies in FIL, OKB, VET and RPL",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-s-bullish-price-action-continues-to-bolster-rallies-in-fil-okb-vet-and-rpl",
+    "time_published":1676843070000,
+    "authors":[
+
+    ],
+    "summary":"BTC's shallow correction near the $25,000 level could lead to dip buying in FIL, OKB, VET and RPL.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/463bdff7-aae4-4b28-8376-61ff6d16bd14.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
       }
     ],
-    "overall_sentiment_score":0.351968,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.050828,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"META",
-        "relevance_score":"0.152499",
-        "ticker_sentiment_score":"-0.027877",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.214937",
+        "ticker_sentiment_score":"0.088037",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"AAPL",
-        "relevance_score":"0.152499",
-        "ticker_sentiment_score":"0.16554",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"DROOF",
-        "relevance_score":"0.076602",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.093047",
+        "ticker_sentiment_score":"-0.127488",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"QCOM",
-        "relevance_score":"0.076602",
-        "ticker_sentiment_score":"0.269332",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.154455",
+        "ticker_sentiment_score":"0.040348",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.093047",
+        "ticker_sentiment_score":"-0.020518",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"UK Fine Art Company Thriving in Soaring Global Fine Art Market",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35025545\/uk-fine-art-company-thriving-in-soaring-global-fine-art-market",
-    "time_published":1696243080000,
+    "title":"VeChain's 'The HiVe' Summit To Host Two Nobel Laureates Unlocking A Sustainability Revolution With Graphene And Blockchain",
+    "url":"https:\/\/markets.businessinsider.com\/news\/stocks\/vechain-s-the-hive-summit-to-host-two-nobel-laureates-unlocking-a-sustainability-revolution-with-graphene-and-blockchain-1032105865",
+    "time_published":1676637000000,
     "authors":[
-      "PRNewswire"
+
     ],
-    "summary":"LONDON, Oct. 2, 2023 \/PRNewswire\/ -- As the world continues to navigate the difficult waters of economic uncertainty and turmoil, the fine art market has proved to be incredibly resilient. Despite the challenges, the sector is not only surviving but thriving, enjoying excellent growth and ...",
+    "summary":"VeChain's 'The HiVe' Summit To Host Two Nobel Laureates Unlocking A Sustainability Revolution With Graphene And ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2004479\/The_HiVe_Save_the_Date.jpg",
+    "source":"Business Insider",
+    "category_within_source":"RSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":0.453002,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.58463",
+        "ticker_sentiment_score":"0.616291",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Next batch of Cointelegraph's Top 100 ranking for 2023 is here",
+    "url":"https:\/\/cointelegraph.com\/news\/next-batch-of-cointelegraph-s-top-100-ranking-for-2023-is-here",
+    "time_published":1676040036000,
+    "authors":[
+
+    ],
+    "summary":"Curious about who made it to spots 71-80 on Cointelegraph's 2023 Top 100 list? Read about Alex Gluchowski, Jeremy Allaire and more!",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-02\/5b41ae04-7721-4076-a3ea-3a20c7f35655.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.081874,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.290607",
+        "ticker_sentiment_score":"0.008527",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.147818",
+        "ticker_sentiment_score":"0.128346",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"VeChain Launches 'The HiVe' - A Web3 Sustainability Summit Series Coming To Las Vegas, March 4th 2023",
+    "url":"https:\/\/markets.businessinsider.com\/news\/stocks\/vechain-launches-the-hive-a-web3-sustainability-summit-series-coming-to-las-vegas-march-4th-2023-1032078261",
+    "time_published":1675859400000,
+    "authors":[
+
+    ],
+    "summary":"VeChain Launches 'The HiVe' - A Web3 Sustainability Summit Series Coming To Las Vegas, March ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1998025\/The_hiVe_VeChain_Foundation.jpg",
+    "source":"Business Insider",
+    "category_within_source":"RSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":0.479407,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.651499",
+        "ticker_sentiment_score":"0.718933",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Rises More Than 6% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30592087\/cryptocurrency-vechain-rises-more-than-6-in-24-hours",
+    "time_published":1674759623000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has increased 6.41% over the past 24 hours to $0.02. Over the past week, VET has experienced an uptick of over 17.0%, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
-    "category_within_source":"General",
+    "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.025745,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.686739",
+        "ticker_sentiment_score":"0.04867",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Up More Than 3% In 24 hours - VeChain  ( VET\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/01\/30415726\/cryptocurrency-vechain-up-more-than-3-in-24-hours",
+    "time_published":1673636415000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has increased 3.48% over the past 24 hours to $0.02. Over the past week, VET has experienced an uptick of over 19.0%, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.002338,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.686739",
+        "ticker_sentiment_score":"0.003744",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Deflation is a dumb way to approach Tokenomics, and other sacred cows",
+    "url":"https:\/\/cointelegraph.com\/magazine\/deflation-dumb-way-approach-tokenomics\/",
+    "time_published":1673533800000,
+    "authors":[
+      "Christos Makridis"
+    ],
+    "summary":"Having taught and studied token economics at the University of Nicosia, I've found that students often have some decidedly muddled beliefs about how what tokens are and how business and token economies work.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2023\/01\/magazine-The-Fundamentals-of-Token-Economics1-scaled.jpeg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.503496"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999682"
+      }
+    ],
+    "overall_sentiment_score":0.088936,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.015343",
+        "ticker_sentiment_score":"-0.007052",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.046006",
+        "ticker_sentiment_score":"0.105301",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.107084",
+        "ticker_sentiment_score":"0.185383",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.09186",
+        "ticker_sentiment_score":"0.226987",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.046006",
+        "ticker_sentiment_score":"-0.037602",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FTT",
+        "relevance_score":"0.03068",
+        "ticker_sentiment_score":"-0.061766",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"What is VeChain  ( VET )  and how does it work?",
+    "url":"https:\/\/cointelegraph.com\/news\/what-is-vechain-vet-and-how-does-it-work",
+    "time_published":1670925211000,
+    "authors":[
+
+    ],
+    "summary":"VeChain is a smart contract-compatible blockchain designed to enhance the supply chain and accelerate the mass adoption of blockchain technology.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/375825a4-c5cb-462b-95f6-f75f2f9bf56a.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.929393"
+      },
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.191291,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"APG",
+        "relevance_score":"0.044718",
+        "ticker_sentiment_score":"0.293103",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.022368",
+        "ticker_sentiment_score":"0.093183",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RNSDF",
+        "relevance_score":"0.022368",
+        "ticker_sentiment_score":"0.093183",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.089295",
+        "ticker_sentiment_score":"0.179591",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.242231",
+        "ticker_sentiment_score":"0.076022",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.847256",
+        "ticker_sentiment_score":"0.364654",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Three tokens to own in the highly volatile crypto market - Decentraland, VeChain, and Dogeliens | The Financial Express",
+    "url":"https:\/\/www.financialexpress.com\/blockchain\/three-tokens-to-own-in-the-highly-volatile-crypto-market-decentraland-vechain-and-dogeliens\/2910135\/",
+    "time_published":1670842887000,
+    "authors":[
+
+    ],
+    "summary":"Three tokens to own in the highly volatile crypto market - Decentraland, VeChain, and Dogeliens The Financial Express ...",
+    "banner_image":"https:\/\/www.financialexpress.com\/wp-content\/uploads\/2022\/11\/Digital-currency-13.jpg",
+    "source":"The Financial Express",
+    "category_within_source":"MarketsGoogleRSS",
+    "source_domain":"www.financialexpress.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.983605"
+      }
+    ],
+    "overall_sentiment_score":0.321674,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.066598",
+        "ticker_sentiment_score":"0.096186",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:MANA",
+        "relevance_score":"0.722676",
+        "ticker_sentiment_score":"0.514648",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.867465",
+        "ticker_sentiment_score":"0.539434",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ERC",
+        "relevance_score":"0.066598",
+        "ticker_sentiment_score":"0.080139",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Rises More Than 3% In 24 hours - VeChain  ( VET\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/11\/29912025\/cryptocurrency-vechain-rises-more-than-3-in-24-hours",
+    "time_published":1669834841000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price rose 3.87% to $0.02. This continues its positive trend over the past week where it has experienced a 2.0% gain, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.021225,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.56217",
+        "ticker_sentiment_score":"0.03402",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Up More Than 3% In 24 hours - VeChain  ( VET\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/11\/29844411\/cryptocurrency-vechain-up-more-than-3-in-24-hours",
+    "time_published":1669230055000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price has risen 3.72% to $0.02. This is contrary to its negative trend over the past week where it has experienced a 6.0% loss, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.063223,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.566143",
+        "ticker_sentiment_score":"-0.108341",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Up More Than 6% In 24 hours - VeChain  ( VET\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/11\/29666390\/cryptocurrency-vechain-up-more-than-6-in-24-hours",
+    "time_published":1668107165000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has increased 6.22% over the past 24 hours to $0.02, which is in the opposite direction of its trend over the past week, where it has experienced a 8.0% loss, moving from $0.02 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/crypto_movers_image_1781.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.023579,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.613172",
+        "ticker_sentiment_score":"0.03916",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"The state of crypto in Southern Europe: Malta leads the way",
+    "url":"https:\/\/cointelegraph.com\/news\/the-state-of-crypto-in-southern-europe-malta-leads-the-way",
+    "time_published":1667484660000,
+    "authors":[
+
+    ],
+    "summary":"The island nations of Malta and Cyprus are still ahead of their bigger neighbors when it comes to crypto regulation.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvYWExNWJlOTYtMWQ3MC00M2U5LWE2ZDEtNWYzMWFmNmQ5MTgwLmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.158519"
       },
       {
+        "topic":"Blockchain",
+        "relevance_score":"1.0"
+      },
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.796627"
+        "relevance_score":"0.744043"
       }
     ],
-    "overall_sentiment_score":0.4449,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.259736,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.056876",
+        "ticker_sentiment_score":"0.14096",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.028456",
+        "ticker_sentiment_score":"0.185894",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
     ]
   },
   {
-    "title":"UK Fine Art Company Thriving in Soaring Global Fine Art Market",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/uk-fine-art-company-thriving-in-soaring-global-fine-art-market-301944300.html",
-    "time_published":1696243080000,
+    "title":"What is Proof of Authority  ( PoA ) ?",
+    "url":"https:\/\/www.fool.com\/investing\/stock-market\/market-sectors\/financials\/blockchain-stocks\/proof-of-authority\/",
+    "time_published":1667318053000,
     "authors":[
-      "waran\u2019s fine art"
+      "Anders Bylund"
     ],
-    "summary":"LONDON, Oct. 2, 2023 \/PRNewswire\/ -- As the world continues to navigate the difficult waters of economic uncertainty and turmoil, the fine art market has proved to be incredibly resilient. Despite the challenges, the sector is not only surviving but thriving, enjoying excellent growth and ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2236343\/WARANS_FINE_ART.jpg?p=facebook",
+    "summary":"Blockchain networks and cryptocurrencies have to validate their new data blocks against data from many different validation nodes. This can be done in many different ways, and the proof-of-authority platform ( PoA ) is one promising option for the data processing backbone.Most blockchain networks ...",
+    "banner_image":"https:\/\/m.foolcdn.com\/media\/dubs\/images\/proof-of-authority-vs-proof-of-work-infographi.width-880.png",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999855"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.136148,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.035821",
+        "ticker_sentiment_score":"0.103337",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.07157",
+        "ticker_sentiment_score":"0.063035",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:POA",
+        "relevance_score":"0.07157",
+        "ticker_sentiment_score":"0.044796",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.107175",
+        "ticker_sentiment_score":"0.049379",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Players In The Carbon Footprint Management Market Are Using Blockchain Technology To Improve Carbon Traceability: The Business Research Company",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/players-in-the-carbon-footprint-management-market-are-using-blockchain-technology-to-improve-carbon-traceability-the-business-research-company-301663246.html",
+    "time_published":1667229600000,
+    "authors":[
+      "The Business Research Company"
+    ],
+    "summary":"The reports have been updated with the most recent Ukraine-Russia War impact on market growth for all 27+ industries. The reports also provide possible solutions and opportunities for surviving this crisis.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1751581\/tbrc_logo.jpg?p=facebook",
     "source":"PR Newswire",
     "category_within_source":"n\/a",
     "source_domain":"www.prnewswire.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":0.216882,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"JCI",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.127858",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ENGQF",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.127858",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SAP",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.127858",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBGSF",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.127858",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ACN",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.127858",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WM",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.059237",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.048133",
+        "ticker_sentiment_score":"0.179816",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"If You Invested $1,000 In These 3 Crypto Tokens You Would Have This Much In Crypto Dividends - Bitcoin  ( BTC\/USD ) , Ethereum  ( ETH\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/10\/29463071\/if-you-invested-1-000-in-these-3-crypto-tokens-you-would-have-this-much-in-crypto-dividend",
+    "time_published":1666991117000,
+    "authors":[
+      "Robert Kuczmarski"
+    ],
+    "summary":"When navigating the cryptocurrency market it can be difficult to distinguish between the \"s- tokens\" and tokens that actually provide value through a utility. Firstly, one must understand the difference between a crypto coin and a crypto token.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/10\/28\/cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.503496"
+      }
+    ],
+    "overall_sentiment_score":0.253049,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.150122",
+        "ticker_sentiment_score":"0.123789",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.223522",
+        "ticker_sentiment_score":"0.203384",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:NEO",
+        "relevance_score":"0.429845",
+        "ticker_sentiment_score":"0.163694",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:KCS",
+        "relevance_score":"0.605639",
+        "ticker_sentiment_score":"0.485055",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.429845",
+        "ticker_sentiment_score":"0.493372",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Collapse of Terra blockchain ecosystem forces talent migration",
+    "url":"https:\/\/cointelegraph.com\/news\/collapse-of-terra-blockchain-ecosystem-forces-talent-migration",
+    "time_published":1663074840000,
+    "authors":[
+
+    ],
+    "summary":"Projects migrating from Terra to other ecosystems have made an example of how to adapt and regenerate after a catastrophic blockchain collapse.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-09\/c7bc0552-b8c8-4eec-ae94-a0257c41dccd.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.972193"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.183475,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.209365",
+        "ticker_sentiment_score":"0.11074",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.042346",
+        "ticker_sentiment_score":"0.108001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.042346",
+        "ticker_sentiment_score":"0.032548",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.168197",
+        "ticker_sentiment_score":"0.125078",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UST",
+        "relevance_score":"0.084572",
+        "ticker_sentiment_score":"0.053134",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"VeChain  ( $VET )  - Cryptocurrency VeChain Falls More Than 3% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/09\/28718792\/cryptocurrency-vechain-falls-more-than-3-in-24-hours",
+    "time_published":1662042804000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has decreased 3.45% over the past 24 hours to $0.02, continuing its downward trend over the past week of -10.0%, moving from $0.03 to its current price. The chart below compares the price movement and volatility for VeChain over the past 24 hours ( left ) to its price ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/crypto_movers_image_1463.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.081113,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.591019",
+        "ticker_sentiment_score":"-0.147349",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Billions are spent marketing crypto to sports fans - Is it worth it? - Cointelegraph Magazine",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/08\/29\/hundreds-millions-spent-marketing-crypto-sports-fans-wasted",
+    "time_published":1661780644000,
+    "authors":[
+
+    ],
+    "summary":"In Australia, where I'm based, there was a sharp uptick in crypto firms spending big on ads and sponsorship deals in the Australian Football League in 2021-2022.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/08\/magazine-Hundreds-of-millions-is-spent-marketing-crypto-to-sports-fans-Is-it-wasted.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.998626"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.177397,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"DSSMY",
+        "relevance_score":"0.014088",
+        "ticker_sentiment_score":"-0.012413",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.014088",
+        "ticker_sentiment_score":"0.064387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.014088",
+        "ticker_sentiment_score":"0.10342",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SOC",
+        "relevance_score":"0.014088",
+        "ticker_sentiment_score":"0.064716",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"3 Top Smart Contract Cryptos Not Named Ethereum",
+    "url":"https:\/\/www.fool.com\/investing\/2022\/08\/27\/3-top-smart-contract-cryptos-not-named-ethereum\/",
+    "time_published":1661590800000,
+    "authors":[
+      "RJ Fulton",
+      "Neil Patel",
+      "and Michael Byrne"
+    ],
+    "summary":"Ethereum has become the premier smart contract blockchain, but these others deserve some attention.",
+    "banner_image":"https:\/\/g.foolcdn.com\/editorial\/images\/697655\/happy-indian-businessman-work-from-home.jpg",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.614606"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999855"
+      }
+    ],
+    "overall_sentiment_score":0.239025,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"BAC",
+        "relevance_score":"0.076479",
+        "ticker_sentiment_score":"0.076047",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"V",
+        "relevance_score":"0.076479",
+        "ticker_sentiment_score":"0.076047",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WMT",
+        "relevance_score":"0.076479",
+        "ticker_sentiment_score":"0.076829",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.226653",
+        "ticker_sentiment_score":"0.197402",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"0.356383",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.498416",
+        "ticker_sentiment_score":"0.344202",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Decreases More Than 3% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/08\/28589460\/cryptocurrency-vechain-decreases-more-than-3-within-24-hours",
+    "time_published":1661191834000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"VeChain's VET\/USD price has decreased 3.89% over the past 24 hours to $0.03, continuing its downward trend over the past week of -18.0%, moving from $0.03 to its current price. The chart below compares the price movement and volatility for VeChain over the past 24 hours ( left ) to its price ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/crypto_movers_image_1411.png?optimize=medium&dpr=2&auto=webp&width=3840",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.061173,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.276909",
+        "ticker_sentiment_score":"-0.115101",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"With 23.6% CAGR, Blockchain AI Market Worth USD 973.6 Million by 2027",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/22\/08\/g28579399\/with-23-6-cagr-blockchain-ai-market-worth-usd-973-6-million-by-2027",
+    "time_published":1661157208000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"Pune, India, Aug. 22, 2022 ( GLOBE NEWSWIRE ) -- The global Blockchain AI Market size is projected to reach USD 973.6 million by 2027, exhibiting a CAGR of 23.6% during the forecast period.",
+    "banner_image":"",
+    "source":"Benzinga",
+    "category_within_source":"Mergers",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
@@ -1400,532 +2112,188 @@
       {
         "topic":"Financial Markets",
         "relevance_score":"0.684621"
-      }
-    ],
-    "overall_sentiment_score":0.4509,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"These 3 Changes Are Most Likely Coming to Social Security in 2024",
-    "url":"https:\/\/www.fool.com\/retirement\/2023\/10\/02\/these-3-changes-are-most-likely-coming-to-social-s\/",
-    "time_published":1696242960000,
-    "authors":[
-      "Maurie Backman"
-    ],
-    "summary":"Get ready for a pretty big shake-up.",
-    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749131%2Fsocial-security-cards-3_gettyimages-488815648.jpg&op=resize&w=700",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
-      },
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":0.179567,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Cellectar Biosciences Expands Global Intellectual Property Portfolio with Four Patent Grants - Cellectar Biosciences  ( NASDAQ:CLRB ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35025414\/cellectar-biosciences-expands-global-intellectual-property-portfolio-with-four-patent-grants",
-    "time_published":1696242900000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"FLORHAM PARK, N.J., Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Cellectar Biosciences, Inc. CLRB, a late-stage clinical biopharmaceutical company focused on the discovery, development and commercialization of targeted drugs for the treatment of cancer, today announced significant advancements to its ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
       },
       {
         "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.086115,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.054114",
-        "ticker_sentiment_score":"0.237899",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CLRB",
-        "relevance_score":"0.213988",
-        "ticker_sentiment_score":"0.08154",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.213988",
-        "ticker_sentiment_score":"-0.023124",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Cellectar Biosciences Expands Global Intellectual Property Portfolio with Four Patent Grants",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752586\/0\/en\/Cellectar-Biosciences-Expands-Global-Intellectual-Property-Portfolio-with-Four-Patent-Grants.html",
-    "time_published":1696242900000,
-    "authors":[
-      "Cellectar Biosciences"
-    ],
-    "summary":"FLORHAM PARK, N.J., Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- Cellectar Biosciences, Inc. ( NASDAQ: CLRB ) , a late-stage clinical biopharmaceutical company focused on the discovery, development and commercialization of targeted drugs for the treatment of cancer, today announced significant ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/084e3db0-abfb-4e53-a852-15771bbdd26c",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.091292,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.055109",
-        "ticker_sentiment_score":"0.23796",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CLRB",
-        "relevance_score":"0.217834",
-        "ticker_sentiment_score":"0.086456",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.217834",
-        "ticker_sentiment_score":"-0.025326",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Morning Bid: October market fillip as government stays open",
-    "url":"https:\/\/www.reuters.com\/markets\/us\/global-markets-view-usa-2023-10-02\/",
-    "time_published":1696242660000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"Morning Bid: October market fillip as govt stays open ...",
-    "banner_image":"https:\/\/graphics.reuters.com\/USA-SHUTDOWN\/zgporjzekvd\/graphic.jpg",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.858979"
-      },
-      {
-        "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
+        "topic":"Blockchain",
+        "relevance_score":"0.999999"
       }
     ],
-    "overall_sentiment_score":-0.057249,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GS",
-        "relevance_score":"0.050786",
-        "ticker_sentiment_score":"0.019985",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.050786",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.101367",
-        "ticker_sentiment_score":"-0.172302",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Ascend Appoints Kurt de Grosz, Executive Chairman of Newfront Insurance, to Expand Advisory Board - PR Newswire",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/ascend-appoints-kurt-de-grosz-executive-chairman-of-newfront-insurance-to-expand-advisory-board-301943550.html",
-    "time_published":1696242600000,
-    "authors":[
-
-    ],
-    "summary":"Ascend Appoints Kurt de Grosz, Executive Chairman of Newfront Insurance, to Expand Advisory Board PR ...",
-    "banner_image":null,
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.397104,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"DSSMY",
-        "relevance_score":"0.107495",
-        "ticker_sentiment_score":"0.156824",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Kensho Technologies Streamlines Client Data Management by Integrating its Link AI Solution with S&P Global Market Intelligence's Cross Reference Service Dataset, BECRS",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/kensho-technologies-streamlines-client-data-management-by-integrating-its-link-ai-solution-with-sp-global-market-intelligences-cross-reference-service-dataset-becrs-301943681.html",
-    "time_published":1696242600000,
-    "authors":[
-      "S&P Global"
-    ],
-    "summary":"Kensho Technologies Streamlines Client Data Management by Integrating its Link AI Solution with S&P Global Market ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/1168590\/Kensho_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.374465,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"APG",
-        "relevance_score":"0.089129",
-        "ticker_sentiment_score":"0.159687",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.345674",
-        "ticker_sentiment_score":"0.451332",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Global Gene Delivery Technologies Market Research Report 2023-2027 & 2032: Unveiling Breakthroughs in Genetic Therapies with Advanced Gene Delivery",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/global-gene-delivery-technologies-market-research-report-2023-2027--2032-unveiling-breakthroughs-in-genetic-therapies-with-advanced-gene-delivery-301944258.html",
-    "time_published":1696242600000,
-    "authors":[
-      "Research and Markets"
-    ],
-    "summary":"Global Gene Delivery Technologies Market Research Report 2023-2027 & 2032: Unveiling Breakthroughs in Genetic ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/539438\/Research_and_Markets_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.185722,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"TRX Gold Advances Mill Expansion to Increase Gold Production - TRX Gold  ( AMEX:TRX ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35025366\/trx-gold-advances-mill-expansion-to-increase-gold-production",
-    "time_published":1696242600000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"TORONTO, Oct. 02, 2023 ( GLOBE NEWSWIRE ) -- TRX Gold Corporation TNX TRX ( the \"Company\" or \"TRX Gold\" ) is pleased to announce that the new 1,000 tonne per day ( \"tpd\" ) capacity ball mill has arrived on site at the Buckreef Gold Project ( \"Buckreef Gold\" ) .",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.77141"
-      }
-    ],
-    "overall_sentiment_score":0.289207,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.024648",
-        "ticker_sentiment_score":"0.081619",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MALRF",
-        "relevance_score":"0.073849",
-        "ticker_sentiment_score":"0.164604",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"How the Fed Made a Worrisome Economic Signal Go Away",
-    "url":"https:\/\/www.wsj.com\/finance\/investing\/how-the-fed-made-a-worrisome-economic-signal-go-away-5b5566e3",
-    "time_published":1696242600000,
-    "authors":[
-      "Justin Lahart"
-    ],
-    "summary":"Recording interest paid by Federal Reserve banks has helped reduce a discrepancy that appeared to make the U.S. economy look weaker.",
-    "banner_image":"https:\/\/images.wsj.net\/im-858606?width=700&height=467",
-    "source":"Wall Street Journal",
-    "category_within_source":"Markets",
-    "source_domain":"www.wsj.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":-0.19636,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"TRX Gold Advances Mill Expansion to Increase Gold Production",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752582\/0\/en\/TRX-Gold-Advances-Mill-Expansion-to-Increase-Gold-Production.html",
-    "time_published":1696242600000,
-    "authors":[
-      "TRX Gold Corporation"
-    ],
-    "summary":"New Ball Mill Arrived on Site New Ball Mill Arrived on Site ...",
-    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/1fcd7811-bfa9-4492-ac23-c4a4578c9357",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.650727"
-      }
-    ],
-    "overall_sentiment_score":0.291212,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CURN",
-        "relevance_score":"0.024801",
-        "ticker_sentiment_score":"0.081714",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MALRF",
-        "relevance_score":"0.074306",
-        "ticker_sentiment_score":"0.167742",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Fixing of coupon rates - Nykredit Realkredit A\/S",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/02\/2752578\/0\/en\/Fixing-of-coupon-rates-Nykredit-Realkredit-A-S.html",
-    "time_published":1696242540000,
-    "authors":[
-      "Nykredit Realkredit A\/S"
-    ],
-    "summary":"To Nasdaq Copenhagen ...",
-    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/8d4b6c95-67cf-4128-bde2-9c93a0f894ca",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.228432,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Viatris sells API & women's healthcare business in India for $1.2 billion",
-    "url":"https:\/\/www.moneycontrol.com\/news\/business\/companies\/viatris-sells-api-womens-healthcare-business-in-india-for-1-2-billion-11464061.html",
-    "time_published":1696242474000,
-    "authors":[
-
-    ],
-    "summary":"Viatris has also sold its OTC ( over- the- counter ) business in Europe and commercialisation rights in a few non-core markets as part of a global divestiture drive to pare debt.",
-    "banner_image":"https:\/\/images.moneycontrol.com\/static-mcnews\/2020\/11\/HINDUSTAN-ZINC.jpg?impolicy=website&width=168&height=118",
-    "source":"Money Control",
-    "category_within_source":"Business",
-    "source_domain":"www.moneycontrol.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.054099,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"APG",
-        "relevance_score":"0.434142",
-        "ticker_sentiment_score":"0.140986",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VTRS",
-        "relevance_score":"0.434142",
-        "ticker_sentiment_score":"0.045615",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Why Zscaler Stock Raced 3% Higher on Friday",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/02\/why-zscaler-stock-raced-3-higher-on-friday\/",
-    "time_published":1696242300000,
-    "authors":[
-      "Eric Volkman"
-    ],
-    "summary":"The cybersecurity saw its price-target increased, however, investors need to take the bullishness with a grain of salt.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.316726"
-      }
-    ],
-    "overall_sentiment_score":0.249758,
+    "overall_sentiment_score":0.296845,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
         "ticker":"MSFT",
-        "relevance_score":"0.294093",
-        "ticker_sentiment_score":"0.35486",
-        "ticker_sentiment_label":"Bullish"
+        "relevance_score":"0.032513",
+        "ticker_sentiment_score":"0.063434",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"ZS",
-        "relevance_score":"0.742397",
-        "ticker_sentiment_score":"0.395961",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"GOOG",
+        "relevance_score":"0.032513",
+        "ticker_sentiment_score":"0.07531",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"MS",
-        "relevance_score":"0.549581",
-        "ticker_sentiment_score":"0.388738",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"FOREX:JPY",
+        "relevance_score":"0.032513",
+        "ticker_sentiment_score":"0.164184",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"PANW",
-        "relevance_score":"0.294093",
-        "ticker_sentiment_score":"0.35486",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.032513",
+        "ticker_sentiment_score":"0.164184",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.032513",
+        "ticker_sentiment_score":"0.164184",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Sam Bankman-Fried Reportedly Mulled Paying Trump $5 Billion Not to Run for President",
-    "url":"https:\/\/decrypt.co\/199720\/former-ftx-ceo-explored-paying-donald-trump-5b-not-run-office-report",
-    "time_published":1696242189000,
+    "title":"Cryptocurrency VeChain Down More Than 3% Within 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/08\/28539738\/cryptocurrency-vechain-down-more-than-3-within-24-hours",
+    "time_published":1660759496000,
     "authors":[
-      "Andrew Asmakov"
+      "Benzinga Insights"
     ],
-    "summary":"Promoting his newest book, author Michael Lewis revealed a startling detail about Bankman-Fried's political engagements.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/trump-sbf-gID_7.jpg",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "summary":"VeChain's VET\/USD price has decreased 3.68% over the past 24 hours to $0.03, continuing its downward trend over the past week of -9.0%, moving from $0.03 to its current price. The chart below compares the price movement and volatility for VeChain over the past 24 hours ( left ) to its price ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/crypto_movers_image_1389.png?optimize=medium&dpr=2&auto=webp&width=3840",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.084368,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.274834",
+        "ticker_sentiment_score":"-0.052588",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Cryptocurrency VeChain Up More Than 8% In 24 hours",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/08\/28440198\/cryptocurrency-vechain-up-more-than-8-in-24-hours",
+    "time_published":1660155947000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Over the past 24 hours, VeChain's VET\/USD price rose 8.77% to $0.03. This continues its positive trend over the past week where it has experienced a 7.0% gain, moving from $0.03 to its current price. As it stands right now, the coin's all-time high is $0.28.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/crypto_movers_image_1353.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.025894,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.546745",
+        "ticker_sentiment_score":"0.043454",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"2 metrics signal the $1.1T crypto market cap resistance will hold",
+    "url":"https:\/\/cointelegraph.com\/news\/2-metrics-signal-the-1-1t-crypto-market-cap-resistance-will-hold",
+    "time_published":1659722400000,
+    "authors":[
+
+    ],
+    "summary":"Despite a handful of the top-80 coins gaining 12% or more over the past week, Tether's premium in Asia and futures markets activity show buyers lacking confidence.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-08\/9e144f70-4eeb-45ad-9031-a07cb41235aa.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.955357"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.310843"
+        "relevance_score":"0.838487"
       }
     ],
-    "overall_sentiment_score":0.026411,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Shell CEO says there is no change in company's strategy",
-    "url":"https:\/\/www.reuters.com\/business\/energy\/shell-ceo-says-there-is-no-change-companys-strategy-2023-10-02\/",
-    "time_published":1696242181000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"ABU DHABI, Oct 2 ( Reuters ) - Shell ( SHEL.L ) has no plans to change direction in the oil major's strategy, Chief Executive Officer Wael Sawan told the ADIPEC energy conference in Abu Dhabi on Monday.",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/SYYEY6E7YFJ4ZBFOKVCL7R7AMM.jpg",
-    "source":"Reuters",
-    "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.065532,
+    "overall_sentiment_score":-0.029604,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CRBO",
-        "relevance_score":"0.47672",
-        "ticker_sentiment_score":"-0.146994",
+        "ticker":"BLK",
+        "relevance_score":"0.063763",
+        "ticker_sentiment_score":"0.23341",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.063763",
+        "ticker_sentiment_score":"0.09406",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.251032",
+        "ticker_sentiment_score":"0.023874",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.063763",
+        "ticker_sentiment_score":"0.049204",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.127119",
+        "ticker_sentiment_score":"-0.021236",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.127119",
+        "ticker_sentiment_score":"-0.021236",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.127119",
+        "ticker_sentiment_score":"-0.178497",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:VET",
+        "relevance_score":"0.18967",
+        "ticker_sentiment_score":"0.0582",
         "ticker_sentiment_label":"Neutral"
       }
     ]
