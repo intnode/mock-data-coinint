@@ -1,589 +1,181 @@
 [
   {
-    "title":"'He Kept Lying': Prosecutors Unload on Sam Bankman-Fried as Defense Tries to Shift Blame",
-    "url":"https:\/\/decrypt.co\/200161\/he-kept-lying-sbf-trial-opening-statements",
-    "time_published":1696444019000,
+    "title":"Bitcoin Sluggish After Sunday Surge-But Toncoin, Aave and Maker Make Gains",
+    "url":"https:\/\/decrypt.co\/200319\/bitcoin-sluggish-toncoin-aave-and-maker-make-gains",
+    "time_published":1696530052000,
     "authors":[
-      "Mat Di Salvo",
-      "Andr\u00e9 Beganski"
+      "Mat Di Salvo"
     ],
-    "summary":"The DOJ said Sam Bankman-Fried confided in his inner circle about lying to cover his tracks. The defense called transfers to Alameda \"loans.\" ...",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/sam-bankman-fried-sbf-ftx-trial-gID_7.jpg",
+    "summary":"Bitcoin's price hasn't moved much, but a number of DeFi tokens are on the up.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2021\/07\/top-defi-tokens-crypto-gID_7.jpg",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
     "topics":[
       {
         "topic":"Blockchain",
-        "relevance_score":"0.310843"
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.796627"
       }
     ],
-    "overall_sentiment_score":-0.280877,
-    "overall_sentiment_label":"Somewhat-Bearish",
+    "overall_sentiment_score":0.255154,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:FTT",
-        "relevance_score":"0.133841",
-        "ticker_sentiment_score":"-0.278654",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.280615",
+        "ticker_sentiment_score":"0.02522",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.142565",
+        "ticker_sentiment_score":"0.097234",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AAVE",
+        "relevance_score":"0.410059",
+        "ticker_sentiment_score":"0.36715",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Trump asks to dismiss D.C. election interference charges, citing 'presidential immunity'",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/05\/trump-asks-to-dismiss-dc-election-interference-charges-citing-presidential-immunity.html",
+    "time_published":1696529482000,
+    "authors":[
+      "Kevin Breuninger"
+    ],
+    "summary":"Former President Donald Trump denies charges from special counsel Jack Smith that he conspired to overturn his electoral loss to President Joe Biden in 2020.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107310174-16962682632023-10-02t173221z_1769277570_rc2hk3ay7wf8_rtrmadp_0_usa-trump-new-york.jpeg?v=1696529630&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":-0.079125,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"DSSMY",
+        "relevance_score":"0.377142",
+        "ticker_sentiment_score":"-0.316794",
         "ticker_sentiment_label":"Somewhat-Bearish"
       }
     ]
   },
   {
-    "title":"Zoom's AI Companion Free For Paid Users, While Competitors Charge $30-$50 Per Seat: Analyst Weighs In - Microsoft  ( NASDAQ:MSFT ) , Zoom Video Comms  ( NASDAQ:ZM ) ",
-    "url":"https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/23\/10\/35093811\/zooms-ai-companion-free-for-paid-users-while-competitors-charge-30-50-per-seat-anal",
-    "time_published":1696443670000,
+    "title":"3 reasons why Bitcoin is struggling to rally above $28.5K",
+    "url":"https:\/\/cointelegraph.com\/news\/3-reasons-why-bitcoin-struggles-to-rally-above-29k",
+    "time_published":1696529289000,
     "authors":[
-      "Nabaparna Bhattacharya"
+      "Marcel Pechman"
     ],
-    "summary":"Stifel analyst J. Parker Lane reiterated a Hold rating on Zoom Video Communications, Inc. ZM, lowering the price target to $70 from $75. Lane writes Zoom's decision to include AI Companion at no additional cost for paid users is notable given that competitors charge $30-$50 per seat for similar ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/04\/zm.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.360215"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":0.274408,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.342487",
-        "ticker_sentiment_score":"0.5443",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"ZM",
-        "relevance_score":"0.961451",
-        "ticker_sentiment_score":"0.511087",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Why Biden's Age Is An Unavoidable Conversation",
-    "url":"https:\/\/www.theatlantic.com\/newsletters\/archive\/2023\/10\/why-bidens-age-is-an-unavoidable-conversation\/675541\/",
-    "time_published":1696443600000,
-    "authors":[
-      "Conor Friedersdorf"
-    ],
-    "summary":"Welcome to Up for Debate. Each week, Conor Friedersdorf rounds up timely conversations and solicits reader responses to one thought-provoking question. Later, he publishes some thoughtful replies. Sign up for the newsletter here.",
-    "banner_image":"https:\/\/cdn.theatlantic.com\/thumbor\/9tn4CdgBpgQXJ0226Ts9h9weFXM=\/0x0:3847x2164\/960x540\/media\/img\/mt\/2023\/10\/biden_responses\/original.jpg",
-    "source":"The Atlantic",
+    "summary":"Bitcoin started the week with an uptick in investor sentiment, but there are three major factors preventing BTC price from recapturing the $30,000 level.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/aa0efaf9-5d5c-4231-9f99-4b8ba71e2e97.png",
+    "source":"Cointelegraph",
     "category_within_source":"n\/a",
-    "source_domain":"www.theatlantic.com",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.190675,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Krispy Kreme's Insomnia Divestiture May Not Boost Core Focus As Expected: Analyst Weighs In - Krispy Kreme  ( NASDAQ:DNUT ) ",
-    "url":"https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/23\/10\/35093179\/krispy-kremes-insomnia-divestiture-may-not-boost-core-focus-as-expected-analyst-wei",
-    "time_published":1696443347000,
-    "authors":[
-      "Shivani Kumaresan"
-    ],
-    "summary":"Truist Securities analyst Bill Chappell reiterated a Buy rating on the shares of Krispy Kreme Inc DNUT with an unchanged price target of $20.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/04\/dnut.png?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"1.0"
+        "relevance_score":"0.838487"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.684621"
-      }
-    ],
-    "overall_sentiment_score":0.275896,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"DNUT",
-        "relevance_score":"0.558244",
-        "ticker_sentiment_score":"0.347025",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Rising Interest Rates, Slow Job Growth: Is The US Economy Headed For A Downturn? Economists Weigh In - Automatic Data Processing  ( NASDAQ:ADP ) ",
-    "url":"https:\/\/www.benzinga.com\/economics\/macro-economic-events\/23\/10\/35095033\/rising-interest-rates-slow-job-growth-is-the-us-economy-headed-for-a-downturn-eco",
-    "time_published":1696443281000,
-    "authors":[
-      "AJ Fabino"
-    ],
-    "summary":"Data issued by Automatic Data Processing Inc ADP on Wednesday raised concerns over the decelerating pace of monthly employment growth among private U.S. businesses. This marked the third consecutive month of declines as September numbers rolled in, and details of the report painted a picture of ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Economy.US.Shuttertstock.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.081935,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"ADP",
-        "relevance_score":"0.331765",
-        "ticker_sentiment_score":"0.007327",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"LPLA",
-        "relevance_score":"0.068306",
-        "ticker_sentiment_score":"0.076207",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Spot Bitcoin ETF Launch Will Solidify Crypto As A Distinct Asset Class",
-    "url":"https:\/\/www.forbes.com\/sites\/roomykhan\/2023\/10\/04\/spot-bitcoin-etf-launch-will-solidify-crypto-as-a-distinct-asset-class\/",
-    "time_published":1696443171000,
-    "authors":[
-      "Roomy Khan"
-    ],
-    "summary":"The SEC has consistently cited the safeguarding of investors against potential crypto market manipulations and concerns about Bitcoin market liquidity as the primary r...",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651cd097d6c1637e7285f2ef\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Money",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
+        "relevance_score":"0.999819"
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.990678"
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
       }
     ],
-    "overall_sentiment_score":0.115304,
+    "overall_sentiment_score":0.130515,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-      {
-        "ticker":"BLK",
-        "relevance_score":"0.050519",
-        "ticker_sentiment_score":"0.093748",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CBOE",
-        "relevance_score":"0.025272",
-        "ticker_sentiment_score":"0.104706",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"IVZ",
-        "relevance_score":"0.075715",
-        "ticker_sentiment_score":"0.095473",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WT",
-        "relevance_score":"0.025272",
-        "ticker_sentiment_score":"0.104706",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.224441",
-        "ticker_sentiment_score":"0.033918",
-        "ticker_sentiment_label":"Neutral"
-      },
       {
         "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.771334",
-        "ticker_sentiment_score":"0.201901",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Are Penny Stocks Worth It? 4 To Watch With Big News",
-    "url":"https:\/\/pennystocks.com\/featured\/2023\/10\/04\/are-penny-stocks-worth-it-4-to-watch-with-big-news\/",
-    "time_published":1696443036000,
-    "authors":[
-      "J. Samuel"
-    ],
-    "summary":"The Effect of News on Penny Stocks and Building a Watchlist Penny stocks, defined as stocks trading under $5 per share, are known for their volatility and potential for significant returns. However, the low price of these stocks also makes them susceptible to dramatic price swings based on ...",
-    "banner_image":"https:\/\/pennystocks.com\/wp-content\/uploads\/2021\/03\/hot-penny-stocks-news.jpg",
-    "source":"PennyStocks.com",
-    "category_within_source":"n\/a",
-    "source_domain":"pennystocks.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.99915"
-      },
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.178146,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"DGX",
-        "relevance_score":"0.028524",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VSME",
-        "relevance_score":"0.085426",
-        "ticker_sentiment_score":"0.176902",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"0.195952",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"MDAI",
-        "relevance_score":"0.057011",
-        "ticker_sentiment_score":"0.023036",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.077884",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"GM secures new $6 billion credit line as UAW strike costs reach $200 million",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/04\/gm-secures-new-6-billion-credit-line-as-uaw-strike-costs-200-million.html",
-    "time_published":1696443027000,
+    "title":"YourTango Announces Groundbreaking New Podcast, \"Open Relationships: Transforming Together\" in Collaboration with iHeartMedia - iHeartMedia  ( NASDAQ:IHRT ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114607\/yourtango-announces-groundbreaking-new-podcast-open-relationships-transforming-together-in-collabo",
+    "time_published":1696529100000,
     "authors":[
-      "Michael Wayland"
+      "PRNewswire"
     ],
-    "summary":"The new line of credit is \"prudent\" to bolstering GM's balance sheet amid expectations that the union may expand and prolong strikes against the company.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107311540-16964386291696438625-31457869375-1080pnbcnews.jpg?v=1696439185&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Business",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.031601,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"F",
-        "relevance_score":"0.103331",
-        "ticker_sentiment_score":"-0.055569",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GM",
-        "relevance_score":"0.636698",
-        "ticker_sentiment_score":"-0.106685",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Largest Healthcare Worker Strike In History Gains Momentum",
-    "url":"https:\/\/www.forbes.com\/sites\/joycezhanggray\/2023\/10\/04\/largest-healthcare-worker-strike-in-history-gains-momentum\/",
-    "time_published":1696443003000,
-    "authors":[
-      "Joyce Zhang Gray"
-    ],
-    "summary":"Early this morning, 75,000 employees for Kaiser Permanente went on strike, making it the largest healthcare worker strike in history.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651da9a23b76c895a41cd480\/0x0.jpg?format=jpg&crop=1508,847,x0,y84,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Money",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.070512,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Medical Devices Player AngioDynamics Exceeds Q1 Expectations, Sticks To Annual Guidance - AngioDynamics  ( NASDAQ:ANGO ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35089385\/medical-devices-player-angiodynamics-exceeds-q1-expectations-sticks-to-annual-guidance",
-    "time_published":1696442953000,
-    "authors":[
-      "Vandana Singh"
-    ],
-    "summary":"AngioDynamics Inc ( NASDAQ: ANGO ) has reported a Q1 FY24 adjusted EPS loss of $ ( 0.12 ) , beating the consensus of $ ( 0.13 ) but higher than $ ( 0.06 ) reported a year ago. Q1 sales decreased 3.5% Y\/Y to $78.68 million, beating the analyst consensus of $77.69 million.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/04\/ango.png?width=1200&height=800&fit=crop",
+    "summary":"NEW YORK, Oct. 5, 2023 \/PRNewswire\/ -- YourTango, a leading publishing platform whose mission is to foster the human connection and whose editorial reaches over 50 million people every month, announces the launch of \"Open Relationships: Transforming Together\" in collaboration with iHeartMedia, ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
+        "topic":"Technology",
+        "relevance_score":"0.5"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.360215"
-      }
-    ],
-    "overall_sentiment_score":0.002395,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"NYC Pushes To Suspend Legal Right To Shelter As Migrant Influx Roils City Government",
-    "url":"https:\/\/www.forbes.com\/sites\/mollybohannon\/2023\/10\/04\/nyc-pushes-to-suspend-legal-right-to-shelter-as-migrant-influx-roils-city-government\/",
-    "time_published":1696442730000,
-    "authors":[
-      "Molly Bohannon"
-    ],
-    "summary":"New York City officials told a state judge there are now 116,700 people under the city's care, as the city deals with an influx of migrants.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651da71e132b3aa618eee3e0\/0x0.jpg?format=jpg&crop=2474,1392,x0,y64,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
         "topic":"Manufacturing",
-        "relevance_score":"1.0"
+        "relevance_score":"0.5"
       }
     ],
-    "overall_sentiment_score":-0.03864,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.364655,
+    "overall_sentiment_label":"Bullish",
     "ticker_sentiment":[
       {
         "ticker":"NYT",
-        "relevance_score":"0.061631",
-        "ticker_sentiment_score":"-0.018032",
+        "relevance_score":"0.051221",
+        "ticker_sentiment_score":"0.179914",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.051221",
+        "ticker_sentiment_score":"0.053597",
         "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"How Is The Market Feeling About HCA Healthcare? - HCA Healthcare  ( NYSE:HCA ) ",
-    "url":"https:\/\/www.benzinga.com\/short-sellers\/23\/10\/35094885\/how-is-the-market-feeling-about-hca-healthcare",
-    "time_published":1696442433000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"HCA Healthcare's HCA short percent of float has risen 4.17% since its last report. The company recently reported that it has 2.52 million shares sold short, which is 1.25% of all regular shares that are available for trading.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.267332,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
+        "ticker":"BTSDF",
+        "relevance_score":"0.051221",
+        "ticker_sentiment_score":"-0.05324",
+        "ticker_sentiment_label":"Neutral"
+      },
       {
-        "ticker":"HCA",
-        "relevance_score":"0.426824",
-        "ticker_sentiment_score":"0.33055",
+        "ticker":"IHRT",
+        "relevance_score":"0.251941",
+        "ticker_sentiment_score":"0.323837",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Looking Into GLOBALFOUNDRIES's Recent Short Interest - GLOBALFOUNDRIES  ( NASDAQ:GFS ) ",
-    "url":"https:\/\/www.benzinga.com\/short-sellers\/23\/10\/35094874\/looking-into-globalfoundriess-recent-short-interest",
-    "time_published":1696442428000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"GLOBALFOUNDRIES's GFS short percent of float has risen 5.48% since its last report. The company recently reported that it has 12.31 million shares sold short, which is 14.81% of all regular shares that are available for trading.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.26961,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"GFS",
-        "relevance_score":"0.224903",
-        "ticker_sentiment_score":"0.158881",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"If You Invested $1000 In This Stock 10 Years Ago, You Would Have $2,900 Today - KKR & Co  ( NYSE:KKR ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35094873\/if-you-invested-1000-in-this-stock-10-years-ago-you-would-have-2-900-today",
-    "time_published":1696442426000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"KKR & Co KKR has outperformed the market over the past 10 years by 1.53% on an annualized basis producing an average annual return of 11.37%. Currently, KKR & Co has a market capitalization of $51.09 billion.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_1.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.156267,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Looking Into UnitedHealth Group's Recent Short Interest - UnitedHealth Group  ( NYSE:UNH ) ",
-    "url":"https:\/\/www.benzinga.com\/short-sellers\/23\/10\/35094871\/looking-into-unitedhealth-groups-recent-short-interest",
-    "time_published":1696442423000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"UnitedHealth Group's UNH short percent of float has risen 21.43% since its last report. The company recently reported that it has 6.31 million shares sold short, which is 0.68% of all regular shares that are available for trading.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_18.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.267332,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"UNH",
-        "relevance_score":"0.426824",
-        "ticker_sentiment_score":"0.33055",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"$1000 Invested In This Stock 5 Years Ago Would Be Worth $2,700 Today - Freeport-McMoRan  ( NYSE:FCX ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35094869\/1000-invested-in-this-stock-5-years-ago-would-be-worth-2-700-today",
-    "time_published":1696442421000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"Freeport-McMoRan FCX has outperformed the market over the past 5 years by 14.18% on an annualized basis producing an average annual return of 22.21%. Currently, Freeport-McMoRan has a market capitalization of $51.51 billion.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.160819,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FCX",
-        "relevance_score":"0.983605",
-        "ticker_sentiment_score":"0.387251",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Nokia Corporation: Repurchase of own shares on 04.10.2023",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/04\/2754893\/0\/en\/Nokia-Corporation-Repurchase-of-own-shares-on-04-10-2023.html",
-    "time_published":1696442400000,
+    "title":"Nokia Corporation: Repurchase of own shares on 05.10.2023",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755720\/0\/en\/Nokia-Corporation-Repurchase-of-own-shares-on-05-10-2023.html",
+    "time_published":1696528800000,
     "authors":[
       "Nokia Oyj"
     ],
-    "summary":"Nokia CorporationStock Exchange Release4 October 2023 at ...",
+    "summary":"Nokia CorporationStock Exchange Release5 October 2023 at ...",
     "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/e6523d78-c43a-4057-8aa9-68206d3af4a8",
     "source":"GlobeNewswire",
     "category_within_source":"n\/a",
@@ -594,108 +186,76 @@
         "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":0.332115,
+    "overall_sentiment_score":0.338375,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
         "ticker":"NOK",
-        "relevance_score":"0.821747",
-        "ticker_sentiment_score":"0.547587",
+        "relevance_score":"0.810649",
+        "ticker_sentiment_score":"0.550953",
         "ticker_sentiment_label":"Bullish"
       }
     ]
   },
   {
-    "title":"In Celebration of National Farm to School Month, Dairy Council of California Releases New Educational Resource: Let's Eat Healthy Together: Explore Dairy",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35094773\/in-celebration-of-national-farm-to-school-month-dairy-council-of-california-releases-new-education",
-    "time_published":1696442318000,
+    "title":"HII Elects Craig Faller to Board of Directors",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755722\/14858\/en\/HII-Elects-Craig-Faller-to-Board-of-Directors.html",
+    "time_published":1696528800000,
     "authors":[
-      "Globe Newswire"
+      "HII"
     ],
-    "summary":"SACRAMENTO, Calif., Oct. 04, 2023 ( GLOBE NEWSWIRE ) -- Get ready to go on a fun food adventure with Let's Eat Healthy Together: Explore Dairy.",
+    "summary":"NEWPORT NEWS, Va., Oct. 05, 2023 ( GLOBE NEWSWIRE ) -- HII ( NYSE: HII ) announced today that Adm. Craig S. Faller ( U.S. Navy, Ret. ) was elected to the company's board of directors, effective Oct. 3, 2023.",
+    "banner_image":"https:\/\/ml.globenewswire.com\/Resource\/Download\/cac73380-10aa-4e8a-8f55-fa364bd68933",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.228095,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"EE",
+        "relevance_score":"0.08687",
+        "ticker_sentiment_score":"0.106066",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"CIRO receives delegation of powers for mutual fund dealers in Quebec",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114482\/ciro-receives-delegation-of-powers-for-mutual-fund-dealers-in-quebec",
+    "time_published":1696528800000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"MONTREAL, Oct. 5, 2023 \/CNW\/ - The Quebec government and the Autorit\u00e9 des march\u00e9s financiers ( AMF ) have approved a delegation of powers to the Canadian Investment Regulatory Organization ( CIRO ) .",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
-    "category_within_source":"General",
+    "category_within_source":"Markets",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.413174,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WFCF",
-        "relevance_score":"0.081276",
-        "ticker_sentiment_score":"0.170553",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"El\u00edsabet G. Bj\u00f6rnsd\u00f3ttir appointed CRO",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/04\/2754892\/0\/en\/El%C3%ADsabet-G-Bj%C3%B6rnsd%C3%B3ttir-appointed-CRO.html",
-    "time_published":1696442280000,
-    "authors":[
-      "Kvika banki hf."
-    ],
-    "summary":"El\u00edsabet G. Bj\u00f6rnsd\u00f3ttir has been appointed chief risk officer and will join the bank's executive committee.",
-    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/1ab812f6-b66f-434c-82b9-2b46a160d71f",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.108179"
+        "relevance_score":"0.459462"
       }
     ],
-    "overall_sentiment_score":0.11865,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:XCP",
-        "relevance_score":"0.24289",
-        "ticker_sentiment_score":"0.08936",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"MSC INDUSTRIAL SUPPLY CO. ANNOUNCES SHAREHOLDER APPROVAL OF PREVIOUSLY ANNOUNCED PLAN TO ELIMINATE DUAL CLASS STRUCTURE",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/msc-industrial-supply-co-announces-shareholder-approval-of-previously-announced-plan-to-eliminate-dual-class-structure-301947487.html",
-    "time_published":1696442220000,
-    "authors":[
-      "MSC Industrial Supply Co."
-    ],
-    "summary":"MSC INDUSTRIAL SUPPLY CO. ANNOUNCES SHAREHOLDER APPROVAL OF PREVIOUSLY ANNOUNCED PLAN ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/406094\/MSC_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999981"
-      }
-    ],
-    "overall_sentiment_score":0.165139,
+    "overall_sentiment_score":0.332754,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
 
     ]
   },
   {
-    "title":"AI Taxed In Chicago? ChatGPT Faces Hefty 9% Markup - Microsoft  ( NASDAQ:MSFT ) ",
-    "url":"https:\/\/www.benzinga.com\/government\/23\/10\/35094715\/ai-taxed-in-chicago-chatgpt-faces-hefty-9-markup",
-    "time_published":1696441988000,
+    "title":"The Metaverse Tax Conundrum: How It Could Become The Ultimate Tax Haven",
+    "url":"https:\/\/www.benzinga.com\/general\/23\/10\/35114314\/the-metaverse-tax-conundrum-how-it-could-become-the-ultimate-tax-haven",
+    "time_published":1696528339000,
     "authors":[
-      "AJ Fabino"
+      "Aditi Ganguly"
     ],
-    "summary":"ChatGPT, OpenAI's popular artificial intelligence ( AI ) platform, now falls under Chicago's Personal Property Lease Transaction Tax, which tacks on a 9% tax for users of its premium version as of Oct. 1. Wait, What?",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Chicago,Downtown,And,Chicago,River,At,Night._0.jpeg?width=1200&height=800&fit=crop",
+    "summary":"Most companies are doubling down on their efforts to integrate metaverse into their business models as the world is digitized, but the long-term ramifications of the budding technology are yet to be determined.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Young,Man,Wearing,Vr,Goggles.,Metaverse,Technology,Virtual,Reality,Concept._0.jpeg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
@@ -705,108 +265,71 @@
         "relevance_score":"1.0"
       },
       {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.108179"
+        "relevance_score":"0.839681"
       }
     ],
-    "overall_sentiment_score":0.104493,
+    "overall_sentiment_score":0.171149,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.051999",
+        "ticker_sentiment_score":"-0.046087",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.103778",
+        "ticker_sentiment_score":"-0.052173",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Why Shares of uniQure Are Up Thursday",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/05\/why-shares-of-uniqure-are-up-thursday\/",
+    "time_published":1696528177000,
+    "authors":[
+      "Jim Halley"
+    ],
+    "summary":"The company announced a reorganization that included layoffs.",
+    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.007093,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.217834",
-        "ticker_sentiment_score":"-0.023673",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SFSVF",
-        "relevance_score":"0.109956",
-        "ticker_sentiment_score":"0.100669",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"SAFER Banking Trajectory In Question As Republican Leader Kevin McCarthy Ousted As House Speaker",
-    "url":"https:\/\/www.benzinga.com\/23\/10\/35094687\/safer-banking-trajectory-in-question-as-republican-leader-kevin-mccarthy-ousted-as-house-speaker",
-    "time_published":1696441830000,
-    "authors":[
-      "The Dales Report"
-    ],
-    "summary":"Following the successful Senate Banking Committee markup vote last week, the prospects for bicameral SAFER Banking Act legislation appeared positive in both legislative branches of government.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/kevin_mccarthy_announcing_the_passage_of_the_lower_energy_costs_act.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
 
-    ],
-    "overall_sentiment_score":0.234438,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MJNA",
-        "relevance_score":"0.056808",
-        "ticker_sentiment_score":"0.047004",
-        "ticker_sentiment_label":"Neutral"
-      }
     ]
   },
   {
-    "title":"Correction: An Eviden led consortium to build Europe's first exascale supercomputer",
-    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/04\/2754889\/0\/en\/Correction-An-Eviden-led-consortium-to-build-Europe-s-first-exascale-supercomputer.html",
-    "time_published":1696441800000,
+    "title":"The Intricate Dance Of Crude Oil And Treasury Yields: A Deep Look At Market Correlations - Exxon Mobil  ( NYSE:XOM ) ",
+    "url":"https:\/\/www.benzinga.com\/23\/10\/35114270\/the-intricate-dance-of-crude-oil-and-treasury-yields-a-deep-look-at-market-correlations",
+    "time_published":1696528057000,
     "authors":[
-      "Atos International"
+      "Kevin Green"
     ],
-    "summary":"Baptized JUPITER, this supercomputer marks a turning point in Europe's path towards scientific excellence and industrial sovereignty.",
-    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/8dd48912-9b11-4caf-8ffb-d4d14516187c",
-    "source":"GlobeNewswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.globenewswire.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.650727"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.315539,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"AEXAF",
-        "relevance_score":"0.288468",
-        "ticker_sentiment_score":"0.295452",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NVDA",
-        "relevance_score":"0.146692",
-        "ticker_sentiment_score":"0.133407",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"P\/E Ratio Insights for Exelon - Exelon  ( NASDAQ:EXC ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35094619\/pe-ratio-insights-for-exelon",
-    "time_published":1696441517000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"In the current market session, Exelon Inc. EXC price is at $37.24, after a 0.51% increase. However, over the past month, the stock fell by 7.10%, and in the past year, by 1.93%. Shareholders might be interested in knowing whether the stock is undervalued, even if the company is performing up to ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+    "summary":"Over the past five trading sessions, crude oil has gained significant attention from traders and investors. Crude oil prices have plummeted over 12% since briefly touching the $95.03 mark.",
+    "banner_image":"https:\/\/www.benzinga.com\/files\/images\/2023\/October\/05\/untitled_design_54.png",
     "source":"Benzinga",
-    "category_within_source":"Markets",
+    "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Energy & Transportation",
@@ -814,211 +337,287 @@
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.413559"
+        "relevance_score":"0.214378"
       }
     ],
-    "overall_sentiment_score":0.045227,
+    "overall_sentiment_score":-0.066003,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"EXC",
-        "relevance_score":"0.367865",
-        "ticker_sentiment_score":"-0.007805",
+        "ticker":"XOM",
+        "relevance_score":"0.092927",
+        "ticker_sentiment_score":"0.193789",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"We're adding to an emerging cloud stock on recent weakness that won't last long",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/05\/were-adding-to-an-emerging-cloud-stock-on-recent-weakness-that-wont-last-long.html",
+    "time_published":1696528006000,
+    "authors":[
+      "Jim Cramer",
+      "Jeff Marks"
+    ],
+    "summary":"If the Fed is leaning more towards pausing than putting on one more rate hike, we think it's worth putting on another small buy into this oversold market.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107308899-1695966211457-gettyimages-1241306978-775824979.jpeg?v=1696528006&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.99676"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.714479"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.067686,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"ORCL",
+        "relevance_score":"0.574748",
+        "ticker_sentiment_score":"0.097657",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Affirmed Housing Celebrates Grand Opening of New, Supportive Housing Development in Los Angeles",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35094611\/affirmed-housing-celebrates-grand-opening-of-new-supportive-housing-development-in-los-angeles",
-    "time_published":1696441476000,
+    "title":"The Paley Center for Media Announces Event, Camelot 60 Years Later: The Legacy of John F. Kennedy, America's First \"Television President\"",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114253\/the-paley-center-for-media-announces-event-camelot-60-years-later-the-legacy-of-john-f-kennedy-ame",
+    "time_published":1696527900000,
     "authors":[
-      "Globe Newswire"
+      "PRNewswire"
     ],
-    "summary":"LOS ANGELES, Oct. 04, 2023 ( GLOBE NEWSWIRE ) -- Affirmed Housing, a leading provider of affordable housing throughout California, announces the completion of Asante, a new, supportive housing development located at 11001 S. Broadway in Los Angeles.",
+    "summary":"NEW YORK, Oct. 5, 2023 \/PRNewswire\/ -- Nearing the 60th anniversary of President John F. Kennedy's assassination, The Paley Center for Media is excited to partner with The HISTORY\u00ae Channel to present the latest groundbreaking PaleyImpact event, Camelot 60 Years Later: The Legacy of John F.",
     "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
+        "topic":"Technology",
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":0.353968,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.2499,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.039096",
+        "ticker_sentiment_score":"-0.003879",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.078099",
+        "ticker_sentiment_score":"0.123777",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.078099",
+        "ticker_sentiment_score":"0.123777",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"YUGVF",
+        "relevance_score":"0.039096",
+        "ticker_sentiment_score":"0.130111",
+        "ticker_sentiment_label":"Neutral"
+      }
     ]
   },
   {
-    "title":"Price analysis 10\/4: BTC, ETH, BNB, XRP, SOL, ADA, DOGE, TON, DOT, MATIC",
-    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-10-4-btc-eth-bnb-xrp-sol-ada-doge-ton-dot-matic",
-    "time_published":1696441410000,
+    "title":"GM's stock hits three-year low amid UAW strike, potential air bag recall",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/05\/gms-stock-falls-amid-strikes-potential-air-bag-recall.html",
+    "time_published":1696527787000,
     "authors":[
-      "Rakesh Upadhyay"
+      "Michael Wayland"
     ],
-    "summary":"Bitcoin is consolidating at the top of its range and this is inspiring traders' confidence in a variety of altcoins.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/54f7769f-c676-4f1c-a811-e25f3f26f2ba.png",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
+    "summary":"The last time shares of GM dropped below $30 a share during intraday trading was on Oct. 1, 2020, according to FactSet.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107309360-1696012107932-gettyimages-1697753295-DET294.jpeg?v=1696527787&w=1920&h=1080",
+    "source":"CNBC",
+    "category_within_source":"Business",
+    "source_domain":"www.cnbc.com",
     "topics":[
       {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
+        "topic":"Financial Markets",
+        "relevance_score":"0.266143"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.744043"
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":0.043444,
+    "overall_sentiment_score":0.145891,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.091046",
-        "ticker_sentiment_score":"-0.02636",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:DOGE",
-        "relevance_score":"0.091046",
-        "ticker_sentiment_score":"0.075872",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ADA",
-        "relevance_score":"0.091046",
-        "ticker_sentiment_score":"0.17226",
+        "ticker":"GM",
+        "relevance_score":"0.774534",
+        "ticker_sentiment_score":"0.242128",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Apple CEO Tim Cook, Executives Sell Over $100M In Stock - Harbinger Of iPhone 15 Flop? Or Diversifying Their Wallets? - Apple  ( NASDAQ:AAPL ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35094604\/apple-ceo-tim-cook-executives-sell-over-100m-in-stock-harbinger-of-iphone-15-flop-or-diversifyin",
-    "time_published":1696441351000,
+    "title":"Big 3 Automaker Stellantis Invests $90M in Lithium Triangle Explorer",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/mining\/10058Lithium-Electric-Vehicle.asp",
+    "time_published":1696527775000,
     "authors":[
-      "AJ Fabino"
-    ],
-    "summary":"Records released on Tuesday showed several recently executed insider stock sales by Apple Inc AAPL company officials. Three executives, including CEO Tim Cook, cashed in on shares totaling $134.58 million as part of a prearranged trading program, according to data from Benzinga's insider trades ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/tim_cook_shutter3_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.316726"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.999491"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.009572,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GS",
-        "relevance_score":"0.075635",
-        "ticker_sentiment_score":"-0.013262",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.657566",
-        "ticker_sentiment_score":"-0.05571",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MS",
-        "relevance_score":"0.075635",
-        "ticker_sentiment_score":"-0.174138",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Opening arguments begin in Sam Bankman-Fried trial",
-    "url":"https:\/\/cointelegraph.com\/news\/opening-arguments-sam-bankman-fried-trial",
-    "time_published":1696441336000,
-    "authors":[
-      "Turner Wright"
-    ],
-    "summary":"\"His girlfriend will tell you how they stole money together,\" said Assistant U.S. Attorney Thane Rehn in an opening statement about the former FTX CEO.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvNjgxODI4ODctZTFjNC00MTcxLTk2ODEtZDEyNDA1Y2VhNjE0LmpwZw==.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.451494"
-      }
-    ],
-    "overall_sentiment_score":-0.060585,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
 
-    ]
-  },
-  {
-    "title":"This AI company wants to help you control your dreams with a new headset",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/04\/ai-startup-prophetic-aims-to-build-headset-that-lets-you-control-dreams.html",
-    "time_published":1696441323000,
-    "authors":[
-      "Hayden Field"
     ],
-    "summary":"Prophetic is a tech startup creating what's billed as the \"world's first wearable device for stabilizing lucid dreams.\" ...",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107154410-1668802371975-Sleep_In_Bed.jpg?v=1696441323&w=1920&h=1080",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
+    "summary":"October 5, 2023 ( Investorideas.com Newswire ) Shares of this lithium explorer jumped after an announcement that big-three automaker Stellantis is investing US$90 million in the company. One analyst said other major companies are watching. Shares of lithium explorer Argentina Lithium & Energy ...",
+    "banner_image":"https:\/\/www.streetwisereports.com\/images\/LithiumBatteryAdobe.jpeg",
+    "source":"Investor Ideas",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investorideas.com",
     "topics":[
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.360215"
+      },
       {
         "topic":"Technology",
         "relevance_score":"1.0"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.796627"
       }
     ],
-    "overall_sentiment_score":0.243878,
+    "overall_sentiment_score":0.169978,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"GOOG",
-        "relevance_score":"0.043658",
+        "ticker":"ICNB",
+        "relevance_score":"0.03798",
+        "ticker_sentiment_score":"0.071043",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RIO",
+        "relevance_score":"0.03798",
+        "ticker_sentiment_score":"-0.071043",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AMLI",
+        "relevance_score":"0.03798",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Homes are now unaffordable in 99% of the US for average Americans",
-    "url":"https:\/\/www.foxbusiness.com\/economy\/homes-are-now-unaffordable-us-average-americans",
-    "time_published":1696440924000,
+    "title":"What's Going On With Euronav and Frontline Stocks Thursday? - Frontline  ( NYSE:FRO ) , Euronav  ( NYSE:EURN ) ",
+    "url":"https:\/\/www.benzinga.com\/m-a\/23\/10\/35113689\/whats-going-on-with-euronav-and-frontline-stocks-thursday",
+    "time_published":1696527751000,
     "authors":[
-      "Megan Henney"
+      "Anusuya Lahiri"
     ],
-    "summary":"Housing prices are growing more unaffordable even with the astronomical rise in mortgage rates, putting ownership out of reach for millions of Americans.",
-    "banner_image":"https:\/\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/08\/housing-12.jpg",
-    "source":"Fox Business News",
-    "category_within_source":"n\/a",
-    "source_domain":"www.foxbusiness.com",
+    "summary":"Belgian oil tanker and storage operator Euronav NV EURN confirmed that the second shareholder, Compagnie Maritime Belge ( CMB ) , offered to acquire Frontline Plc's FRO 26.12% stake in the company for $18.43 per share, which a mandatory public offer at the same price will follow.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/fro.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Mergers",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.217976,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"EURN",
+        "relevance_score":"0.981584",
+        "ticker_sentiment_score":"0.393905",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"FRO",
+        "relevance_score":"0.913524",
+        "ticker_sentiment_score":"0.372111",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Donald Trump Mug Shot Success: Here's How Much Former President Raised After Viral Image, What It Means In Race Against DeSantis - Digital World Acq  ( NASDAQ:DWAC ) ",
+    "url":"https:\/\/www.benzinga.com\/m-a\/23\/10\/35112814\/donald-trump-mug-shot-success-heres-how-much-former-president-raised-after-viral-image-what-it-means",
+    "time_published":1696527722000,
+    "authors":[
+      "Chris Katje"
+    ],
+    "summary":"Former President Donald Trump is among the leading candidates to win the 2024 presidential election. With record advertising spending predicted for the highly contentious race among Republican and Democrat candidates, Trump has announced a new fundraising haul to support his race.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/trump.fultoncsheriff.moneybulb.shutterstock.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.207233,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"NYT",
+        "relevance_score":"0.072",
+        "ticker_sentiment_score":"0.089538",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DWAC",
+        "relevance_score":"0.282234",
+        "ticker_sentiment_score":"0.197427",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"SSTK",
+        "relevance_score":"0.072",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Argentina Lithium Closes US$90 Million Investment by Stellantis in ARS$ Equivalent - Argentina Lithium  ( OTC:PNXLF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114218\/argentina-lithium-closes-us-90-million-investment-by-stellantis-in-ars-equivalent",
+    "time_published":1696527720000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"TSX Venture Exchange ( TSX-V ) : LITFrankfurt Stock Exchange ( FSE ) : OAY3OTCQB Venture Market ( OTC ) : PNXLF VANCOUVER, BC, Oct. 5, 2023 \/CNW\/ - Argentina Lithium & Energy Corp.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
@@ -1026,248 +625,2534 @@
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.904684"
-      }
-    ],
-    "overall_sentiment_score":0.002412,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Paul McCartney Shares 'Eleanor Rigby' And 'Back In The USSR' Backstories In New Podcast",
-    "url":"https:\/\/www.forbes.com\/sites\/hughmcintyre\/2023\/10\/04\/paul-mccartney-shares-eleanor-rigby-and-back-in-the-ussr-backstories-in-new-podcast\/",
-    "time_published":1696440819000,
-    "authors":[
-      "Hugh McIntyre"
-    ],
-    "summary":"In the inaugural episode of McCartney: A Life In Lyrics, the musician himself shares the backstory behind The Beatles classic, \"Back In The USSR.\" ...",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6436efbaf58b01c96e117b7c\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
+        "relevance_score":"0.77141"
+      },
       {
-        "topic":"Technology",
+        "topic":"Manufacturing",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.139254,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
+      },
       {
-        "ticker":"IHRT",
-        "relevance_score":"0.083833",
-        "ticker_sentiment_score":"0.096193",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"U.S. Transferring Thousands Of Seized Iranian Weapons To Ukraine",
-    "url":"https:\/\/www.forbes.com\/sites\/willskipworth\/2023\/10\/04\/us-transferring-thousands-of-seized-iranian-weapons-to-ukraine\/",
-    "time_published":1696440729000,
-    "authors":[
-      "William Skipworth"
-    ],
-    "summary":"The weapons were being smuggled from Iran to Yemen, where a civil war is ongoing.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/62499fdeb85d6719dc85cb1a\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.193431,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.158519",
-        "ticker_sentiment_score":"-0.160838",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Europe is stuck in a need-hate relationship with migrants",
-    "url":"https:\/\/www.economist.com\/europe\/2023\/10\/04\/europe-is-stuck-in-a-need-hate-relationship-with-migrants",
-    "time_published":1696440708000,
-    "authors":[
-      "The Economist"
-    ],
-    "summary":"A small boats is arriving on Europe's southern shores, brimming with migrants willing to work, for example doing low-skilled jobs in construction or caring for the elderly. In entirely separate news, Europe has a mounting shortage of workers, especially in low-skilled sectors like construction or ...",
-    "banner_image":"https:\/\/www.economist.com\/img\/b\/1280\/720\/90\/media-assets\/image\/20231007_EUD000.jpg",
-    "source":"The Economist",
-    "category_within_source":"BusinessGoogleRSS",
-    "source_domain":"www.economist.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.039088,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"UBER",
-        "relevance_score":"0.039614",
-        "ticker_sentiment_score":"-0.055401",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Looking At Roblox's Recent Unusual Options Activity - Roblox  ( NYSE:RBLX ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/options\/23\/10\/35094456\/looking-at-robloxs-recent-unusual-options-activity",
-    "time_published":1696440683000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"Someone with a lot of money to spend has taken a bearish stance on Roblox RBLX. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_18.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Earnings",
+        "topic":"Economy - Macro",
         "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
       }
     ],
-    "overall_sentiment_score":0.136824,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.237779,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"RBLX",
-        "relevance_score":"0.774534",
-        "ticker_sentiment_score":"0.152229",
+        "ticker":"ICNB",
+        "relevance_score":"0.085173",
+        "ticker_sentiment_score":"0.159392",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"STLA",
+        "relevance_score":"0.085173",
+        "ticker_sentiment_score":"0.239214",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Looking At RH's Recent Unusual Options Activity - RH  ( NYSE:RH ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/options\/23\/10\/35094453\/looking-at-rhs-recent-unusual-options-activity",
-    "time_published":1696440677000,
+    "title":"Argentina Lithium Closes US$90 Million Investment by Stellantis in ARS$ Equivalent - Argentina Lithium  ( OTC:PNXLF ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114208\/argentina-lithium-closes-us-90-million-investment-by-stellantis-in-ars-equivalent",
+    "time_published":1696527720000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"TSX Venture Exchange ( TSX-V ) : LITFrankfurt Stock Exchange ( FSE ) : OAY3OTCQB Venture Market ( OTC ) : PNXLF VANCOUVER, BC, Oct. 5, 2023 \/PRNewswire\/ - Argentina Lithium & Energy Corp.",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2239884\/Argentina_Lithium___Energy_Corp__Argentina_Lithium_Closes_US_90.jpg",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.858979"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.242264,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ICNB",
+        "relevance_score":"0.084572",
+        "ticker_sentiment_score":"0.159203",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"STLA",
+        "relevance_score":"0.084572",
+        "ticker_sentiment_score":"0.238923",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"The Northeast Can Be Huge For Cannabis - Hear What This Veteran Lawyer Says The Market Will Look Like",
+    "url":"https:\/\/www.benzinga.com\/markets\/cannabis\/23\/10\/35114167\/the-northeast-can-be-huge-for-cannabis-hear-what-this-veteran-lawyer-says-the-market-will-look-l",
+    "time_published":1696527660000,
+    "authors":[
+      "Johnny Rice"
+    ],
+    "summary":"Loius Maguzzo, Partner at Weiner Law Group, was a panelist at Benzinga's Cannabis Capital Conference on Thursday, September 28th. Weiner Law Group has been providing businesses, insurers, employers and public entities with legal counsel and representation since 1988.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/fall_2023_ccc_-_eventbrite_1920_x_1080_px_1_5.png?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.543835,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Explainer: Why are Kaiser Permanente healthcare workers on strike?",
+    "url":"https:\/\/www.reuters.com\/business\/healthcare-pharmaceuticals\/why-are-kaiser-permanente-healthcare-workers-strike-2023-10-05\/",
+    "time_published":1696527420000,
+    "authors":[
+      "Leroy Leo",
+      "Bhanvi Satija"
+    ],
+    "summary":"Healthcare workers strike in front of Kaiser Permanente Los Angeles Medical Center, as more than 75,000 Kaiser Permanente healthcare workers go on strike from October 4 to 7 across the United States, in Los Angeles, California, U.S. October 4, 2023. REUTERS\/Aude Guerrucci Acquire Licensing Rights",
+    "banner_image":"https:\/\/s3.amazonaws.com\/arc-authors\/reuters\/24e53264-190b-4097-835a-edeca236a9f4.png",
+    "source":"Reuters",
+    "category_within_source":"Business",
+    "source_domain":"www.reuters.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.030998,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"AMN",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"0.041369",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FSNUF",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.044739",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HCSG",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"0.041369",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"THC",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.055108",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"The Life Settlement Landscape: AIR Asset Management At The Forefront",
+    "url":"https:\/\/www.benzinga.com\/general\/23\/10\/35114109\/the-life-settlement-landscape-air-asset-management-at-the-forefront",
+    "time_published":1696527377000,
+    "authors":[
+      "Amir Bakian"
+    ],
+    "summary":"Once considered a fringe element of the financial world, the life settlements sector has grown in prominence and scale, teeming with potential. Yet, like any other niche, it's also filled with complexities, where the path to success is dictated not just by risk management but also by regulatory ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/shutterstock_1978695896_12.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.355456,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Don't Buy the Birkenstock IPO, Expert Urges",
+    "url":"https:\/\/www.kiplinger.com\/investing\/stocks\/dont-buy-the-birkenstock-ipo-expert-urges",
+    "time_published":1696527325000,
+    "authors":[
+      "Dan Burrows"
+    ],
+    "summary":"Birkenstock Holding is among the more recognizable initial public offerings ( IPOs ) of the fall, but retail investors who have long loved the company's clunky sandals would do well to steer clear of buying its stock, skeptics say.",
+    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/pFifyeVHdSdFu6jNAtyRte-415-80.jpg",
+    "source":"Kiplinger",
+    "category_within_source":"n\/a",
+    "source_domain":"www.kiplinger.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.99393"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.538269"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.2792,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"NKE",
+        "relevance_score":"0.160099",
+        "ticker_sentiment_score":"0.13782",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"K",
+        "relevance_score":"0.160099",
+        "ticker_sentiment_score":"0.167958",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"ARM",
+        "relevance_score":"0.238133",
+        "ticker_sentiment_score":"0.13873",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DECK",
+        "relevance_score":"0.160099",
+        "ticker_sentiment_score":"0.13782",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CROX",
+        "relevance_score":"0.160099",
+        "ticker_sentiment_score":"0.02553",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Why Toyota Motor Stock Got a Lift Today",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/05\/why-toyota-motor-stock-got-a-lift-today\/",
+    "time_published":1696527283000,
+    "authors":[
+      "John Ballard"
+    ],
+    "summary":"Toyota signed a $3 billion deal to shore up its electric battery supply chain.",
+    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.088295,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"TM",
+        "relevance_score":"0.303175",
+        "ticker_sentiment_score":"0.142151",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.154455",
+        "ticker_sentiment_score":"0.098594",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Why borrowing costs for nearly everything are surging, and what it means for you",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/05\/why-borrowing-costs-for-nearly-everything-are-surging.html",
+    "time_published":1696527204000,
+    "authors":[
+      "Hugh Son"
+    ],
+    "summary":"Violent moves in bonds have hammered investors and renewed fears of an impending recession, as well as concerns about housing, banks and the U.S. deficit.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107310954-16963630591696363057-31446320536-1080pnbcnews.jpg?v=1696363547&w=750&h=422&vtcrop=y",
+    "source":"CNBC",
+    "category_within_source":"Finance",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999999"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.158152,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GS",
+        "relevance_score":"0.037446",
+        "ticker_sentiment_score":"0.116687",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.037446",
+        "ticker_sentiment_score":"-0.007683",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Researchers link popular weight loss drugs to serious digestive problems for 'hundreds of thousands' worldwide",
+    "url":"https:\/\/www.cnn.com\/2023\/10\/05\/health\/weight-loss-drugs-serious-digestive-problems-study\/index.html",
+    "time_published":1696527120000,
+    "authors":[
+      "Brenda Goodman"
+    ],
+    "summary":"A new study suggests people taking popular injected medications for weight loss, including Wegovy, Ozempic, Saxenda and Victoza, may be at higher risk for serious digestive problems such as stomach paralysis, pancreatitis, and bowel obstructions, compared with those taking other types of weight ...",
+    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/230928082800-ozempic-injectable-drug-file.jpg?c=16x9&q=h_144,w_256,c_fill",
+    "source":"CNN",
+    "category_within_source":"Markets",
+    "source_domain":"www.cnn.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.097948,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.085553",
+        "ticker_sentiment_score":"-0.048006",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVO",
+        "relevance_score":"0.021427",
+        "ticker_sentiment_score":"0.1954",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"AWON",
+        "relevance_score":"0.021427",
+        "ticker_sentiment_score":"-0.001793",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Here's How Much $100 Invested In Gilead Sciences 20 Years Ago Would Be Worth Today - Gilead Sciences  ( NASDAQ:GILD ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35114040\/heres-how-much-100-invested-in-gilead-sciences-20-years-ago-would-be-worth-today",
+    "time_published":1696527050000,
     "authors":[
       "Benzinga Insights"
     ],
-    "summary":"Someone with a lot of money to spend has taken a bullish stance on RH RH. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
+    "summary":"Gilead Sciences GILD has outperformed the market over the past 20 years by 4.82% on an annualized basis producing an average annual return of 12.02%. Currently, Gilead Sciences has a market capitalization of $93.13 billion.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_4.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.160819,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GILD",
+        "relevance_score":"0.980595",
+        "ticker_sentiment_score":"0.386944",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Here's How Much $100 Invested In Public Storage 20 Years Ago Would Be Worth Today - Public Storage  ( NYSE:PSA ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35114039\/heres-how-much-100-invested-in-public-storage-20-years-ago-would-be-worth-today",
+    "time_published":1696527045000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"Public Storage PSA has outperformed the market over the past 20 years by 2.45% on an annualized basis producing an average annual return of 9.64%. Currently, Public Storage has a market capitalization of $45.55 billion.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_0.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.160819,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"PSA",
+        "relevance_score":"0.980595",
+        "ticker_sentiment_score":"0.386944",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bakery Packaging Machine Market to Exceed USD 3.4 billion by 2031, Capturing a 3.4% CAGR - Exclusive Report by Transparency Market Research",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35114012\/bakery-packaging-machine-market-to-exceed-usd-3-4-billion-by-2031-capturing-a-3-4-cagr-exclusive-r",
+    "time_published":1696527000000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"Wilmington, Delaware, United States, Oct. 05, 2023 ( GLOBE NEWSWIRE ) -- Transparency Market Research Inc. - The bakery packaging machine market valued at US$ 2.5 billion in 2022. The market is likely to be worth US$ 3.4 billion by 2031 capturing a 3.4% CAGR from 2022 to 2031.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.325597,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Robotexts Rebound To 12 Billion On The Heels Of Three Month Decreases, According To Robokiller Insights - IAC  ( NASDAQ:IAC ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35114042\/robotexts-rebound-to-12-billion-on-the-heels-of-three-month-decreases-according-to-robokiller-insi",
+    "time_published":1696527000000,
+    "authors":[
+      "PRNewswire"
+    ],
+    "summary":"NEW YORK, Oct. 5, 2023 \/PRNewswire\/ -- Robotexts jumped to 12 billion in September, a 9% month-over-month increase, according to Robokiller Insights. Meanwhile, robocalls plummeted to 4.6 billion in September, a 14% decrease from August.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.034423,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"NYT",
+        "relevance_score":"0.070935",
+        "ticker_sentiment_score":"-0.116856",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.070935",
+        "ticker_sentiment_score":"0.118662",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Armando Colimodio: From Mechanical Blueprints to Business Blue Skies",
+    "url":"https:\/\/www.benzinga.com\/general\/23\/10\/35113958\/armando-colimodio-from-mechanical-blueprints-to-business-blue-skies",
+    "time_published":1696526978000,
+    "authors":[
+      "John Smith"
+    ],
+    "summary":"Success in entrepreneurship doesn't come from a single source, nor is it a straight path. The contemporary business world demands unprecedented flexibility, requiring entrepreneurs to continuously pivot, adapt, and innovate.",
+    "banner_image":"https:\/\/www.benzinga.com\/files\/u240220\/armando.png",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.270427,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Ninepoint Partners Announces First Closing of Ninepoint 2023 Short Duration Flow-Through Limited Partnership",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35113935\/ninepoint-partners-announces-first-closing-of-ninepoint-2023-short-duration-flow-through-limited-p",
+    "time_published":1696526944000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"TORONTO, Oct. 05, 2023 ( GLOBE NEWSWIRE ) -- Ninepoint Partners LP ( \"Ninepoint\" ) is pleased to announce that the Ninepoint 2023 Short Duration Flow-Through Limited Partnership ( the \"Partnership\" ) has completed the first closing in connection with its offering of Class A and Class F limited ...",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999696"
+      }
+    ],
+    "overall_sentiment_score":0.207719,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"BAB, Inc. Reports Results for 3rd Quarter FY 2023",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755712\/0\/en\/BAB-Inc-Reports-Results-for-3rd-Quarter-FY-2023.html",
+    "time_published":1696526940000,
+    "authors":[
+      "Inc.",
+      "BAB"
+    ],
+    "summary":"DEERFIELD, Ill., Oct. 05, 2023 ( GLOBE NEWSWIRE ) -- BAB, Inc. ( OTCQB: BABB ) , announced its financial results for the third quarter ended August 31, 2023.",
+    "banner_image":"",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.95493"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      }
+    ],
+    "overall_sentiment_score":0.210872,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Why You Should Buy This Silver Co. Right Away",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/mining\/10057Buy-Dolly-Varden.asp",
+    "time_published":1696526935000,
+    "authors":[
+
+    ],
+    "summary":"October 5, 2023 ( Investorideas.com Newswire ) Technical Analyst Clive Maund reviews Dolly Varden Silver Corp.'s 1-year chart to explain why he believes you should buy this stock right away.",
+    "banner_image":"https:\/\/www.streetwisereports.com\/images\/384300800_326202773248579_1909636694083220104_n.jpg",
+    "source":"Investor Ideas",
+    "category_within_source":"n\/a",
+    "source_domain":"www.investorideas.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.94762"
+      }
+    ],
+    "overall_sentiment_score":-0.053302,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Amaroq Announces Changes to its Trading Liquidity Enhancement Agreements",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755711\/0\/en\/Amaroq-Announces-Changes-to-its-Trading-Liquidity-Enhancement-Agreements.html",
+    "time_published":1696526880000,
+    "authors":[
+      "Amaroq Minerals"
+    ],
+    "summary":"TORONTO, ONTARIO, Oct. 05, 2023 ( GLOBE NEWSWIRE ) -- ( \"Amaroq\", the \"Corporation\", or the \"Company\" ...",
+    "banner_image":"",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.413559"
+      }
+    ],
+    "overall_sentiment_score":0.293077,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Workers vote to restart strike at Chevron's Australia LNG facilities",
+    "url":"https:\/\/www.reuters.com\/business\/energy\/workers-vote-restart-strike-chevrons-australia-lng-facilities-2023-10-05\/",
+    "time_published":1696526880000,
+    "authors":[
+      "Reuters"
+    ],
+    "summary":"[1\/2] A 3D printed natural gas pipeline is placed in front of displayed Chevron logo in this illustration taken Feb. 8, 2022. REUTERS\/Dado Ruvic\/Illustration\/File Photo Acquire Licensing Rights",
+    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/Q6RYBE2CWVJ5FN6LIFTMZSC4IM.jpg",
+    "source":"Reuters",
+    "category_within_source":"Business",
+    "source_domain":"www.reuters.com",
+    "topics":[
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.090341,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"USEG",
+        "relevance_score":"0.269776",
+        "ticker_sentiment_score":"0.002123",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WDS",
+        "relevance_score":"0.269776",
+        "ticker_sentiment_score":"-0.169151",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"VinFast reports rising Q3 sales, but loss widens",
+    "url":"https:\/\/www.marketwatch.com\/story\/vinfast-reports-rising-q3-sales-but-loss-widens-c7ca1ec6",
+    "time_published":1696526880000,
+    "authors":[
+      "Claudia Assis"
+    ],
+    "summary":"VinFast Auto Ltd. shares gain more than 2% Thursday after the Vietnam-based EV maker reported third-quarter revenue that more than doubled from a year ago.",
+    "banner_image":"https:\/\/images.mktw.net\/im-863338\/social",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.538269"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.096365,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"F",
+        "relevance_score":"0.255641",
+        "ticker_sentiment_score":"0.451992",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"GM",
+        "relevance_score":"0.255641",
+        "ticker_sentiment_score":"0.451992",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"VFS",
+        "relevance_score":"0.255641",
+        "ticker_sentiment_score":"0.099528",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Total voting rights",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755709\/0\/en\/Total-voting-rights.html",
+    "time_published":1696526700000,
+    "authors":[
+      "Endeavour Mining PLC"
+    ],
+    "summary":"The following notification is made in accordance with the UK Financial Conduct Authority's ( \"FCA\" ) Disclosure Guidance and Transparency Rule 5.6.",
+    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/cff109e5-0693-447f-8afe-290bcfdfd66f",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.77141"
+      }
+    ],
+    "overall_sentiment_score":0.430991,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"LDNXF",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.338268",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Stylish Spots To Experience Day Of The Dead Across Mexico",
+    "url":"https:\/\/www.forbes.com\/sites\/claudiaalarcon\/2023\/10\/05\/stylish-spots-to-experience-day-of-the-dead-across-mexico\/",
+    "time_published":1696526602000,
+    "authors":[
+      "Claudia Alarc\u00f3n"
+    ],
+    "summary":"If you've always dreamed of traveling to Mexico to witness or take part in the festivities, this might be the year. Here are a few places taking reservations now.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651dd2025def1de5b4708a9e\/0x0.jpg?format=jpg&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+
+    ],
+    "overall_sentiment_score":0.430389,
+    "overall_sentiment_label":"Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SMGBF",
+        "relevance_score":"0.036812",
+        "ticker_sentiment_score":"0.18341",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Transaction in Own Shares - Shell  ( NYSE:SHEL ) ",
+    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35113870\/transaction-in-own-shares",
+    "time_published":1696526550000,
+    "authors":[
+      "Globe Newswire"
+    ],
+    "summary":"Shell plc ( the 'Company' ) announces that on 05 October 2023 it purchased the following number of Shares for cancellation. These share purchases form part of the on- and off-market limbs of the Company's existing share buy-back programme previously announced on 27 July 2023.",
+    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.004822,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"C",
+        "relevance_score":"0.199859",
+        "ticker_sentiment_score":"-0.13736",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RYDAF",
+        "relevance_score":"0.199859",
+        "ticker_sentiment_score":"0.285743",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Stocks That Hit 52-Week Lows On Thursday - PRA Group  ( NASDAQ:PRAA ) , Perimeter Solutions  ( NYSE:PRM ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35111787\/stocks-that-hit-52-week-lows-on-thursday",
+    "time_published":1696526522000,
+    "authors":[
+      "Benzinga Insights"
+    ],
+    "summary":"On Thursday, 369 companies hit new 52-week lows. The largest company in terms of market cap to set a new 52-week low was Coca-Cola KO. The smallest company by market cap to hit a new 52-week low was Neptune Wellness Solns NEPT.",
     "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_5.jpeg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"Markets",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.5"
+        "topic":"Life Sciences",
+        "relevance_score":"0.142857"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.142857"
       },
       {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
+        "topic":"Technology",
+        "relevance_score":"0.142857"
       },
       {
         "topic":"Finance",
-        "relevance_score":"0.5"
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"0.142857"
       }
     ],
-    "overall_sentiment_score":0.147744,
+    "overall_sentiment_score":-0.11524,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"VIAV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FLGC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ZIVO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FSEA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SNDX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.083761",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ASST",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVST",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.065807",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EYE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JOAN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VIRX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BALY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CDT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NGVT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVCR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.083761",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"INBS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PTAIF",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"-0.082676",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DOCN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MGYR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HOG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NVRO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RBT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CMBM",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BNGO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ASTR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SUP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AAP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HESG",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.004253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SEE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00436",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RBOT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TGL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ASTC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RTC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"A",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.004169",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MTTR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AEZS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BE",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"-0.087721",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"D",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.004253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GNL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CFG",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.003297",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"G",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"-0.013723",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EGRX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"INDI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BTTX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JAGX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FATE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KIDS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ACET",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PENN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RKDA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BYND",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SVV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BLDE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CWH",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ASH",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LHX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SQ",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MCRB",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NMG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LSDI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IOVA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SEDG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FNA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00436",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WOLF",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AONC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLDP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DH",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WOOF",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ALIT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CZOO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EVRI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.08953",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PRM",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ADN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.104029",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LITE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00436",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LICY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SQFTP",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"-0.082676",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PZZA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"UI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ENSC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.073742",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RGNX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PODD",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FREY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SAND",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GSUN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AEMD",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"-0.084192",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DCPH",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RCUS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOK",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AKYA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BGS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IMCR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003477",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLDB",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SII",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SYY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BTWN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TMCI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ARVL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RGP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SHLS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LAES",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00436",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KZR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VZIO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOSL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VAXX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IVR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GPRO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.103839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HLGN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BRDG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ENV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IVZ",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"0.048269",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NEXI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HTZ",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SGMO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MGOL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SBSW",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLGL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NSTG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SGMT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HUN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BIG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HIPO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.083761",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EXFY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GM",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ALLT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.073742",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ALLR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NUWE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VBIV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ONEW",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CLFD",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RICK",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003477",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"OTRK",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DGII",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09896",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GTN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.083761",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AGTI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EDBL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COMS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CARE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CLX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HLIT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VERI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ELBM",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WTO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NUZE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HNNA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JNVR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CMP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003499",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VTNR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"OUT",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.005137",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CHPT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KNTE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SONN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SONO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CARV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ETAO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00436",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"0.049358",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NKGN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AMRC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CNS",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"-0.099512",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ZAPP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HKIT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.093428",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LOVE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EBS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.110266",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NEXPF",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.005137",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PCRX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"OFIX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOSS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SATS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BMY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LGVNR",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"-0.10474",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NEE",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"0.004589",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"OGI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KXIN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.068827",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SOL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DAR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AMRN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.073742",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PLBY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SLFPF",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.003297",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MXCT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NEP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ADPT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.073742",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CHRS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EVGO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KBNT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ZBRA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DRUG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003524",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CSIQ",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.073742",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PRAA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MODN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MODV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.065807",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FTCI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WHG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ME",
+        "relevance_score":"0.006524",
+        "ticker_sentiment_score":"0.004169",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PYPD",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VSAT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"HOTH",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"UTZ",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NWL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MP",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BMRA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"AMT",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"-0.004616",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CAG",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MAXN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"VRNT",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SAFE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.079402",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MED",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.065807",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOEV",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PXMD",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ESTA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ANL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004424",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SKLZ",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.101353",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PARA",
+        "relevance_score":"0.01957",
+        "ticker_sentiment_score":"-0.030206",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRIS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.005387",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PRTA",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.083761",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"INO",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SNSE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.00439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ANGI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PLL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CHEF",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DXCM",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004465",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RMBL",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BAC",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.004444",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DRVN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.075927",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CSLR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RVTY",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.097823",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CMPS",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LMDX",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SCI",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"0.003467",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"DVN",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.113741",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"EXR",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.087261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CLNE",
+        "relevance_score":"0.013047",
+        "ticker_sentiment_score":"-0.09253",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"The 10-year Treasury yield looks priced to cause a recession. But is it time to buy?",
+    "url":"https:\/\/www.marketwatch.com\/story\/the-10-year-treasury-yield-looks-priced-to-cause-a-recession-but-is-it-time-to-buy-3d1bdecc",
+    "time_published":1696526520000,
+    "authors":[
+      "Joy Wiltermuth"
+    ],
+    "summary":"If you believe a U.S. recession is coming and inflation will continue to ease, you should also believe the 10-year Treasury yield will fall, say Macquarie strategists.",
+    "banner_image":"https:\/\/images.mktw.net\/im-863243?width=700&height=394",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.682689"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.977154"
+      }
+    ],
+    "overall_sentiment_score":-0.285169,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"MCQEF",
+        "relevance_score":"0.260189",
+        "ticker_sentiment_score":"-0.086116",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Transaction in Own Shares",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755708\/0\/en\/Transaction-in-Own-Shares.html",
+    "time_published":1696526520000,
+    "authors":[
+      "Shell plc"
+    ],
+    "summary":"Shell plc ( the 'Company' ) announces that on 05 October 2023 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue:",
+    "banner_image":"",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.009712,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
         "ticker":"C",
-        "relevance_score":"0.097854",
-        "ticker_sentiment_score":"0.0",
+        "relevance_score":"0.207571",
+        "ticker_sentiment_score":"-0.141374",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"WFC",
-        "relevance_score":"0.097854",
-        "ticker_sentiment_score":"-0.129061",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MS",
-        "relevance_score":"0.097854",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RH",
-        "relevance_score":"0.823771",
-        "ticker_sentiment_score":"0.194452",
+        "ticker":"RYDAF",
+        "relevance_score":"0.104683",
+        "ticker_sentiment_score":"0.204484",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Albemarle Unusual Options Activity - Albemarle  ( NYSE:ALB ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/options\/23\/10\/35094450\/albemarle-unusual-options-activity",
-    "time_published":1696440672000,
+    "title":"Alvotech and Islandsbanki enter into Market Making Agreement for Shares Trading on Nasdaq Iceland",
+    "url":"https:\/\/www.globenewswire.com\/news-release\/2023\/10\/05\/2755706\/0\/en\/Alvotech-and-Islandsbanki-enter-into-Market-Making-Agreement-for-Shares-Trading-on-Nasdaq-Iceland.html",
+    "time_published":1696526460000,
     "authors":[
-      "Benzinga Insights"
+      "Alvotech"
     ],
-    "summary":"Someone with a lot of money to spend has taken a bearish stance on Albemarle ALB. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
+    "summary":"Alvotech ( Nasdaq: ALVO ) and \u00cdslandsbanki hf. ( \"Islandsbanki\" ) have entered into a market making agreement. According to the market making agreement, Islandsbanki places bids and offers for ALVO shares trading on the Nasdaq Iceland Main Market ( the \"Exchange\" ) for a minimum amount with a ...",
+    "banner_image":"https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/17a8091d-68a6-47c1-968e-fcced99f1d44",
+    "source":"GlobeNewswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.globenewswire.com",
     "topics":[
       {
         "topic":"Life Sciences",
-        "relevance_score":"0.5"
+        "relevance_score":"1.0"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
+        "relevance_score":"0.87644"
       }
     ],
-    "overall_sentiment_score":0.136836,
+    "overall_sentiment_score":0.078295,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"ALB",
-        "relevance_score":"0.817578",
-        "ticker_sentiment_score":"0.132163",
+        "ticker":"ALVO",
+        "relevance_score":"0.556869",
+        "ticker_sentiment_score":"0.084701",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"C",
-        "relevance_score":"0.10607",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"TEVA",
+        "relevance_score":"0.035983",
+        "ticker_sentiment_score":"0.062317",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"KMDA",
+        "relevance_score":"0.035983",
+        "ticker_sentiment_score":"0.062317",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"LTUS",
+        "relevance_score":"0.035983",
+        "ticker_sentiment_score":"0.062317",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"CarMax  ( KMX )  Q2 2024 Earnings Call Transcript",
-    "url":"https:\/\/www.fool.com\/earnings\/call-transcripts\/2023\/10\/04\/carmax-kmx-q2-2024-earnings-call-transcript\/",
-    "time_published":1696440627000,
+    "title":"How this bartender built a multimillion-dollar real estate portfolio",
+    "url":"https:\/\/www.marketwatch.com\/story\/how-this-bartender-built-a-multimillion-dollar-real-estate-portfolio-7c186c8c",
+    "time_published":1696526280000,
     "authors":[
-      "Motley Fool Transcribing"
+      "Jennifer Weiss"
     ],
-    "summary":"KMX earnings call for the period ending June 30, 2023.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/fool-transcripts-logo.png",
+    "summary":"Melanie Bajrovic created enough passive income streams to quit the bar industry ...",
+    "banner_image":"https:\/\/images.mktw.net\/im-863155?width=700&height=393",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.495866"
+      }
+    ],
+    "overall_sentiment_score":0.130341,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Jay Leno Tows Tesla Semi With Tesla Semi, Says It Feels Like Nothing: 'It Moves Just Like A Car' - Tesla  ( NASDAQ:TSLA ) ",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35112791\/jay-leno-tows-tesla-semi-with-tesla-semi-says-it-feels-like-nothing-it-moves-just-like-a-car",
+    "time_published":1696526046000,
+    "authors":[
+      "Adam Eckert"
+    ],
+    "summary":"Comedian and former late-night television host Jay Leno towed a Tesla Inc TSLA Semi truck with a Tesla Semi truck in the most recent episode of \"Jay Leno's Garage.\" He walked away amazed by the sheer power of the vehicle.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/0x0-semi_09.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.181951,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.090816",
+        "ticker_sentiment_score":"0.059073",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.790432",
+        "ticker_sentiment_score":"0.270274",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"One 'Call Of Duty: Modern Warfare III' #CODNext Gameplay Reveal Has Me Super Worried",
+    "url":"https:\/\/www.forbes.com\/sites\/erikkain\/2023\/10\/05\/one-call-of-duty-modern-warfare-iii-codnext-gameplay-reveal-has-me-super-worried\/",
+    "time_published":1696525929000,
+    "authors":[
+      "Erik Kain"
+    ],
+    "summary":"I have a bad feeling about this.",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651ee760b422c7aa4434ff50\/0x0.jpg?format=jpg&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Business",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":0.076145,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"ATVI",
+        "relevance_score":"0.053271",
+        "ticker_sentiment_score":"0.07697",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Why bank stocks are the 'Achilles' heel' of markets as bears worry high bond yields may 'break' something",
+    "url":"https:\/\/www.marketwatch.com\/story\/why-bank-stocks-are-the-achilles-heel-of-markets-as-bears-worry-high-bond-yields-may-break-something-2bf7e451",
+    "time_published":1696525800000,
+    "authors":[
+      "Christine Idzelis"
+    ],
+    "summary":"Bank stocks are in need of a 'recovery rally' to show that higher interest rates won't necessarily doom the U.S. economy to a recession in 2024, says DataTrek.",
+    "banner_image":"https:\/\/images.mktw.net\/im-818126\/social",
+    "source":"MarketWatch",
+    "category_within_source":"Top Stories",
+    "source_domain":"www.marketwatch.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999696"
+      }
+    ],
+    "overall_sentiment_score":-0.087562,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+
+    ]
+  },
+  {
+    "title":"Why Lamb Weston Stock Jumped on Thursday",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/05\/why-lamb-weston-stock-jumped-on-thursday\/",
+    "time_published":1696525735000,
+    "authors":[
+      "John Ballard"
+    ],
+    "summary":"This key McDonald's supplier is demonstrating exceptional pricing power.",
+    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
     "source":"Motley Fool",
     "category_within_source":"n\/a",
     "source_domain":"www.fool.com",
@@ -1277,632 +3162,125 @@
         "relevance_score":"0.158519"
       },
       {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.5"
-      },
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.967645"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.972476"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.213872,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"AVPI",
-        "relevance_score":"0.004675",
-        "ticker_sentiment_score":"0.18621",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"EVR",
-        "relevance_score":"0.00935",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MORN",
-        "relevance_score":"0.004675",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BAC",
-        "relevance_score":"0.004675",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"JPM",
-        "relevance_score":"0.004675",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"KMX",
-        "relevance_score":"0.065378",
-        "ticker_sentiment_score":"0.102347",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"$1000 Invested In This Stock 10 Years Ago Would Be Worth $3,800 Today - Valero Energy  ( NYSE:VLO ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35094442\/1000-invested-in-this-stock-10-years-ago-would-be-worth-3-800-today",
-    "time_published":1696440627000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"Valero Energy VLO has outperformed the market over the past 10 years by 4.51% on an annualized basis producing an average annual return of 14.35%. Currently, Valero Energy has a market capitalization of $46.51 billion.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_3.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.160819,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"VLO",
-        "relevance_score":"0.980595",
-        "ticker_sentiment_score":"0.386944",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"$100 Invested In This Stock 10 Years Ago Would Be Worth $600 Today - Monster Beverage  ( NASDAQ:MNST ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/earnings\/23\/10\/35094436\/100-invested-in-this-stock-10-years-ago-would-be-worth-600-today",
-    "time_published":1696440622000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"Monster Beverage MNST has outperformed the market over the past 10 years by 9.25% on an annualized basis producing an average annual return of 19.09%. Currently, Monster Beverage has a market capitalization of $53.71 billion.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_4.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
+        "relevance_score":"0.214378"
       },
       {
         "topic":"Manufacturing",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.160819,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MNST",
-        "relevance_score":"0.980595",
-        "ticker_sentiment_score":"0.386944",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against PacWest Bancorp  ( PACW )  - PacWest Banc  ( NASDAQ:PACW ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35094431\/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-agains",
-    "time_published":1696440613000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"LOS ANGELES, Oct. 04, 2023 ( GLOBE NEWSWIRE ) -- Glancy Prongay & Murray LLP ( \"GPM\" ) reminds investors of the upcoming November 10, 2023 deadline to file a lead plaintiff motion in the class action filed on behalf of investors who purchased or otherwise acquired PacWest Bancorp ( \"PacWest\" or ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.989041"
-      },
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.538269"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.031767,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"PACW",
-        "relevance_score":"0.115787",
-        "ticker_sentiment_score":"0.041182",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.058047",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"BANC",
-        "relevance_score":"0.115787",
-        "ticker_sentiment_score":"0.229911",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Alstom cuts free cash flow target as production ramps up, order delays weigh",
-    "url":"https:\/\/www.reuters.com\/business\/alstom-cuts-free-cash-flow-target-production-ramps-up-order-delays-weigh-2023-10-04\/",
-    "time_published":1696440480000,
-    "authors":[
-      "Reuters"
-    ],
-    "summary":"A logo of Alstom is seen in the turbine deck on the construction site of the third-generation European Pressurised Water nuclear reactor ( EPR ) in Flamanville, France, June 14, 2022. REUTERS\/Sarah Meyssonnier\/File Photo Acquire Licensing Rights",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/AS36F27LIVPWRK6MFIA255VYFA.jpg",
-    "source":"Reuters",
-    "category_within_source":"Business",
-    "source_domain":"www.reuters.com",
-    "topics":[
-      {
-        "topic":"Finance",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.11409,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"AOMFF",
-        "relevance_score":"0.497391",
-        "ticker_sentiment_score":"-0.157286",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      },
-      {
-        "ticker":"C",
-        "relevance_score":"0.1331",
-        "ticker_sentiment_score":"-0.281474",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"LABITCONF 2023: The  ( R ) evolution Returns to Buenos Aires",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35094327\/labitconf-2023-the-r-evolution-returns-to-buenos-aires",
-    "time_published":1696440424000,
-    "authors":[
-      "Jose Rodrigo Safdiye"
-    ],
-    "summary":"Buenos Aires, Argentina - September 27, 2023 - LABITCONF, the leading crypto event in the region, is set to return to Buenos Aires on November 10th and 11th, 2023. With over 250 global speakers, this 11th edition will delve into the future of Bitcoin, Blockchain, and the implications of ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/04\/6464c5f1b9688d64a32acc9c_escenario.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":0.207413,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.372912",
-        "ticker_sentiment_score":"0.191463",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"DAOs can help scientists find funding and community, says Nature science journal",
-    "url":"https:\/\/cointelegraph.com\/news\/dao-help-scientists-funding-community-nature-science-journal",
-    "time_published":1696440319000,
-    "authors":[
-      "Tristan Greene"
-    ],
-    "summary":"Decentralization could help bring scientists in underfunded fields and locations to the table without requiring relocation or reemployment ...",
-    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvOGVhMWQzYzktYmFlNy00OTcwLWJiZWQtZTFhM2YwOTE4Njc0LkpQRw==.jpg",
-    "source":"Cointelegraph",
-    "category_within_source":"n\/a",
-    "source_domain":"cointelegraph.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.190221,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Data reveals Canada is home to the sixth most crypto enthusiasts worldwide",
-    "url":"https:\/\/www.investorideas.com\/news\/2023\/cryptocurrency\/10041Canada-The-6th-Crypto-Enthusiasts.asp",
-    "time_published":1696440271000,
-    "authors":[
-
-    ],
-    "summary":"Data reveals Canada is home to the sixth most crypto enthusiasts ... ...",
-    "banner_image":null,
-    "source":"Investor Ideas",
-    "category_within_source":"n\/a",
-    "source_domain":"www.investorideas.com",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.890401"
-      }
-    ],
-    "overall_sentiment_score":0.22898,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.503018",
-        "ticker_sentiment_score":"0.275856",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.349329",
-        "ticker_sentiment_score":"0.261765",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Upward Climb: Path Ahead Could Be Treacherous Amid Fed Speakers Jobs Data, D.C. Uncertainty - Delta Air Lines  ( NYSE:DAL ) , Domino's Pizza  ( NYSE:DPZ ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/23\/10\/35094222\/upward-climb-path-ahead-could-be-treacherous-amid-fed-speakers-jobs-data-d-c-uncertainty",
-    "time_published":1696440241000,
-    "authors":[
-      "Schwab Center for Financial Research"
-    ],
-    "summary":"( Wednesday market open ) A break in the clouds early Wednesday opened the door for premarket gains in the major stock indexes as yields, the dollar, and crude oil all stepped back. However, Federal Reserve speakers, uncertainty in Washington, and economic data could darken the horizon.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/04\/shutterstock_1055599112_26.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
       },
       {
         "topic":"Earnings",
-        "relevance_score":"0.999855"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.682689"
       }
     ],
-    "overall_sentiment_score":-0.021643,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"TD",
-        "relevance_score":"0.119137",
-        "ticker_sentiment_score":"-0.068693",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DMPZF",
-        "relevance_score":"0.019928",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SCHW",
-        "relevance_score":"0.059736",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PEP",
-        "relevance_score":"0.07959",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DPZ",
-        "relevance_score":"0.039844",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WBA",
-        "relevance_score":"0.039844",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.039844",
-        "ticker_sentiment_score":"-0.099038",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Gold's Downward Dance - Unraveling The Commodities 1.3% Dip In Value This October",
-    "url":"https:\/\/www.benzinga.com\/23\/10\/35094279\/golds-downward-dance-unraveling-the-commodities-1-3-dip-in-value-this-october",
-    "time_published":1696440187000,
-    "authors":[
-      "Zaheer Anwari"
-    ],
-    "summary":"Gold is currently on a downward trend, primarily driven by a strengthening US dollar. Since August 2020, gold prices have been oscillating between $1,614 and $2,081. Gold, often considered a safe-haven asset, has been experiencing a downward trend lately.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/maxim-hopman-fixlqxahcfk-unsplash_2_7.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.405291,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.375722",
-        "ticker_sentiment_score":"0.608037",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Gold's Downward Dance - Unraveling The Commodities 1.3% Dip In Value This October",
-    "url":"https:\/\/www.benzinga.com\/markets\/23\/10\/35094279\/golds-downward-dance-unraveling-the-commodities-1-3-dip-in-value-this-october",
-    "time_published":1696440187000,
-    "authors":[
-      "Zaheer Anwari"
-    ],
-    "summary":"Gold is currently on a downward trend, primarily driven by a strengthening US dollar. Since August 2020, gold prices have been oscillating between $1,614 and $2,081. Gold, often considered a safe-haven asset, has been experiencing a downward trend lately.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/maxim-hopman-fixlqxahcfk-unsplash_2_7.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"Trading",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.405291,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.375722",
-        "ticker_sentiment_score":"0.608037",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Google Unveils 'Assistant With Bard' Powered By Generative AI For Android, iOS - Microsoft  ( NASDAQ:MSFT ) , Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35094259\/google-unveils-assistant-with-bard-powered-by-generative-ai-for-android-ios",
-    "time_published":1696440135000,
-    "authors":[
-      "Rounak Jain"
-    ],
-    "summary":"Alphabet Inc.'s GOOG GOOGL Google is giving a boost to its artificial intelligence ( AI ) efforts on mobile. The tech giant announced \"Assistant with Bard,\" a new generative AI-powered personal assistant, at the Made by Google 2023 event on Oct. 4.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Google_Assistant_with_Bard.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.213547,
+    "overall_sentiment_score":0.268471,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"MSFT",
-        "relevance_score":"0.229149",
-        "ticker_sentiment_score":"0.149499",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"MDNDF",
+        "relevance_score":"0.129516",
+        "ticker_sentiment_score":"0.203271",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"GOOG",
-        "relevance_score":"0.810034",
-        "ticker_sentiment_score":"0.42095",
+        "ticker":"LW",
+        "relevance_score":"0.485711",
+        "ticker_sentiment_score":"0.385954",
         "ticker_sentiment_label":"Bullish"
       }
     ]
   },
   {
-    "title":"Annual Boo in the Bottoms Event - Hauntingly Fun Shopping Event",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/n35094258\/annual-boo-in-the-bottoms-event-hauntingly-fun-shopping-event",
-    "time_published":1696440060000,
+    "title":"'s Luke Jacobi Hosts Special All Access, Talks With CEO Of This Thriving E-Comm Business - CarParts.com  ( NASDAQ:PRTS ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/penny-stocks\/23\/10\/35113706\/benzingas-luke-jacobi-hosts-special-all-access-talks-with-ceo-of-this-thriving-e-comm-busine",
+    "time_published":1696525716000,
     "authors":[
-      "PRNewswire"
+      "Johnny Rice"
     ],
-    "summary":"First Friday Weekend in Kansas City's West Bottoms Historic District, October 6-8 KANSAS CITY, Mo., Oct. 4, 2023 \/PRNewswire\/ -- The Historic West Bottoms District is brewing up a cauldron of excitement as the annual Boo in the Bottoms event descends upon the First Friday Weekend this October 6-8.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "summary":"David Meniane, CEO of CarParts.com PRTS, was a guest recently on a special edition of All-Access hosted by Benzinga's own, Luke Jacobi. CarParts.com is an e-commerce company offering a factory-to-consumer online shopping experience for everyday drivers.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/05\/screenshot_2023-10-05_at_10.37.02_pm.png?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"1.0"
+        "topic":"Financial Markets",
+        "relevance_score":"0.360215"
       }
     ],
-    "overall_sentiment_score":0.24702,
+    "overall_sentiment_score":0.226202,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.054607",
-        "ticker_sentiment_score":"0.106799",
-        "ticker_sentiment_label":"Neutral"
-      }
+
     ]
   },
   {
-    "title":"Stocks making the biggest moves midday: Sunnova Energy, Cal-Maine Foods, Marathon Petroleum and more",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/04\/stocks-making-the-biggest-moves-midday-sunnova-energy-cal-maine-foods-marathon-petroleum-and-more.html",
-    "time_published":1696440048000,
+    "title":"Hong Kong Stocks Gain Some Steam Back After Citigroup Declares China's \"Cyclical Bottom Is Here\" - Citigroup  ( NYSE:C ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/penny-stocks\/23\/10\/35113705\/hong-kong-stocks-gain-some-steam-back-after-citigroup-declares-chinas-cyclical-bottom-is-her",
+    "time_published":1696525693000,
     "authors":[
-      "Sarah Min"
+      "Daniel Harrison"
     ],
-    "summary":"These are the stocks posting the largest moves in midday trading.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107311223-1696415314649-gettyimages-1075912616-GC183128.jpeg?v=1696440048&w=1920&h=1080",
-    "source":"CNBC",
-    "category_within_source":"Market Insider",
-    "source_domain":"www.cnbc.com",
+    "summary":"Positive economic data for China growth and the approved restructuring of a major property developer lifted stocks in Hong Kong Thursday in the mid-morning session, although most failed to hold onto the gains in the afternoon.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/pexels-jacob-zatorsky-5997294.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Life Sciences",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
+        "topic":"Finance",
+        "relevance_score":"1.0"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.25"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.576289"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.25"
+        "relevance_score":"0.684621"
       }
     ],
-    "overall_sentiment_score":0.202802,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.024503,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CALM",
-        "relevance_score":"0.121037",
-        "ticker_sentiment_score":"0.096135",
+        "ticker":"BABA",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"-0.091021",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"MPC",
-        "relevance_score":"0.121037",
-        "ticker_sentiment_score":"0.160091",
+        "ticker":"C",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"0.078369",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JDLGF",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"-0.130678",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CHWTF",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"-0.171113",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"LNGPF",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"-0.075431",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SIMTF",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"-0.171113",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"HSBC",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"0.152948",
         "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"PSX",
-        "relevance_score":"0.121037",
-        "ticker_sentiment_score":"0.160091",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NCLH",
-        "relevance_score":"0.121037",
-        "ticker_sentiment_score":"-0.006037",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NOVA",
-        "relevance_score":"0.239305",
-        "ticker_sentiment_score":"0.079917",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PODD",
-        "relevance_score":"0.352223",
-        "ticker_sentiment_score":"-0.005119",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RCL",
-        "relevance_score":"0.121037",
-        "ticker_sentiment_score":"-0.006037",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RUN",
-        "relevance_score":"0.239305",
-        "ticker_sentiment_score":"0.079917",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FLR",
-        "relevance_score":"0.352223",
-        "ticker_sentiment_score":"0.763831",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"DXCM",
-        "relevance_score":"0.239305",
-        "ticker_sentiment_score":"-0.003786",
-        "ticker_sentiment_label":"Neutral"
       }
     ]
   }
