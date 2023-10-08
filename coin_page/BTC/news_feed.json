@@ -1,13 +1,13 @@
 [
   {
-    "title":"Stablecoin Market Cap Hits 18 Months of Decline-But All Is Not Lost",
-    "url":"https:\/\/decrypt.co\/200534\/stablecoins-down-35-percent-against-treasury-yields",
-    "time_published":1696702225000,
+    "title":"This Week on Crypto Twitter: Ethereum Futures ETFs and the FTX Saga",
+    "url":"https:\/\/decrypt.co\/200588\/this-week-on-crypto-twitter-ethereum-futures-etf-ftx-saga-beeple",
+    "time_published":1696787388000,
     "authors":[
-      "Pedro Solimano"
+      "Tim Hakki"
     ],
-    "summary":"Stymied by stronger treasury yields and U.S. regulatory pressure, stablecoins are down but not dead.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/USDT-shutterstock_1807087441-16x9-1-gID_7.jpg",
+    "summary":"Two of the industry's favorite ongoing stories ignited a lot of discussion on Twitter this week.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Beeple-gID_7.jpg",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
@@ -18,447 +18,189 @@
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.983605"
+        "relevance_score":"0.682689"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.650727"
+        "relevance_score":"0.714479"
       }
     ],
-    "overall_sentiment_score":0.117873,
+    "overall_sentiment_score":0.070306,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.211191",
+        "ticker_sentiment_score":"0.226059",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"-0.034538",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Musk's Call For 'Citizen Journalism' Slammed By Renowned Journalist: 'Hard Pass'",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35136552\/musks-call-for-citizen-journalism-slammed-by-renowned-journalist-hard-pass",
-    "time_published":1696700710000,
-    "authors":[
-      "Nabaparna Bhattacharya"
-    ],
-    "summary":"Elon Musk, the CEO of SpaceX and Tesla Inc., is making waves again, not in the tech or automotive world, but in the realm of journalism. Musk is advocating for a surge in \"citizen journalism\" on the social media platform X following his acquisition of Twitter.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/elon.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.196335,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.162802",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Stars Arena Drained of $2.85 Million, Declaring 'War' with Hackers",
-    "url":"https:\/\/decrypt.co\/200533\/stars-arena-hacked-avax-friend-tech",
-    "time_published":1696700580000,
-    "authors":[
-      "Ali Shutler"
-    ],
-    "summary":"\"We will re-open the contract with all the funds in full after a full security audit,\" the project said. \"This will happen very soon.\" ...",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Stars-Arena-Hacker-gID_7.jpg",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.02185,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.209365",
-        "ticker_sentiment_score":"-0.010017",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:AVAX",
-        "relevance_score":"0.309539",
-        "ticker_sentiment_score":"0.098372",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"What the stock market selloff means for Biden's re-election chances",
-    "url":"https:\/\/www.marketwatch.com\/story\/what-the-stock-market-selloff-means-for-bidens-re-election-chances-bc86f09f",
-    "time_published":1696699440000,
-    "authors":[
-      "Mark Hulbert"
-    ],
-    "summary":"Why it pays to keep your politics and your investments separate.",
-    "banner_image":"https:\/\/images.mktw.net\/im-628248\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999998"
-      }
-    ],
-    "overall_sentiment_score":-0.151281,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"'Surprising' Bellingham Helps Madrid Crush Osasuna, Overtake Girona",
-    "url":"https:\/\/www.barrons.com\/news\/surprising-bellingham-helps-madrid-crush-osasuna-overtake-girona-996c439b",
-    "time_published":1696698840000,
-    "authors":[
-      "Rik Sharma"
-    ],
-    "summary":"Real Madrid coach Carlo Ancelotti said nobody expected Jude Bellingham to be so explosive in front of goal after the midfielder hit a brace to send Madrid back top of La Liga on Saturday with a 4-0 win over Osasuna.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP5215430759689418923156987437376792168272---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.224625,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BORUF",
-        "relevance_score":"0.054483",
-        "ticker_sentiment_score":"-0.030134",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Under Fire: Walmart Accused Of Monopolistic Machinations In Mexico, Billion-dollar Fines Loom - Walmart  ( NYSE:WMT ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35136421\/under-fire-walmart-accused-of-monopolistic-machinations-in-mexico-billion-dollar-fines-loom",
-    "time_published":1696698682000,
-    "authors":[
-      "Nabaparna Bhattacharya"
-    ],
-    "summary":"Walmart Inc. WMT, a name synonymous with retail dominance, has found itself trapped in a complex legal battle in Mexico. Accusations of market power abuse and monopolistic practices have put Walmart de Mexico, the local subsidiary, under intense scrutiny by Mexico's antitrust authority Comisi\u00f3n ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/walmart.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.002489,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WMT",
-        "relevance_score":"0.66906",
-        "ticker_sentiment_score":"-0.019259",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"OFIX LOSS ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Orthofix Medical Inc. Investors to Inquire About Securities Class Action Investigation - OFIX",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/ofix-loss-alert-rosen-national-trial-lawyers-encourages-orthofix-medical-inc-investors-to-inquire-about-securities-class-action-investigation--ofix-301949987.html",
-    "time_published":1696698000000,
-    "authors":[
-      "P. A.",
-      "THE ROSEN LAW FIRM"
-    ],
-    "summary":"OFIX LOSS ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Orthofix Medical Inc. Investors to Inquire About ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/405060\/Rosen_Law_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.614606"
-      }
-    ],
-    "overall_sentiment_score":0.187461,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.080728",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"OFIX",
-        "relevance_score":"0.160633",
-        "ticker_sentiment_score":"-0.0779",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"PBS Doc Probes Cheating In 'The Astros Edge: Triumph And Scandal In Major League Baseball'",
-    "url":"https:\/\/www.forbes.com\/sites\/anneeaston\/2023\/10\/07\/pbs-doc-probes-cheating-in-the-astros-edge-triumph-and-scandal-in-major-league-baseball\/",
-    "time_published":1696698000000,
-    "authors":[
-      "Anne Easton"
-    ],
-    "summary":"Using new information and exclusive interviews with former MLB insiders, including some associated with the Astros organization, the film goes deep.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651f3dc3bde82ce2e33018cf\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.052754,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:SOC",
-        "relevance_score":"0.034039",
-        "ticker_sentiment_score":"-0.10748",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Trump's Niece Blasts Her Uncle For Backing Jim Jordan For House Speaker Post: 'Evil Endorses Evil'",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35136680\/trumps-niece-blasts-her-uncle-for-backing-jim-jordan-for-house-speaker-post-evil-endorses-evil",
-    "time_published":1696697697000,
-    "authors":[
-      "Shanthi Rexaline"
-    ],
-    "summary":"Mary Trump, the niece of former President Donald Trump, on Thursday weighed in on her uncle's backing of Rep. Jim Jordan ( R-Ohio ) for the post of speaker of the House. What Happened: \"Jim Jordan is evil. Donald Trump is evil,\" said Mary Trump in a post on X, formerly Twitter.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Trump_Jordan.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.053444,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.128135",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"George Schlatter's 'Turn-On' Returns After More Than 50 Years",
-    "url":"https:\/\/www.forbes.com\/sites\/marcberman1\/2023\/10\/07\/george-schlatters-turn-on-returns-after-more-than-50-years\/",
-    "time_published":1696697591000,
-    "authors":[
-      "Marc Berman"
-    ],
-    "summary":"The show would be picked up by ABC for a run of 13 episodes, with additional episodes purchased after advertisers saw the first episode for a total of 17 shows.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65218aabf4171a54a6e36924\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.093449,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.104228",
-        "ticker_sentiment_score":"0.114074",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"WWE Fastlane 2023: John Cena Winning And 5 Smart Booking Decisions",
-    "url":"https:\/\/www.forbes.com\/sites\/blakeoestriecher\/2023\/10\/07\/wwe-fastlane-2023-john-cena-winning-and-5-smart-booking-decisions\/",
-    "time_published":1696697100000,
-    "authors":[
-      "Blake Oestriecher"
-    ],
-    "summary":"WWE Fastlane 2023 should be a big night for John Cena, Seth Rollins and LA Knight, and these booking moves could help.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/64a08de03b65d577dc9b88bd\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.228602,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Israel's war with Hamas could increase competition for the US artillery shells needed by Ukraine",
-    "url":"https:\/\/africa.businessinsider.com\/military-and-defense\/israels-war-with-hamas-could-increase-competition-for-the-us-artillery-shells-needed\/z6qp9tz",
-    "time_published":1696697042000,
-    "authors":[
-      "Charles R. Davis"
-    ],
-    "summary":"\"Over the coming days the Department of Defense will work to ensure that Israel has what it needs to defend itself and protect civilians from indiscriminate violence and terrorism,\" Defense Secretary Lloyd Austin said in a statement.",
-    "banner_image":"https:\/\/ocdn.eu\/pulscms-transforms\/1\/XmUktkuTURBXy8zNTBkMGRiMC1lNDhhLTRlODItOWRmYS02MWI1OTdhNGRhYzAuanBlZ5GTBc0DFs0Brg",
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"africa.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.154825,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.136113",
-        "ticker_sentiment_score":"-0.024516",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.136113",
-        "ticker_sentiment_score":"0.040668",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The Baltimore Orioles Aren't Going Away",
-    "url":"https:\/\/www.forbes.com\/sites\/danepstein\/2023\/10\/07\/the-baltimore-orioles-arent-going-away\/",
-    "time_published":1696696938000,
-    "authors":[
-      "Daniel R. Epstein"
-    ],
-    "summary":"The Baltimore Orioles surprised everyone by winning 101 games and the AL East. Their young core will keep them near the top of the standings for years to come.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65218958730c868982a4e704\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.263907,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BATRA",
-        "relevance_score":"0.041828",
-        "ticker_sentiment_score":"0.231135",
+        "relevance_score":"0.279015",
+        "ticker_sentiment_score":"0.199178",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"Inflation Is Over - What Comes Next?",
-    "url":"https:\/\/www.forbes.com\/sites\/georgecalhoun\/2023\/10\/07\/inflation-is-over--what-comes-next\/",
-    "time_published":1696696878000,
+    "title":"Peter Schiff's Inflation Warning, 'Rich Dad Poor Dad' Author On Crypto Investment And IMF Chief Calling For More Voting Power For China: Top Economics News From This Week",
+    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35138428\/peter-schiffs-inflation-warning-rich-dad-poor-dad-author-on-crypto-investment-and-imf-chief-calling",
+    "time_published":1696777399000,
     "authors":[
-      "George Calhoun"
+      "Benzinga Neuro"
     ],
-    "summary":"The latest figures show that inflation has been \"tamed.\" In fact, they signal that deflation may be looming. Hard to tell - because the std economic models are broken.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/652182246d4c658f175167e2\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Markets",
-    "source_domain":"www.forbes.com",
+    "summary":"This week was marked by economists and high-profile investors voicing their concerns about the future of the U.S. economy. The subjects of inflation, debt, and potential recessions were high on their agenda, stirring debates about the current state and trajectory of the global economy.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Stock,Market,Trading,Graph,In,Red,Color,Economy.,Usa,Flag_3.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"1.0"
+        "relevance_score":"0.972193"
       },
       {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
+        "topic":"Financial Markets",
+        "relevance_score":"0.538269"
       }
     ],
-    "overall_sentiment_score":-0.184305,
-    "overall_sentiment_label":"Somewhat-Bearish",
+    "overall_sentiment_score":-0.022241,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"NYT",
-        "relevance_score":"0.016349",
-        "ticker_sentiment_score":"-0.058782",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.016349",
-        "ticker_sentiment_score":"-0.199015",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.188193",
+        "ticker_sentiment_score":"0.249691",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"How to tell if it is worth avoiding taxes with a municipal bond ETF",
-    "url":"https:\/\/www.marketwatch.com\/story\/how-to-tell-if-it-is-worth-avoiding-taxes-with-a-municipal-bond-etf-29723e35",
-    "time_published":1696696860000,
+    "title":"Bitcoin Halving Is Always Interesting Whether People Believe In It Or Not, Says Gitcoin's Azeem Khan",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35137671\/bitcoin-halving-is-always-interesting-whether-people-believe-in-it-or-not-says-gitcoins-az",
+    "time_published":1696776650000,
     "authors":[
-      "Philip van Doorn"
+      "Bibhu Pattnaik"
     ],
-    "summary":"Depending on your tax federal tax bracket and which state you live in, municipal bond funds may be excellent income generatiors for you.",
-    "banner_image":"https:\/\/images.mktw.net\/im-864422\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
+    "summary":"Gitcoin, a platform that supports open-source software development through quadratic funding, actively supports local communities by fostering financing, development and protection initiatives. In this innovative mechanism, the emphasis is on the number of unique donations rather than their size.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/08\/azeem_khan.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Financial Markets",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"Technology",
         "relevance_score":"1.0"
       },
       {
-        "topic":"Earnings",
-        "relevance_score":"0.538269"
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":0.243691,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"0.040659",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"META",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"0.040659",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRCW",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"0.112543",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"RYDAF",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"0.134651",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.09439",
+        "ticker_sentiment_score":"0.072968",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Israel Has Declared 'War' On Hamas, But Crypto Markets Appear Unfazed ... For Now",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35138214\/israel-has-declared-war-on-hamas-but-crypto-markets-appear-unfazed-for-now",
+    "time_published":1696770826000,
+    "authors":[
+      "Benzinga Neuro"
+    ],
+    "summary":"The ongoing Israel-Hamas conflict, a significant geopolitical issue, has little impact on the cryptocurrency sector, despite its global attention and impact on countless lives. As reported by Bitcoinist, the conflict escalated abruptly when Gaza militants initiated an unexpected attack early ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/08\/crypto.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.019361,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.232439",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.232439",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.232439",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"How this 77-year-old widow lost $661,000 in a common tech scam: 'I realized I had been defrauded of everything'",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/08\/how-one-retired-woman-lost-her-life-savings-in-a-common-elder-fraud-scheme.html",
+    "time_published":1696768201000,
+    "authors":[
+      "Greg Iacurci"
+    ],
+    "summary":"Marjorie Bloom, a retiree, lost her life savings in a \"tech support\" scam involving cryptocurrency. These frauds, which target older adults, are on the rise.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107218677-1680283165624-1680211229011-PFT_401K.jpg?v=1680283174&w=750&h=422&vtcrop=y",
+    "source":"CNBC",
+    "category_within_source":"Top News",
+    "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.989041"
       },
       {
         "topic":"Technology",
@@ -467,185 +209,421 @@
       {
         "topic":"Finance",
         "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
       }
     ],
-    "overall_sentiment_score":0.214675,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":-0.104895,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"MCO",
-        "relevance_score":"0.073849",
-        "ticker_sentiment_score":"0.070015",
+        "ticker":"MSFT",
+        "relevance_score":"0.02689",
+        "ticker_sentiment_score":"-0.036233",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"SCHW",
-        "relevance_score":"0.024648",
-        "ticker_sentiment_score":"0.169344",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"TRMNF",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"-0.14047",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"NRDS",
-        "relevance_score":"0.049271",
-        "ticker_sentiment_score":"0.266275",
+        "ticker":"SBNY",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"0.03261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"0.03261",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GRTYA",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"0.094074",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"-0.062869",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.013447",
+        "ticker_sentiment_score":"-0.062869",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"It's not just stocks - high bond yields are also laying waste to commodities, currencies, and housing",
+    "url":"https:\/\/africa.businessinsider.com\/markets\/its-not-just-stocks-high-bond-yields-are-also-laying-waste-to-commodities-currencies\/tq8bqpb",
+    "time_published":1696767301000,
+    "authors":[
+      "Filip De Mott"
+    ],
+    "summary":"As growing yields have made bonds increasingly more attractive to investors, both the benchmark Samp;P 500 and Nasdaq have dropped around 7% since the end of July. But stocks are just one piece of the puzzle, and the consequences of soaring yields have become clearer for investors across ...",
+    "banner_image":"https:\/\/ocdn.eu\/pulscms-transforms\/1\/fnUktkuTURBXy82ZDMwMTFhZS03ODUzLTQ1Y2EtYjE1NS00ZmVkNzkwM2JmNTYuanBlZ5GTBc0DFs0Brg",
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"africa.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.98396"
+      }
+    ],
+    "overall_sentiment_score":-0.20392,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:AUD",
+        "relevance_score":"0.093289",
+        "ticker_sentiment_score":"-0.138149",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:CHF",
+        "relevance_score":"0.093289",
+        "ticker_sentiment_score":"-0.138149",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:JPY",
+        "relevance_score":"0.185306",
+        "ticker_sentiment_score":"-0.155949",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.185306",
+        "ticker_sentiment_score":"-0.155949",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"FOREX:GBP",
+        "relevance_score":"0.185306",
+        "ticker_sentiment_score":"-0.155949",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.185306",
+        "ticker_sentiment_score":"-0.161034",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"FOREX:NOK",
+        "relevance_score":"0.093289",
+        "ticker_sentiment_score":"-0.138149",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.093289",
+        "ticker_sentiment_score":"-0.086781",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"It's not just stocks - high bond yields are also laying waste to commodities, currencies, and housing",
+    "url":"https:\/\/markets.businessinsider.com\/news\/bonds\/treasury-bond-yields-stocks-oil-gold-copper-crypto-dollar-mortgages-2023-10",
+    "time_published":1696767300000,
+    "authors":[
+      "Filip De Mott"
+    ],
+    "summary":"High Bond Yields Are Crushing Assets Across Markets, Not Just Stocks - Markets Insider ...",
+    "banner_image":null,
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.997902"
+      }
+    ],
+    "overall_sentiment_score":-0.196995,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:AUD",
+        "relevance_score":"0.076602",
+        "ticker_sentiment_score":"-0.132163",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:CHF",
+        "relevance_score":"0.076602",
+        "ticker_sentiment_score":"-0.132163",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:JPY",
+        "relevance_score":"0.152499",
+        "ticker_sentiment_score":"-0.136652",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.152499",
+        "ticker_sentiment_score":"-0.136652",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:GBP",
+        "relevance_score":"0.152499",
+        "ticker_sentiment_score":"-0.136652",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.152499",
+        "ticker_sentiment_score":"-0.14111",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:NOK",
+        "relevance_score":"0.076602",
+        "ticker_sentiment_score":"-0.132163",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.076602",
+        "ticker_sentiment_score":"-0.083208",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ripple CTO seeks community consensus for XRPL AMM feature adoption",
+    "url":"https:\/\/cointelegraph.com\/news\/ripple-cto-seeks-community-consensus-for-xrpl-amm-feature-adoption",
+    "time_published":1696761575000,
+    "authors":[
+      "Amaka Nwaokocha"
+    ],
+    "summary":"Schwartz stated that if the majority supports the amendment, the changes could be implemented in as little as two weeks.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/6ec1b27a-8dfe-4659-9a87-2807feab8de8.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.267103,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.105141",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.402941",
+        "ticker_sentiment_score":"0.178789",
         "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"EXCLUSIVE: Elon Musk's Twitter Acquisition Opened Up The Cannabis Floodgates - Meta Platforms  ( NASDAQ:META ) , Tesla  ( NASDAQ:TSLA ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/cannabis\/23\/10\/35136646\/exclusive-elon-musks-twitter-acquisition-opened-up-the-cannabis-floodgates",
-    "time_published":1696696854000,
+    "title":"Bitcoin bulls encircle $28K as trader says 'big' buyer must step in",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-bulls-28k-trader-btc-price-big-buyer",
+    "time_published":1696757073000,
     "authors":[
-      "AJ Fabino"
+      "William Suberg"
     ],
-    "summary":"Elon Musk's acquisition of Twitter heralded a new era in the cannabis space, with the platform emerging as the only one where cannabis brands and advocates can speak freely without algorithmic repercussions.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Kazan,,Russia,-,Apr,26,,2022:,Logo,Of,Social,Network.jpeg?width=1200&height=800&fit=crop",
+    "summary":"Bitcoin might have difficulty breaking through a key resistance zone of its own accord, end-of-week analysis predicts.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/4f3030a5-160e-4705-8113-c780559bacba.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.796627"
+      }
+    ],
+    "overall_sentiment_score":-0.052941,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.737428",
+        "ticker_sentiment_score":"-0.388949",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin's 20% Surge, Satoshi Nakamoto's Cryptic Tweet, Trump's NFT Sales And More: A Week In Cryptocurrency",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35137355\/bitcoins-20-surge-satoshi-nakamotos-cryptic-tweet-trumps-nft-sales-and-more-a-week-in-cryp",
+    "time_published":1696724775000,
+    "authors":[
+      "Benzinga Neuro"
+    ],
+    "summary":"This week was anything but dull in the world of finance and technology. Bitcoin BTC\/USD surged past the $28,000 mark, a Twitter account associated with Satoshi Nakamoto reactivated after five years, a significant rise in ex-president Trump's NFT sales was observed, and details about Sam ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/bitcoin_ethereum_doge_0.jpeg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"General",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
       }
     ],
-    "overall_sentiment_score":0.437066,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":0.128285,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"META",
-        "relevance_score":"0.084423",
-        "ticker_sentiment_score":"-0.072671",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.746902",
+        "ticker_sentiment_score":"0.138496",
         "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.084423",
-        "ticker_sentiment_score":"0.15193",
-        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
   {
-    "title":"'SpongeBob Did 9\/11,' Elmo With a Knife: Shocking AI Art Goes Viral",
-    "url":"https:\/\/decrypt.co\/200493\/spongebob-911-elmo-knife-shocking-ai-art-goes-viral",
-    "time_published":1696696409000,
+    "title":"SBF trial underway, Mashinsky trial set, Binance's market share shrinks: Hodler's Digest, Oct. 1-7",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sbf-trial-underway-mashinsky-trial-set-binances-market-share-shrinks-hodlers-digest-oct-1-7\/",
+    "time_published":1696715038000,
     "authors":[
-      "Jason Nelson"
+      "Editorial Staff"
     ],
-    "summary":"Generative AI is booming, but risqu\u00e9 stickers and violent images are taking over social media-to the dismay of corporate giants.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Designer-gID_7.png",
+    "summary":"Sam Bankman-Fried trial is underway, Alex Mashinsky trial data is set, and Binance's market share shrinks.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.9545"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.998663"
+      }
+    ],
+    "overall_sentiment_score":-0.050965,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"JWCTF",
+        "relevance_score":"0.028558",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.225425",
+        "ticker_sentiment_score":"-0.035241",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.197874",
+        "ticker_sentiment_score":"-0.133514",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.057079",
+        "ticker_sentiment_score":"-0.061078",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"This Week in Coins: Bitcoin and Ethereum Hold Stable Amid Frantic News Cycle",
+    "url":"https:\/\/decrypt.co\/200532\/this-week-in-coins-bitcoin-ethereum-avalanche-solana",
+    "time_published":1696703649000,
+    "authors":[
+      "Tim Hakki"
+    ],
+    "summary":"Ethereum and XRP both saw depreciation despite many positive developments.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Singapore-shutterstock_610935047-16x9-1-gID_7.jpg",
     "source":"Decrypt.co",
     "category_within_source":"n\/a",
     "source_domain":"decrypt.co",
     "topics":[
       {
-        "topic":"Technology",
-        "relevance_score":"1.0"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.5"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.795202"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
       }
     ],
-    "overall_sentiment_score":0.08612,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.117486",
-        "ticker_sentiment_score":"-0.064569",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.117486",
-        "ticker_sentiment_score":"-0.033812",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GETY",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"-0.002007",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DSSMY",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"-0.132",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"McTominay's Dramatic Double Lifts Man Utd As 10-man Spurs Go Top",
-    "url":"https:\/\/www.barrons.com\/news\/mctominay-s-dramatic-double-lifts-man-utd-as-10-man-spurs-go-top-328e8249",
-    "time_published":1696695720000,
-    "authors":[
-      "Steven GRIFFITHS"
-    ],
-    "summary":"Scott McTominay's two stoppage-time goals gave Manchester United a dramatic 2-1 win at home against Brentford, while 10-man Tottenham climbed to the top of the Premier League after a 1-0 victory at Luton on Saturday.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.219659,
+    "overall_sentiment_score":0.155239,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"MANU",
-        "relevance_score":"0.057767",
-        "ticker_sentiment_score":"0.27904",
+        "ticker":"SBUX",
+        "relevance_score":"0.064973",
+        "ticker_sentiment_score":"0.241675",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"FOREX:GBP",
-        "relevance_score":"0.282886",
-        "ticker_sentiment_score":"0.185547",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"How 1880s technology made it possible for 2 women to travel around the world in under 80 days",
-    "url":"https:\/\/www.businessinsider.com\/nellie-bly-elizabeth-bisland-around-the-world-technology-2023-10",
-    "time_published":1696694940000,
-    "authors":[
-      "Jenny McGrath"
-    ],
-    "summary":"How Nellie Bly and Elizabeth Bisland traveled around the world - Business Insider ...",
-    "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.016834,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"UNP",
-        "relevance_score":"0.015392",
-        "ticker_sentiment_score":"0.071162",
+        "ticker":"COIN",
+        "relevance_score":"0.129516",
+        "ticker_sentiment_score":"0.133401",
         "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.255641",
+        "ticker_sentiment_score":"0.257968",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.316439",
+        "ticker_sentiment_score":"0.240521",
+        "ticker_sentiment_label":"Somewhat-Bullish"
       }
     ]
   },
@@ -680,388 +658,6 @@
         "ticker":"CRYPTO:ALGO",
         "relevance_score":"0.036365",
         "ticker_sentiment_score":"0.064449",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"6 South Dakota teens plead not guilty to rape at baseball tournament",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/us\/mitchell-legion-baseball-rape-plea\/index.html",
-    "time_published":1696694640000,
-    "authors":[
-      "Sara Smart",
-      "Zoe Sottile"
-    ],
-    "summary":"Six South Dakota teenagers have pleaded not guilty to charges of rape and aiding and abetting rape, crimes that allegedly occurred during a June baseball tournament in Rapid City. The teens are \"associated with the Mitchell Legion Baseball Program,\" according to a news release from the Pennington ...",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231007111031-01-mitchell-baseball-map.jpg?c=16x9&q=w_800,c_fill",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.287912,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.203215",
-        "ticker_sentiment_score":"-0.132521",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Rep. Hern Rules Out House Speaker Bid, Leaving Two-Way Scalise-Jordan Battle",
-    "url":"https:\/\/www.forbes.com\/sites\/brianbushard\/2023\/10\/07\/rep-hern-rules-out-house-speaker-bid-leaving-two-way-scalise-jordan-battle\/",
-    "time_published":1696694267000,
-    "authors":[
-      "Brian Bushard"
-    ],
-    "summary":"Rep. Kevin Hern (R-Okla.) was initially slated to participate in a now-canceled Fox News speaker debate, though he decided against it on Friday.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65217e6d80d7ba036efd9a6f\/0x0.jpg?format=jpg&crop=3265,1836,x0,y82,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Fiscal",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.132365,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOX",
-        "relevance_score":"0.093289",
-        "ticker_sentiment_score":"-0.101303",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Here's Why Trump's Team Appears Worried About RFK Jr.'s Presidential Bid",
-    "url":"https:\/\/www.forbes.com\/sites\/antoniopequenoiv\/2023\/10\/07\/heres-why-trumps-team-appears-worried-about-rfk-jrs-presidential-bid\/",
-    "time_published":1696694212000,
-    "authors":[
-      "Antonio Peque\u00f1o IV"
-    ],
-    "summary":"Kennedy teased an independent run at a rally Thursday night, telling supporters he would reveal whether he's running on an independent campaign by Monday.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65217f7fde789ca3476275f9\/0x0.jpg?format=jpg&crop=1834,1031,x0,y94,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.079399,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOX",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"0.049862",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"0.175507",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Littering outer space: Dish Network is the first company to be fined for failing to de-orbit a dead satellite",
-    "url":"https:\/\/www.marketwatch.com\/story\/dish-network-is-the-first-company-to-be-fined-for-littering-in-outer-space-50cc4f64",
-    "time_published":1696693500000,
-    "authors":[
-      "Ciara Linnane"
-    ],
-    "summary":"The Federal Communications Commission is fining Dish $150,000 for failing to properly de-orbit its EchoStar-7 satellite.",
-    "banner_image":"https:\/\/images.mktw.net\/im-861963?width=700&height=538",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.1334,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"DISH",
-        "relevance_score":"0.343279",
-        "ticker_sentiment_score":"0.128313",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SATS",
-        "relevance_score":"0.495015",
-        "ticker_sentiment_score":"0.212568",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bonucci Goal Not Enough As Dortmund Beat Union",
-    "url":"https:\/\/www.barrons.com\/news\/bonucci-goal-not-enough-as-dortmund-beat-union-8085c7f3",
-    "time_published":1696693140000,
-    "authors":[
-      "Kit HOLDEN"
-    ],
-    "summary":"Borussia Dortmund came from behind to beat Union Berlin 4-2 and remain unbeaten in the Bundesliga on Saturday, despite Leonardo Bonucci scoring his first goal for the capital club. Italian veteran Bonucci put Union ahead from the penalty spot in a dramatic first-half, but Dortmund battled back to ...",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1110666659405445926644249847485186318542---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.163537,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BORUF",
-        "relevance_score":"0.069294",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"President Biden told Netanyahu that US stands by Israel, the prime minister's office says",
-    "url":"https:\/\/edition.cnn.com\/middleeast\/live-news\/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk\/h_74ffae26a29e055a796f3832c3b4e152",
-    "time_published":1696692802000,
-    "authors":[
-      "<a href=\"\/profiles\/aditi-sandal\">Aditi Sangal<\/a> and <a href=\"\/profiles\/matt-meyer\">Matt Meyer<\/a>",
-      "CNN",
-      "By <a href=\"\/profiles\/andrew-raine\">Andrew Raine<\/a>",
-      "Joshua Berlinger",
-      "Chris Lau"
-    ],
-    "summary":"President Biden told Netanyahu that US stands by Israel, the prime minister's office says US President Joe Biden and Israel Prime Minister Benjamin Netanyahu have spoken on Saturday, according to officials familiar with the matter.",
-    "banner_image":"https:\/\/dynaimage.cdn.cnn.com\/cnn\/digital-images\/org\/ab7f3aaf-f81b-4af7-8c1b-dfd7565224ac.jpeg",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"edition.cnn.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.186456,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.045224",
-        "ticker_sentiment_score":"0.018999",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GETY",
-        "relevance_score":"0.090304",
-        "ticker_sentiment_score":"-0.11021",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"International 7-Day News Agenda",
-    "url":"https:\/\/www.barrons.com\/news\/international-7-day-news-agenda-c24840f2",
-    "time_published":1696692720000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Please note that all times are in GMT. Major events are listed under 'Highlights'. For full details of our coverage of top stories, please see our regularly updated News Advisory. ( * ) : Event updated in the last 24 hours.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.126244,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.042876",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"EADSF",
-        "relevance_score":"0.042876",
-        "ticker_sentiment_score":"-0.23118",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Is It Too Late to Buy Apple Stock?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/is-it-too-late-to-buy-apple-stock\/",
-    "time_published":1696692600000,
-    "authors":[
-      "Dani Cook"
-    ],
-    "summary":"Apple has fallen victim to a recent sell-off, but its long-term potential suggests it's time to buy.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.796627"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.258262,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"GS",
-        "relevance_score":"0.05833",
-        "ticker_sentiment_score":"0.062162",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.05833",
-        "ticker_sentiment_score":"0.043034",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.658507",
-        "ticker_sentiment_score":"0.382352",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Over 100 decaying bodies found at Colorado funeral home, launching criminal investigation",
-    "url":"https:\/\/theweek.com\/crime\/over-100-decaying-bodies-found-at-colorado-funeral-home-launching-criminal-investigation",
-    "time_published":1696691865000,
-    "authors":[
-      "Justin Klawans"
-    ],
-    "summary":"A free daily digest of the biggest news stories of the day - and the best features from our website Thank you for signing up to TheWeek. You will receive a verification email shortly. There was a problem. Please refresh the page and try again.",
-    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/vjiHtaKq77zYL68ATDXFRU-415-80.jpg",
-    "source":"The Week News",
-    "category_within_source":"n\/a",
-    "source_domain":"theweek.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.185086,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FRNWF",
-        "relevance_score":"0.048327",
-        "ticker_sentiment_score":"0.058269",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Could AMC Be The Big Winner From The Taylor Swift-Travis Kelce Romance? Free Promotion During NFL Games Could Help. - AMC Enter Hldgs  ( NYSE:AMC ) ",
-    "url":"https:\/\/www.benzinga.com\/general\/entertainment\/23\/10\/35131705\/could-amc-be-the-big-winner-from-the-taylor-swift-travis-kelce-romance-free-promotion-durin",
-    "time_published":1696691831000,
-    "authors":[
-      "Chris Katje"
-    ],
-    "summary":"National Football League games continue to see strong viewership from fans and sports bettors in a world that has shifted away from viewing live content. With the demand for sports content, media companies can benefit from strong advertising rates - something that AMC Entertainment Holdings AMC, ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/taylor_swift.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.256668,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CCZ",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.149985",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"PARA",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FOX",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AMC",
-        "relevance_score":"0.529185",
-        "ticker_sentiment_score":"0.429791",
-        "ticker_sentiment_label":"Bullish"
-      },
-      {
-        "ticker":"DIS",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
@@ -1132,40 +728,852 @@
     ]
   },
   {
-    "title":"Fed's Bowman says it will likely be appropriate to raise rates again",
-    "url":"https:\/\/www.reuters.com\/markets\/rates-bonds\/feds-bowman-says-it-will-likely-be-appropriate-raise-rates-again-2023-10-07\/",
-    "time_published":1696690980000,
+    "title":"What Is Cryptocurrency?",
+    "url":"https:\/\/www.kiplinger.com\/investing\/cryptocurrency\/what-is-cryptocurrency",
+    "time_published":1696685426000,
     "authors":[
-      "Reuters"
+      "Will Ashworth"
     ],
-    "summary":"U.S. Federal Reserve Governor Michelle Bowman gives her first public remarks as a Fed policymaker at an American Bankers Association conference in San Diego, California, U.S., February 11 2019. REUTERS\/Ann Saphir\/File Photo Acquire Licensing Rights",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/IGL6QNQTW5OLRJSY5ZOXF6Y22U.jpg",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
+    "summary":"At the height of the cryptocurrency wave in 2021, investors couldn't get enough of the trendy investment and the adjacent blockchain technologies, with many jumping in before they could even answer the question \"What is cryptocurrency?\". The leader was - and still is - Bitcoin, the world's ...",
+    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/AujgWXHTr67sdzrXhEqmD7-415-80.jpg",
+    "source":"Kiplinger",
+    "category_within_source":"n\/a",
+    "source_domain":"www.kiplinger.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.972193"
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.858979"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"1.0"
       }
     ],
-    "overall_sentiment_score":0.046129,
+    "overall_sentiment_score":0.11324,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.193619",
+        "ticker_sentiment_score":"-0.001614",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.50746",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.039096",
+        "ticker_sentiment_score":"-0.067055",
+        "ticker_sentiment_label":"Neutral"
+      }
     ]
   },
   {
-    "title":"Tesla, Apple, Microsoft And Man's 2021 Shiba Inu Stake Now Worth $3.3M If Kept: Bulls And Bears - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/large-cap\/23\/10\/35133030\/benzinga-bulls-and-bears-tesla-apple-microsoft-and-mans-2021-shiba-inu-stake-now-worth-3-3m-if-kep",
-    "time_published":1696690806000,
+    "title":"Rule Breaker Investing's \"Market Cap Game Show\" Rolls On",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/rule-breaker-investings-market-cap-game-show-rolls\/",
+    "time_published":1696684500000,
     "authors":[
-      "Michael Cohen"
+      "Motley Fool Staff"
     ],
-    "summary":"Benzinga examined the prospects for many investors' favorite stocks over the last week - here's a look at some of our top stories. Over the past week, the S&P 500 experienced a 0.5% gain, the Dow dipped by 0.3%, while the Nasdaq enjoyed a 1.6% rise.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/bulls_bears5.jpg?width=1200&height=800&fit=crop",
+    "summary":"This episode required a tiebreaker.",
+    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Life Sciences",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"IPO",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.142857"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"0.142857"
+      }
+    ],
+    "overall_sentiment_score":0.204223,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ASR",
+        "relevance_score":"0.010223",
+        "ticker_sentiment_score":"0.039928",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NFLX",
+        "relevance_score":"0.027257",
+        "ticker_sentiment_score":"0.032326",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PATH",
+        "relevance_score":"0.020445",
+        "ticker_sentiment_score":"0.064633",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.010223",
+        "ticker_sentiment_score":"0.03969",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ROKU",
+        "relevance_score":"0.003408",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GLP",
+        "relevance_score":"0.003408",
+        "ticker_sentiment_score":"0.04828",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ABNB",
+        "relevance_score":"0.010223",
+        "ticker_sentiment_score":"0.010095",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"NOK",
+        "relevance_score":"0.006816",
+        "ticker_sentiment_score":"0.082049",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSCO",
+        "relevance_score":"0.030663",
+        "ticker_sentiment_score":"0.097363",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SMAR",
+        "relevance_score":"0.030663",
+        "ticker_sentiment_score":"0.127179",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.013631",
+        "ticker_sentiment_score":"0.03912",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.006816",
+        "ticker_sentiment_score":"0.097131",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ATVI",
+        "relevance_score":"0.030663",
+        "ticker_sentiment_score":"-0.000957",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MIDD",
+        "relevance_score":"0.003408",
+        "ticker_sentiment_score":"0.106837",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FDX",
+        "relevance_score":"0.037472",
+        "ticker_sentiment_score":"0.061004",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MRNA",
+        "relevance_score":"0.017038",
+        "ticker_sentiment_score":"0.088733",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FUN",
+        "relevance_score":"0.034068",
+        "ticker_sentiment_score":"0.122378",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MAR",
+        "relevance_score":"0.071468",
+        "ticker_sentiment_score":"0.094938",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WMT",
+        "relevance_score":"0.003408",
+        "ticker_sentiment_score":"0.137643",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.020445",
+        "ticker_sentiment_score":"-0.002675",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.003408",
+        "ticker_sentiment_score":"0.047333",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Difference in Bull and Bear Crypto Market Gains Is Negligible, Say Analysts",
+    "url":"https:\/\/decrypt.co\/200463\/difference-in-bull-and-bear-crypto-market-gains-is-negligible-say-analysts",
+    "time_published":1696683662000,
+    "authors":[
+      "Pedro Solimano"
+    ],
+    "summary":"Data shows that the differences between buying Bitcoin and Ethereum in bull or bear markets is negligible.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/bull-bear-figurines-in-front-of-folded-hands-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.650727"
+      }
+    ],
+    "overall_sentiment_score":0.171252,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.33628",
+        "ticker_sentiment_score":"0.286041",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.228073",
+        "ticker_sentiment_score":"0.311388",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Long and short positions, explained",
+    "url":"https:\/\/cointelegraph.com\/explained\/long-and-short-positions-explained",
+    "time_published":1696680900000,
+    "authors":[
+
+    ],
+    "summary":"Long positions involve buying assets to profit from price increases, while short positions entail selling borrowed crypto, aiming to repurchase it cheaper for profit.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/storage\/uploads\/view\/89c64b5528fb75ece07387b8ea077113.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.99977"
+      }
+    ],
+    "overall_sentiment_score":0.097577,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.085629",
+        "ticker_sentiment_score":"0.015252",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Charlie Munger Calls Bitcoin The 'Stupidest Investment I Ever Saw'",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35136137\/dont-get-me-started-on-bitcoins-berkshire-hathaways-charlie-munger-calls-crypto-the-stupid",
+    "time_published":1696680867000,
+    "authors":[
+      "Ananya Gairola"
+    ],
+    "summary":"Charlie Munger, the vice chairman of Warren Buffett's Berkshire Hathaway BRK BRK, expressed skepticism about the hype around artificial intelligence, or AI, and criticized cryptocurrencies during a recent appearance at a conference.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Charlie_Munger_Photo_by_Kent_Sievers_on_Shutterstock.jpeg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
-    "category_within_source":"Trading",
+    "category_within_source":"News",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.87644"
+      }
+    ],
+    "overall_sentiment_score":-0.150997,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.137671",
+        "ticker_sentiment_score":"0.095395",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BRK-A",
+        "relevance_score":"0.137671",
+        "ticker_sentiment_score":"-0.211513",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.614086",
+        "ticker_sentiment_score":"-0.143249",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Up 20% Over the Past 30 Days, Is Solana a Buy Now?",
+    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/up-20-over-the-past-30-days-is-solana-a-buy-now\/",
+    "time_published":1696679700000,
+    "authors":[
+      "Dominic Basulto"
+    ],
+    "summary":"Solana's improving performance is attracting the attention of institutional investors. Here's what to look for next.",
+    "banner_image":"https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F749824%2Flooking-surprised-while-using-her-cellphone.jpg&op=resize&w=700",
+    "source":"Motley Fool",
+    "category_within_source":"n\/a",
+    "source_domain":"www.fool.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.972193"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":0.310468,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"PYPL",
+        "relevance_score":"0.104683",
+        "ticker_sentiment_score":"0.084486",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SHOP",
+        "relevance_score":"0.156461",
+        "ticker_sentiment_score":"0.102498",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"V",
+        "relevance_score":"0.156461",
+        "ticker_sentiment_score":"0.20344",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.104683",
+        "ticker_sentiment_score":"0.12335",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.207571",
+        "ticker_sentiment_score":"0.18745",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.354862",
+        "ticker_sentiment_score":"0.369729",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.052455",
+        "ticker_sentiment_score":"0.172617",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Why NFT Artist John Hamon Set 3 Years of Work on Fire in Paris",
+    "url":"https:\/\/decrypt.co\/200402\/heres-why-nft-artist-john-hamon-set-3-years-work-fire-paris",
+    "time_published":1696676462000,
+    "authors":[
+      "Mattis Meichler"
+    ],
+    "summary":"Placed in fields and in front of high-profile galleries across the city, Hamon quite literally set fire to contemporary art.",
+    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fit:1536:0:0:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2023\/10\/john-hamon-pompidou.jpg@webp",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.990678"
+      }
+    ],
+    "overall_sentiment_score":0.065949,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.122581",
+        "ticker_sentiment_score":"0.025",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.122581",
+        "ticker_sentiment_score":"0.094754",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:MANA",
+        "relevance_score":"0.061473",
+        "ticker_sentiment_score":"0.217163",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Be ready for the S&P 500 to crash by 50%, house prices to slide, and a recession to strike, Jeremy Grantham says. Here are the elite investor's 16 best quotes from a new interview.",
+    "url":"https:\/\/markets.businessinsider.com\/news\/stocks\/stock-market-forecast-grantham-crash-house-prices-recession-bitcoin-ai-2023-10",
+    "time_published":1696674900000,
+    "authors":[
+      "Theron Mohamed"
+    ],
+    "summary":"Grantham on 50% Crash in S&P 500, House Prices, Recession, Bitcoin, AI - Markets Insider ...",
+    "banner_image":null,
+    "source":"Business Insider",
+    "category_within_source":"GoogleRSS",
+    "source_domain":"markets.businessinsider.com",
+    "topics":[
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.744043"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      }
+    ],
+    "overall_sentiment_score":-0.119915,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"KO",
+        "relevance_score":"0.049526",
+        "ticker_sentiment_score":"0.102509",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.049526",
+        "ticker_sentiment_score":"0.102509",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.147818",
+        "ticker_sentiment_score":"-0.066967",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Yunhong CTI  ( NASDAQ:CTIB )  Research Coverage Started at StockNews.com",
+    "url":"https:\/\/www.defenseworld.net\/2023\/10\/07\/yunhong-cti-nasdaqctib-research-coverage-started-at-stocknews-com.html",
+    "time_published":1696663848000,
+    "authors":[
+      "Defense World Staff"
+    ],
+    "summary":"Yunhong CTI ( NASDAQ:CTIB ) Research Coverage Started at ... Defense World ...",
+    "banner_image":"https:\/\/www.marketbeat.com\/logos\/yunhong-cti-ltd-logo.png?v=20230120110724",
+    "source":"Stocknews.com",
+    "category_within_source":"n\/a",
+    "source_domain":"www.defenseworld.net",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.413559"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.795202"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.290686,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SBUX",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"0.174488",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"SCHW",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"0.187672",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"0.174488",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ekso Bionics  ( NASDAQ:EKSO )  Now Covered by Analysts at StockNews.com",
+    "url":"https:\/\/www.defenseworld.net\/2023\/10\/07\/ekso-bionics-nasdaqekso-now-covered-by-analysts-at-stocknews-com.html",
+    "time_published":1696663845000,
+    "authors":[
+      "Defense World Staff"
+    ],
+    "summary":"Ekso Bionics ( NASDAQ:EKSO ) Now Covered by Analysts at ... Defense World ...",
+    "banner_image":"https:\/\/www.marketbeat.com\/logos\/ekso-bionics-holdings-inc-logo.png?v=20230113143605",
+    "source":"Stocknews.com",
+    "category_within_source":"n\/a",
+    "source_domain":"www.defenseworld.net",
+    "topics":[
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.980922"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.904684"
+      },
+      {
+        "topic":"Mergers & Acquisitions",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.203292,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SBUX",
+        "relevance_score":"0.091509",
+        "ticker_sentiment_score":"0.182615",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"EKSO",
+        "relevance_score":"0.86489",
+        "ticker_sentiment_score":"0.344931",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"AWON",
+        "relevance_score":"0.091509",
+        "ticker_sentiment_score":"0.001044",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.091509",
+        "ticker_sentiment_score":"0.182615",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Struggles Against $28K Resistance, Yet Analyst Says This - Emeren Group  ( NYSE:SOL ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35135407\/bitcoin-struggles-against-28k-resistance-yet-analyst-suggests-its-appeal-as-an-unrelated-a",
+    "time_published":1696652744000,
+    "authors":[
+      "Benzinga Neuro"
+    ],
+    "summary":"The price of Bitcoin BTC\/USD is once again grappling with the $28,000 resistance level. What Happened: After a dip to just under $27,300 following the release of stronger-than-expected U.S. employment data, the world's largest cryptocurrency quickly bounced back to just above the $28,000 mark, ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Bitcoin_Photo_by_AlyoshinE_on_Shutterstock_26.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"General",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.10785,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.827318",
+        "ticker_sentiment_score":"0.151538",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.266828",
+        "ticker_sentiment_score":"0.038911",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.135347",
+        "ticker_sentiment_score":"0.023855",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AVAX",
+        "relevance_score":"0.135347",
+        "ticker_sentiment_score":"0.023855",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Sam Bankman-Fried goes on trial: A week in review",
+    "url":"https:\/\/cointelegraph.com\/news\/sam-bankman-fried-ftx-goes-on-trial-week-review",
+    "time_published":1696637330000,
+    "authors":[
+      "Ana Paula Pereira"
+    ],
+    "summary":"The trial of former FTX CEO Sam Bankman-Fried started on October 3. Four witnesses explained to jurors how $8 billion in funds from customers went missing.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/4c20a8d1-576c-4271-a389-56aa64cd8d1d.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.019383,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.035189",
+        "ticker_sentiment_score":"0.008847",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.035189",
+        "ticker_sentiment_score":"0.088297",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"FTX: Should Sam Bankman-Fried Be Prosecuted For Credit Fraud?",
+    "url":"https:\/\/www.forbes.com\/sites\/annrutledge\/2023\/10\/06\/ftx-should-sam-bankman-fried-be-prosecuted-for-credit-fraud\/",
+    "time_published":1696632586000,
+    "authors":[
+      "Ann Rutledge"
+    ],
+    "summary":"FTX founder Sam Bankman-Fried is on trial this week for committing or conspiring to commit wire fraud, securities fraud and money laundering. What about credit fraud?",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65208ef39b031b8afd3e8887\/0x0.jpg?format=jpg&crop=1925,1083,x0,y95,safe&width=1200",
+    "source":"Forbes",
+    "category_within_source":"Markets",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999897"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      }
+    ],
+    "overall_sentiment_score":-0.02203,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.024297",
+        "ticker_sentiment_score":"0.015453",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SFTBF",
+        "relevance_score":"0.024297",
+        "ticker_sentiment_score":"0.015453",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.072802",
+        "ticker_sentiment_score":"-0.002021",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XCP",
+        "relevance_score":"0.024297",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Miner Iris Energy Jumps 9% as It Boosts Mining Capacity Ahead of Bitcoin Halving",
+    "url":"https:\/\/decrypt.co\/200491\/bitcoin-miner-iris-energy-jumps-9-as-it-boosts-mining-capacity-ahead-of-bitcoin-halving",
+    "time_published":1696626974000,
+    "authors":[
+      "Andrew Throuvalas"
+    ],
+    "summary":"The company's new machines should ship before the April 2024 Bitcoin halving.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2021\/06\/bitcoin-mining-operations-gID_7.jpg",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Real Estate & Construction",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.100099,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"IREN",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"0.082559",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CLSK",
+        "relevance_score":"0.192694",
+        "ticker_sentiment_score":"0.024926",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.727604",
+        "ticker_sentiment_score":"0.199803",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Whale Activity Weekly Round-Up: XRP Witnesses Significant Dump, ETH, OP Token Incite Interest",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35130853\/whale-activity-weekly-round-up-xrp-witnesses-significant-dump-eth-op-token-incite-interest",
+    "time_published":1696624926000,
+    "authors":[
+      "Khyathi Dalal"
+    ],
+    "summary":"Whales are major players in the industry who accumulate or dump tokens of various types of cryptocurrencies. They either take advantage of prices, macroeconomics, accumulate tokens or leverage falling prices to buy the token. Movements in whale activity sometimes impact the price of tokens and ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/whales.shutterstock_2118178424.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
@@ -1173,8 +1581,75 @@
         "relevance_score":"0.158519"
       },
       {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.459462"
+        "relevance_score":"0.538269"
+      }
+    ],
+    "overall_sentiment_score":0.220857,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.218817",
+        "ticker_sentiment_score":"0.18123",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.218817",
+        "ticker_sentiment_score":"0.364803",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.218817",
+        "ticker_sentiment_score":"-0.103745",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"0.232864",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:WBTC",
+        "relevance_score":"0.373112",
+        "ticker_sentiment_score":"0.427272",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"0.232864",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Early Tesla Investor Tim Draper Recalls Selling Too Soon, Reveals Elon Musk's Special Quality - Tesla  ( NASDAQ:TSLA ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35129286\/exclusive-early-tesla-investor-tim-draper-recalls-selling-too-soon-reveals-elon-musks-spec",
+    "time_published":1696623401000,
+    "authors":[
+      "Chris Katje"
+    ],
+    "summary":"Venture capitalist Tim Draper is known to many as the man who predicted the price of Bitcoin BTC\/USD correctly in 2014. Some might be surprised to learn that Draper was one of the early investors in Tesla Inc TSLA, now one of the most valuable companies in the world.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/tim_draper_tesla_flickr.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"IPO",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.365926"
       },
       {
         "topic":"Manufacturing",
@@ -1187,600 +1662,763 @@
       {
         "topic":"Finance",
         "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
       }
     ],
-    "overall_sentiment_score":0.038932,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.281594,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"MSFT",
-        "relevance_score":"0.193207",
-        "ticker_sentiment_score":"-0.140055",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
         "ticker":"GOOG",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.108969",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.316439",
-        "ticker_sentiment_score":"0.011905",
+        "relevance_score":"0.09186",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"TSLA",
-        "relevance_score":"0.255641",
-        "ticker_sentiment_score":"0.055855",
+        "relevance_score":"0.644033",
+        "ticker_sentiment_score":"0.091811",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"RIVN",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.092584",
-        "ticker_sentiment_label":"Neutral"
+        "ticker":"HOOD",
+        "relevance_score":"0.182506",
+        "ticker_sentiment_score":"0.359377",
+        "ticker_sentiment_label":"Bullish"
       },
       {
         "ticker":"COIN",
-        "relevance_score":"0.064973",
-        "ticker_sentiment_score":"0.0283",
+        "relevance_score":"0.09186",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"DIS",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.189807",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "ticker":"JPM",
+        "relevance_score":"0.09186",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:SHIB",
-        "relevance_score":"0.193207",
-        "ticker_sentiment_score":"-0.102341",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.182506",
+        "ticker_sentiment_score":"0.131439",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Why now may be the time to own corporate bonds",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/bullish-case-for-corporate-bonds-over-treasurys-tied-to-rising-rates.html",
-    "time_published":1696690801000,
+    "title":"How Apple made its first 'carbon neutral' product",
+    "url":"https:\/\/www.cnbc.com\/2023\/10\/06\/how-apple-made-its-first-carbon-neutral-product-apple-watch.html",
+    "time_published":1696620020000,
     "authors":[
-      "Meredith Mutter"
+      "Cat Clifford"
     ],
-    "summary":"\"Some of the corporates got higher quality than the U.S. government [bonds] right now,\" JPMorgan's Bryon Lake told CNBC's \"ETF Edge\" this week.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107310272-ETF-Seg2-100223_mezz.jpg?v=1696277872&w=750&h=422&vtcrop=y",
+    "summary":"In September, Apple announced its new smartwatch series would have \"carbon neutral\" options. Here is what that means.",
+    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107080646-1656104430356-Climeworks_Orca_plant_in_Iceland_with_founders_C_Gebald_and_J_Wurzbacher_long_shot_Copyright_Climeworks_2.jpg?v=1656104865&w=750&h=422&vtcrop=y",
     "source":"CNBC",
-    "category_within_source":"Finance",
+    "category_within_source":"Top News",
     "source_domain":"www.cnbc.com",
+    "topics":[
+      {
+        "topic":"Economy - Fiscal",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Retail & Wholesale",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.977154"
+      },
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.333333"
+      }
+    ],
+    "overall_sentiment_score":0.21231,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ABNB",
+        "relevance_score":"0.02013",
+        "ticker_sentiment_score":"0.112498",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FDX",
+        "relevance_score":"0.02013",
+        "ticker_sentiment_score":"0.112498",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GS",
+        "relevance_score":"0.02013",
+        "ticker_sentiment_score":"0.187392",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"WMT",
+        "relevance_score":"0.02013",
+        "ticker_sentiment_score":"0.112498",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.02013",
+        "ticker_sentiment_score":"-0.04358",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"EXCLUSIVE: Tim Draper On Artificial Intelligence, Bitcoin, His Best Investment Return",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35128236\/exclusive-tim-draper-on-artificial-intelligence-bitcoin-his-best-investment-return",
+    "time_published":1696618823000,
+    "authors":[
+      "Chris Katje"
+    ],
+    "summary":"Perhaps best known for his price targets on Bitcoin BTC\/USD, Tim Draper is a venture capital investor who was an early investor in many well-known technology companies. In an exclusive interview, Draper shares his take on future technology, Bitcoin and more.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/tim_draper_razreport.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.316726"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      }
+    ],
+    "overall_sentiment_score":0.209963,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"HOOD",
+        "relevance_score":"0.108712",
+        "ticker_sentiment_score":"0.284301",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.054483",
+        "ticker_sentiment_score":"0.232919",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.625665",
+        "ticker_sentiment_score":"0.33393",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"3 reasons why Solana  ( SOL )  price is up this week",
+    "url":"https:\/\/cointelegraph.com\/news\/3-reasons-why-solana-sol-is-up-this-week",
+    "time_published":1696614889000,
+    "authors":[
+      "Marcel Pechman"
+    ],
+    "summary":"Solana price staged a double-digit recovery since September and a portion of the move was caused by improving fundamentals.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/ca159cb1-4c57-4f94-b9f3-29db76b85722.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      }
+    ],
+    "overall_sentiment_score":0.315407,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.126784",
+        "ticker_sentiment_score":"0.007306",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.189175",
+        "ticker_sentiment_score":"0.362071",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:MATIC",
+        "relevance_score":"0.063594",
+        "ticker_sentiment_score":"0.054018",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Galxe protocol experiences DNS attack, losses top $150,000 so far and still growing",
+    "url":"https:\/\/cointelegraph.com\/news\/galxe-protocol-experiences-dns-attack-october-6",
+    "time_published":1696613622000,
+    "authors":[
+      "Derek Andersen"
+    ],
+    "summary":"The Web3 platform's website has been restored, but the company still warns against using it. The hack may be linked to September's attack on Balancer.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/41f56828-019e-4877-85f1-092356cc2c7a.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.221048,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.147818",
+        "ticker_sentiment_score":"0.112153",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.147818",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Are Penny Stocks Worth It? 4 Lessons For New Traders",
+    "url":"https:\/\/pennystocks.com\/featured\/2023\/10\/06\/penny-stocks-worth-4-lessons-new-traders\/",
+    "time_published":1696613452000,
+    "authors":[
+      "J. Phillip"
+    ],
+    "summary":"The Hottest Penny Stock Trends And How to Use Them to Your Advantage Penny stocks are the talk of the town and for good reason. Throughout 2020 and 2021, investors have been searching high and low to find the best penny stocks to watch.",
+    "banner_image":"https:\/\/pennystocks.com\/wp-content\/uploads\/2021\/04\/how-to-trade-penny-stocks.jpg",
+    "source":"PennyStocks.com",
+    "category_within_source":"n\/a",
+    "source_domain":"pennystocks.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.995015"
+      }
+    ],
+    "overall_sentiment_score":0.26664,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"SCHW",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"0.114071",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IBKR",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"0.114071",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.040484",
+        "ticker_sentiment_score":"0.076556",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Hong Kong Exchanges Still Do Not Approve Of Stablecoins To Trade, May Introduce Guidelines In 2024",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35129099\/hong-kong-exchanges-still-do-not-approve-of-stablecoins-to-trade-may-introduce-guidelines-",
+    "time_published":1696613050000,
+    "authors":[
+      "Khyathi Dalal"
+    ],
+    "summary":"While stablecoins catching the pulse of the rapidly growing crypto market globally, Hong Kong announced retail stablecoin trading is still not allowed in the country.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/hongkong.shutterstock_254987725.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.990678"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.929393"
+      }
+    ],
+    "overall_sentiment_score":0.162913,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.372912",
+        "ticker_sentiment_score":"0.113543",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.096671",
+        "ticker_sentiment_score":"0.126537",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"THORSwap Crypto Exchange Takes Drastic Action To Thwart Illicit Activity",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35126062\/thorswap-crypto-exchange-takes-drastic-action-to-thwart-illicit-activity",
+    "time_published":1696611490000,
+    "authors":[
+      "Murtuza Merchant"
+    ],
+    "summary":"THORSwap, a decentralized exchange built on the THORChain RUNE\/USD platform, revealed concerns regarding the potential movement of illicit funds through its platform.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/cybersecurity.shutterstock_1834912495.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.179175,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.256989",
+        "ticker_sentiment_score":"0.338761",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.488007",
+        "ticker_sentiment_score":"0.219002",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.377142",
+        "ticker_sentiment_score":"0.029522",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"When They Write About This Crisis",
+    "url":"https:\/\/moneymorning.com\/2023\/10\/06\/when-they-write-about-this-crisis\/",
+    "time_published":1696609345000,
+    "authors":[
+      "Garrett Baldwin"
+    ],
+    "summary":"He famously raised several hundred men in Charleston, South Carolina, and \"invaded\" the northern Florida key of Amelia Island in 1817. There, he declared himself king of the \"Republic of the Floridas.\" He printed his own currency - called Amelia dollars - to compensate those troops.",
+    "banner_image":"https:\/\/moneymorning.com\/wp-content\/blogs.dir\/1\/files\/2023\/08\/PFR_PostcardsFloridaRepublic_EmailHeader_2.png",
+    "source":"Money Morning",
+    "category_within_source":"RSS",
+    "source_domain":"moneymorning.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.928139"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.04411,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GS",
+        "relevance_score":"0.023418",
+        "ticker_sentiment_score":"-0.275502",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.023418",
+        "ticker_sentiment_score":"-0.129871",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.023418",
+        "ticker_sentiment_score":"0.120737",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.09347",
+        "ticker_sentiment_score":"-0.005452",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bored Ape Yacht Club NFT Creator Yuga Labs Confirms Layoffs",
+    "url":"https:\/\/decrypt.co\/200455\/bored-ape-yacht-club-nft-creator-yuga-labs-confirms-layoffs",
+    "time_published":1696607594000,
+    "authors":[
+      "Andrew Hayward"
+    ],
+    "summary":"Yuga Labs reveals a restructuring effort that has impacted U.S. employees as the $4 billion Bored Ape startup rethinks its priorities.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/01\/bored-ape-yuga-labs-gID_7.png",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      }
+    ],
+    "overall_sentiment_score":0.074158,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"ATVI",
+        "relevance_score":"0.053035",
+        "ticker_sentiment_score":"0.073688",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.053035",
+        "ticker_sentiment_score":"0.023987",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.053035",
+        "ticker_sentiment_score":"-0.028018",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"People Are Going To Start Cashing Out Bitcoin - Here's Why",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35123882\/people-are-going-to-start-cashing-out-bitcoin-heres-why",
+    "time_published":1696607393000,
+    "authors":[
+      "Murtuza Merchant"
+    ],
+    "summary":"Bitcoin BTC\/USD may not have the momentum required to continue an upward trajectory. That's according to a prominent crypto analyst who believes people are going to start cashing out of the apex cryptocurrency. What Happened: Nicholas Merten on his YouTube channel also emphasized its correlation ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/bitcoin.jpeg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.576289"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.947132"
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":0.254363,
+    "overall_sentiment_score":0.195801,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
-
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.128135",
+        "ticker_sentiment_score":"0.14363",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.580018",
+        "ticker_sentiment_score":"0.03163",
+        "ticker_sentiment_label":"Neutral"
+      }
     ]
   },
   {
-    "title":"Keep a 'pain journal' to track how much 'you've learned and grown', says Harvard happiness expert",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/how-keeping-a-pain-journal-can-improve-your-overall-happiness.html",
-    "time_published":1696690801000,
+    "title":"Bitcoin price dives 2% on US jobs data as Fed rate hike bets heat up",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-price-dives-us-jobs-data-fed-rate-hike",
+    "time_published":1696605287000,
     "authors":[
-      "Ren\u00e9e Onque"
+      "William Suberg"
     ],
-    "summary":"We often hear about how gratitude journals are a great way to track what we're grateful for, but \"pain journals\" may lead us to happiness, too.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107283421-Van-Leeuwen-still-01.png?v=1695153102&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
+    "summary":"Bitcoin briefly heads back down to $27,000 thanks to unexpected non-farm payrolls numbers, with BTC price staging a strong recovery.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/90e5e359-247b-41ae-bbc3-f061dc2d9f10.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.769861"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
       }
     ],
-    "overall_sentiment_score":0.351538,
-    "overall_sentiment_label":"Bullish",
+    "overall_sentiment_score":-0.017057,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"NYT",
-        "relevance_score":"0.108466",
-        "ticker_sentiment_score":"0.189553",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.363388",
+        "ticker_sentiment_score":"-0.01845",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"The Big Challenge Holding Back FuboTV Stock From Being a Screaming Buy",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/the-big-challenge-holding-back-fubotv-stock-from-b\/",
-    "time_published":1696690800000,
+    "title":"Cryptocurrencies return to quiet trading today with the trial of the founder of FTX grabbing the spotlight yesterday",
+    "url":"https:\/\/www.investorideas.com\/news\/2023\/cryptocurrency\/10062MarketAnalyst-Trial-FTX-Founder.asp",
+    "time_published":1696601375000,
     "authors":[
-      "Adam Levy"
+
     ],
-    "summary":"As FuboTV pushes toward positive free cash flow, the rest of the industry is pushing back.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
+    "summary":"Cryptocurrencies return to quiet trading today with the trial of the ... ...",
+    "banner_image":null,
+    "source":"Investor Ideas",
     "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
+    "source_domain":"www.investorideas.com",
     "topics":[
       {
-        "topic":"IPO",
+        "topic":"Earnings",
         "relevance_score":"0.158519"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.266143"
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
       },
       {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
       }
     ],
-    "overall_sentiment_score":0.105349,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":0.151608,
+    "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"FUBO",
-        "relevance_score":"0.288893",
-        "ticker_sentiment_score":"0.167647",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.421485",
+        "ticker_sentiment_score":"0.336738",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"GOOG",
-        "relevance_score":"0.343279",
-        "ticker_sentiment_score":"0.069313",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"0.086814",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.110462",
+        "ticker_sentiment_score":"0.086814",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Tesla Persists With Price Cuts After Underwhelming Q3 Sales, Rivian's $1.5B Debt Offering Sinks Stock, Lucid's Gamble With Cheaper Trim And More: Biggest EV Stories Of The Week - XPeng  ( NYSE:XPEV ) , VinFast Auto  ( NASDAQ:VFS ) , Fisker  ( NYSE:FSR ) , Ford Motor  ( NYSE:F ) ",
-    "url":"https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/23\/10\/35136499\/tesla-persists-with-price-cuts-after-underwhelming-q3-sales-rivians-1-5b-debt-offer",
-    "time_published":1696690592000,
+    "title":"FTX and Sam Bankman-Fried's trial: The players",
+    "url":"https:\/\/www.foxbusiness.com\/markets\/ftx-sam-bankman-fried-the-players",
+    "time_published":1696601340000,
     "authors":[
-      "Shanthi Rexaline"
+      "FOXBusiness"
     ],
-    "summary":"Electric vehicle stocks closed the week that ended on Oct. 6 on a down note, although market leader Tesla, Inc. TSLA managed to post a weekly advance despite reporting underwhelming third-quarter deliveries. The sector-wide weakness came amid the broader market volatility and some ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Riga,,Lv,-,Aug,27,,2019:,Tesla,Logo,At,The.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
+    "summary":"The collapse of cryptocurrency exchange FTX erased around $1 billion in customer funds and is often compared to high-profile frauds such as Enron and Bernie Madoff's Ponzi scheme.",
+    "banner_image":"https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/854081161001\/cb0b27a0-6d22-40fd-9b55-85ca64634832\/a5be1f39-a8dc-4d70-b55a-5a40468446d2\/1280x720\/match\/image.jpg",
+    "source":"Fox Business News",
+    "category_within_source":"n\/a",
+    "source_domain":"www.foxbusiness.com",
     "topics":[
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.858979"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
       }
     ],
-    "overall_sentiment_score":-0.016767,
+    "overall_sentiment_score":-0.021383,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"LCID",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"0.238799",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"RIVN",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"0.022356",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.059935",
+        "ticker_sentiment_score":"-0.049468",
         "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Taiwan aims for crypto law by November: Report",
+    "url":"https:\/\/cointelegraph.com\/news\/taiwan-rypto-law-november-report",
+    "time_published":1696600927000,
+    "authors":[
+      "Savannah Fortis"
+    ],
+    "summary":"Lawmakers in Taiwan are aiming to create a first draft of a special law about offshore exchanges by the end of November 2023.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/82f9585e-de22-4f0b-aa68-a74230fa856f.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":0.140814,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.155451",
+        "ticker_sentiment_score":"0.044442",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"JPMorgan, Others Required to Reveal Crypto Holdings Per New Plan",
+    "url":"https:\/\/www.zacks.com\/stock\/news\/2161626\/jpmorgan-others-required-to-reveal-crypto-holdings-per-new-plan",
+    "time_published":1696600800000,
+    "authors":[
+      "Nikita Kataruka"
+    ],
+    "summary":"The Basel Committee on Banking Supervision plans to implement disclosure requirements for banks related to their crypto exposure.",
+    "banner_image":"https:\/\/staticx-tuner.zacks.com\/images\/articles\/main\/0c\/31194.jpg",
+    "source":"Zacks Commentary",
+    "category_within_source":"n\/a",
+    "source_domain":"www.zacks.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
       },
       {
-        "ticker":"TSLA",
-        "relevance_score":"0.353898",
-        "ticker_sentiment_score":"-0.221888",
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.972193"
+      }
+    ],
+    "overall_sentiment_score":-0.060199,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SAN",
+        "relevance_score":"0.189175",
+        "ticker_sentiment_score":"-0.17792",
         "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "ticker":"FFIE",
-        "relevance_score":"0.12165",
-        "ticker_sentiment_score":"0.23228",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"F",
-        "relevance_score":"0.12165",
-        "ticker_sentiment_score":"-0.087578",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GM",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"-0.110764",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The arrest in Tupac Shakur's murder leaves many wondering: What about Biggie?",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/entertainment\/biggie-tupac-deaths\/index.html",
-    "time_published":1696689840000,
-    "authors":[
-      "Lisa Respers France"
-    ],
-    "summary":"In the 50-year history of hip-hop, there have never been two stars whose lives - and deaths - have been more examined than Tupac Shakur and Christopher Wallace, the rapper known professionally as the Notorious B.I.G. or Biggie Smalls.",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/120309032304-notorious-b-i-g-1995.jpg?q=x_352,y_185,h_1894,w_3368,c_crop\/h_720,w_1280",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.058347,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.172097",
-        "ticker_sentiment_score":"-0.229029",
+        "ticker":"FRBA",
+        "relevance_score":"0.063594",
+        "ticker_sentiment_score":"-0.159176",
         "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"SBNY",
+        "relevance_score":"0.063594",
+        "ticker_sentiment_score":"-0.252523",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.423504",
+        "ticker_sentiment_score":"0.391516",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"NWG",
+        "relevance_score":"0.250386",
+        "ticker_sentiment_score":"-0.222764",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.189175",
+        "ticker_sentiment_score":"-0.031977",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.063594",
+        "ticker_sentiment_score":"-0.088583",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Realiste Redefines Real Estate Engagement With Cutting-edge AI, Says Alex Galt",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35135741\/realiste-redefines-real-estate-engagement-with-cutting-edge-ai-says-alex-galt",
-    "time_published":1696689716000,
+    "title":"Bitcoin, Ethereum, Dogecoin Tumble Ahead of Key Jobs Data; Trump's Niece Claims Her Uncle Justifies Treason - Top Headlines Today While US Was Sleeping",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35124296\/bitcoin-ethereum-dogecoin-tumble-ahead-of-key-jobs-data-trumps-niece-claims-her-uncle-just",
+    "time_published":1696599649000,
     "authors":[
-      "Bibhu Pattnaik"
+      "Akanksha Bakshi"
     ],
-    "summary":"Realiste, a prop-tech AI firm specializing in real estate solutions, has recently expanded to major European cities, now operating in 61 cities worldwide. With its user-friendly platform, you can explore apartment listings, compare prices globally and access accurate property forecasts - all ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/screenshot_2023-10-04_at_12.08.16_pm.png?width=1200&height=800&fit=crop",
+    "summary":"S&P 500, Nasdaq Futures Climb Ahead Of Key Jobs Data: Analyst Says Stepping In Before Earnings 'Bit Of A Catching A Falling Knife' Park Aerospace, Aehr Test Systems And Other Big Stocks Moving Lower In Friday's Pre-Market Session",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/news.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
-    "category_within_source":"News",
+    "category_within_source":"General",
     "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.413559"
-      }
-    ],
-    "overall_sentiment_score":0.294474,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Beyonc\u00e9 and Taylor Swift understand the power of concert films",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/entertainment\/taylor-swift-beyonce-movies-plc\/index.html",
-    "time_published":1696689240000,
-    "authors":[
-      "Lisa Respers France"
-    ],
-    "summary":"There is more than enough room at the top for In a move that should shock no one, this is the second consecutive newsletter to address Swift or a Swift-adjacent phenomenon in entertainment, but today we're talking about another queen, too.",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231003121234-05-pop-life-chronicles-1003.jpg?c=16x9&q=h_720,w_1280,c_fill",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.126161,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.054607",
-        "ticker_sentiment_score":"0.029992",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Should you still push kids to get a degree? Yes, experts say: 'There's not a better substitute for college'",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/is-college-still-worth-it-how-to-discuss-the-question-with-your-kids.html",
-    "time_published":1696689001000,
-    "authors":[
-      "Kamaron McNair"
-    ],
-    "summary":"Even given higher costs, \"college provides just an unbelievable opportunity,\" experts say. Here's how to talk through the higher ed decision with your kids.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107235186-MM_Thumb-_Gabby_Carter-_For_website.jpg?v=1683377112&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":0.19086,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Broadcom Is Becoming a Software Stock, Too -- Is It a Top Long-Term Buy?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/broadcom-is-becoming-a-software-stock-too-is-it-a\/",
-    "time_published":1696689000000,
-    "authors":[
-      "Nicholas Rossolillo"
-    ],
-    "summary":"Broadcom's pending acquisition of VMware will establish it as one of the world's largest enterprise software companies.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/9ff63e177a5a7951ddb96e7ec634b3c5.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.684621"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.105655,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NFLX",
-        "relevance_score":"0.077845",
-        "ticker_sentiment_score":"0.053641",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.154951",
-        "ticker_sentiment_score":"0.128471",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VMW",
-        "relevance_score":"0.442339",
-        "ticker_sentiment_score":"0.0968",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AVGO",
-        "relevance_score":"0.903334",
-        "ticker_sentiment_score":"0.185992",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRWD",
-        "relevance_score":"0.077845",
-        "ticker_sentiment_score":"0.084079",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The 3 Best Energy Stocks to Own When  ( Not If )  Energy Prices Fall Again",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/the-3-best-energy-stocks-to-own-when-not-if-energy\/",
-    "time_published":1696689000000,
-    "authors":[
-      "and Reuben Gregg Brewer",
-      "Neha Chamaria",
-      "Matthew DiLallo"
-    ],
-    "summary":"These energy companies built their businesses to thrive in any market condition.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/d4afb9a966396bb6d913c414a09f0287.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.253207,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"ENB",
-        "relevance_score":"0.309169",
-        "ticker_sentiment_score":"0.08059",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRBO",
-        "relevance_score":"0.04531",
-        "ticker_sentiment_score":"0.174795",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CVX",
-        "relevance_score":"0.309169",
-        "ticker_sentiment_score":"0.109755",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"D",
-        "relevance_score":"0.04531",
-        "ticker_sentiment_score":"0.174795",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Popular weight loss drugs linked to higher risk of serious gastrointestinal problems",
-    "url":"https:\/\/theweek.com\/health\/popular-weight-loss-drugs-linked-to-higher-risk-of-serious-gastrointestinal-problems",
-    "time_published":1696688535000,
-    "authors":[
-      "Theara Coleman"
-    ],
-    "summary":"Study shows weight loss drugs have a higher risk of rare, but serious side effects The Week ...",
-    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/x6gkWnBJifA6ENNARAUheR-415-80.jpg",
-    "source":"The Week News",
-    "category_within_source":"n\/a",
-    "source_domain":"theweek.com",
     "topics":[
       {
         "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.048409,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"-0.099741",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FRNWF",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"0.058449",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"-0.032852",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVO",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"0.086815",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"FC Barcelona Coach Xavi Defends De Jong, Calls Midfielder 'One Of Best In The World'",
-    "url":"https:\/\/www.forbes.com\/sites\/tomsanderson\/2023\/10\/07\/fc-barcelona-coach-xavi-defends-de-jong-calls-midfielder-one-of-best-in-the-world\/",
-    "time_published":1696688275000,
-    "authors":[
-      "Tom Sanderson"
-    ],
-    "summary":"FC Barcelona head coach Xavi Hernandez has defended Frenkie de Jong by calling the midfielder 'one of the best' players in the world ahead of Sunday's clash with Granada.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6521657db228264ab8837c50\/0x0.jpg?format=jpg&crop=3137,1766,x0,y6,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.090838,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MANU",
-        "relevance_score":"0.107016",
-        "ticker_sentiment_score":"0.119405",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"3 Reasons to Buy CVS Health Stock Right Now",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/3-reasons-to-buy-cvs-health-stock-right-now\/",
-    "time_published":1696688100000,
-    "authors":[
-      "Prosper Junior Bakiny"
-    ],
-    "summary":"The stock is looking sick right now, but that won't last forever.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/d27168adf0bdb3d6f4fcf27ee281e5cd.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.87644"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.219872,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"KO",
-        "relevance_score":"0.059194",
-        "ticker_sentiment_score":"0.089225",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CVS",
-        "relevance_score":"0.793187",
-        "ticker_sentiment_score":"0.397807",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Leslie's, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - LESL - Leslies  ( NASDAQ:LESL ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35136427\/rosen-trusted-investor-counsel-encourages-leslies-inc-investors-with-losses-to-secure-counsel-befo",
-    "time_published":1696688100000,
-    "authors":[
-      "Globe Newswire"
-    ],
-    "summary":"NEW YORK, Oct. 07, 2023 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Leslie's, Inc. LESL between February 5, 2021 and July 13, 2023, both dates inclusive ( the \"Class Period\" ) , of the important November 7, 2023 lead ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
         "relevance_score":"0.5"
       },
       {
@@ -1788,129 +2426,258 @@
         "relevance_score":"0.650727"
       },
       {
-        "topic":"Earnings",
-        "relevance_score":"0.158519"
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
       },
       {
-        "topic":"Technology",
-        "relevance_score":"0.5"
+        "topic":"Earnings",
+        "relevance_score":"0.360215"
       }
     ],
-    "overall_sentiment_score":0.128988,
+    "overall_sentiment_score":-0.144116,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"LESL",
-        "relevance_score":"0.429671",
-        "ticker_sentiment_score":"0.023704",
+        "ticker":"AEHR",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.167595",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"RNSDF",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"0.136419",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"META",
-        "relevance_score":"0.064623",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Live updates: Israel-Gaza conflict erupts into fighting after attack by Palestinian militants",
-    "url":"https:\/\/edition.cnn.com\/middleeast\/live-news\/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk",
-    "time_published":1696687980000,
-    "authors":[
-      "<a href=\"\/profiles\/aditi-sandal\">Aditi Sangal<\/a> and <a href=\"\/profiles\/matt-meyer\">Matt Meyer<\/a>",
-      "Chris Lau",
-      "By <a href=\"\/profiles\/andrew-raine\">Andrew Raine<\/a>",
-      "Joshua Berlinger",
-      "CNN"
-    ],
-    "summary":"Live updates: At least 40 killed in Hamas surprise attack on Israel CNN International ...",
-    "banner_image":"https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/231007001424-rockets-fired-from-gaza-to-israel-super-tease.jpg",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"edition.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.261485,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
+        "ticker":"PKE",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.167595",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
       {
-        "ticker":"WBD",
-        "relevance_score":"0.473208",
-        "ticker_sentiment_score":"-0.237414",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.13459",
+        "ticker_sentiment_score":"-0.052899",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.13459",
+        "ticker_sentiment_score":"-0.052899",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.067536",
+        "ticker_sentiment_score":"-0.222989",
         "ticker_sentiment_label":"Somewhat-Bearish"
       }
     ]
   },
   {
-    "title":"PSG's Lee Helps South Korea To Third Straight Asian Games Gold",
-    "url":"https:\/\/www.barrons.com\/news\/psg-s-lee-helps-south-korea-to-third-straight-asian-games-gold-6b8a9000",
-    "time_published":1696687740000,
+    "title":"Bitcoin Falls Following Jobs Report; THORChain Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35126282\/bitcoin-falls-following-jobs-report-thorchain-becomes-top-loser",
+    "time_published":1696599556000,
     "authors":[
-      "AFP - Agence France Presse"
+      "Lisa Levin"
     ],
-    "summary":"Paris Saint-Germain star Lee Kang-in helped South Korea win Asian Games men's football gold for the third time in a row on Saturday -- and earn a military exemption. South Korea retained their crown with a 2-1 victory over Japan in Hangzhou, having conceded a goal in only the second minute.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1526111002105401207996497886047853596932---1.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
+    "summary":"Bitcoin BTC\/USD moved lower, with the cryptocurrency prices trading below the $28,000 level on Friday. Ethereum ETH\/USD, also moved lower, trading below the key $1,700 mark this morning. U.S. nonfarm payrolls rose by 336,000 in September, versus a revised 227,000 increase in August, and compared ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
-
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
     ],
-    "overall_sentiment_score":0.228811,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":-0.199147,
+    "overall_sentiment_label":"Somewhat-Bearish",
     "ticker_sentiment":[
       {
-        "ticker":"LVWR",
-        "relevance_score":"0.108958",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.716023",
+        "ticker_sentiment_score":"-0.682154",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.716023",
+        "ticker_sentiment_score":"-0.69841",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"0.200542",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Rise of Ethereum staking came at cost of higher centralization: JPMorgan",
+    "url":"https:\/\/cointelegraph.com\/news\/ethereum-merge-made-network-more-centralized",
+    "time_published":1696598819000,
+    "authors":[
+      "Helen Partz"
+    ],
+    "summary":"Ethereum co-founder Vitalik Buterin previously admitted that centralization is one of Ethereum's main challenges, which could take 20 years to solve.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/c2c12813-31bb-414f-acef-735797aac2e1.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.036084,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.184598",
+        "ticker_sentiment_score":"0.036751",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.440549",
+        "ticker_sentiment_score":"-0.17812",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.092927",
         "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.586141",
+        "ticker_sentiment_score":"0.01055",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Is Editas Stock a Buy Now?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/is-editas-stock-a-buy-now\/",
-    "time_published":1696687620000,
+    "title":"Worldwide Digital Asset-Based ETP AUM Remains 53% Ahead YTD Despite Quarterly Drop",
+    "url":"https:\/\/www.prnewswire.com\/news-releases\/worldwide-digital-asset-based-etp-aum-remains-53-ahead-ytd-despite-quarterly-drop-301949410.html",
+    "time_published":1696595400000,
     "authors":[
-      "Jim Halley"
+      "Fineqia International Inc."
     ],
-    "summary":"Shares of the gene-editing company are close to their 52-week lows. Does it make sense to buy the stock now?",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
+    "summary":"LONDON, Oct. 6, 2023 \/PRNewswire\/ - Fineqia International Inc. ( the \"Company\" or \"Fineqia\" ) ( CSE: FNQ ) ( OTC: FNQQF ) ( Frankfurt: FNQA ) , a leading digital asset and fintech investment business, announces that its analysis of global Exchange Traded Products ( ETPs ) with digital assets as ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2240391\/Fineqia_International_Inc__Worldwide_Digital_Asset_Based_ETP_AUM.jpg?p=facebook",
+    "source":"PR Newswire",
     "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
+    "source_domain":"www.prnewswire.com",
     "topics":[
       {
-        "topic":"Life Sciences",
+        "topic":"Finance",
         "relevance_score":"1.0"
       },
       {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      },
+      {
         "topic":"Financial Markets",
-        "relevance_score":"0.365926"
+        "relevance_score":"0.995015"
       }
     ],
-    "overall_sentiment_score":0.197081,
+    "overall_sentiment_score":0.180744,
     "overall_sentiment_label":"Somewhat-Bullish",
     "ticker_sentiment":[
       {
-        "ticker":"RCKT",
-        "relevance_score":"0.052112",
-        "ticker_sentiment_score":"0.096558",
+        "ticker":"FNQQF",
+        "relevance_score":"0.337427",
+        "ticker_sentiment_score":"0.158422",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"MORN",
+        "relevance_score":"0.043499",
+        "ticker_sentiment_score":"0.155505",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.214937",
+        "ticker_sentiment_score":"0.099065",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"EDIT",
-        "relevance_score":"0.443626",
-        "ticker_sentiment_score":"0.247083",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.297404",
+        "ticker_sentiment_score":"0.144211",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Worldwide Digital Asset-Based ETP AUM Remains 53% Ahead YTD Despite Quarterly Drop",
+    "url":"https:\/\/www.newswire.ca\/news-releases\/worldwide-digital-asset-based-etp-aum-remains-53-ahead-ytd-despite-quarterly-drop-807004384.html",
+    "time_published":1696595400000,
+    "authors":[
+      "Fineqia International Inc."
+    ],
+    "summary":"LONDON, Oct. 6, 2023 \/CNW\/ - Fineqia International Inc. ( the \"Company\" or \"Fineqia\" ) ( CSE: FNQ ) ( OTC: FNQQF ) ( Frankfurt: FNQA ) , a leading digital asset and fintech investment business, announces that its analysis of global Exchange Traded Products ( ETPs ) with digital assets as ...",
+    "banner_image":"https:\/\/mma.prnewswire.com\/media\/2240391\/Fineqia_International_Inc__Worldwide_Digital_Asset_Based_ETP_AUM.jpg?p=facebook",
+    "source":"Canada Newswire",
+    "category_within_source":"n\/a",
+    "source_domain":"www.newswire.ca",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.769861"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.995015"
+      }
+    ],
+    "overall_sentiment_score":0.180744,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"FNQQF",
+        "relevance_score":"0.337427",
+        "ticker_sentiment_score":"0.158422",
         "ticker_sentiment_label":"Somewhat-Bullish"
       },
       {
-        "ticker":"BMY",
-        "relevance_score":"0.052112",
-        "ticker_sentiment_score":"0.23869",
+        "ticker":"MORN",
+        "relevance_score":"0.043499",
+        "ticker_sentiment_score":"0.155505",
         "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.214937",
+        "ticker_sentiment_score":"0.099065",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.297404",
+        "ticker_sentiment_score":"0.144211",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   }

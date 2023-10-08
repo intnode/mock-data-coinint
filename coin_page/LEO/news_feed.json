@@ -1,16 +1,872 @@
 [
   {
-    "title":"Stablecoin Market Cap Hits 18 Months of Decline-But All Is Not Lost",
-    "url":"https:\/\/decrypt.co\/200534\/stablecoins-down-35-percent-against-treasury-yields",
-    "time_published":1696702225000,
+    "title":"Ethereum Falls Below $1,700; Pepe, Sui Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/10\/35064545\/ethereum-falls-below-1-700-pepe-sui-among-top-losers",
+    "time_published":1696341265000,
     "authors":[
-      "Pedro Solimano"
+      "Lisa Levin"
     ],
-    "summary":"Stymied by stronger treasury yields and U.S. regulatory pressure, stablecoins are down but not dead.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/USDT-shutterstock_1807087441-16x9-1-gID_7.jpg",
-    "source":"Decrypt.co",
+    "summary":"Bitcoin BTC\/USD traded lower, with the cryptocurrency prices falling below the $28,000 level on Tuesday. Ethereum ETH\/USD also moved lower, falling below the key $1,700 mark this morning. Bitcoin SV BSV\/USD was the top gainer over the prior 24 hours, while Pepe PEPE\/USD turned out to be the ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/03\/ethereum_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.169725,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.769861",
+        "ticker_sentiment_score":"-0.502097",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"-0.674604",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MATIC",
+        "relevance_score":"0.18967",
+        "ticker_sentiment_score":"0.517429",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BSV",
+        "relevance_score":"0.662945",
+        "ticker_sentiment_score":"0.202181",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"-0.584186",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"0.738737",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ether futures ETFs launching, SBF trial to begin and 3AC's Su Zhu arrested: Hodler's Digest, Sept. 24-30",
+    "url":"https:\/\/cointelegraph.com\/magazine\/ether-futures-etfs-launching-sbf-trial-to-begin-and-3acs-su-zhu-arrested-hodlers-digest-sept-24-30\/",
+    "time_published":1696107903000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Ether futures ETFs to debut in the United States, Sam Bankman-Fried's trial to begin and 3AC co-founder Su Zhu arrested.",
+    "banner_image":null,
+    "source":"Cointelegraph",
     "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.993856"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.890401"
+      }
+    ],
+    "overall_sentiment_score":-0.126875,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"BLK",
+        "relevance_score":"0.030759",
+        "ticker_sentiment_score":"-0.041913",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"IVZ",
+        "relevance_score":"0.030759",
+        "ticker_sentiment_score":"-0.041913",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"WT",
+        "relevance_score":"0.030759",
+        "ticker_sentiment_score":"-0.041913",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"PSFE",
+        "relevance_score":"0.152886",
+        "ticker_sentiment_score":"-0.027801",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.182967",
+        "ticker_sentiment_score":"-0.034568",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.43701",
+        "ticker_sentiment_score":"-0.002928",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.21278",
+        "ticker_sentiment_score":"0.061513",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LINK",
+        "relevance_score":"0.061473",
+        "ticker_sentiment_score":"0.070003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.061473",
+        "ticker_sentiment_score":"0.070003",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.061473",
+        "ticker_sentiment_score":"-0.064292",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Tops $1,600; Maker, Injective Among Top Gainers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34949321\/ethereum-tops-1-600-maker-injective-among-top-gainers",
+    "time_published":1695821644000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices trading above the $26,700 level on Wednesday. Ethereum ETH\/USD also moved higher, trading above the key $1,600 mark this morning. Maker MKR\/USD was the top gainer over the prior 24 hours, while Immutable IMX\/USD turned out to be the ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/27\/ethereum_2-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.099023,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.532043",
+        "ticker_sentiment_score":"0.195018",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.532043",
+        "ticker_sentiment_score":"0.204393",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:EGLD",
+        "relevance_score":"0.19117",
+        "ticker_sentiment_score":"-0.381513",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:SNX",
+        "relevance_score":"0.19117",
+        "ticker_sentiment_score":"0.519805",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:MKR",
+        "relevance_score":"0.371523",
+        "ticker_sentiment_score":"0.143839",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.371523",
+        "ticker_sentiment_score":"-0.586582",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Falls Below $27,000 Following Fed Decision; Toncoin Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34792959\/bitcoin-falls-below-27-000-following-fed-decision-toncoin-becomes-top-loser",
+    "time_published":1695303745000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded lower, with the cryptocurrency prices trading below the $27,000 level on Thursday. Ethereum ETH\/USD also moved lower, trading above the key $1,600 mark this morning. The U.S. Federal Reserve maintained the federal funds rate within the 5.25% to 5.5% range at its September ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/21\/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":-0.090471,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.504646",
+        "ticker_sentiment_score":"-0.599805",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.504646",
+        "ticker_sentiment_score":"-0.616155",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:EGLD",
+        "relevance_score":"0.179788",
+        "ticker_sentiment_score":"0.501721",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.350564",
+        "ticker_sentiment_score":"-0.567729",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.350564",
+        "ticker_sentiment_score":"0.722805",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.350564",
+        "ticker_sentiment_score":"0.722805",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Edges Lower Ahead Of Fed Decision; Litecoin, Gala Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34763862\/ethereum-edges-lower-ahead-of-fed-decision-litecoin-gala-among-top-losers",
+    "time_published":1695218474000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded slightly higher, with the cryptocurrency prices trading above the $27,000 level on Wednesday. Ethereum ETH\/USD, meanwhile, edged lower, but traded above the key $1,600 mark this morning. The U.S. Federal Reserve is scheduled to announce its interest-rate decision on ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/20\/ethereum_3_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.123686,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.504646",
+        "ticker_sentiment_score":"-0.441346",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MKR",
+        "relevance_score":"0.179788",
+        "ticker_sentiment_score":"0.501721",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:STX",
+        "relevance_score":"0.179788",
+        "ticker_sentiment_score":"-0.366522",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.350564",
+        "ticker_sentiment_score":"0.722805",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.504646",
+        "ticker_sentiment_score":"-0.536433",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LTC",
+        "relevance_score":"0.636698",
+        "ticker_sentiment_score":"-0.558039",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.350564",
+        "ticker_sentiment_score":"-0.567729",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Moves Lower; UNUS SED LEO, Conflux Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/09\/34490645\/ethereum-moves-lower-unus-sed-leo-conflux-among-top-losers",
+    "time_published":1694526529000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD edged higher, but the cryptocurrency prices traded below the $26,000 level on Tuesday. Ethereum ETH\/USD, meanwhile, moved lower, trading below the key $1,600 mark this morning. Optimism OP\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned out to be ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/09\/12\/ethereum_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.004982,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"-0.458339",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"-0.553545",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:KLAY",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"-0.5818",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.659096",
+        "ticker_sentiment_score":"-0.023097",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Record Gains Following Jobless Claims Data; Bone ShibaSwap Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/34024330\/bitcoin-ethereum-record-gains-following-jobless-claims-data-bone-shibaswap-emerges-as-top-",
+    "time_published":1692884353000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved higher, with the cryptocurrency prices trading above the $26,000 level on Thursday. Ethereum ETH\/USD, also recorded gains, trading above the key $1,600 mark this morning.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/24\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.031638,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.470894",
+        "ticker_sentiment_score":"0.181026",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.470894",
+        "ticker_sentiment_score":"0.308884",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.325208",
+        "ticker_sentiment_score":"-0.543066",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:XMR",
+        "relevance_score":"0.598621",
+        "ticker_sentiment_score":"-0.375336",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.325208",
+        "ticker_sentiment_score":"-0.543066",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Falls Sharply, Terra Classic, ApeCoin Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33876892\/bitcoin-falls-sharply-terra-classic-apecoin-among-top-losers",
+    "time_published":1692196521000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved lower, with the cryptocurrency prices trading below the $29,100 level on Wednesday. Ethereum ETH\/USD also recorded losses, but remained above the $1,800 mark this morning. Sei SEI\/USD was the top gainer over the prior 24 hours, while Terra Classic LUNC\/USD turned out to be ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/16\/bitcoin-_logo_2_0.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.286353,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.617765",
+        "ticker_sentiment_score":"-0.650656",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:COMP",
+        "relevance_score":"0.229149",
+        "ticker_sentiment_score":"-0.43139",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.617765",
+        "ticker_sentiment_score":"-0.678965",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.439786",
+        "ticker_sentiment_score":"0.789412",
+        "ticker_sentiment_label":"Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Edge Lower; Bone ShibaSwap, XDC Network Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/08\/33833412\/bitcoin-ethereum-edge-lower-bone-shibaswap-xdc-network-among-top-losers",
+    "time_published":1692020727000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded slightly lower, with the cryptocurrency prices falling below the $29,400 level on Monday. Ethereum ETH\/USD also edged lower, trading below the $1,850 mark this morning. Hedera ( HBAR ) was the top gainer over the prior 24 hours, while Bone ShibaSwap BONE\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/08\/14\/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.119446,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"-0.646338",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.528475",
+        "ticker_sentiment_score":"-0.634527",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:HBAR",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"0.129365",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:STX",
+        "relevance_score":"0.18967",
+        "ticker_sentiment_score":"-0.379531",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.368773",
+        "ticker_sentiment_score":"-0.584186",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"US Homeland Security returns $314K from 2016 Bitfinex hack",
+    "url":"https:\/\/cointelegraph.com\/news\/us-homeland-security-returns-314k-from-2016-bitfinex-hack",
+    "time_published":1688667016000,
+    "authors":[
+
+    ],
+    "summary":"The funds were seized by U.S. Customs and Border Protection. Recovery efforts for the remaining funds are ongoing.",
+    "banner_image":"https:\/\/images.cointelegraph.com\/images\/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMWZkZWQ3ZTYtMjA1Mi00MDY3LThlM2UtMzhhOTI5NDZlNjE0LmpwZw==.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.019578,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.539306",
+        "ticker_sentiment_score":"-0.067653",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RRT",
+        "relevance_score":"0.194242",
+        "ticker_sentiment_score":"0.034304",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BCH",
+        "relevance_score":"0.377142",
+        "ticker_sentiment_score":"0.252289",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.194242",
+        "ticker_sentiment_score":"0.034304",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Tops This Key Level; Celo, The Graph Among Top Gainers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/07\/33096671\/ethereum-tops-this-key-level-celo-the-graph-among-top-gainers",
+    "time_published":1688391877000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved slightly higher, with the cryptocurrency prices trading above the key $31,000 level on Monday. Ethereum ETH\/USD, also traded higher, topping the key $1,900 mark this morning. Celo CELO\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/07\/03\/ethereum_-_logo.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.039912,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.84035",
+        "ticker_sentiment_score":"0.233608",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.84035",
+        "ticker_sentiment_score":"0.256449",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.651499",
+        "ticker_sentiment_score":"-0.241239",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Record Losses Following PPI Data; Pepe Becomes Top Loser",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/05\/32342114\/bitcoin-ethereum-record-losses-following-ppi-data-pepe-becomes-top-loser",
+    "time_published":1683813394000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved lower, with the cryptocurrency prices trading below the key $28,000 level on Thursday. Ethereum ETH\/USD also traded lower, but remained above the key $1,800 mark this morning. Producer prices for final demand rose 0.2% month-over-month in April versus a revised 0.4% decline ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/05\/11\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.315786,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.688096",
+        "ticker_sentiment_score":"-0.567308",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.688096",
+        "ticker_sentiment_score":"-0.582525",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.499789",
+        "ticker_sentiment_score":"-0.209875",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin, Ethereum Record Gains; WOO Network Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/05\/32214292\/bitcoin-ethereum-record-gains-woo-network-emerges-as-top-gainer",
+    "time_published":1683207987000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved higher, with the cryptocurrency prices trading above the $28,700 level on Thursday. Ethereum ETH\/USD also recorded gains, trading above the key $1,800 mark this morning. WOO Network WOO\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/05\/04\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.11879,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.7887",
+        "ticker_sentiment_score":"0.235709",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.7887",
+        "ticker_sentiment_score":"0.395795",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.282992",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Musk hints at suing Microsoft, US Rep. wants Gensler fired, and more: Hodler's Digest, April 16-22",
+    "url":"https:\/\/cointelegraph.com\/magazine\/musk-hints-suing-microsoft-us-rep-wants-gensler-fired-a-hodlers-digest-april-16-22\/",
+    "time_published":1682197534000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Elon Musk suggests suing Microsoft, congressman plans bill to remove Gary Gensler, and Societe Generale launches euro-pegged stablecoin.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.99489"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.021712,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"MSFT",
+        "relevance_score":"0.190567",
+        "ticker_sentiment_score":"-0.025229",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"SCGLF",
+        "relevance_score":"0.115048",
+        "ticker_sentiment_score":"0.176234",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"HIVE",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"-0.061468",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ARBK",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"-0.061468",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"ASCCF",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"-0.061468",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.076847",
+        "ticker_sentiment_score":"0.158904",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.300394",
+        "ticker_sentiment_score":"-0.032896",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.190567",
+        "ticker_sentiment_score":"-0.139861",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"-0.065144",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.038468",
+        "ticker_sentiment_score":"0.112544",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.076847",
+        "ticker_sentiment_score":"0.067746",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Jumps Above $30,000 Ahead Of Inflation Data; Render Token Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/04\/31744133\/bitcoin-jumps-above-30-000-ahead-of-inflation-data-render-token-emerges-as-top-gainer",
+    "time_published":1681219906000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD moved higher, with the cryptocurrency prices trading above the key $30,000 level on Tuesday as traders are awaiting the release of Wednesday's inflation data. Ethereum ETH\/USD also moved higher, trading above the key $1,900 mark this morning.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/04\/11\/bitcoin-_logo_2.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
@@ -18,1067 +874,638 @@
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.983605"
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":-0.047504,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.745397",
+        "ticker_sentiment_score":"0.023392",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.745397",
+        "ticker_sentiment_score":"0.24144",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.552443",
+        "ticker_sentiment_score":"-0.215261",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"SBF legal fees, BTC market cap flips Meta,USDC climbs back to $1",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sbf-legal-fees-btc-marketcap-flips-meta-usdc-climbs-back-to-1-hodlers-digest-march-12-18\/",
+    "time_published":1679166896000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Sam Bankman-Fried seeks to use FTX's corporate insurance, Bitcoin outperforming Wall Street banks in 2023 and USDC repegs after turbulent days.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.929393"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.99489"
+      }
+    ],
+    "overall_sentiment_score":0.014472,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SBNY",
+        "relevance_score":"0.132916",
+        "ticker_sentiment_score":"0.049174",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.033375",
+        "ticker_sentiment_score":"0.036184",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:GBP",
+        "relevance_score":"0.033375",
+        "ticker_sentiment_score":"0.028008",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.132916",
+        "ticker_sentiment_score":"0.018631",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.293506",
+        "ticker_sentiment_score":"-0.039439",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.132916",
+        "ticker_sentiment_score":"-0.114629",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:WBTC",
+        "relevance_score":"0.033375",
+        "ticker_sentiment_score":"-0.115796",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BUSD",
+        "relevance_score":"0.066691",
+        "ticker_sentiment_score":"-0.0698",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.066691",
+        "ticker_sentiment_score":"-0.0698",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Jumps Above $26,000; Conflux, Threshold Among Top Gainers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31340596\/bitcoin-jumps-above-26-000-conflux-threshold-among-top-gainers",
+    "time_published":1678801109000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded sharply higher, with the cryptocurrency prices surging above the key $26,000 level on Tuesday. Ethereum ETH\/USD also moved higher, trading above to the $1,700 mark this morning. Conflux CFX\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/14\/image-bitcoin3.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.030859,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"0.092442",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"0.239839",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.541149",
+        "ticker_sentiment_score":"-0.219601",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Crypto Market Cap Tops $1 Trillion; Synthetix Emerges As Top Gainer",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31321012\/crypto-market-cap-tops-1-trillion-synthetix-emerges-as-top-gainer",
+    "time_published":1678715566000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded higher, with the cryptocurrency prices surging above the key $22,000 level on Monday. Ethereum ETH\/USD also moved higher, trading close to the $1,600 mark this morning. Synthetix SNX\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned out to ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/13\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.054772,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.795061",
+        "ticker_sentiment_score":"0.028089",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.795061",
+        "ticker_sentiment_score":"0.028119",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SNX",
+        "relevance_score":"0.327366",
+        "ticker_sentiment_score":"-0.157646",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.601928",
+        "ticker_sentiment_score":"-0.232235",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Layer-1 Outperforms Bitcoin And Ethereum: Surges 30% In Weekly Gains Ahead Of Upcoming Upgrade",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31313821\/layer-1-outperforms-bitcoin-and-ethereum-surges-30-in-weekly-gains-ahead-of-upcoming-upgra",
+    "time_published":1678704505000,
+    "authors":[
+      "Mehab Qureshi"
+    ],
+    "summary":"Layer-1 blockchain Kava's native token KAVA KAVA\/USD surged 30% in the last seven days, outperforming the top 100 cryptocurrencies by market capitalization, including apex crypto Bitcoin BTC\/USD and Ethereum ETH\/USD. What Happened: KAVA, on Sunday, made a major leap, surpassing Solana SOL\/USD in ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/13\/cryptocurrency_photo_by_chinnapong_on_shutterstock.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.272265,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.443626",
+        "ticker_sentiment_score":"0.31881",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.443626",
+        "ticker_sentiment_score":"0.31881",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.155451",
+        "ticker_sentiment_score":"0.202633",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.567144",
+        "ticker_sentiment_score":"0.291076",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Silicon Valley Bank down, USDC depegged, FTX billed $34M in Jan",
+    "url":"https:\/\/cointelegraph.com\/magazine\/silicon-valley-bank-down-usdc-depegged-ftx-billed-34m-jan-hodlers-digest-march-5-11\/",
+    "time_published":1678574506000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Bank run on Silicon Valley Bank, USDC depegged from U.S. dollar and FTX's bankruptcy expenses hit $34 million in January.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.999682"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.316726"
+      }
+    ],
+    "overall_sentiment_score":-0.093269,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SI-P-A",
+        "relevance_score":"0.030958",
+        "ticker_sentiment_score":"-0.005703",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.184129",
+        "ticker_sentiment_score":"-0.097941",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.153863",
+        "ticker_sentiment_score":"-0.172802",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.030958",
+        "ticker_sentiment_score":"-0.130205",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AGI",
+        "relevance_score":"0.030958",
+        "ticker_sentiment_score":"-0.063787",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:STX",
+        "relevance_score":"0.030958",
+        "ticker_sentiment_score":"-0.063787",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.061869",
+        "ticker_sentiment_score":"0.065005",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.030958",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.123367",
+        "ticker_sentiment_score":"-0.078531",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KCS",
+        "relevance_score":"0.092688",
+        "ticker_sentiment_score":"-0.03943",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin Tumbles Below This Key Level; Conflux, Huobi Token Among Top Losers",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/03\/31296559\/bitcoin-tumbles-below-this-key-level-conflux-huobi-token-among-top-losers",
+    "time_published":1678459040000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD traded lower, with the cryptocurrency prices falling below the key $21,000 level on Friday. Ethereum ETH\/USD also moved lower, trading below the $1,500 mark this morning. UNUS SED LEO LEO\/USD was the top gainer over the prior 24 hours, while Conflux CFX\/USD turned out to be the ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/03\/10\/image-bitcoin3.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.328962,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.739411",
+        "ticker_sentiment_score":"-0.727586",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.739411",
+        "ticker_sentiment_score":"-0.710453",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.546745",
+        "ticker_sentiment_score":"-0.220843",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"SEC sues Do Kwon, Paxos ready to litigate, SBF's VPN: Hodler's...",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sec-sues-do-kwon-paxos-ready-to-litigate-sbfs-vpn-hodlers-digest-feb-12-18\/",
+    "time_published":1676755623000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Top Stories This Week Paxos 'categorically disagrees' with the SEC that BUSD is a security The United States Securities and Exchange Commission ( SEC ) has defined the stablecoin Binance USD ( BUSD ) as a security in a Wells Notice sent to its issuer, Paxos Trust Company.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.998626"
       },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.650727"
       }
     ],
-    "overall_sentiment_score":0.117873,
+    "overall_sentiment_score":0.01711,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
+      {
+        "ticker":"SQNXF",
+        "relevance_score":"0.035293",
+        "ticker_sentiment_score":"-0.145131",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BRPHF",
+        "relevance_score":"0.035293",
+        "ticker_sentiment_score":"0.026244",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.105604",
+        "ticker_sentiment_score":"-0.060654",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.404563",
+        "ticker_sentiment_score":"0.171935",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"-0.034538",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Musk's Call For 'Citizen Journalism' Slammed By Renowned Journalist: 'Hard Pass'",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35136552\/musks-call-for-citizen-journalism-slammed-by-renowned-journalist-hard-pass",
-    "time_published":1696700710000,
-    "authors":[
-      "Nabaparna Bhattacharya"
-    ],
-    "summary":"Elon Musk, the CEO of SpaceX and Tesla Inc., is making waves again, not in the tech or automotive world, but in the realm of journalism. Musk is advocating for a surge in \"citizen journalism\" on the social media platform X following his acquisition of Twitter.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/elon.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.196335,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.162802",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Stars Arena Drained of $2.85 Million, Declaring 'War' with Hackers",
-    "url":"https:\/\/decrypt.co\/200533\/stars-arena-hacked-avax-friend-tech",
-    "time_published":1696700580000,
-    "authors":[
-      "Ali Shutler"
-    ],
-    "summary":"\"We will re-open the contract with all the funds in full after a full security audit,\" the project said. \"This will happen very soon.\" ...",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Stars-Arena-Hacker-gID_7.jpg",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      }
-    ],
-    "overall_sentiment_score":0.02185,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.209365",
-        "ticker_sentiment_score":"-0.010017",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:AVAX",
-        "relevance_score":"0.309539",
-        "ticker_sentiment_score":"0.098372",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"What the stock market selloff means for Biden's re-election chances",
-    "url":"https:\/\/www.marketwatch.com\/story\/what-the-stock-market-selloff-means-for-bidens-re-election-chances-bc86f09f",
-    "time_published":1696699440000,
-    "authors":[
-      "Mark Hulbert"
-    ],
-    "summary":"Why it pays to keep your politics and your investments separate.",
-    "banner_image":"https:\/\/images.mktw.net\/im-628248\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.999998"
-      }
-    ],
-    "overall_sentiment_score":-0.151281,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"'Surprising' Bellingham Helps Madrid Crush Osasuna, Overtake Girona",
-    "url":"https:\/\/www.barrons.com\/news\/surprising-bellingham-helps-madrid-crush-osasuna-overtake-girona-996c439b",
-    "time_published":1696698840000,
-    "authors":[
-      "Rik Sharma"
-    ],
-    "summary":"Real Madrid coach Carlo Ancelotti said nobody expected Jude Bellingham to be so explosive in front of goal after the midfielder hit a brace to send Madrid back top of La Liga on Saturday with a 4-0 win over Osasuna.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP5215430759689418923156987437376792168272---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.224625,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BORUF",
-        "relevance_score":"0.054483",
-        "ticker_sentiment_score":"-0.030134",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Under Fire: Walmart Accused Of Monopolistic Machinations In Mexico, Billion-dollar Fines Loom - Walmart  ( NYSE:WMT ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/equities\/23\/10\/35136421\/under-fire-walmart-accused-of-monopolistic-machinations-in-mexico-billion-dollar-fines-loom",
-    "time_published":1696698682000,
-    "authors":[
-      "Nabaparna Bhattacharya"
-    ],
-    "summary":"Walmart Inc. WMT, a name synonymous with retail dominance, has found itself trapped in a complex legal battle in Mexico. Accusations of market power abuse and monopolistic practices have put Walmart de Mexico, the local subsidiary, under intense scrutiny by Mexico's antitrust authority Comisi\u00f3n ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/walmart.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.002489,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WMT",
-        "relevance_score":"0.66906",
-        "ticker_sentiment_score":"-0.019259",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"OFIX LOSS ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Orthofix Medical Inc. Investors to Inquire About Securities Class Action Investigation - OFIX",
-    "url":"https:\/\/www.prnewswire.com\/news-releases\/ofix-loss-alert-rosen-national-trial-lawyers-encourages-orthofix-medical-inc-investors-to-inquire-about-securities-class-action-investigation--ofix-301949987.html",
-    "time_published":1696698000000,
-    "authors":[
-      "P. A.",
-      "THE ROSEN LAW FIRM"
-    ],
-    "summary":"OFIX LOSS ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Orthofix Medical Inc. Investors to Inquire About ... PR ...",
-    "banner_image":"https:\/\/mma.prnewswire.com\/media\/405060\/Rosen_Law_Logo.jpg?p=facebook",
-    "source":"PR Newswire",
-    "category_within_source":"n\/a",
-    "source_domain":"www.prnewswire.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.614606"
-      }
-    ],
-    "overall_sentiment_score":0.187461,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.080728",
+        "relevance_score":"0.070517",
         "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"OFIX",
-        "relevance_score":"0.160633",
-        "ticker_sentiment_score":"-0.0779",
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.070517",
+        "ticker_sentiment_score":"0.065274",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BUSD",
+        "relevance_score":"0.243237",
+        "ticker_sentiment_score":"-0.096229",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.070517",
+        "ticker_sentiment_score":"-0.06502",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"PBS Doc Probes Cheating In 'The Astros Edge: Triumph And Scandal In Major League Baseball'",
-    "url":"https:\/\/www.forbes.com\/sites\/anneeaston\/2023\/10\/07\/pbs-doc-probes-cheating-in-the-astros-edge-triumph-and-scandal-in-major-league-baseball\/",
-    "time_published":1696698000000,
+    "title":"SBF bail guarantor to go public, UK crypto framework and Celsius...",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sbf-bail-guarantor-to-go-public-uk-crypto-framework-and-celsius-news-hodlers-digest-jan-29-feb-4\/",
+    "time_published":1675547088000,
     "authors":[
-      "Anne Easton"
+      "Editorial Staff"
     ],
-    "summary":"Using new information and exclusive interviews with former MLB insiders, including some associated with the Astros organization, the film goes deep.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/651f3dc3bde82ce2e33018cf\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":-0.052754,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:SOC",
-        "relevance_score":"0.034039",
-        "ticker_sentiment_score":"-0.10748",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Trump's Niece Blasts Her Uncle For Backing Jim Jordan For House Speaker Post: 'Evil Endorses Evil'",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35136680\/trumps-niece-blasts-her-uncle-for-backing-jim-jordan-for-house-speaker-post-evil-endorses-evil",
-    "time_published":1696697697000,
-    "authors":[
-      "Shanthi Rexaline"
-    ],
-    "summary":"Mary Trump, the niece of former President Donald Trump, on Thursday weighed in on her uncle's backing of Rep. Jim Jordan ( R-Ohio ) for the post of speaker of the House. What Happened: \"Jim Jordan is evil. Donald Trump is evil,\" said Mary Trump in a post on X, formerly Twitter.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Trump_Jordan.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.053444,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.128135",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"George Schlatter's 'Turn-On' Returns After More Than 50 Years",
-    "url":"https:\/\/www.forbes.com\/sites\/marcberman1\/2023\/10\/07\/george-schlatters-turn-on-returns-after-more-than-50-years\/",
-    "time_published":1696697591000,
-    "authors":[
-      "Marc Berman"
-    ],
-    "summary":"The show would be picked up by ABC for a run of 13 episodes, with additional episodes purchased after advertisers saw the first episode for a total of 17 shows.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65218aabf4171a54a6e36924\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.093449,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.104228",
-        "ticker_sentiment_score":"0.114074",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"WWE Fastlane 2023: John Cena Winning And 5 Smart Booking Decisions",
-    "url":"https:\/\/www.forbes.com\/sites\/blakeoestriecher\/2023\/10\/07\/wwe-fastlane-2023-john-cena-winning-and-5-smart-booking-decisions\/",
-    "time_published":1696697100000,
-    "authors":[
-      "Blake Oestriecher"
-    ],
-    "summary":"WWE Fastlane 2023 should be a big night for John Cena, Seth Rollins and LA Knight, and these booking moves could help.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/64a08de03b65d577dc9b88bd\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":0.228602,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Israel's war with Hamas could increase competition for the US artillery shells needed by Ukraine",
-    "url":"https:\/\/africa.businessinsider.com\/military-and-defense\/israels-war-with-hamas-could-increase-competition-for-the-us-artillery-shells-needed\/z6qp9tz",
-    "time_published":1696697042000,
-    "authors":[
-      "Charles R. Davis"
-    ],
-    "summary":"\"Over the coming days the Department of Defense will work to ensure that Israel has what it needs to defend itself and protect civilians from indiscriminate violence and terrorism,\" Defense Secretary Lloyd Austin said in a statement.",
-    "banner_image":"https:\/\/ocdn.eu\/pulscms-transforms\/1\/XmUktkuTURBXy8zNTBkMGRiMC1lNDhhLTRlODItOWRmYS02MWI1OTdhNGRhYzAuanBlZ5GTBc0DFs0Brg",
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"africa.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.154825,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.136113",
-        "ticker_sentiment_score":"-0.024516",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.136113",
-        "ticker_sentiment_score":"0.040668",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The Baltimore Orioles Aren't Going Away",
-    "url":"https:\/\/www.forbes.com\/sites\/danepstein\/2023\/10\/07\/the-baltimore-orioles-arent-going-away\/",
-    "time_published":1696696938000,
-    "authors":[
-      "Daniel R. Epstein"
-    ],
-    "summary":"The Baltimore Orioles surprised everyone by winning 101 games and the AL East. Their young core will keep them near the top of the standings for years to come.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65218958730c868982a4e704\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.263907,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BATRA",
-        "relevance_score":"0.041828",
-        "ticker_sentiment_score":"0.231135",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Inflation Is Over - What Comes Next?",
-    "url":"https:\/\/www.forbes.com\/sites\/georgecalhoun\/2023\/10\/07\/inflation-is-over--what-comes-next\/",
-    "time_published":1696696878000,
-    "authors":[
-      "George Calhoun"
-    ],
-    "summary":"The latest figures show that inflation has been \"tamed.\" In fact, they signal that deflation may be looming. Hard to tell - because the std economic models are broken.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/652182246d4c658f175167e2\/0x0.jpg?format=jpg&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Markets",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.184305,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.016349",
-        "ticker_sentiment_score":"-0.058782",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SPGI",
-        "relevance_score":"0.016349",
-        "ticker_sentiment_score":"-0.199015",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"How to tell if it is worth avoiding taxes with a municipal bond ETF",
-    "url":"https:\/\/www.marketwatch.com\/story\/how-to-tell-if-it-is-worth-avoiding-taxes-with-a-municipal-bond-etf-29723e35",
-    "time_published":1696696860000,
-    "authors":[
-      "Philip van Doorn"
-    ],
-    "summary":"Depending on your tax federal tax bracket and which state you live in, municipal bond funds may be excellent income generatiors for you.",
-    "banner_image":"https:\/\/images.mktw.net\/im-864422\/social",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.538269"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.214675,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MCO",
-        "relevance_score":"0.073849",
-        "ticker_sentiment_score":"0.070015",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SCHW",
-        "relevance_score":"0.024648",
-        "ticker_sentiment_score":"0.169344",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"NRDS",
-        "relevance_score":"0.049271",
-        "ticker_sentiment_score":"0.266275",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"EXCLUSIVE: Elon Musk's Twitter Acquisition Opened Up The Cannabis Floodgates - Meta Platforms  ( NASDAQ:META ) , Tesla  ( NASDAQ:TSLA ) ",
-    "url":"https:\/\/www.benzinga.com\/markets\/cannabis\/23\/10\/35136646\/exclusive-elon-musks-twitter-acquisition-opened-up-the-cannabis-floodgates",
-    "time_published":1696696854000,
-    "authors":[
-      "AJ Fabino"
-    ],
-    "summary":"Elon Musk's acquisition of Twitter heralded a new era in the cannabis space, with the platform emerging as the only one where cannabis brands and advocates can speak freely without algorithmic repercussions.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Kazan,,Russia,-,Apr,26,,2022:,Logo,Of,Social,Network.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.437066,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"META",
-        "relevance_score":"0.084423",
-        "ticker_sentiment_score":"-0.072671",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.084423",
-        "ticker_sentiment_score":"0.15193",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"'SpongeBob Did 9\/11,' Elmo With a Knife: Shocking AI Art Goes Viral",
-    "url":"https:\/\/decrypt.co\/200493\/spongebob-911-elmo-knife-shocking-ai-art-goes-viral",
-    "time_published":1696696409000,
-    "authors":[
-      "Jason Nelson"
-    ],
-    "summary":"Generative AI is booming, but risqu\u00e9 stickers and violent images are taking over social media-to the dismay of corporate giants.",
-    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2023\/10\/Designer-gID_7.png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.158519"
-      }
-    ],
-    "overall_sentiment_score":0.08612,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.117486",
-        "ticker_sentiment_score":"-0.064569",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"META",
-        "relevance_score":"0.117486",
-        "ticker_sentiment_score":"-0.033812",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GETY",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"-0.002007",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DSSMY",
-        "relevance_score":"0.058903",
-        "ticker_sentiment_score":"-0.132",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"McTominay's Dramatic Double Lifts Man Utd As 10-man Spurs Go Top",
-    "url":"https:\/\/www.barrons.com\/news\/mctominay-s-dramatic-double-lifts-man-utd-as-10-man-spurs-go-top-328e8249",
-    "time_published":1696695720000,
-    "authors":[
-      "Steven GRIFFITHS"
-    ],
-    "summary":"Scott McTominay's two stoppage-time goals gave Manchester United a dramatic 2-1 win at home against Brentford, while 10-man Tottenham climbed to the top of the Premier League after a 1-0 victory at Luton on Saturday.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.219659,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"MANU",
-        "relevance_score":"0.057767",
-        "ticker_sentiment_score":"0.27904",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"FOREX:GBP",
-        "relevance_score":"0.282886",
-        "ticker_sentiment_score":"0.185547",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"How 1880s technology made it possible for 2 women to travel around the world in under 80 days",
-    "url":"https:\/\/www.businessinsider.com\/nellie-bly-elizabeth-bisland-around-the-world-technology-2023-10",
-    "time_published":1696694940000,
-    "authors":[
-      "Jenny McGrath"
-    ],
-    "summary":"How Nellie Bly and Elizabeth Bisland traveled around the world - Business Insider ...",
+    "summary":"Top Stories This Week SBF's $250M bail guarantors should be made public, rules judge The identities of two individuals who helped former FTX CEO Sam Bankman-Fried with his $250 million bail bond could be revealed next month following a recent ruling by United States District Judge Lewis Kaplan.",
     "banner_image":null,
-    "source":"Business Insider",
-    "category_within_source":"GoogleRSS",
-    "source_domain":"www.businessinsider.com",
-    "topics":[
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.016834,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"UNP",
-        "relevance_score":"0.015392",
-        "ticker_sentiment_score":"0.071162",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"What is finality in blockchain, and why does it matter?",
-    "url":"https:\/\/cointelegraph.com\/explained\/what-is-finality-in-blockchain-and-why-does-it-matter",
-    "time_published":1696694700000,
-    "authors":[
-
-    ],
-    "summary":"Finality ensures irreversible transactions - crucial for trust and security - prevents double-spending and fraud, and keeps blockchain records immutable.",
-    "banner_image":"https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/storage\/uploads\/view\/42f3681baee171ad51b17f4ff69bfbf6.jpg",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
       {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
+      {
         "topic":"Blockchain",
-        "relevance_score":"1.0"
+        "relevance_score":"0.9545"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
       }
     ],
-    "overall_sentiment_score":0.068156,
+    "overall_sentiment_score":-0.041069,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.108794",
-        "ticker_sentiment_score":"0.05486",
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.041251",
+        "ticker_sentiment_score":"-0.070714",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:ALGO",
-        "relevance_score":"0.036365",
-        "ticker_sentiment_score":"0.064449",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"6 South Dakota teens plead not guilty to rape at baseball tournament",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/us\/mitchell-legion-baseball-rape-plea\/index.html",
-    "time_published":1696694640000,
-    "authors":[
-      "Sara Smart",
-      "Zoe Sottile"
-    ],
-    "summary":"Six South Dakota teenagers have pleaded not guilty to charges of rape and aiding and abetting rape, crimes that allegedly occurred during a June baseball tournament in Rapid City. The teens are \"associated with the Mitchell Legion Baseball Program,\" according to a news release from the Pennington ...",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231007111031-01-mitchell-baseball-map.jpg?c=16x9&q=w_800,c_fill",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.287912,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.163909",
+        "ticker_sentiment_score":"0.152043",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
       {
-        "ticker":"WBD",
-        "relevance_score":"0.203215",
-        "ticker_sentiment_score":"-0.132521",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.082393",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.082393",
+        "ticker_sentiment_score":"-0.068743",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.041251",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Rep. Hern Rules Out House Speaker Bid, Leaving Two-Way Scalise-Jordan Battle",
-    "url":"https:\/\/www.forbes.com\/sites\/brianbushard\/2023\/10\/07\/rep-hern-rules-out-house-speaker-bid-leaving-two-way-scalise-jordan-battle\/",
-    "time_published":1696694267000,
+    "title":"SBF denies stealing FTX assets, SEC charges Gemini and Genesis, and more: Hodler's Digest: Jan. 8-14",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sbf-denies-stealing-ftx-sec-charges-gemini-genesis-hodlers-digest-jan-8-14\/",
+    "time_published":1673730971000,
     "authors":[
-      "Brian Bushard"
+      "Editorial Staff"
     ],
-    "summary":"Rep. Kevin Hern (R-Okla.) was initially slated to participate in a now-canceled Fox News speaker debate, though he decided against it on Friday.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65217e6d80d7ba036efd9a6f\/0x0.jpg?format=jpg&crop=3265,1836,x0,y82,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
+    "summary":"In a \"pre-mortem overview\" of FTX's bankruptcy, Sam Bankman-Fried denied allegations of improper use of customer funds stored with the crypto exchange, attributing responsibility for the company's dramatic fall to the market crash of 2022 and Binance CEO Changpeng Zhao's PR campaign against FTX. ...",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.158519"
+      },
       {
         "topic":"Economy - Fiscal",
         "relevance_score":"0.158519"
       },
       {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.132365,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOX",
-        "relevance_score":"0.093289",
-        "ticker_sentiment_score":"-0.101303",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Here's Why Trump's Team Appears Worried About RFK Jr.'s Presidential Bid",
-    "url":"https:\/\/www.forbes.com\/sites\/antoniopequenoiv\/2023\/10\/07\/heres-why-trumps-team-appears-worried-about-rfk-jrs-presidential-bid\/",
-    "time_published":1696694212000,
-    "authors":[
-      "Antonio Peque\u00f1o IV"
-    ],
-    "summary":"Kennedy teased an independent run at a rally Thursday night, telling supporters he would reveal whether he's running on an independent campaign by Monday.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65217f7fde789ca3476275f9\/0x0.jpg?format=jpg&crop=1834,1031,x0,y94,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.079399,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"FOX",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"0.049862",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.072655",
-        "ticker_sentiment_score":"0.175507",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Littering outer space: Dish Network is the first company to be fined for failing to de-orbit a dead satellite",
-    "url":"https:\/\/www.marketwatch.com\/story\/dish-network-is-the-first-company-to-be-fined-for-littering-in-outer-space-50cc4f64",
-    "time_published":1696693500000,
-    "authors":[
-      "Ciara Linnane"
-    ],
-    "summary":"The Federal Communications Commission is fining Dish $150,000 for failing to properly de-orbit its EchoStar-7 satellite.",
-    "banner_image":"https:\/\/images.mktw.net\/im-861963?width=700&height=538",
-    "source":"MarketWatch",
-    "category_within_source":"Top Stories",
-    "source_domain":"www.marketwatch.com",
-    "topics":[
-      {
-        "topic":"Mergers & Acquisitions",
-        "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.1334,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"DISH",
-        "relevance_score":"0.343279",
-        "ticker_sentiment_score":"0.128313",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"SATS",
-        "relevance_score":"0.495015",
-        "ticker_sentiment_score":"0.212568",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Bonucci Goal Not Enough As Dortmund Beat Union",
-    "url":"https:\/\/www.barrons.com\/news\/bonucci-goal-not-enough-as-dortmund-beat-union-8085c7f3",
-    "time_published":1696693140000,
-    "authors":[
-      "Kit HOLDEN"
-    ],
-    "summary":"Borussia Dortmund came from behind to beat Union Berlin 4-2 and remain unbeaten in the Bundesliga on Saturday, despite Leonardo Bonucci scoring his first goal for the capital club. Italian veteran Bonucci put Union ahead from the penalty spot in a dramatic first-half, but Dortmund battled back to ...",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1110666659405445926644249847485186318542---2.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.163537,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"BORUF",
-        "relevance_score":"0.069294",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"President Biden told Netanyahu that US stands by Israel, the prime minister's office says",
-    "url":"https:\/\/edition.cnn.com\/middleeast\/live-news\/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk\/h_74ffae26a29e055a796f3832c3b4e152",
-    "time_published":1696692802000,
-    "authors":[
-      "<a href=\"\/profiles\/aditi-sandal\">Aditi Sangal<\/a> and <a href=\"\/profiles\/matt-meyer\">Matt Meyer<\/a>",
-      "CNN",
-      "By <a href=\"\/profiles\/andrew-raine\">Andrew Raine<\/a>",
-      "Joshua Berlinger",
-      "Chris Lau"
-    ],
-    "summary":"President Biden told Netanyahu that US stands by Israel, the prime minister's office says US President Joe Biden and Israel Prime Minister Benjamin Netanyahu have spoken on Saturday, according to officials familiar with the matter.",
-    "banner_image":"https:\/\/dynaimage.cdn.cnn.com\/cnn\/digital-images\/org\/ab7f3aaf-f81b-4af7-8c1b-dfd7565224ac.jpeg",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"edition.cnn.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":-0.186456,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.045224",
-        "ticker_sentiment_score":"0.018999",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GETY",
-        "relevance_score":"0.090304",
-        "ticker_sentiment_score":"-0.11021",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"International 7-Day News Agenda",
-    "url":"https:\/\/www.barrons.com\/news\/international-7-day-news-agenda-c24840f2",
-    "time_published":1696692720000,
-    "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Please note that all times are in GMT. Major events are listed under 'Highlights'. For full details of our coverage of top stories, please see our regularly updated News Advisory. ( * ) : Event updated in the last 24 hours.",
-    "banner_image":"https:\/\/asset.barrons.com\/barrons\/images\/afp-metadata-default.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
-      {
-        "topic":"Economy - Monetary",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.126244,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.042876",
-        "ticker_sentiment_score":"0.0",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"EADSF",
-        "relevance_score":"0.042876",
-        "ticker_sentiment_score":"-0.23118",
-        "ticker_sentiment_label":"Somewhat-Bearish"
-      }
-    ]
-  },
-  {
-    "title":"Is It Too Late to Buy Apple Stock?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/is-it-too-late-to-buy-apple-stock\/",
-    "time_published":1696692600000,
-    "authors":[
-      "Dani Cook"
-    ],
-    "summary":"Apple has fallen victim to a recent sell-off, but its long-term potential suggests it's time to buy.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
         "topic":"Financial Markets",
-        "relevance_score":"0.266143"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.796627"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
+        "relevance_score":"0.918141"
       },
       {
         "topic":"Finance",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.258262,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"GS",
-        "relevance_score":"0.05833",
-        "ticker_sentiment_score":"0.062162",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"MSFT",
-        "relevance_score":"0.05833",
-        "ticker_sentiment_score":"0.043034",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.658507",
-        "ticker_sentiment_score":"0.382352",
-        "ticker_sentiment_label":"Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Over 100 decaying bodies found at Colorado funeral home, launching criminal investigation",
-    "url":"https:\/\/theweek.com\/crime\/over-100-decaying-bodies-found-at-colorado-funeral-home-launching-criminal-investigation",
-    "time_published":1696691865000,
-    "authors":[
-      "Justin Klawans"
-    ],
-    "summary":"A free daily digest of the biggest news stories of the day - and the best features from our website Thank you for signing up to TheWeek. You will receive a verification email shortly. There was a problem. Please refresh the page and try again.",
-    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/vjiHtaKq77zYL68ATDXFRU-415-80.jpg",
-    "source":"The Week News",
-    "category_within_source":"n\/a",
-    "source_domain":"theweek.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":-0.185086,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"FRNWF",
-        "relevance_score":"0.048327",
-        "ticker_sentiment_score":"0.058269",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Could AMC Be The Big Winner From The Taylor Swift-Travis Kelce Romance? Free Promotion During NFL Games Could Help. - AMC Enter Hldgs  ( NYSE:AMC ) ",
-    "url":"https:\/\/www.benzinga.com\/general\/entertainment\/23\/10\/35131705\/could-amc-be-the-big-winner-from-the-taylor-swift-travis-kelce-romance-free-promotion-durin",
-    "time_published":1696691831000,
-    "authors":[
-      "Chris Katje"
-    ],
-    "summary":"National Football League games continue to see strong viewership from fans and sports bettors in a world that has shifted away from viewing live content. With the demand for sports content, media companies can benefit from strong advertising rates - something that AMC Entertainment Holdings AMC, ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/taylor_swift.jpg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"General",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.108179"
-      },
-      {
-        "topic":"Technology",
         "relevance_score":"1.0"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
+        "topic":"Blockchain",
+        "relevance_score":"0.990678"
       }
     ],
-    "overall_sentiment_score":0.256668,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":-0.069917,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"CCZ",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.149985",
+        "ticker":"TRMNF",
+        "relevance_score":"0.040078",
+        "ticker_sentiment_score":"-0.075451",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"PARA",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"COIN",
+        "relevance_score":"0.080055",
+        "ticker_sentiment_score":"0.007249",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"FOX",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.274981",
+        "ticker_sentiment_score":"0.092139",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"AMC",
-        "relevance_score":"0.529185",
-        "ticker_sentiment_score":"0.429791",
-        "ticker_sentiment_label":"Bullish"
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.11983",
+        "ticker_sentiment_score":"0.032657",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"DIS",
-        "relevance_score":"0.05749",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.080055",
+        "ticker_sentiment_score":"-0.066225",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"3 reasons why Ethereum price can't break $2K",
-    "url":"https:\/\/cointelegraph.com\/news\/ethereum-price-cant-break-2k-analysis",
-    "time_published":1696691456000,
+    "title":"Total crypto market cap closes in on $1T right as Bitcoin price moves toward $20K",
+    "url":"https:\/\/cointelegraph.com\/news\/total-crypto-market-cap-closes-in-on-1t-right-as-bitcoin-price-moves-toward-20k",
+    "time_published":1673649000000,
     "authors":[
-      "Yashu Gola"
+
     ],
-    "summary":"A bearish Ethereum fractal meets lower network activity as Ether's price struggles to break above $2,000.",
-    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/cef33c97-1a0c-494d-b391-2a28bd16ffc9.png",
+    "summary":"Crypto traders chase after neutral-to-bullish options as Bitcoin price targets $20,000 and the total crypto market cap surges above $900 billion.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2023-01\/fcee098d-5703-4b72-ba35-e09adff8ee11.png",
     "source":"Cointelegraph",
     "category_within_source":"n\/a",
     "source_domain":"cointelegraph.com",
     "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.576289"
+      },
       {
         "topic":"Financial Markets",
         "relevance_score":"0.360215"
@@ -1089,236 +1516,513 @@
       },
       {
         "topic":"Blockchain",
-        "relevance_score":"0.310843"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.928139"
       }
     ],
-    "overall_sentiment_score":-0.23805,
-    "overall_sentiment_label":"Somewhat-Bearish",
+    "overall_sentiment_score":0.136842,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"JPM",
-        "relevance_score":"0.078611",
-        "ticker_sentiment_score":"-0.103501",
+        "ticker":"TRMNF",
+        "relevance_score":"0.046724",
+        "ticker_sentiment_score":"-0.095717",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"FOREX:USD",
-        "relevance_score":"0.306963",
-        "ticker_sentiment_score":"-0.216718",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "ticker":"COIN",
+        "relevance_score":"0.046724",
+        "ticker_sentiment_score":"-0.095717",
+        "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.378285",
-        "ticker_sentiment_score":"0.025967",
+        "relevance_score":"0.185306",
+        "ticker_sentiment_score":"0.042623",
         "ticker_sentiment_label":"Neutral"
       },
       {
         "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.906581",
-        "ticker_sentiment_score":"-0.284438",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "relevance_score":"0.093289",
+        "ticker_sentiment_score":"0.136425",
+        "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CRYPTO:UNI",
-        "relevance_score":"0.078611",
-        "ticker_sentiment_score":"-0.007258",
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.046724",
+        "ticker_sentiment_score":"0.062216",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Fed's Bowman says it will likely be appropriate to raise rates again",
-    "url":"https:\/\/www.reuters.com\/markets\/rates-bonds\/feds-bowman-says-it-will-likely-be-appropriate-raise-rates-again-2023-10-07\/",
-    "time_published":1696690980000,
+    "title":"Top five crypto winners  ( and losers )  of 2022",
+    "url":"https:\/\/cointelegraph.com\/news\/top-five-crypto-winners-and-losers-of-2022",
+    "time_published":1672130409000,
     "authors":[
-      "Reuters"
+
     ],
-    "summary":"U.S. Federal Reserve Governor Michelle Bowman gives her first public remarks as a Fed policymaker at an American Bankers Association conference in San Diego, California, U.S., February 11 2019. REUTERS\/Ann Saphir\/File Photo Acquire Licensing Rights",
-    "banner_image":"https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/IGL6QNQTW5OLRJSY5ZOXF6Y22U.jpg",
-    "source":"Reuters",
-    "category_within_source":"Markets",
-    "source_domain":"www.reuters.com",
+    "summary":"Bitcoin and Ethereum are not part of the surprising list of five best and worst-performing cryptocurrencies for 2022.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-12\/10bea74b-f16f-4ea3-b500-e81c0bc99544.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
-        "relevance_score":"0.972193"
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.990678"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
       }
     ],
-    "overall_sentiment_score":0.046129,
+    "overall_sentiment_score":-0.026907,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
-
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.107016",
+        "ticker_sentiment_score":"-0.038328",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AVAX",
+        "relevance_score":"0.035768",
+        "ticker_sentiment_score":"-0.231532",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTT",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.240072",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:MANA",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.240072",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:FTT",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.294878",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.17741",
+        "ticker_sentiment_score":"0.03423",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UST",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.230949",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.103745",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ALGO",
+        "relevance_score":"0.071463",
+        "ticker_sentiment_score":"-0.240072",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
     ]
   },
   {
-    "title":"Tesla, Apple, Microsoft And Man's 2021 Shiba Inu Stake Now Worth $3.3M If Kept: Bulls And Bears - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",
-    "url":"https:\/\/www.benzinga.com\/news\/large-cap\/23\/10\/35133030\/benzinga-bulls-and-bears-tesla-apple-microsoft-and-mans-2021-shiba-inu-stake-now-worth-3-3m-if-kep",
-    "time_published":1696690806000,
+    "title":"This DeFi Token Soars 102% In 2022 Even As Bitcoin, Ethereum, Dogecoin Miss Out On Market Gains - AXS  ( AXS\/USD ) , Bitcoin  ( BTC\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/12\/30197355\/this-defi-token-soars-102-in-2022-even-as-bitcoin-ethereum-dogecoin-miss-out-on-market-gai",
+    "time_published":1672079995000,
     "authors":[
-      "Michael Cohen"
+      "Mehab Qureshi"
     ],
-    "summary":"Benzinga examined the prospects for many investors' favorite stocks over the last week - here's a look at some of our top stories. Over the past week, the S&P 500 experienced a 0.5% gain, the Dow dipped by 0.3%, while the Nasdaq enjoyed a 1.6% rise.",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/06\/bulls_bears5.jpg?width=1200&height=800&fit=crop",
+    "summary":"As 2022 draws to a close, it is clear that decentralized crypto exchange's native token GMX GMX\/USD is the biggest gainer, surging over 102% and trading at $45, as per Benzinga Pro data.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/12\/26\/crypto_photo_by_chinnapong_on_shutterstock.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.114964,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.242084",
+        "ticker_sentiment_score":"0.047572",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.08183",
+        "ticker_sentiment_score":"-0.17681",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"0.251212",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:UST",
+        "relevance_score":"0.242084",
+        "ticker_sentiment_score":"-0.165124",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.318897",
+        "ticker_sentiment_score":"-0.126421",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:FIL",
+        "relevance_score":"0.162802",
+        "ticker_sentiment_score":"0.005496",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.242084",
+        "ticker_sentiment_score":"0.047572",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Toncoin  ( TON )  Rallies 34% In A Week, Even As Bitcoin, Ethereum And Dogecoin Tumble - Bitcoin  ( BTC\/USD ) , Ethereum  ( ETH\/USD ) , Dogecoin  ( DOGE\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/12\/30122674\/layer-1-crypto-rallies-34-in-a-week-even-as-bitcoin-ethereum-and-dogecoin-tumble",
+    "time_published":1671462224000,
+    "authors":[
+      "Mehab Qureshi"
+    ],
+    "summary":"Toncoin TON\/USD has rallied over 34% in the past seven days, trading at $2.69, recorded on Monday at 12 a.m. EST. What Happened: Apex cryptocurrency Bitcoin BTC\/USD lost 1.20% over the past seven days, falling below the $17,000 mark, while Ethereum ETH\/USD shed 5.02% and Dogecoin DOGE\/USD ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/12\/19\/shutterstock_2074436608.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
     "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Economy - Monetary",
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":-0.094332,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.170878",
+        "ticker_sentiment_score":"0.121354",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.612033",
+        "ticker_sentiment_score":"-0.397385",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.48268",
+        "ticker_sentiment_score":"-0.615508",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.48268",
+        "ticker_sentiment_score":"-0.615508",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BSV",
+        "relevance_score":"0.334008",
+        "ticker_sentiment_score":"0.180894",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.334008",
+        "ticker_sentiment_score":"0.180894",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Ethereum Falls Below This Key Level; Dogecoin Becomes Top Gainer - Bitcoin  ( BTC\/USD ) , Dash  ( DASH\/USD ) ",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/11\/29858382\/ethereum-falls-below-this-key-level-dogecoin-becomes-top-gainer",
+    "time_published":1669388044000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Prices for Bitcoin BTC\/USD, the most valued cryptocurrency in the world, remained stable above the $16,000 level on Friday. Ethereum ETH\/USD traded slightly lower, falling below the key $1,200 level. Dogecoin DOGE\/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO\/USD turned ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/11\/25\/image-cryptocurrency.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
         "relevance_score":"0.158519"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.459462"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Finance",
-        "relevance_score":"0.333333"
-      },
-      {
-        "topic":"Economy - Macro",
-        "relevance_score":"0.158519"
+        "relevance_score":"0.108179"
       }
     ],
-    "overall_sentiment_score":0.038932,
-    "overall_sentiment_label":"Neutral",
+    "overall_sentiment_score":-0.199499,
+    "overall_sentiment_label":"Somewhat-Bearish",
     "ticker_sentiment":[
       {
-        "ticker":"MSFT",
-        "relevance_score":"0.193207",
-        "ticker_sentiment_score":"-0.140055",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.108969",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AAPL",
-        "relevance_score":"0.316439",
-        "ticker_sentiment_score":"0.011905",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"TSLA",
-        "relevance_score":"0.255641",
-        "ticker_sentiment_score":"0.055855",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"RIVN",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.092584",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"COIN",
-        "relevance_score":"0.064973",
-        "ticker_sentiment_score":"0.0283",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"DIS",
-        "relevance_score":"0.129516",
-        "ticker_sentiment_score":"-0.189807",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"-0.326927",
         "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "ticker":"CRYPTO:SHIB",
-        "relevance_score":"0.193207",
-        "ticker_sentiment_score":"-0.102341",
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.733479",
+        "ticker_sentiment_score":"-0.749396",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.541149",
+        "ticker_sentiment_score":"-0.219601",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.541149",
+        "ticker_sentiment_score":"-0.219601",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"FTX ex-exec floats 'cool token' idea amid warning rebound may take years",
+    "url":"https:\/\/cointelegraph.com\/news\/ftx-ex-exec-floats-cool-token-idea-amid-warning-rebound-may-take-years",
+    "time_published":1668175207000,
+    "authors":[
+
+    ],
+    "summary":"Zane Tackett suggests alternatives to \"boomer procedures\" when it comes to FTX bankruptcy.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-11\/c1acc6de-70f1-4bdd-b19a-c969ffa520ca.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.150894,
+    "overall_sentiment_label":"Somewhat-Bearish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.440549",
+        "ticker_sentiment_score":"-0.31401",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.092927",
+        "ticker_sentiment_score":"-0.094927",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Why now may be the time to own corporate bonds",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/bullish-case-for-corporate-bonds-over-treasurys-tied-to-rising-rates.html",
-    "time_published":1696690801000,
+    "title":"FTX partners with Visa, BNB Chain suffers exploit and Elon Musk returns to $44B Twitter deal: Hodler's Digest, Oct. 2-8",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/10\/08\/ftx-partners-visa-bnb-chain-suffers-exploit-elon-musk-returns-44b-twitter-deal-hodlers-digest-oct-2-8",
+    "time_published":1665286487000,
     "authors":[
-      "Meredith Mutter"
+
     ],
-    "summary":"\"Some of the corporates got higher quality than the U.S. government [bonds] right now,\" JPMorgan's Bryon Lake told CNBC's \"ETF Edge\" this week.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107310272-ETF-Seg2-100223_mezz.jpg?v=1696277872&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Finance",
-    "source_domain":"www.cnbc.com",
+    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/10\/Digest_08-10_1-1024x682.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.495866"
+      },
+      {
+        "topic":"Manufacturing",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      }
+    ],
+    "overall_sentiment_score":0.10298,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"TSLA",
+        "relevance_score":"0.040416",
+        "ticker_sentiment_score":"-0.091864",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.200024",
+        "ticker_sentiment_score":"-0.084152",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.160633",
+        "ticker_sentiment_score":"0.136409",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:EGLD",
+        "relevance_score":"0.080728",
+        "ticker_sentiment_score":"0.066093",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.080728",
+        "ticker_sentiment_score":"-0.066326",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":" ( CEL\/USD ) , Bitcoin  ( BTC\/USD )  - Ethereum Records Gains; Here Are The Top Crypto Movers For Thursday",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/09\/28876355\/ethereum-records-gains-here-are-the-top-crypto-movers-for-thursday",
+    "time_published":1663227964000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD, the world's most valued cryptocurrency, remained steady above the $20,000 level this morning. The second-most valued cryptocurrency, Ethereum ETH\/USD, meanwhile, traded higher following news that Ethereum has now officially transitioned to a proof-of-stake network.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/09\/15\/image-ethereum_0.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Trading",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.151234,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"ADBE",
+        "relevance_score":"0.391923",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"BOWL",
+        "relevance_score":"0.391923",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.558244",
+        "ticker_sentiment_score":"0.342162",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.694939",
+        "ticker_sentiment_score":"0.230187",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.202366",
+        "ticker_sentiment_score":"0.259434",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.391923",
+        "ticker_sentiment_score":"0.757139",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.202366",
+        "ticker_sentiment_score":"0.259434",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Saylor gets sued, FBI warns about DeFi exploits, and Crypto.com drops $495M sponsorship: Hodler's Digest, Aug. 28 - Sept. 3",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/09\/10\/binance-removes-3-stablecoins-russia-eyes-cross-border-crypto-payments-and-uk-exudes-crypto-positivity-hodlers-digest-sept-4-10",
+    "time_published":1662841849000,
+    "authors":[
+
+    ],
+    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/09\/SEPT-4-10.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
         "topic":"Economy - Monetary",
         "relevance_score":"0.576289"
       },
       {
-        "topic":"Financial Markets",
-        "relevance_score":"0.947132"
-      }
-    ],
-    "overall_sentiment_score":0.254363,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Keep a 'pain journal' to track how much 'you've learned and grown', says Harvard happiness expert",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/how-keeping-a-pain-journal-can-improve-your-overall-happiness.html",
-    "time_published":1696690801000,
-    "authors":[
-      "Ren\u00e9e Onque"
-    ],
-    "summary":"We often hear about how gratitude journals are a great way to track what we're grateful for, but \"pain journals\" may lead us to happiness, too.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107283421-Van-Leeuwen-still-01.png?v=1695153102&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Manufacturing",
+        "topic":"Retail & Wholesale",
         "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.351538,
-    "overall_sentiment_label":"Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"NYT",
-        "relevance_score":"0.108466",
-        "ticker_sentiment_score":"0.189553",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"The Big Challenge Holding Back FuboTV Stock From Being a Screaming Buy",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/the-big-challenge-holding-back-fubotv-stock-from-b\/",
-    "time_published":1696690800000,
-    "authors":[
-      "Adam Levy"
-    ],
-    "summary":"As FuboTV pushes toward positive free cash flow, the rest of the industry is pushing back.",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"IPO",
-        "relevance_score":"0.158519"
       },
       {
         "topic":"Financial Markets",
@@ -1326,411 +2030,248 @@
       },
       {
         "topic":"Earnings",
+        "relevance_score":"0.360215"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.983605"
+      }
+    ],
+    "overall_sentiment_score":0.057728,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"SBUX",
+        "relevance_score":"0.030446",
+        "ticker_sentiment_score":"-0.052747",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"GME",
+        "relevance_score":"0.091162",
+        "ticker_sentiment_score":"0.077855",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.239895",
+        "ticker_sentiment_score":"-0.06812",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:TUSD",
+        "relevance_score":"0.091162",
+        "ticker_sentiment_score":"0.011441",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.060848",
+        "ticker_sentiment_score":"-0.053142",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.030446",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.091162",
+        "ticker_sentiment_score":"-0.019877",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.030446",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BUSD",
+        "relevance_score":"0.121343",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin  ( $BTC ) , Celsius  ( $CEL )  - Bitcoin Remains Above $20,000 Level; Here Are The Top Crypto Movers For Friday",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/09\/28730036\/bitcoin-remains-above-20-000-level-here-are-the-top-crypto-movers-for-friday",
+    "time_published":1662101757000,
+    "authors":[
+      "Lisa Levin"
+    ],
+    "summary":"Bitcoin BTC\/USD, the world's most-valued cryptocurrency, managed to remain above the $20,000 level this morning on Friday. The second-most valued cryptocurrency, Ethereum ETH\/USD, meanwhile, traded higher, inching toward the $1,600 mark.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/09\/02\/image-bitcoin5.jpg?width=1200&height=800&fit=crop",
+    "source":"Benzinga",
+    "category_within_source":"Markets",
+    "source_domain":"www.benzinga.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
         "relevance_score":"0.108179"
       },
       {
+        "topic":"Earnings",
+        "relevance_score":"0.158519"
+      },
+      {
         "topic":"Technology",
         "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
       }
     ],
-    "overall_sentiment_score":0.105349,
+    "overall_sentiment_score":0.082566,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"FUBO",
-        "relevance_score":"0.288893",
-        "ticker_sentiment_score":"0.167647",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.343279",
-        "ticker_sentiment_score":"0.069313",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Tesla Persists With Price Cuts After Underwhelming Q3 Sales, Rivian's $1.5B Debt Offering Sinks Stock, Lucid's Gamble With Cheaper Trim And More: Biggest EV Stories Of The Week - XPeng  ( NYSE:XPEV ) , VinFast Auto  ( NASDAQ:VFS ) , Fisker  ( NYSE:FSR ) , Ford Motor  ( NYSE:F ) ",
-    "url":"https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/23\/10\/35136499\/tesla-persists-with-price-cuts-after-underwhelming-q3-sales-rivians-1-5b-debt-offer",
-    "time_published":1696690592000,
-    "authors":[
-      "Shanthi Rexaline"
-    ],
-    "summary":"Electric vehicle stocks closed the week that ended on Oct. 6 on a down note, although market leader Tesla, Inc. TSLA managed to post a weekly advance despite reporting underwhelming third-quarter deliveries. The sector-wide weakness came amid the broader market volatility and some ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/Riga,,Lv,-,Aug,27,,2019:,Tesla,Logo,At,The.jpeg?width=1200&height=800&fit=crop",
-    "source":"Benzinga",
-    "category_within_source":"News",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.858979"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.495866"
-      },
-      {
-        "topic":"Real Estate & Construction",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":-0.016767,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"LCID",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"0.238799",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"RIVN",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"0.022356",
+        "ticker":"GB",
+        "relevance_score":"0.421485",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"TSLA",
-        "relevance_score":"0.353898",
-        "ticker_sentiment_score":"-0.221888",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.197538",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.595343",
+        "ticker_sentiment_score":"0.363662",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.421485",
+        "ticker_sentiment_score":"0.437869",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.421485",
+        "ticker_sentiment_score":"-0.188631",
         "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "ticker":"FFIE",
-        "relevance_score":"0.12165",
-        "ticker_sentiment_score":"0.23228",
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.218817",
+        "ticker_sentiment_score":"0.274922",
         "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"F",
-        "relevance_score":"0.12165",
-        "ticker_sentiment_score":"-0.087578",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GM",
-        "relevance_score":"0.181591",
-        "ticker_sentiment_score":"-0.110764",
-        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"The arrest in Tupac Shakur's murder leaves many wondering: What about Biggie?",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/entertainment\/biggie-tupac-deaths\/index.html",
-    "time_published":1696689840000,
+    "title":"BlockFi shows top growth among U.S. companies, the U.K. posts over 10% inflation and BitGo plans to bring a lawsuit against Galaxy Digital.",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/08\/20\/blockfi-tops-revenue-grower-list-with-250000-increase-bitgo-aims-sue-galaxy-digital-bitcoins-price-drops-hodlers-digest-aug-14-20",
+    "time_published":1660999803000,
     "authors":[
-      "Lisa Respers France"
-    ],
-    "summary":"In the 50-year history of hip-hop, there have never been two stars whose lives - and deaths - have been more examined than Tupac Shakur and Christopher Wallace, the rapper known professionally as the Notorious B.I.G. or Biggie Smalls.",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/120309032304-notorious-b-i-g-1995.jpg?q=x_352,y_185,h_1894,w_3368,c_crop\/h_720,w_1280",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
 
     ],
-    "overall_sentiment_score":-0.058347,
+    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/08\/AUG-20.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.890401"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.977154"
+      },
+      {
+        "topic":"Earnings",
+        "relevance_score":"0.77141"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.928139"
+      }
+    ],
+    "overall_sentiment_score":0.0626,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"WBD",
-        "relevance_score":"0.172097",
-        "ticker_sentiment_score":"-0.229029",
-        "ticker_sentiment_label":"Somewhat-Bearish"
+        "ticker":"BRPHF",
+        "relevance_score":"0.03014",
+        "ticker_sentiment_score":"-0.016421",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.03014",
+        "ticker_sentiment_score":"-0.004799",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.060236",
+        "ticker_sentiment_score":"0.070454",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.090247",
+        "ticker_sentiment_score":"-0.064619",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.12013",
+        "ticker_sentiment_score":"0.020488",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.060236",
+        "ticker_sentiment_score":"0.059999",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.060236",
+        "ticker_sentiment_score":"0.01208",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DRGN",
+        "relevance_score":"0.060236",
+        "ticker_sentiment_score":"0.033211",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.060236",
+        "ticker_sentiment_score":"0.059999",
+        "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Realiste Redefines Real Estate Engagement With Cutting-edge AI, Says Alex Galt",
-    "url":"https:\/\/www.benzinga.com\/news\/23\/10\/35135741\/realiste-redefines-real-estate-engagement-with-cutting-edge-ai-says-alex-galt",
-    "time_published":1696689716000,
+    "title":"Bitcoin Jumps Above $24,000 Again, Here Are Other Crypto Movers That Should Be On Your Radar Today",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/08\/28448113\/bitcoin-jumps-above-24-000-again-here-are-other-crypto-movers-that-should-be-on-your-radar",
+    "time_published":1660199748000,
     "authors":[
-      "Bibhu Pattnaik"
+      "Lisa Levin"
     ],
-    "summary":"Realiste, a prop-tech AI firm specializing in real estate solutions, has recently expanded to major European cities, now operating in 61 cities worldwide. With its user-friendly platform, you can explore apartment listings, compare prices globally and access accurate property forecasts - all ...",
-    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/10\/07\/screenshot_2023-10-04_at_12.08.16_pm.png?width=1200&height=800&fit=crop",
+    "summary":"Bitcoin BTC\/USD, the world's oldest cryptocurrency, managed to surpass the $24,000 level again after recording losses over the previous few session. The second-most valued cryptocurrency, Ethereum ETH\/USD, also rose sharply, inching toward the $1,900 mark this morning.",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/08\/11\/image-bitcoin5.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
-    "category_within_source":"News",
+    "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.413559"
-      }
-    ],
-    "overall_sentiment_score":0.294474,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Beyonc\u00e9 and Taylor Swift understand the power of concert films",
-    "url":"https:\/\/www.cnn.com\/2023\/10\/07\/entertainment\/taylor-swift-beyonce-movies-plc\/index.html",
-    "time_published":1696689240000,
-    "authors":[
-      "Lisa Respers France"
-    ],
-    "summary":"There is more than enough room at the top for In a move that should shock no one, this is the second consecutive newsletter to address Swift or a Swift-adjacent phenomenon in entertainment, but today we're talking about another queen, too.",
-    "banner_image":"https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/231003121234-05-pop-life-chronicles-1003.jpg?c=16x9&q=h_720,w_1280,c_fill",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"www.cnn.com",
-    "topics":[
-      {
-        "topic":"Technology",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.126161,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.054607",
-        "ticker_sentiment_score":"0.029992",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Should you still push kids to get a degree? Yes, experts say: 'There's not a better substitute for college'",
-    "url":"https:\/\/www.cnbc.com\/2023\/10\/07\/is-college-still-worth-it-how-to-discuss-the-question-with-your-kids.html",
-    "time_published":1696689001000,
-    "authors":[
-      "Kamaron McNair"
-    ],
-    "summary":"Even given higher costs, \"college provides just an unbelievable opportunity,\" experts say. Here's how to talk through the higher ed decision with your kids.",
-    "banner_image":"https:\/\/image.cnbcfm.com\/api\/v1\/image\/107235186-MM_Thumb-_Gabby_Carter-_For_website.jpg?v=1683377112&w=750&h=422&vtcrop=y",
-    "source":"CNBC",
-    "category_within_source":"Top News",
-    "source_domain":"www.cnbc.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.161647"
-      }
-    ],
-    "overall_sentiment_score":0.19086,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-
-    ]
-  },
-  {
-    "title":"Broadcom Is Becoming a Software Stock, Too -- Is It a Top Long-Term Buy?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/broadcom-is-becoming-a-software-stock-too-is-it-a\/",
-    "time_published":1696689000000,
-    "authors":[
-      "Nicholas Rossolillo"
-    ],
-    "summary":"Broadcom's pending acquisition of VMware will establish it as one of the world's largest enterprise software companies.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/9ff63e177a5a7951ddb96e7ec634b3c5.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      },
-      {
-        "topic":"Manufacturing",
-        "relevance_score":"0.5"
-      },
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.684621"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
-      }
-    ],
-    "overall_sentiment_score":0.105655,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"NFLX",
-        "relevance_score":"0.077845",
-        "ticker_sentiment_score":"0.053641",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"GOOG",
-        "relevance_score":"0.154951",
-        "ticker_sentiment_score":"0.128471",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"VMW",
-        "relevance_score":"0.442339",
-        "ticker_sentiment_score":"0.0968",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AVGO",
-        "relevance_score":"0.903334",
-        "ticker_sentiment_score":"0.185992",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRWD",
-        "relevance_score":"0.077845",
-        "ticker_sentiment_score":"0.084079",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"The 3 Best Energy Stocks to Own When  ( Not If )  Energy Prices Fall Again",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/the-3-best-energy-stocks-to-own-when-not-if-energy\/",
-    "time_published":1696689000000,
-    "authors":[
-      "and Reuben Gregg Brewer",
-      "Neha Chamaria",
-      "Matthew DiLallo"
-    ],
-    "summary":"These energy companies built their businesses to thrive in any market condition.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/d4afb9a966396bb6d913c414a09f0287.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
-    "topics":[
-      {
-        "topic":"Earnings",
-        "relevance_score":"0.838487"
-      },
-      {
-        "topic":"Energy & Transportation",
-        "relevance_score":"1.0"
-      },
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.365926"
-      }
-    ],
-    "overall_sentiment_score":0.253207,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"ENB",
-        "relevance_score":"0.309169",
-        "ticker_sentiment_score":"0.08059",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRBO",
-        "relevance_score":"0.04531",
-        "ticker_sentiment_score":"0.174795",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CVX",
-        "relevance_score":"0.309169",
-        "ticker_sentiment_score":"0.109755",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"D",
-        "relevance_score":"0.04531",
-        "ticker_sentiment_score":"0.174795",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Popular weight loss drugs linked to higher risk of serious gastrointestinal problems",
-    "url":"https:\/\/theweek.com\/health\/popular-weight-loss-drugs-linked-to-higher-risk-of-serious-gastrointestinal-problems",
-    "time_published":1696688535000,
-    "authors":[
-      "Theara Coleman"
-    ],
-    "summary":"Study shows weight loss drugs have a higher risk of rare, but serious side effects The Week ...",
-    "banner_image":"https:\/\/cdn.mos.cms.futurecdn.net\/x6gkWnBJifA6ENNARAUheR-415-80.jpg",
-    "source":"The Week News",
-    "category_within_source":"n\/a",
-    "source_domain":"theweek.com",
-    "topics":[
-      {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
-      }
-    ],
-    "overall_sentiment_score":0.048409,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"WBD",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"-0.099741",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"FRNWF",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"0.058449",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"AWON",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"-0.032852",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"NVO",
-        "relevance_score":"0.049939",
-        "ticker_sentiment_score":"0.086815",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"FC Barcelona Coach Xavi Defends De Jong, Calls Midfielder 'One Of Best In The World'",
-    "url":"https:\/\/www.forbes.com\/sites\/tomsanderson\/2023\/10\/07\/fc-barcelona-coach-xavi-defends-de-jong-calls-midfielder-one-of-best-in-the-world\/",
-    "time_published":1696688275000,
-    "authors":[
-      "Tom Sanderson"
-    ],
-    "summary":"FC Barcelona head coach Xavi Hernandez has defended Frenkie de Jong by calling the midfielder 'one of the best' players in the world ahead of Sunday's clash with Granada.",
-    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6521657db228264ab8837c50\/0x0.jpg?format=jpg&crop=3137,1766,x0,y6,safe&width=1200",
-    "source":"Forbes",
-    "category_within_source":"Business",
-    "source_domain":"www.forbes.com",
-    "topics":[
-
-    ],
-    "overall_sentiment_score":0.090838,
-    "overall_sentiment_label":"Neutral",
-    "ticker_sentiment":[
-      {
-        "ticker":"MANU",
-        "relevance_score":"0.107016",
-        "ticker_sentiment_score":"0.119405",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"3 Reasons to Buy CVS Health Stock Right Now",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/3-reasons-to-buy-cvs-health-stock-right-now\/",
-    "time_published":1696688100000,
-    "authors":[
-      "Prosper Junior Bakiny"
-    ],
-    "summary":"The stock is looking sick right now, but that won't last forever.",
-    "banner_image":"https:\/\/media.ycharts.com\/charts\/d27168adf0bdb3d6f4fcf27ee281e5cd.png",
-    "source":"Motley Fool",
-    "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
     "topics":[
       {
         "topic":"Retail & Wholesale",
@@ -1738,7 +2279,7 @@
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.87644"
+        "relevance_score":"0.108179"
       },
       {
         "topic":"Manufacturing",
@@ -1747,170 +2288,1040 @@
       {
         "topic":"Earnings",
         "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
       }
     ],
-    "overall_sentiment_score":0.219872,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":0.105029,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"KO",
-        "relevance_score":"0.059194",
-        "ticker_sentiment_score":"0.089225",
+        "ticker":"FLO",
+        "relevance_score":"0.38588",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"CVS",
-        "relevance_score":"0.793187",
-        "ticker_sentiment_score":"0.397807",
+        "ticker":"HBI",
+        "relevance_score":"0.38588",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CAH",
+        "relevance_score":"0.38588",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.550532",
+        "ticker_sentiment_score":"0.127016",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.550532",
+        "ticker_sentiment_score":"0.172599",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.38588",
+        "ticker_sentiment_score":"0.761021",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:SOL",
+        "relevance_score":"0.199037",
+        "ticker_sentiment_score":"0.541176",
+        "ticker_sentiment_label":"Bullish"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.38588",
+        "ticker_sentiment_score":"-0.177634",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.199037",
+        "ticker_sentiment_score":"0.541176",
         "ticker_sentiment_label":"Bullish"
       }
     ]
   },
   {
-    "title":"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Leslie's, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - LESL - Leslies  ( NASDAQ:LESL ) ",
-    "url":"https:\/\/www.benzinga.com\/pressreleases\/23\/10\/g35136427\/rosen-trusted-investor-counsel-encourages-leslies-inc-investors-with-losses-to-secure-counsel-befo",
-    "time_published":1696688100000,
+    "title":"Bitcoin Jumps Further To This Major Level, Here Are The Top Crypto Movers For Friday",
+    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/22\/07\/28261673\/bitcoin-jumps-further-to-this-major-level-here-are-the-top-crypto-movers-for-friday",
+    "time_published":1659084264000,
     "authors":[
-      "Globe Newswire"
+      "Lisa Levin"
     ],
-    "summary":"NEW YORK, Oct. 07, 2023 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Leslie's, Inc. LESL between February 5, 2021 and July 13, 2023, both dates inclusive ( the \"Class Period\" ) , of the important November 7, 2023 lead ...",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+    "summary":"Bitcoin BTC\/USD, the world's oldest cryptocurrency, surged above the $24,000 mark on Friday morning as investors digested the Federal Reserve's rate decision. The global cryptocurrency market capitalization touched the $1.1 trillion level on Friday after the US central bank raised interest rates ...",
+    "banner_image":"https:\/\/cdn.benzinga.com\/files\/images\/story\/2022\/07\/29\/image-bitcoin5.jpg?width=1200&height=800&fit=crop",
     "source":"Benzinga",
-    "category_within_source":"News",
+    "category_within_source":"Trading",
     "source_domain":"www.benzinga.com",
     "topics":[
       {
-        "topic":"Retail & Wholesale",
-        "relevance_score":"0.5"
+        "topic":"Life Sciences",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Energy & Transportation",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.333333"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.576289"
+      },
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.650727"
+        "relevance_score":"0.108179"
       },
       {
         "topic":"Earnings",
         "relevance_score":"0.158519"
-      },
-      {
-        "topic":"Technology",
-        "relevance_score":"0.5"
       }
     ],
-    "overall_sentiment_score":0.128988,
+    "overall_sentiment_score":0.072843,
     "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"LESL",
-        "relevance_score":"0.429671",
-        "ticker_sentiment_score":"0.023704",
+        "ticker":"CHTR",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.0",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"META",
-        "relevance_score":"0.064623",
+        "ticker":"PG",
+        "relevance_score":"0.366061",
         "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"XOM",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"0.108566",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.524949",
+        "ticker_sentiment_score":"0.114915",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.366061",
+        "ticker_sentiment_score":"0.250699",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "title":"Celsius is bankrupt with $1.2B balance sheet hole, Su Zhu returns to Twitter and OpenSea purges 20% of employees: Hodler's Digest, July 10-16",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/07\/16\/celsius-bankrupt-1-2b-balance-sheet-hole-su-zhu-returns-twitter-opensea-purges-employees-hodlers-digest-july-10-16",
+    "time_published":1657990214000,
+    "authors":[
+
+    ],
+    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/07\/jule-10-16.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.99489"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.050826,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"WBD",
+        "relevance_score":"0.03478",
+        "ticker_sentiment_score":"0.013601",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"TCTZF",
+        "relevance_score":"0.03478",
+        "ticker_sentiment_score":"-0.114876",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.069495",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:AAVE",
+        "relevance_score":"0.069495",
+        "ticker_sentiment_score":"0.055179",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BAT",
+        "relevance_score":"0.069495",
+        "ticker_sentiment_score":"-0.064917",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.069495",
+        "ticker_sentiment_score":"-0.064917",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.03478",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.104078",
+        "ticker_sentiment_score":"0.128097",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.069495",
+        "ticker_sentiment_score":"-0.064917",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Live updates: Israel-Gaza conflict erupts into fighting after attack by Palestinian militants",
-    "url":"https:\/\/edition.cnn.com\/middleeast\/live-news\/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk",
-    "time_published":1696687980000,
+    "title":"Price analysis 7\/13: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, SHIB, LEO",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-13-btc-eth-bnb-xrp-ada-sol-doge-dot-shib-leo",
+    "time_published":1657737305000,
     "authors":[
-      "<a href=\"\/profiles\/aditi-sandal\">Aditi Sangal<\/a> and <a href=\"\/profiles\/matt-meyer\">Matt Meyer<\/a>",
-      "Chris Lau",
-      "By <a href=\"\/profiles\/andrew-raine\">Andrew Raine<\/a>",
-      "Joshua Berlinger",
-      "CNN"
-    ],
-    "summary":"Live updates: At least 40 killed in Hamas surprise attack on Israel CNN International ...",
-    "banner_image":"https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/231007001424-rockets-fired-from-gaza-to-israel-super-tease.jpg",
-    "source":"CNN",
-    "category_within_source":"Markets",
-    "source_domain":"edition.cnn.com",
-    "topics":[
 
     ],
-    "overall_sentiment_score":-0.261485,
+    "summary":"Bitcoin price saw a brief pull-back following today's high inflation print, but the rebound seen in BTC and altcoins suggests that buyers are buying the dip.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/26fd1196-1976-473f-a1f4-4b5fab3b98ab.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Economy - Monetary",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.650727"
+      }
+    ],
+    "overall_sentiment_score":-0.065762,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.16153",
+        "ticker_sentiment_score":"0.007132",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.081184",
+        "ticker_sentiment_score":"0.092955",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.081184",
+        "ticker_sentiment_score":"0.002087",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.134892",
+        "ticker_sentiment_score":"0.04864",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.081184",
+        "ticker_sentiment_score":"-0.029143",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.081184",
+        "ticker_sentiment_score":"-0.135669",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin tourists exit the market, Peter Schiff's bank closes down and Voyager to restructure: Hodler's Digest, July 3-9",
+    "url":"https:\/\/cointelegraph.com\/magazine\/2022\/07\/09\/bitcoin-tourists-exit-market-peter-schiffs-bank-closes-down-voyager-restructure-hodlers-digest-july-3-9",
+    "time_published":1657396149000,
+    "authors":[
+
+    ],
+    "summary":"Coming every Saturday, Hodler's Digest will help you track every single important news story that happened this week. The best ( and worst ) quotes, adoption and regulation highlights, leading coins, predictions and much more - a week on Cointelegraph in one link.",
+    "banner_image":"https:\/\/cointelegraph.com\/magazine\/wp-content\/uploads\/2022\/07\/july-3-9.jpg",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Technology",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.838487"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.161647"
+      }
+    ],
+    "overall_sentiment_score":0.031378,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.041323",
+        "ticker_sentiment_score":"-0.086933",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:EUR",
+        "relevance_score":"0.041323",
+        "ticker_sentiment_score":"-0.005957",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.395636",
+        "ticker_sentiment_score":"-0.048978",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:WBTC",
+        "relevance_score":"0.082535",
+        "ticker_sentiment_score":"-0.105192",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.082535",
+        "ticker_sentiment_score":"-0.055999",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.041323",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.164188",
+        "ticker_sentiment_score":"-0.033828",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:KCS",
+        "relevance_score":"0.082535",
+        "ticker_sentiment_score":"-0.055999",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:RUNE",
+        "relevance_score":"0.082535",
+        "ticker_sentiment_score":"0.053007",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"This Week in Coins: Bitcoin and Ethereum Rebound Despite Vauld and Voyager Woes",
+    "url":"https:\/\/decrypt.co\/104778\/this-week-in-coins-bitcoin-and-ethereum-rebound-despite-vauld-and-voyager-woes",
+    "time_published":1657384951000,
+    "authors":[
+      "Decrypt \/ Tim Hakki"
+    ],
+    "summary":"Although the industry appears mired in crypto winter, most top cryptocurrencies posted weekly gains.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1536\/wp-content\/uploads\/2021\/11\/Coins6.2@2x.png.webp",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.818451"
+      }
+    ],
+    "overall_sentiment_score":-0.050116,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.323078",
+        "ticker_sentiment_score":"0.098775",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.555067",
+        "ticker_sentiment_score":"0.053912",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.055364",
+        "ticker_sentiment_score":"0.0",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.055364",
+        "ticker_sentiment_score":"-0.064149",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Price analysis 7\/6: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, SHIB, LEO",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-6-btc-eth-bnb-xrp-ada-sol-doge-dot-shib-leo",
+    "time_published":1657133270000,
+    "authors":[
+
+    ],
+    "summary":"Bitcoin and select altcoins are making an attempt at flipping key resistance levels, but negative news-flow and selling from BTC miners could continue to weigh on market sentiment.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/56653461-b63f-4b52-aaa4-c07e7e41141c.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.961735"
+      }
+    ],
+    "overall_sentiment_score":-0.100504,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.312985",
+        "ticker_sentiment_score":"-0.124681",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"0.019844",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"0.055695",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"-0.019002",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"-0.42737",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"-0.13463",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.080233",
+        "ticker_sentiment_score":"-0.068232",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Price analysis 7\/4: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, LEO, SHIB",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-4-btc-eth-bnb-xrp-ada-sol-doge-dot-leo-shib",
+    "time_published":1656951870000,
+    "authors":[
+
+    ],
+    "summary":"Bitcoin and altcoins have held their immediate support levels, suggesting the start of a relief rally in the short term.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/875488ce-2e6b-411f-b9b4-7362e7895c84.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.929393"
+      }
+    ],
+    "overall_sentiment_score":-0.107049,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"JPM",
+        "relevance_score":"0.027326",
+        "ticker_sentiment_score":"-0.105309",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.13599",
+        "ticker_sentiment_score":"-0.11929",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.108983",
+        "ticker_sentiment_score":"-0.049032",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.002225",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.054569",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.285736",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.030135",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.041644",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.081849",
+        "ticker_sentiment_score":"-0.117603",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"This Week in Coins: Bitcoin and Ethereum Erase Gains, 3AC Files for Bankruptcy",
+    "url":"https:\/\/decrypt.co\/104326\/this-week-in-coins-bitcoin-and-ethereum-erase-gains-3ac-files-for-bankruptcy",
+    "time_published":1656780794000,
+    "authors":[
+      "Decrypt \/ Tim Hakki"
+    ],
+    "summary":"Outflows from Bitcoin-specific funds hit a record-high dollar amount.",
+    "banner_image":"https:\/\/cdn.decrypt.co\/resize\/1536\/wp-content\/uploads\/2021\/11\/Coins6.2@2x.png.webp",
+    "source":"Decrypt.co",
+    "category_within_source":"n\/a",
+    "source_domain":"decrypt.co",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.77141"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.682689"
+      }
+    ],
+    "overall_sentiment_score":-0.139221,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GS",
+        "relevance_score":"0.065079",
+        "ticker_sentiment_score":"-0.062541",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"MSTR",
+        "relevance_score":"0.065079",
+        "ticker_sentiment_score":"-0.317494",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.129725",
+        "ticker_sentiment_score":"-0.062541",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.486398",
+        "ticker_sentiment_score":"-0.175926",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.129725",
+        "ticker_sentiment_score":"0.031449",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.129725",
+        "ticker_sentiment_score":"-0.079539",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.129725",
+        "ticker_sentiment_score":"-0.079539",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
+    "title":"Price analysis 7\/1: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, LEO, SHIB",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-7-1-btc-eth-bnb-xrp-ada-sol-doge-dot-leo-shib",
+    "time_published":1656701411000,
+    "authors":[
+
+    ],
+    "summary":"Traders expect Bitcoin to swoop below its swing low before the price flattens out and altcoins begin to recover.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/94f52aae-815c-4154-bedf-797f6db2b7da.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.158519"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.108179"
+      }
+    ],
+    "overall_sentiment_score":-0.22767,
     "overall_sentiment_label":"Somewhat-Bearish",
     "ticker_sentiment":[
       {
-        "ticker":"WBD",
-        "relevance_score":"0.473208",
-        "ticker_sentiment_score":"-0.237414",
+        "ticker":"JPM",
+        "relevance_score":"0.026996",
+        "ticker_sentiment_score":"-0.328188",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.187255",
+        "ticker_sentiment_score":"-0.208679",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BNB",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.041511",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.378051",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.053961",
+        "ticker_sentiment_score":"-0.35209",
+        "ticker_sentiment_label":"Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.124001",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.139467",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.214651",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:USDT",
+        "relevance_score":"0.213399",
+        "ticker_sentiment_score":"-0.223088",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.080865",
+        "ticker_sentiment_score":"-0.252231",
         "ticker_sentiment_label":"Somewhat-Bearish"
       }
     ]
   },
   {
-    "title":"PSG's Lee Helps South Korea To Third Straight Asian Games Gold",
-    "url":"https:\/\/www.barrons.com\/news\/psg-s-lee-helps-south-korea-to-third-straight-asian-games-gold-6b8a9000",
-    "time_published":1696687740000,
+    "title":"What bear market? This token is quietly making new highs, up 300% against Bitcoin in 2022",
+    "url":"https:\/\/cointelegraph.com\/news\/what-bear-market-this-token-is-quietly-making-new-highs-up-300-against-bitcoin-in-2022",
+    "time_published":1656681939000,
     "authors":[
-      "AFP - Agence France Presse"
-    ],
-    "summary":"Paris Saint-Germain star Lee Kang-in helped South Korea win Asian Games men's football gold for the third time in a row on Saturday -- and earn a military exemption. South Korea retained their crown with a 2-1 victory over Japan in Hangzhou, having conceded a goal in only the second minute.",
-    "banner_image":"https:\/\/www.barrons.com\/asset\/external-media\/afp\/AFP1526111002105401207996497886047853596932---1.jpg",
-    "source":"Barrons",
-    "category_within_source":"n\/a",
-    "source_domain":"www.barrons.com",
-    "topics":[
 
     ],
-    "overall_sentiment_score":0.228811,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "summary":"Unus Sed Leo price technicals, however, suggest that the uptrend could correct in H2 2022.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-07\/6b9ba9b6-89bf-4e7f-ac5f-330b608c18f1.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      }
+    ],
+    "overall_sentiment_score":-0.116295,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"LVWR",
-        "relevance_score":"0.108958",
-        "ticker_sentiment_score":"0.0",
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.124971",
+        "ticker_sentiment_score":"0.013558",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.417995",
+        "ticker_sentiment_score":"-0.039339",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.124971",
+        "ticker_sentiment_score":"0.007625",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.654648",
+        "ticker_sentiment_score":"-0.151742",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin price drops 3% to ten-day lows as Ethereum inches closer to $1K",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-price-drops-3-to-ten-day-lows-as-ethereum-inches-close-to-1k",
+    "time_published":1656578291000,
+    "authors":[
+
+    ],
+    "summary":"More downside pressure across crypto amid challenging regulatory events in both the U.S. and Europe.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-06\/bcde2168-b6de-4acd-b9b3-8af51c34dcc0.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.938793"
+      }
+    ],
+    "overall_sentiment_score":-0.094921,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.663719",
+        "ticker_sentiment_score":"-0.159293",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.319725",
+        "ticker_sentiment_score":"-0.137884",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.216473",
+        "ticker_sentiment_score":"-0.062572",
         "ticker_sentiment_label":"Neutral"
       }
     ]
   },
   {
-    "title":"Is Editas Stock a Buy Now?",
-    "url":"https:\/\/www.fool.com\/investing\/2023\/10\/07\/is-editas-stock-a-buy-now\/",
-    "time_published":1696687620000,
+    "title":"Price analysis 6\/29: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, SHIB, LEO",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-6-29-btc-eth-bnb-xrp-ada-sol-doge-dot-shib-leo",
+    "time_published":1656527796000,
     "authors":[
-      "Jim Halley"
+
     ],
-    "summary":"Shares of the gene-editing company are close to their 52-week lows. Does it make sense to buy the stock now?",
-    "banner_image":"https:\/\/g.foolcdn.com\/misc-assets\/hp-sa-cumulative-growth-chart.png",
-    "source":"Motley Fool",
+    "summary":"Bitcoin and altcoins gave up the gains of last week's relief rally and June 29's dip below $20,000 suggests bears are intent on pushing the market back to its yearly lows.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-06\/08c097ce-b759-489f-808d-508608811839.png",
+    "source":"Cointelegraph",
     "category_within_source":"n\/a",
-    "source_domain":"www.fool.com",
+    "source_domain":"cointelegraph.com",
     "topics":[
       {
-        "topic":"Life Sciences",
-        "relevance_score":"1.0"
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
       },
       {
         "topic":"Financial Markets",
-        "relevance_score":"0.365926"
+        "relevance_score":"0.87644"
       }
     ],
-    "overall_sentiment_score":0.197081,
-    "overall_sentiment_label":"Somewhat-Bullish",
+    "overall_sentiment_score":-0.142081,
+    "overall_sentiment_label":"Neutral",
     "ticker_sentiment":[
       {
-        "ticker":"RCKT",
-        "relevance_score":"0.052112",
-        "ticker_sentiment_score":"0.096558",
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.113036",
+        "ticker_sentiment_score":"-0.106464",
         "ticker_sentiment_label":"Neutral"
       },
       {
-        "ticker":"EDIT",
-        "relevance_score":"0.443626",
-        "ticker_sentiment_score":"0.247083",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.084901",
+        "ticker_sentiment_score":"-0.170823",
+        "ticker_sentiment_label":"Somewhat-Bearish"
       },
       {
-        "ticker":"BMY",
-        "relevance_score":"0.052112",
-        "ticker_sentiment_score":"0.23869",
-        "ticker_sentiment_label":"Somewhat-Bullish"
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.056661",
+        "ticker_sentiment_score":"-0.222771",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.084901",
+        "ticker_sentiment_score":"-0.149717",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.084901",
+        "ticker_sentiment_score":"-0.101487",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.084901",
+        "ticker_sentiment_score":"-0.265788",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Price analysis 6\/24: BTC, ETH, BNB, XRP, ADA, SOL, DOGE, DOT, SHIB, LEO",
+    "url":"https:\/\/cointelegraph.com\/news\/price-analysis-6-24-btc-eth-bnb-xrp-ada-sol-doge-dot-shib-leo",
+    "time_published":1656096260000,
+    "authors":[
+
+    ],
+    "summary":"A handful of on-chain metrics suggest that Bitcoin could be close to bottoming, and if true, the eventual relief rally could induce sharp gains from altcoins.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-06\/d2edd3ac-734f-4e16-ae43-ce3f65e20cb1.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.990999"
+      },
+      {
+        "topic":"Economy - Macro",
+        "relevance_score":"0.158519"
+      }
+    ],
+    "overall_sentiment_score":-0.113292,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"FOREX:USD",
+        "relevance_score":"0.082148",
+        "ticker_sentiment_score":"-0.179509",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.242998",
+        "ticker_sentiment_score":"-0.127881",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.054819",
+        "ticker_sentiment_score":"0.01994",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:SHIB",
+        "relevance_score":"0.082148",
+        "ticker_sentiment_score":"-0.050342",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:DOGE",
+        "relevance_score":"0.082148",
+        "ticker_sentiment_score":"-0.041901",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ADA",
+        "relevance_score":"0.082148",
+        "ticker_sentiment_score":"-0.129346",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.082148",
+        "ticker_sentiment_score":"-0.360964",
+        "ticker_sentiment_label":"Bearish"
+      }
+    ]
+  },
+  {
+    "title":"Bitcoin gives 'encouraging signs' - Watch these BTC price levels next",
+    "url":"https:\/\/cointelegraph.com\/news\/bitcoin-gives-encouraging-signs-watch-these-btc-price-levels-next",
+    "time_published":1656079594000,
+    "authors":[
+
+    ],
+    "summary":"The 200-week moving average is back on the menu for BTC\/USD, but altcoins are shining as the week ends.",
+    "banner_image":"https:\/\/s3.cointelegraph.com\/uploads\/2022-06\/2e0c93ab-eff4-405a-9730-8b619b30ed47.png",
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.451494"
+      },
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.214378"
+      }
+    ],
+    "overall_sentiment_score":0.172908,
+    "overall_sentiment_label":"Somewhat-Bullish",
+    "ticker_sentiment":[
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.636213",
+        "ticker_sentiment_score":"0.022517",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.350234",
+        "ticker_sentiment_score":"0.115917",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:LEO",
+        "relevance_score":"0.2379",
+        "ticker_sentiment_score":"0.094305",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XRP",
+        "relevance_score":"0.12031",
+        "ticker_sentiment_score":"0.89525",
+        "ticker_sentiment_label":"Bullish"
       }
     ]
   }
