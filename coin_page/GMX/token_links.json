@@ -20,14 +20,14 @@
   "audit": [],
   "contracts": [
     {
-      "chain": "Arbitrum",
-      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
-      "link": "https://arbiscan.io/token/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
-    },
-    {
       "chain": "Avalanche C-Chain",
       "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
       "link": "https://snowtrace.io/token/0x62edc0692BD897D2295872a9FFCac5425011c661"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+      "link": "https://arbiscan.io/token/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
     }
   ]
 }
