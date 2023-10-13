@@ -1,35 +1,5 @@
 [
   {
-    "price":0.0272139499,
-    "volume":5678595.0705751814,
-    "marketcap":254673763.5101386607,
-    "zero_balance_addresses_all_time":38516,
-    "unique_addresses_all_time":57986,
-    "new_addresses":7,
-    "active_addresses":23,
-    "transaction_count":21,
-    "transaction_count_all_time":174010,
-    "large_transaction_count":0,
-    "average_transaction_value":21889.228526685,
-    "token_holder":19470,
-    "time":1665446400000
-  },
-  {
-    "price":0.0274008943,
-    "volume":4393273.492315596,
-    "marketcap":257177635.0904188454,
-    "zero_balance_addresses_all_time":38520,
-    "unique_addresses_all_time":57999,
-    "new_addresses":13,
-    "active_addresses":21,
-    "transaction_count":16,
-    "transaction_count_all_time":174026,
-    "large_transaction_count":0,
-    "average_transaction_value":10520.2710548818,
-    "token_holder":19479,
-    "time":1665532800000
-  },
-  {
     "price":0.0266803428,
     "volume":11280836.8796282429,
     "marketcap":249992285.387463361,
@@ -5473,5 +5443,35 @@
     "average_transaction_value":168627.1678787,
     "token_holder":19698,
     "time":1696896000000
+  },
+  {
+    "price":0.0179118445,
+    "volume":9717966.3239355329,
+    "marketcap":169069410.3466489613,
+    "zero_balance_addresses_all_time":43145,
+    "unique_addresses_all_time":62845,
+    "new_addresses":8,
+    "active_addresses":35,
+    "transaction_count":57,
+    "transaction_count_all_time":189923,
+    "large_transaction_count":0,
+    "average_transaction_value":156453.360361359,
+    "token_holder":19700,
+    "time":1696982400000
+  },
+  {
+    "price":0.01772162,
+    "volume":7880280.3217550386,
+    "marketcap":166967849.6012352109,
+    "zero_balance_addresses_all_time":43149,
+    "unique_addresses_all_time":62851,
+    "new_addresses":6,
+    "active_addresses":26,
+    "transaction_count":29,
+    "transaction_count_all_time":189952,
+    "large_transaction_count":0,
+    "average_transaction_value":195319.064176226,
+    "token_holder":19702,
+    "time":1697068800000
   }
 ]

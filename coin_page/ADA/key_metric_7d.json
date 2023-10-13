@@ -1,35 +1,5 @@
 [
   {
-    "price":0.259410825,
-    "volume":154067040.526755482,
-    "marketcap":9092599755.1752758026,
-    "zero_balance_addresses_all_time":40500251.0,
-    "unique_addresses_all_time":44954190.0,
-    "new_addresses":10038.0,
-    "active_addresses":31716.0,
-    "transaction_count":53749.0,
-    "transaction_count_all_time":76042174.0,
-    "large_transaction_count":4671.0,
-    "average_transaction_value":512952.552194245,
-    "token_holder":4453939.0,
-    "time":1696377600000
-  },
-  {
-    "price":0.2602043419,
-    "volume":110243412.5937281251,
-    "marketcap":9112061258.7465877533,
-    "zero_balance_addresses_all_time":40507040.0,
-    "unique_addresses_all_time":44961449.0,
-    "new_addresses":7259.0,
-    "active_addresses":25211.0,
-    "transaction_count":44386.0,
-    "transaction_count_all_time":76086560.0,
-    "large_transaction_count":3910.0,
-    "average_transaction_value":454061.543209055,
-    "token_holder":4454409.0,
-    "time":1696464000000
-  },
-  {
     "price":0.2649049662,
     "volume":100076512.632543847,
     "marketcap":9281430746.8140640259,
@@ -93,7 +63,7 @@
     "price":0.2490328902,
     "volume":118222187.362084955,
     "marketcap":8680371646.4848079681,
-    "zero_balance_addresses_all_time":40507040.0,
+    "zero_balance_addresses_all_time":40507039.0,
     "unique_addresses_all_time":44961449.0,
     "new_addresses":0.0,
     "active_addresses":0.0,
@@ -101,7 +71,37 @@
     "transaction_count_all_time":0.0,
     "large_transaction_count":0.0,
     "average_transaction_value":0.0,
-    "token_holder":4454409.0,
+    "token_holder":4454410.0,
     "time":1696896000000
+  },
+  {
+    "price":0.2477838236,
+    "volume":121761363.9184752703,
+    "marketcap":8630105930.3343296051,
+    "zero_balance_addresses_all_time":40507041.0,
+    "unique_addresses_all_time":44961449.0,
+    "new_addresses":0.0,
+    "active_addresses":0.0,
+    "transaction_count":0.0,
+    "transaction_count_all_time":0.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":0.0,
+    "token_holder":4454408.0,
+    "time":1696982400000
+  },
+  {
+    "price":0.2456586247,
+    "volume":101203394.7294801325,
+    "marketcap":8556805063.2002258301,
+    "zero_balance_addresses_all_time":40507041.0,
+    "unique_addresses_all_time":44961449.0,
+    "new_addresses":0.0,
+    "active_addresses":0.0,
+    "transaction_count":0.0,
+    "transaction_count_all_time":0.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":0.0,
+    "token_holder":4454408.0,
+    "time":1697068800000
   }
 ]

@@ -22,14 +22,14 @@
   "audit": [],
   "contracts": [
     {
-      "chain": "HECO",
-      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
-      "link": "https://www.hecoinfo.com/token/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3"
-    },
-    {
       "chain": "BNB Smart Chain (BEP20)",
       "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
       "link": "https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+    },
+    {
+      "chain": "HECO",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "link": "https://www.hecoinfo.com/token/0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3"
     }
   ]
 }
