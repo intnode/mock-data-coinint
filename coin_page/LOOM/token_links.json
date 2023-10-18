@@ -1,0 +1,32 @@
+{
+  "website": [
+    "https://loomx.io/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x42476F744292107e34519F9c357927074Ea3F75D",
+    "http://ethplorer.io/address/0x42476F744292107e34519F9c357927074Ea3F75D"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/loomnetwork",
+    "discord": null,
+    "reddit": "https://reddit.com/r/loomnetwork",
+    "facebook": null
+  },
+  "source_code": "https://github.com/loomnetwork",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+      "link": "https://etherscan.io/token/0x42476F744292107e34519F9c357927074Ea3F75D"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xe6ce27025f13f5213bbc560dc275e292965a392f",
+      "link": "https://bscscan.com/token/0xe6ce27025f13f5213bbc560dc275e292965a392f"
+    }
+  ]
+}
