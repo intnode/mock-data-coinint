@@ -1,5 +1,62 @@
 [
   {
+    "title":"From WikiLeaks To China: Censored Texts Endure In Bitcoin And Ethereum",
+    "url":"https:\/\/www.forbes.com\/sites\/digital-assets\/2023\/10\/25\/from-wikileaks-to-china-censored-texts-endure-in-bitcoin-and-ethereum\/",
+    "time_published":1698250500000,
+    "authors":[
+      "Roger Huang"
+    ],
+    "summary":"Bitcoin is many things to many people: digital money, a digital store of value, a platform for censorship-resistant data. At its root, the technology is available to anybody to get data and upload data - bitcoin has turned that data into direct economic value by creating a bearer asset that can ...",
+    "banner_image":"https:\/\/imageio.forbes.com\/specials-images\/imageserve\/65369e4bc4daba4b5e53722f\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "source":"Forbes",
+    "category_within_source":"n\/a",
+    "source_domain":"www.forbes.com",
+    "topics":[
+      {
+        "topic":"Finance",
+        "relevance_score":"1.0"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.310843"
+      }
+    ],
+    "overall_sentiment_score":0.051041,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"PTOP",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"0.088528",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"-0.126",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.78689",
+        "ticker_sentiment_score":"0.137215",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.187463",
+        "ticker_sentiment_score":"-0.013723",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:XMR",
+        "relevance_score":"0.047278",
+        "ticker_sentiment_score":"-0.014873",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"Central banks want to look under crypto's hood - Is this a positive sign?",
     "url":"https:\/\/cointelegraph.com\/news\/central-banks-crypto-s-hood-is-this-a-positive-sign",
     "time_published":1697634120000,
@@ -2689,35 +2746,6 @@
         "relevance_score":"0.618426",
         "ticker_sentiment_score":"0.256866",
         "ticker_sentiment_label":"Somewhat-Bullish"
-      }
-    ]
-  },
-  {
-    "title":"Cryptocurrency Monero Down More Than 3% Within 24 hours",
-    "url":"https:\/\/www.benzinga.com\/markets\/cryptocurrency\/23\/06\/32857525\/cryptocurrency-monero-down-more-than-3-within-24-hours",
-    "time_published":1686754841000,
-    "authors":[
-      "Benzinga Insights"
-    ],
-    "summary":"Over the past 24 hours, Monero's XMR\/USD price has fallen 3.21% to $135.31. This continues its negative trend over the past week where it has experienced a 6.0% loss, moving from $144.25 to its current price.",
-    "banner_image":"https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
-    "source":"Benzinga",
-    "category_within_source":"Markets",
-    "source_domain":"www.benzinga.com",
-    "topics":[
-      {
-        "topic":"Financial Markets",
-        "relevance_score":"0.108179"
-      }
-    ],
-    "overall_sentiment_score":-0.189206,
-    "overall_sentiment_label":"Somewhat-Bearish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:XMR",
-        "relevance_score":"0.651499",
-        "ticker_sentiment_score":"-0.336225",
-        "ticker_sentiment_label":"Somewhat-Bearish"
       }
     ]
   }

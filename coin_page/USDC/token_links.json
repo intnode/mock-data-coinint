@@ -52,11 +52,6 @@
       "link": "https://gnosisscan.io/token/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83"
     },
     {
-      "chain": "Polygon",
-      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-      "link": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
-    },
-    {
       "chain": "TomoChain",
       "address": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
       "link": "https://tomoscan.io/token/0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0"
@@ -282,11 +277,6 @@
       "link": null
     },
     {
-      "chain": "TON",
-      "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
-      "link": null
-    },
-    {
       "chain": "Astar",
       "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
       "link": "https://blockscout.com/astar/token/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
@@ -345,6 +335,11 @@
       "chain": "Starknet",
       "address": "0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
       "link": null
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      "link": "https://polygonscan.com/token/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
     }
   ]
 }
