@@ -1,5 +1,82 @@
 [
   {
+    "title":"SBF takes the stand, 'buy Bitcoin' searches soar and other news: Hodler's Digest, Oct. 22-28",
+    "url":"https:\/\/cointelegraph.com\/magazine\/sbf-takes-the-stand-buy-bitcoin-searches-soar-and-other-news-hodlers-digest-oct-22-28\/",
+    "time_published":1698529067000,
+    "authors":[
+      "Editorial Staff"
+    ],
+    "summary":"Sam Bankman-Fried testifies in court, searches for 'buy Bitcoin' surge, and Gemini sues Genesis over collateral.",
+    "banner_image":null,
+    "source":"Cointelegraph",
+    "category_within_source":"n\/a",
+    "source_domain":"cointelegraph.com",
+    "topics":[
+      {
+        "topic":"Financial Markets",
+        "relevance_score":"0.999491"
+      },
+      {
+        "topic":"Technology",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Finance",
+        "relevance_score":"0.5"
+      },
+      {
+        "topic":"Blockchain",
+        "relevance_score":"0.998626"
+      }
+    ],
+    "overall_sentiment_score":0.016955,
+    "overall_sentiment_label":"Neutral",
+    "ticker_sentiment":[
+      {
+        "ticker":"GOOG",
+        "relevance_score":"0.09893",
+        "ticker_sentiment_score":"0.15508",
+        "ticker_sentiment_label":"Somewhat-Bullish"
+      },
+      {
+        "ticker":"COIN",
+        "relevance_score":"0.09893",
+        "ticker_sentiment_score":"-0.016589",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BTC",
+        "relevance_score":"0.680008",
+        "ticker_sentiment_score":"0.149963",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:ETH",
+        "relevance_score":"0.196344",
+        "ticker_sentiment_score":"-0.061163",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:UNI",
+        "relevance_score":"0.066047",
+        "ticker_sentiment_score":"-0.155531",
+        "ticker_sentiment_label":"Somewhat-Bearish"
+      },
+      {
+        "ticker":"CRYPTO:WBTC",
+        "relevance_score":"0.066047",
+        "ticker_sentiment_score":"-0.081119",
+        "ticker_sentiment_label":"Neutral"
+      },
+      {
+        "ticker":"CRYPTO:BSV",
+        "relevance_score":"0.066047",
+        "ticker_sentiment_score":"0.062233",
+        "ticker_sentiment_label":"Neutral"
+      }
+    ]
+  },
+  {
     "title":"Kraken to suspend trading for USDT, DAI, WBTC, WETH, and WAXL in Canada",
     "url":"https:\/\/cointelegraph.com\/news\/kraken-suspend-trading-usdt-dai-wbtc-weth-and-waxl-stablecoin-canada",
     "time_published":1698439259000,
@@ -2582,47 +2659,6 @@
         "ticker":"CRYPTO:WBTC",
         "relevance_score":"0.235823",
         "ticker_sentiment_score":"-0.141632",
-        "ticker_sentiment_label":"Neutral"
-      }
-    ]
-  },
-  {
-    "title":"Crypto Lender Compound Deploys on Ethereum Layer-2 Arbitrum",
-    "url":"https:\/\/decrypt.co\/140424\/crypto-lender-compound-deploys-ethereum-layer-2-arbitrum",
-    "time_published":1684315861000,
-    "authors":[
-      "Decrypt \/ Liam J. Kelly"
-    ],
-    "summary":"DeFi powerhouse Compound Finance is rolling out its services on various speedy scaling solutions, tapping Arbitrum in the latest deployment.",
-    "banner_image":"https:\/\/img.decrypt.co\/insecure\/rs:fill:1024:512:1:0\/plain\/https:\/\/cdn.decrypt.co\/wp-content\/uploads\/2020\/01\/blockfi-litecoin-usdc-interest-gID_7.jpg@png",
-    "source":"Decrypt.co",
-    "category_within_source":"n\/a",
-    "source_domain":"decrypt.co",
-    "topics":[
-      {
-        "topic":"Blockchain",
-        "relevance_score":"0.576289"
-      }
-    ],
-    "overall_sentiment_score":0.205162,
-    "overall_sentiment_label":"Somewhat-Bullish",
-    "ticker_sentiment":[
-      {
-        "ticker":"CRYPTO:BTC",
-        "relevance_score":"0.117486",
-        "ticker_sentiment_score":"-0.081808",
-        "ticker_sentiment_label":"Neutral"
-      },
-      {
-        "ticker":"CRYPTO:ETH",
-        "relevance_score":"0.540042",
-        "ticker_sentiment_score":"0.247472",
-        "ticker_sentiment_label":"Somewhat-Bullish"
-      },
-      {
-        "ticker":"CRYPTO:WBTC",
-        "relevance_score":"0.232439",
-        "ticker_sentiment_score":"-0.126915",
         "ticker_sentiment_label":"Neutral"
       }
     ]
