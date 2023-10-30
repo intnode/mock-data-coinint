@@ -1,0 +1,32 @@
+{
+  "website": [
+    "https://firstdigitallabs.com/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "https://bscscan.com/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/FDLabsHQ",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": null,
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "link": "https://etherscan.io/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "link": "https://bscscan.com/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
+    }
+  ]
+}
