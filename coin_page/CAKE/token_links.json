@@ -4,10 +4,10 @@
   ],
   "explorer": [
     "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "https://solscan.io/token/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
     "https://etherscan.io/token/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
-    "https://www.oklink.com/eth/token/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
-    "https://avascan.info/blockchain/c/address/0x98a4d09036Cc5337810096b1D004109686E56Afc/token"
+    "https://explorer.zksync.io/address/0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
+    "https://basescan.org/token/0x3055913c90fcc1a6ce9a358911721eeb942013a1",
+    "https://lineascan.build/token/0x0d1e753a25ebda689453309112904807625befbe"
   ],
   "wallets": [
     "metamask"
@@ -32,8 +32,33 @@
       "link": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
     },
     {
+      "chain": "Arbitrum",
+      "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+      "link": "https://arbiscan.io/token/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c"
+    },
+    {
       "chain": "Aptos",
       "address": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
+      "link": null
+    },
+    {
+      "chain": "zkSync Era",
+      "address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
+      "link": null
+    },
+    {
+      "chain": "Polygon zkEVM",
+      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+      "link": "https://zkevm.polygonscan.com/token/0x0D1E753a25eBda689453309112904807625bEFBe"
+    },
+    {
+      "chain": "Linea",
+      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+      "link": null
+    },
+    {
+      "chain": "Base",
+      "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
       "link": null
     }
   ]
