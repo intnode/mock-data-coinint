@@ -4,7 +4,7 @@
   ],
   "explorer": [
     "https://viewblock.io/thorchain",
-    "https://explorer.binance.org/asset/RUNE-B1A"
+    "https://thorchain.net/"
   ],
   "wallets": [
     "metamask"
@@ -15,13 +15,7 @@
     "reddit": "https://reddit.com/r/thorchain",
     "facebook": null
   },
-  "source_code": "https://github.com/thorchain",
+  "source_code": "https://gitlab.com/thorchain/",
   "audit": [],
-  "contracts": [
-    {
-      "chain": "BNB Beacon Chain (BEP2)",
-      "address": "RUNE-B1A",
-      "link": null
-    }
-  ]
+  "contracts": []
 }
