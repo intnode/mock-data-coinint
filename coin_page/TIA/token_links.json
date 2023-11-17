@@ -1,0 +1,29 @@
+{
+  "website": [
+    "https://www.celestia.org"
+  ],
+  "explorer": [
+    "https://celestiascan.com",
+    "https://explorer.celestia-arabica-10.com",
+    "https://testnet.mintscan.io/celestia-testnet",
+    "https://explorer.modular.cloud/"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/CelestiaOrg",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/celestiaorg",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Cosmos",
+      "address": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
+      "link": null
+    }
+  ]
+}
