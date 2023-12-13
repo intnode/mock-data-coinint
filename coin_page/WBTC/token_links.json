@@ -42,9 +42,9 @@
       "link": "https://polygonscan.com/token/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
     },
     {
-      "chain": "TomoChain",
+      "chain": "Viction",
       "address": "0x503b2ddc059b81788fd1239561596614b27faade",
-      "link": "https://tomoscan.io/token/0x503b2ddc059b81788fd1239561596614b27faade"
+      "link": null
     },
     {
       "chain": "Optimism",
@@ -164,6 +164,11 @@
     {
       "chain": "Starknet",
       "address": "0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
+      "link": null
+    },
+    {
+      "chain": "Osmosis",
+      "address": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
       "link": null
     }
   ]

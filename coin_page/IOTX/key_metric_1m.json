@@ -1,35 +1,5 @@
 [
   {
-    "price":0.0263465462,
-    "volume":15093649.0518701877,
-    "marketcap":248350171.6063740551,
-    "zero_balance_addresses_all_time":43356.0,
-    "unique_addresses_all_time":63156.0,
-    "new_addresses":6.0,
-    "active_addresses":32.0,
-    "transaction_count":27.0,
-    "transaction_count_all_time":190888.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":16335.4015712825,
-    "token_holder":19800.0,
-    "time":1699660800000
-  },
-  {
-    "price":0.0279655745,
-    "volume":21549296.2764679529,
-    "marketcap":263033744.1735261679,
-    "zero_balance_addresses_all_time":43366.0,
-    "unique_addresses_all_time":63163.0,
-    "new_addresses":7.0,
-    "active_addresses":26.0,
-    "transaction_count":33.0,
-    "transaction_count_all_time":190921.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":20153.764568109,
-    "token_holder":19797.0,
-    "time":1699747200000
-  },
-  {
     "price":0.0251027447,
     "volume":24361637.6382523477,
     "marketcap":237249518.0054519773,
@@ -448,5 +418,35 @@
     "average_transaction_value":137202.403484349,
     "token_holder":19907.0,
     "time":1702166400000
+  },
+  {
+    "price":0.0304459543,
+    "volume":17122348.3304181248,
+    "marketcap":287997743.2164060473,
+    "zero_balance_addresses_all_time":43697.0,
+    "unique_addresses_all_time":63610.0,
+    "new_addresses":13.0,
+    "active_addresses":53.0,
+    "transaction_count":113.0,
+    "transaction_count_all_time":192953.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":330917.444045929,
+    "token_holder":19913.0,
+    "time":1702252800000
+  },
+  {
+    "price":0.0306136309,
+    "volume":11964048.3047794439,
+    "marketcap":289373187.2344013453,
+    "zero_balance_addresses_all_time":43709.0,
+    "unique_addresses_all_time":63626.0,
+    "new_addresses":16.0,
+    "active_addresses":56.0,
+    "transaction_count":85.0,
+    "transaction_count_all_time":193038.0,
+    "large_transaction_count":2.0,
+    "average_transaction_value":424022.009290208,
+    "token_holder":19917.0,
+    "time":1702339200000
   }
 ]

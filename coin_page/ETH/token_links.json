@@ -38,9 +38,9 @@
       "link": "https://snowtrace.io/token/0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15"
     },
     {
-      "chain": "TomoChain",
+      "chain": "Viction",
       "address": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
-      "link": "https://tomoscan.io/token/0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b"
+      "link": null
     },
     {
       "chain": "Sora",
@@ -90,6 +90,11 @@
     {
       "chain": "Starknet",
       "address": "0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+      "link": null
+    },
+    {
+      "chain": "Osmosis",
+      "address": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "link": null
     }
   ]
