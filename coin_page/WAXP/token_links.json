@@ -3,7 +3,8 @@
     "https://wax.io/"
   ],
   "explorer": [
-    "https://waxblock.io/"
+    "https://waxblock.io/",
+    "https://etherscan.io/token/0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517"
   ],
   "wallets": [
     "metamask"
@@ -16,5 +17,11 @@
   },
   "source_code": "https://github.com/worldwide-asset-exchange/",
   "audit": [],
-  "contracts": []
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
+      "link": "https://etherscan.io/token/0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517"
+    }
+  ]
 }
