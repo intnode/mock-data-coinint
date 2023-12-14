@@ -19,9 +19,24 @@
   "audit": [],
   "contracts": [
     {
+      "chain": "INJ",
+      "address": "inj",
+      "link": null
+    },
+    {
       "chain": "Osmosis",
       "address": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
       "link": null
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "link": "https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495"
+    },
+    {
+      "chain": "Ethereum",
+      "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+      "link": "https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30"
     }
   ]
 }
