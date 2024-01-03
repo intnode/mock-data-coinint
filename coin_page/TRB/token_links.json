@@ -1,0 +1,50 @@
+{
+  "website": [
+    "https://tellor.io/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+    "https://polygonscan.com/token/0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+    "https://gnosisscan.io/address/0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+    "https://optimistic.etherscan.io/address/0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
+    "https://arbiscan.io/address/0xd58D345Fd9c82262E087d2D0607624B410D88242"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/wearetellor",
+    "discord": null,
+    "reddit": "https://reddit.com/r/TellorOfficial/",
+    "facebook": null
+  },
+  "source_code": "https://github.com/tellor-io",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+      "link": "https://etherscan.io/token/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+    },
+    {
+      "chain": "Gnosis Chain",
+      "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+      "link": "https://gnosisscan.io/token/0xaad66432d27737ecf6ed183160adc5ef36ab99f2"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+      "link": "https://polygonscan.com/token/0xE3322702BEdaaEd36CdDAb233360B939775ae5f1"
+    },
+    {
+      "chain": "Optimism",
+      "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
+      "link": "https://optimistic.etherscan.io/token/0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0xd58D345Fd9c82262E087d2D0607624B410D88242",
+      "link": "https://arbiscan.io/token/0xd58D345Fd9c82262E087d2D0607624B410D88242"
+    }
+  ]
+}

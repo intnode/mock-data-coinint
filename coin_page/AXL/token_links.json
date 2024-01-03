@@ -1,0 +1,81 @@
+{
+  "website": [
+    "https://axelar.network/",
+    "https://app.squidrouter.com/"
+  ],
+  "explorer": [
+    "https://axelarscan.io/",
+    "https://etherscan.io/token/0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+    "https://bscscan.com/token/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+    "https://polygonscan.com/token/0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+    "https://www.mintscan.io/axelar"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/axelarnetwork",
+    "discord": null,
+    "reddit": "https://reddit.com/r/axelar",
+    "facebook": null
+  },
+  "source_code": "https://github.com/axelarnetwork",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+      "link": "https://etherscan.io/token/0x467719aD09025FcC6cF6F8311755809d45a5E5f3"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+      "link": "https://bscscan.com/token/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65"
+    },
+    {
+      "chain": "Polygon",
+      "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+      "link": "https://polygonscan.com/token/0x6e4E624106Cb12E168E6533F8ec7c82263358940"
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+      "link": "https://snowtrace.io/token/0x44c784266cf024a60e8acf2427b9857ace194c5d"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "link": "https://arbiscan.io/token/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+    },
+    {
+      "chain": "Osmosis",
+      "address": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
+      "link": null
+    },
+    {
+      "chain": "Base",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "link": null
+    },
+    {
+      "chain": "Optimism",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "link": "https://optimistic.etherscan.io/token/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+    },
+    {
+      "chain": "Mantle",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "link": null
+    },
+    {
+      "chain": "Linea",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "link": null
+    },
+    {
+      "chain": "Fantom",
+      "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+      "link": "https://ftmscan.com/token/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65"
+    }
+  ]
+}
