@@ -1,5 +1,6 @@
 {
   "website": [
+    "https://trondao.org/",
     "https://tron.network/"
   ],
   "explorer": [
@@ -11,14 +12,19 @@
     "metamask"
   ],
   "community": {
-    "twitter": "https://twitter.com/justinsuntron",
+    "twitter": "https://twitter.com/trondao",
     "discord": null,
     "reddit": "https://reddit.com/r/Tronix",
-    "facebook": null
+    "facebook": "https://www.facebook.com/trondaoofficial"
   },
   "source_code": "https://github.com/tronprotocol/java-tron",
   "audit": [],
   "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+      "link": "https://etherscan.io/token/0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+    },
     {
       "chain": "BNB Smart Chain (BEP20)",
       "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
@@ -28,11 +34,6 @@
       "chain": "Tron20",
       "address": "0",
       "link": null
-    },
-    {
-      "chain": "Ethereum",
-      "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
-      "link": "https://etherscan.io/token/0x50327c6c5a14dcade707abad2e27eb517df87ab5"
     }
   ]
 }
