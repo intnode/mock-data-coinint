@@ -1,35 +1,5 @@
 [
   {
-    "price":0.022034017,
-    "volume":33309166.8044334017,
-    "marketcap":220505109.1637744904,
-    "zero_balance_addresses_all_time":121739,
-    "unique_addresses_all_time":165967,
-    "new_addresses":76,
-    "active_addresses":281,
-    "transaction_count":453,
-    "transaction_count_all_time":649326,
-    "large_transaction_count":9,
-    "average_transaction_value":592896.364345921,
-    "token_holder":44228,
-    "time":1698105600000
-  },
-  {
-    "price":0.0224463025,
-    "volume":27360288.3700186349,
-    "marketcap":224444171.9377588928,
-    "zero_balance_addresses_all_time":121839,
-    "unique_addresses_all_time":166022,
-    "new_addresses":55,
-    "active_addresses":259,
-    "transaction_count":357,
-    "transaction_count_all_time":649683,
-    "large_transaction_count":8,
-    "average_transaction_value":645926.463823399,
-    "token_holder":44183,
-    "time":1698192000000
-  },
-  {
     "price":0.0220215361,
     "volume":24880535.6310784779,
     "marketcap":220320892.7964667976,
@@ -1348,5 +1318,35 @@
     "average_transaction_value":122308.976786731,
     "token_holder":45598,
     "time":1705795200000
+  },
+  {
+    "price":0.0228826026,
+    "volume":10902255.7759958878,
+    "marketcap":229245960.6219280958,
+    "zero_balance_addresses_all_time":126165,
+    "unique_addresses_all_time":171769,
+    "new_addresses":38,
+    "active_addresses":154,
+    "transaction_count":135,
+    "transaction_count_all_time":675932,
+    "large_transaction_count":4,
+    "average_transaction_value":757256.98857916,
+    "token_holder":45604,
+    "time":1705881600000
+  },
+  {
+    "price":0.0225187124,
+    "volume":13912172.5845022909,
+    "marketcap":224659275.9194797873,
+    "zero_balance_addresses_all_time":126201,
+    "unique_addresses_all_time":171821,
+    "new_addresses":52,
+    "active_addresses":196,
+    "transaction_count":257,
+    "transaction_count_all_time":676189,
+    "large_transaction_count":2,
+    "average_transaction_value":343533.204583588,
+    "token_holder":45620,
+    "time":1705968000000
   }
 ]
