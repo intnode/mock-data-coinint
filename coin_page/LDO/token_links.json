@@ -6,7 +6,8 @@
     "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
     "https://www.oklink.com/eth/token/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
     "https://explorer.solana.com/address/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
-    "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b"
+    "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b",
+    "https://arbiscan.io/token/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60"
   ],
   "wallets": [
     "metamask"
@@ -39,6 +40,11 @@
       "chain": "Terra Classic",
       "address": "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
       "link": null
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+      "link": "https://arbiscan.io/token/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60"
     }
   ]
 }
