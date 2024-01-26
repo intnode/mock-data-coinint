@@ -1,0 +1,38 @@
+{
+  "website": [
+    "https://pendle.finance/"
+  ],
+  "explorer": [
+    "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827",
+    "https://arbiscan.io/token/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "https://bscscan.com/token/0xb3ed0a426155b79b898849803e3b36552f7ed507"
+  ],
+  "wallets": [
+    "metamask"
+  ],
+  "community": {
+    "twitter": "https://twitter.com/pendle_fi",
+    "discord": null,
+    "reddit": null,
+    "facebook": null
+  },
+  "source_code": "https://github.com/pendle-finance",
+  "audit": [],
+  "contracts": [
+    {
+      "chain": "Ethereum",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "link": "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827"
+    },
+    {
+      "chain": "Arbitrum",
+      "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "link": "https://arbiscan.io/token/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8"
+    },
+    {
+      "chain": "BNB Smart Chain (BEP20)",
+      "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+      "link": "https://bscscan.com/token/0xb3Ed0A426155B79B898849803E3B36552f7ED507"
+    }
+  ]
+}
