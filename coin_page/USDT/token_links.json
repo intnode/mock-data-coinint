@@ -262,9 +262,9 @@
       "link": null
     },
     {
-      "chain": "Dogechain",
+      "chain": "Dogechain(EVM)",
       "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-      "link": "https://explorer.dogechain.dog/token/0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+      "link": null
     },
     {
       "chain": "Canto",
@@ -334,6 +334,11 @@
     {
       "chain": "Osmosis",
       "address": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
+      "link": null
+    },
+    {
+      "chain": "Injective",
+      "address": "peggy0xdac17f958d2ee523a2206206994597c13d831ec7",
       "link": null
     }
   ]
