@@ -1,35 +1,5 @@
 [
   {
-    "price":0.0542896805,
-    "volume":13283471.6295882482,
-    "marketcap":0.0,
-    "zero_balance_addresses_all_time":57229.0,
-    "unique_addresses_all_time":66071.0,
-    "new_addresses":1.0,
-    "active_addresses":2.0,
-    "transaction_count":1.0,
-    "transaction_count_all_time":297428.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":12582.302,
-    "token_holder":8842.0,
-    "time":1675296000000
-  },
-  {
-    "price":0.0570627186,
-    "volume":26169569.4854117781,
-    "marketcap":0.0,
-    "zero_balance_addresses_all_time":57230.0,
-    "unique_addresses_all_time":66072.0,
-    "new_addresses":1.0,
-    "active_addresses":2.0,
-    "transaction_count":1.0,
-    "transaction_count_all_time":297429.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":743.0,
-    "token_holder":8842.0,
-    "time":1675382400000
-  },
-  {
     "price":0.056543874,
     "volume":11537699.6315735988,
     "marketcap":0.0,
@@ -5473,5 +5443,35 @@
     "average_transaction_value":35426.303199,
     "token_holder":8757.0,
     "time":1706745600000
+  },
+  {
+    "price":0.0847203685,
+    "volume":2132537.6901792241,
+    "marketcap":103297089.508981958,
+    "zero_balance_addresses_all_time":57939.0,
+    "unique_addresses_all_time":66695.0,
+    "new_addresses":0.0,
+    "active_addresses":2.0,
+    "transaction_count":1.0,
+    "transaction_count_all_time":299615.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":276.0578841776,
+    "token_holder":8756.0,
+    "time":1706832000000
+  },
+  {
+    "price":0.0846584983,
+    "volume":1574380.4588604509,
+    "marketcap":103064300.9550962001,
+    "zero_balance_addresses_all_time":57940.0,
+    "unique_addresses_all_time":66696.0,
+    "new_addresses":1.0,
+    "active_addresses":4.0,
+    "transaction_count":2.0,
+    "transaction_count_all_time":299617.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":3357.642851075,
+    "token_holder":8756.0,
+    "time":1706918400000
   }
 ]
