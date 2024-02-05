@@ -1,35 +1,5 @@
 [
   {
-    "price":5.7542979982,
-    "volume":7108209.6834560763,
-    "marketcap":230314491.7758541703,
-    "zero_balance_addresses_all_time":83570.0,
-    "unique_addresses_all_time":99148.0,
-    "new_addresses":1.0,
-    "active_addresses":11.0,
-    "transaction_count":5.0,
-    "transaction_count_all_time":290949.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":147.4820216916,
-    "token_holder":15578.0,
-    "time":1706313600000
-  },
-  {
-    "price":5.7204105637,
-    "volume":7319522.3281754842,
-    "marketcap":229041303.6075584292,
-    "zero_balance_addresses_all_time":83570.0,
-    "unique_addresses_all_time":99148.0,
-    "new_addresses":0.0,
-    "active_addresses":0.0,
-    "transaction_count":0.0,
-    "transaction_count_all_time":0.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":0.0,
-    "token_holder":15578.0,
-    "time":1706400000000
-  },
-  {
     "price":5.8628169652,
     "volume":6042421.0282260031,
     "marketcap":234816497.2797676921,
@@ -103,5 +73,35 @@
     "average_transaction_value":52.69772846,
     "token_holder":15572.0,
     "time":1706832000000
+  },
+  {
+    "price":5.8203042337,
+    "volume":8650507.5699774995,
+    "marketcap":233186693.7364394665,
+    "zero_balance_addresses_all_time":83588.0,
+    "unique_addresses_all_time":99159.0,
+    "new_addresses":0.0,
+    "active_addresses":2.0,
+    "transaction_count":1.0,
+    "transaction_count_all_time":290981.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":34.4499899643,
+    "token_holder":15571.0,
+    "time":1706918400000
+  },
+  {
+    "price":5.8023910615,
+    "volume":6981562.7581566805,
+    "marketcap":232102815.4512300193,
+    "zero_balance_addresses_all_time":83588.0,
+    "unique_addresses_all_time":99159.0,
+    "new_addresses":0.0,
+    "active_addresses":0.0,
+    "transaction_count":0.0,
+    "transaction_count_all_time":0.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":0.0,
+    "token_holder":15571.0,
+    "time":1707004800000
   }
 ]
