@@ -1,35 +1,5 @@
 [
   {
-    "price":0.0548893941,
-    "volume":68959735.5154846758,
-    "marketcap":0.0,
-    "zero_balance_addresses_all_time":57243.0,
-    "unique_addresses_all_time":66080.0,
-    "new_addresses":0.0,
-    "active_addresses":0.0,
-    "transaction_count":0.0,
-    "transaction_count_all_time":0.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":0.0,
-    "token_holder":8837.0,
-    "time":1676505600000
-  },
-  {
-    "price":0.0569661713,
-    "volume":20247171.9421827793,
-    "marketcap":0.0,
-    "zero_balance_addresses_all_time":57244.0,
-    "unique_addresses_all_time":66082.0,
-    "new_addresses":2.0,
-    "active_addresses":6.0,
-    "transaction_count":4.0,
-    "transaction_count_all_time":297448.0,
-    "large_transaction_count":0.0,
-    "average_transaction_value":1784.2856435266,
-    "token_holder":8838.0,
-    "time":1676592000000
-  },
-  {
     "price":0.0562859892,
     "volume":8304978.097263298,
     "marketcap":0.0,
@@ -5473,5 +5443,35 @@
     "average_transaction_value":1360.9001,
     "token_holder":8747.0,
     "time":1707955200000
+  },
+  {
+    "price":0.0980535512,
+    "volume":7137431.8494031597,
+    "marketcap":119761897.2533549219,
+    "zero_balance_addresses_all_time":57964.0,
+    "unique_addresses_all_time":66710.0,
+    "new_addresses":0.0,
+    "active_addresses":4.0,
+    "transaction_count":2.0,
+    "transaction_count_all_time":299662.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":3607.8146926602,
+    "token_holder":8746.0,
+    "time":1708041600000
+  },
+  {
+    "price":0.0951324463,
+    "volume":5520310.6360892188,
+    "marketcap":116492877.458042264,
+    "zero_balance_addresses_all_time":57965.0,
+    "unique_addresses_all_time":66710.0,
+    "new_addresses":0.0,
+    "active_addresses":4.0,
+    "transaction_count":2.0,
+    "transaction_count_all_time":299664.0,
+    "large_transaction_count":0.0,
+    "average_transaction_value":7035.2488039067,
+    "token_holder":8745.0,
+    "time":1708128000000
   }
 ]
