@@ -1,11 +1,13 @@
 {
   "website": [
     "http://algorand.foundation",
-    "https://www.algorand.com/"
+    "https://algorandtechnologies.com/"
   ],
   "explorer": [
-    "https://algoexplorer.io/",
-    "https://algoscan.app/"
+    "https://allo.info/",
+    "https://explorer.perawallet.app/",
+    "https://app.dappflow.org/explorer/home",
+    "https://explorer.bitquery.io/algorand"
   ],
   "wallets": [
     "metamask"
@@ -16,7 +18,7 @@
     "reddit": "https://reddit.com/r/AlgorandOfficial",
     "facebook": null
   },
-  "source_code": "https://github.com/algorand/go-algorand",
+  "source_code": "https://github.com/algorand",
   "audit": [],
   "contracts": [
     {
